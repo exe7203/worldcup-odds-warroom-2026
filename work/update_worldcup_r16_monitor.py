@@ -575,14 +575,14 @@ def main():
 
     if args.mark_odds is not None:
         mark_odds(args.mark_odds)
-        print(json.dumps({"marked": args.mark_odds}, ensure_ascii=False))
+        print(json.dumps({"marked": args.mark_odds}, ensure_ascii=True))
         return
 
     state = load_state()
     state = update_from_espn(state)
     state = update_from_taiwan_sports_lottery(state)
     save_state(state)
-    print(json.dumps({"due": due_matches(state), "state": str(STATE_PATH)}, ensure_ascii=False))
+    print(json.dumps({"due": due_matches(state), "state": str(STATE_PATH)}, ensure_ascii=True))
 
 
 if __name__ == "__main__":
