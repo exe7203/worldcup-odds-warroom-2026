@@ -29,7 +29,7 @@
     "variantData": {
       "type": "SPORTS_FIFA_WORLD_CUP"
     },
-    "participantCount": 4351,
+    "participantCount": 5055,
     "collateral": "USDT",
     "feeRateBps": 200,
     "slippageBps": 1000,
@@ -63,21 +63,21 @@
             "path": "file-center/web3-prediction/S3/market/1782974244603_3ynfvtt7ywx1tfs6qmipbdob4bzt4hfo_NEF_q80_64x64"
           }
         ],
-        "tradeVolume": "187262.4",
-        "liquidity": "511140.34",
+        "tradeVolume": "207914.25",
+        "liquidity": "181539.79",
         "decimalPrecision": 3,
         "outcomes": [
           {
             "name": "Yes",
-            "price": "0.134",
-            "chance": "0.1335",
+            "price": "0.126",
+            "chance": "0.124",
             "index": 0,
             "tokenId": "83543586398147326839003248201154427791985769803989866572753208045616690351769"
           },
           {
             "name": "No",
-            "price": "0.866",
-            "chance": "0.8665",
+            "price": "0.874",
+            "chance": "0.876",
             "index": 1,
             "tokenId": "86468065571181972317894611699794060816234640750638219749392676209177850722043"
           }
@@ -110,21 +110,21 @@
             "path": "file-center/web3-prediction/S3/market/1782974245075_n0qvowibrpfoqd6ox4nfw2hek13xmo67_NEF_q80_64x64"
           }
         ],
-        "tradeVolume": "273961.43",
-        "liquidity": "644084.79",
+        "tradeVolume": "330770.64",
+        "liquidity": "618352.38",
         "decimalPrecision": 3,
         "outcomes": [
           {
             "name": "Yes",
-            "price": "0.124",
-            "chance": "0.1235",
+            "price": "0.123",
+            "chance": "0.1225",
             "index": 0,
             "tokenId": "72816043186869617043870503249637096293672086088862696847247559541638663861951"
           },
           {
             "name": "No",
-            "price": "0.876",
-            "chance": "0.8765",
+            "price": "0.877",
+            "chance": "0.8775",
             "index": 1,
             "tokenId": "16004424650426252906333195521922057531894235487138233071332610839433327811844"
           }
@@ -157,70 +157,23 @@
             "path": "file-center/web3-prediction/S3/market/1782974244765_d0kh5x8md24v119on8d3lsi3bxzlrukv_NEF_q80_64x64"
           }
         ],
-        "tradeVolume": "112706.49",
-        "liquidity": "580657.98",
+        "tradeVolume": "123558.34",
+        "liquidity": "533202.36",
         "decimalPrecision": 3,
         "outcomes": [
           {
             "name": "Yes",
-            "price": "0.099",
-            "chance": "0.0985",
+            "price": "0.095",
+            "chance": "0.0935",
             "index": 0,
             "tokenId": "29414465453824227213270476364987780409442079091526035691629161921276064272448"
           },
           {
             "name": "No",
-            "price": "0.901",
-            "chance": "0.9015",
+            "price": "0.905",
+            "chance": "0.9065",
             "index": 1,
             "tokenId": "67729118682258292261866232834505939448881235411292420778597874925729122328851"
-          }
-        ]
-      },
-      {
-        "marketId": 6187864,
-        "externalId": "644835",
-        "title": "BRA 1 - 0 NOR",
-        "question": "Exact Score: Brazil 1 - 0 Norway?",
-        "description": "In the upcoming FIFA World Cup game between Brazil and Norway, scheduled for July 5, 2026 at 4:00 PM ET: This market will resolve based on the final score of the Brazil vs. Norway match originally scheduled for July 5, 2026 at 4:00 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
-        "conditionId": "0x77b906ce1ba1082cdb6070f5e88348cbcc05af48250e1bfd98a8d7f4fb2df0b9",
-        "status": "REGISTERED",
-        "tradingStatus": "OPEN",
-        "thumbnailPaths": [
-          {
-            "size": "800x800",
-            "path": "file-center/web3-prediction/S3/market/1782974244386_bowwgz0jbmobz0pqqb03i8ofaiqdw7t1_NEF_q80_800x800"
-          },
-          {
-            "size": "400x400",
-            "path": "file-center/web3-prediction/S3/market/1782974244386_bowwgz0jbmobz0pqqb03i8ofaiqdw7t1_NEF_q80_400x400"
-          },
-          {
-            "size": "96x96",
-            "path": "file-center/web3-prediction/S3/market/1782974244386_bowwgz0jbmobz0pqqb03i8ofaiqdw7t1_NEF_q80_96x96"
-          },
-          {
-            "size": "64x64",
-            "path": "file-center/web3-prediction/S3/market/1782974244386_bowwgz0jbmobz0pqqb03i8ofaiqdw7t1_NEF_q80_64x64"
-          }
-        ],
-        "tradeVolume": "60550.75",
-        "liquidity": "579193.54",
-        "decimalPrecision": 3,
-        "outcomes": [
-          {
-            "name": "Yes",
-            "price": "0.098",
-            "chance": "0.0975",
-            "index": 0,
-            "tokenId": "30085795628818639393863777288665670810568309211953941596394572212791318406199"
-          },
-          {
-            "name": "No",
-            "price": "0.902",
-            "chance": "0.9025",
-            "index": 1,
-            "tokenId": "68477352106394491050338167572224136987212951427159321618473491560597389589457"
           }
         ]
       },
@@ -251,23 +204,70 @@
             "path": "file-center/web3-prediction/S3/market/1782974245922_1szs3feljz5ikn455fmdw0vkzssaun2t_NEF_q80_64x64"
           }
         ],
-        "tradeVolume": "48020.63",
-        "liquidity": "458416.4",
+        "tradeVolume": "53286.08",
+        "liquidity": "452927.33",
         "decimalPrecision": 3,
         "outcomes": [
           {
             "name": "Yes",
-            "price": "0.097",
-            "chance": "0.096",
+            "price": "0.094",
+            "chance": "0.0935",
             "index": 0,
             "tokenId": "57979318179055059314698678594370602352534199469092939303522795549467739784580"
           },
           {
             "name": "No",
-            "price": "0.903",
-            "chance": "0.904",
+            "price": "0.906",
+            "chance": "0.9065",
             "index": 1,
             "tokenId": "65007337647982119138072237414724693152023036865244191332345042402686209734331"
+          }
+        ]
+      },
+      {
+        "marketId": 6187864,
+        "externalId": "644835",
+        "title": "BRA 1 - 0 NOR",
+        "question": "Exact Score: Brazil 1 - 0 Norway?",
+        "description": "In the upcoming FIFA World Cup game between Brazil and Norway, scheduled for July 5, 2026 at 4:00 PM ET: This market will resolve based on the final score of the Brazil vs. Norway match originally scheduled for July 5, 2026 at 4:00 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x77b906ce1ba1082cdb6070f5e88348cbcc05af48250e1bfd98a8d7f4fb2df0b9",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782974244386_bowwgz0jbmobz0pqqb03i8ofaiqdw7t1_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782974244386_bowwgz0jbmobz0pqqb03i8ofaiqdw7t1_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782974244386_bowwgz0jbmobz0pqqb03i8ofaiqdw7t1_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782974244386_bowwgz0jbmobz0pqqb03i8ofaiqdw7t1_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "69123.4",
+        "liquidity": "460403.82",
+        "decimalPrecision": 3,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.095",
+            "chance": "0.0935",
+            "index": 0,
+            "tokenId": "30085795628818639393863777288665670810568309211953941596394572212791318406199"
+          },
+          {
+            "name": "No",
+            "price": "0.905",
+            "chance": "0.9065",
+            "index": 1,
+            "tokenId": "68477352106394491050338167572224136987212951427159321618473491560597389589457"
           }
         ]
       },
@@ -298,21 +298,21 @@
             "path": "file-center/web3-prediction/S3/market/1782974245398_8tkwc6120ccmv8hri28z5f3yctjikyhs_NEF_q80_64x64"
           }
         ],
-        "tradeVolume": "173541.25",
-        "liquidity": "569058.05",
+        "tradeVolume": "194534.79",
+        "liquidity": "559504.33",
         "decimalPrecision": 3,
         "outcomes": [
           {
             "name": "Yes",
-            "price": "0.074",
-            "chance": "0.0735",
+            "price": "0.083",
+            "chance": "0.0825",
             "index": 0,
             "tokenId": "106240202560950972623013516213768117107975476289603264559261395710900770810932"
           },
           {
             "name": "No",
-            "price": "0.926",
-            "chance": "0.9265",
+            "price": "0.917",
+            "chance": "0.9175",
             "index": 1,
             "tokenId": "48636565624362297201360698156280899543065816751306052494124621765006068507170"
           }
@@ -345,21 +345,21 @@
             "path": "file-center/web3-prediction/S3/market/1782974245503_vq7gx6nur5bs8lkkt5r9e7b5y2eyjm6m_NEF_q80_64x64"
           }
         ],
-        "tradeVolume": "242849.34",
-        "liquidity": "532560.52",
+        "tradeVolume": "257626.4",
+        "liquidity": "532883.67",
         "decimalPrecision": 3,
         "outcomes": [
           {
             "name": "Yes",
-            "price": "0.073",
-            "chance": "0.072",
+            "price": "0.072",
+            "chance": "0.071",
             "index": 0,
             "tokenId": "110922287317137158924886306799625826223399584156359787471102731896198145496487"
           },
           {
             "name": "No",
-            "price": "0.927",
-            "chance": "0.928",
+            "price": "0.928",
+            "chance": "0.929",
             "index": 1,
             "tokenId": "50515128088267814067035014303169739428434274959582094228260384126092016461590"
           }
@@ -392,70 +392,23 @@
             "path": "file-center/web3-prediction/S3/market/1782974244967_m9o8o54l7rtx21wnr096vabjqrhkbtli_NEF_q80_64x64"
           }
         ],
-        "tradeVolume": "79698.43",
-        "liquidity": "546361.22",
+        "tradeVolume": "95160.83",
+        "liquidity": "542839.35",
         "decimalPrecision": 3,
         "outcomes": [
           {
             "name": "Yes",
-            "price": "0.069",
-            "chance": "0.0685",
+            "price": "0.068",
+            "chance": "0.067",
             "index": 0,
             "tokenId": "110830846215528268680989231537555632045750966743960721259406622347063574158419"
           },
           {
             "name": "No",
-            "price": "0.931",
-            "chance": "0.9315",
+            "price": "0.932",
+            "chance": "0.933",
             "index": 1,
             "tokenId": "114639424239419171807021956176750528306693959964723941177529076184061772553162"
-          }
-        ]
-      },
-      {
-        "marketId": 6187863,
-        "externalId": "644833",
-        "title": "BRA 0 - 0 NOR",
-        "question": "Exact Score: Brazil 0 - 0 Norway?",
-        "description": "In the upcoming FIFA World Cup game between Brazil and Norway, scheduled for July 5, 2026 at 4:00 PM ET: This market will resolve based on the final score of the Brazil vs. Norway match originally scheduled for July 5, 2026 at 4:00 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
-        "conditionId": "0x57842f2cd9be28eea85fefcb418bd9365e29e338eeb2e6408e4ebc89ab7c4402",
-        "status": "REGISTERED",
-        "tradingStatus": "OPEN",
-        "thumbnailPaths": [
-          {
-            "size": "800x800",
-            "path": "file-center/web3-prediction/S3/market/1782974244175_d835bv6ssr51c7qoeuw1xj8d0ynnq4aq_NEF_q80_800x800"
-          },
-          {
-            "size": "400x400",
-            "path": "file-center/web3-prediction/S3/market/1782974244175_d835bv6ssr51c7qoeuw1xj8d0ynnq4aq_NEF_q80_400x400"
-          },
-          {
-            "size": "96x96",
-            "path": "file-center/web3-prediction/S3/market/1782974244175_d835bv6ssr51c7qoeuw1xj8d0ynnq4aq_NEF_q80_96x96"
-          },
-          {
-            "size": "64x64",
-            "path": "file-center/web3-prediction/S3/market/1782974244175_d835bv6ssr51c7qoeuw1xj8d0ynnq4aq_NEF_q80_64x64"
-          }
-        ],
-        "tradeVolume": "43013.72",
-        "liquidity": "517376.54",
-        "decimalPrecision": 3,
-        "outcomes": [
-          {
-            "name": "Yes",
-            "price": "0.048",
-            "chance": "0.047",
-            "index": 0,
-            "tokenId": "85023040993942365349164286631763537269258641155150510413699084716334614086756"
-          },
-          {
-            "name": "No",
-            "price": "0.952",
-            "chance": "0.953",
-            "index": 1,
-            "tokenId": "49743799561874166109161818784856522069192117187253131576652471849270788050413"
           }
         ]
       },
@@ -486,23 +439,70 @@
             "path": "file-center/web3-prediction/S3/market/1782974244283_z17bdqer0wm1zjqf9ewui3nponjngnai_NEF_q80_64x64"
           }
         ],
-        "tradeVolume": "26776.59",
-        "liquidity": "522785.2",
+        "tradeVolume": "32413.92",
+        "liquidity": "390586.54",
         "decimalPrecision": 3,
         "outcomes": [
           {
             "name": "Yes",
-            "price": "0.044",
-            "chance": "0.0435",
+            "price": "0.049",
+            "chance": "0.0485",
             "index": 0,
             "tokenId": "89333900302861785321010007015577596951365149712948922654543613016335974365861"
           },
           {
             "name": "No",
-            "price": "0.956",
-            "chance": "0.9565",
+            "price": "0.951",
+            "chance": "0.9515",
             "index": 1,
             "tokenId": "103570625088882156806189594790662934641991028815057191288982083648818476658207"
+          }
+        ]
+      },
+      {
+        "marketId": 6187863,
+        "externalId": "644833",
+        "title": "BRA 0 - 0 NOR",
+        "question": "Exact Score: Brazil 0 - 0 Norway?",
+        "description": "In the upcoming FIFA World Cup game between Brazil and Norway, scheduled for July 5, 2026 at 4:00 PM ET: This market will resolve based on the final score of the Brazil vs. Norway match originally scheduled for July 5, 2026 at 4:00 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x57842f2cd9be28eea85fefcb418bd9365e29e338eeb2e6408e4ebc89ab7c4402",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782974244175_d835bv6ssr51c7qoeuw1xj8d0ynnq4aq_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782974244175_d835bv6ssr51c7qoeuw1xj8d0ynnq4aq_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782974244175_d835bv6ssr51c7qoeuw1xj8d0ynnq4aq_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782974244175_d835bv6ssr51c7qoeuw1xj8d0ynnq4aq_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "47023.4",
+        "liquidity": "512520.75",
+        "decimalPrecision": 3,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.047",
+            "chance": "0.0465",
+            "index": 0,
+            "tokenId": "85023040993942365349164286631763537269258641155150510413699084716334614086756"
+          },
+          {
+            "name": "No",
+            "price": "0.953",
+            "chance": "0.9535",
+            "index": 1,
+            "tokenId": "49743799561874166109161818784856522069192117187253131576652471849270788050413"
           }
         ]
       },
@@ -533,21 +533,21 @@
             "path": "file-center/web3-prediction/S3/market/1782974245718_jqxgjsp1plzhwj2x3cpjzaaedxmzgx23_NEF_q80_64x64"
           }
         ],
-        "tradeVolume": "188783.26",
-        "liquidity": "585232.85",
+        "tradeVolume": "201617.91",
+        "liquidity": "583403.15",
         "decimalPrecision": 3,
         "outcomes": [
           {
             "name": "Yes",
-            "price": "0.043",
-            "chance": "0.0425",
+            "price": "0.044",
+            "chance": "0.0435",
             "index": 0,
             "tokenId": "58135424816836597524103506667120267561573686405854984827213798247382502147204"
           },
           {
             "name": "No",
-            "price": "0.957",
-            "chance": "0.9575",
+            "price": "0.956",
+            "chance": "0.9565",
             "index": 1,
             "tokenId": "8501976217394544076873169880723617582151622842667245469686620425136052933698"
           }
@@ -580,21 +580,21 @@
             "path": "file-center/web3-prediction/S3/market/1782974245183_ln11jmp5c1ewgea9eveyqoev52taxshp_NEF_q80_64x64"
           }
         ],
-        "tradeVolume": "71606.98",
-        "liquidity": "516092.1",
+        "tradeVolume": "79160.3",
+        "liquidity": "398529.98",
         "decimalPrecision": 3,
         "outcomes": [
           {
             "name": "Yes",
-            "price": "0.038",
-            "chance": "0.0375",
+            "price": "0.042",
+            "chance": "0.04",
             "index": 0,
             "tokenId": "46210339734227366733526813019420002525435812424193389579135224336270721347863"
           },
           {
             "name": "No",
-            "price": "0.962",
-            "chance": "0.9625",
+            "price": "0.958",
+            "chance": "0.96",
             "index": 1,
             "tokenId": "421595367323552314658303061076890049861790679220136616242165294682350120107"
           }
@@ -627,8 +627,8 @@
             "path": "file-center/web3-prediction/S3/market/1782974245609_lox4v3qwowawmijuo3rjsaf1u1255aze_NEF_q80_64x64"
           }
         ],
-        "tradeVolume": "57458.66",
-        "liquidity": "501403.61",
+        "tradeVolume": "74942.69",
+        "liquidity": "475621.59",
         "decimalPrecision": 3,
         "outcomes": [
           {
@@ -674,21 +674,21 @@
             "path": "file-center/web3-prediction/S3/market/1782974244495_hvlhs34mlgoz6ad7uhy4xt1nus23skxn_NEF_q80_64x64"
           }
         ],
-        "tradeVolume": "34453.01",
-        "liquidity": "460184.41",
+        "tradeVolume": "38195.34",
+        "liquidity": "456870.86",
         "decimalPrecision": 3,
         "outcomes": [
           {
             "name": "Yes",
-            "price": "0.024",
-            "chance": "0.0235",
+            "price": "0.025",
+            "chance": "0.0245",
             "index": 0,
             "tokenId": "53613852135324845726984265716988211835692901481425561775748086671322937094381"
           },
           {
             "name": "No",
-            "price": "0.976",
-            "chance": "0.9765",
+            "price": "0.975",
+            "chance": "0.9755",
             "index": 1,
             "tokenId": "26572448114963594803472475694013486441491887899857032176600427474913878029025"
           }
@@ -721,21 +721,21 @@
             "path": "file-center/web3-prediction/S3/market/1782974245818_o3xukfvv6z3g4yn4ziecl9uor0bt0qzs_NEF_q80_64x64"
           }
         ],
-        "tradeVolume": "77658.8",
-        "liquidity": "460494.36",
+        "tradeVolume": "103256.77",
+        "liquidity": "454213.18",
         "decimalPrecision": 3,
         "outcomes": [
           {
             "name": "Yes",
             "price": "0.021",
-            "chance": "0.0205",
+            "chance": "0.02",
             "index": 0,
             "tokenId": "55725396653514876168587314032036811503689394906522743684655797422445795919228"
           },
           {
             "name": "No",
             "price": "0.979",
-            "chance": "0.9795",
+            "chance": "0.98",
             "index": 1,
             "tokenId": "63320794890995912313123543930048687794248256528108192849088690619539566379393"
           }
@@ -768,21 +768,21 @@
             "path": "file-center/web3-prediction/S3/market/1782974245294_suvcj17ivsr21sc8g8me8z2s7uzc4sxr_NEF_q80_64x64"
           }
         ],
-        "tradeVolume": "34169.8",
-        "liquidity": "503939.68",
+        "tradeVolume": "39338.99",
+        "liquidity": "472712.31",
         "decimalPrecision": 3,
         "outcomes": [
           {
             "name": "Yes",
-            "price": "0.019",
-            "chance": "0.0185",
+            "price": "0.02",
+            "chance": "0.0195",
             "index": 0,
             "tokenId": "46709485147638535274081301488535961622987685113358526783407101458433684764228"
           },
           {
             "name": "No",
-            "price": "0.981",
-            "chance": "0.9815",
+            "price": "0.98",
+            "chance": "0.9805",
             "index": 1,
             "tokenId": "67642624266223449368794228387948183052282832638066143119104690454837656550097"
           }
@@ -815,29 +815,29 @@
             "path": "file-center/web3-prediction/S3/market/1782974244868_ubbmhjkbwb3paol3055sz3np7hqxjtpd_NEF_q80_64x64"
           }
         ],
-        "tradeVolume": "14431.78",
-        "liquidity": "363769.84",
+        "tradeVolume": "22447.76",
+        "liquidity": "356531.28",
         "decimalPrecision": 3,
         "outcomes": [
           {
             "name": "Yes",
-            "price": "0.007",
-            "chance": "0.0065",
+            "price": "0.009",
+            "chance": "0.0085",
             "index": 0,
             "tokenId": "103473547987737106502590058567795305958879197282717870172415643761038405338498"
           },
           {
             "name": "No",
-            "price": "0.993",
-            "chance": "0.9935",
+            "price": "0.991",
+            "chance": "0.9915",
             "index": 1,
             "tokenId": "55834701440610303418991201423635550411798519457391268710491666729548052265681"
           }
         ]
       }
     ],
-    "tradeVolume": "1729811.93",
-    "liquidity": "8835956.59",
+    "tradeVolume": "1971439.5",
+    "liquidity": "7958519.34",
     "publishedAt": 1782900945888,
     "startDate": 1783281600000,
     "endDate": 1783292400000,
@@ -873,7 +873,7 @@
     "variantData": {
       "type": "SPORTS_FIFA_WORLD_CUP"
     },
-    "participantCount": 1952,
+    "participantCount": 2193,
     "collateral": "USDT",
     "feeRateBps": 200,
     "slippageBps": 1000,
@@ -907,8 +907,8 @@
             "path": "file-center/web3-prediction/S3/market/1783067467615_cg0f4b12f7unc4pllm5yb5us1qhwkmvm_NEF_q80_64x64"
           }
         ],
-        "tradeVolume": "141347.17",
-        "liquidity": "715043.14",
+        "tradeVolume": "150781.08",
+        "liquidity": "865658.37",
         "decimalPrecision": 2,
         "outcomes": [
           {
@@ -928,8 +928,8 @@
         ]
       }
     ],
-    "tradeVolume": "141347.18",
-    "liquidity": "715043.14",
+    "tradeVolume": "150781.09",
+    "liquidity": "865595.03",
     "publishedAt": 1783067465884,
     "startDate": 1783281600000,
     "endDate": 1783292400000,
@@ -965,7 +965,7 @@
     "variantData": {
       "type": "SPORTS_FIFA_WORLD_CUP"
     },
-    "participantCount": 6134,
+    "participantCount": 6976,
     "collateral": "USDT",
     "feeRateBps": 200,
     "slippageBps": 1000,
@@ -999,8 +999,8 @@
             "path": "file-center/web3-prediction/S3/market/1782974230798_1i9crfmpnefnxrmmbr0aa1v6jep265ku_NEF_q80_64x64"
           }
         ],
-        "tradeVolume": "22870.23",
-        "liquidity": "14809531.24",
+        "tradeVolume": "23216.23",
+        "liquidity": "15041076.36",
         "decimalPrecision": 2,
         "outcomes": [
           {
@@ -1046,8 +1046,8 @@
             "path": "file-center/web3-prediction/S3/market/1782974230896_osklr935ybn6thql8eeukyiy3s3tbqfb_NEF_q80_64x64"
           }
         ],
-        "tradeVolume": "28701.14",
-        "liquidity": "3778312.86",
+        "tradeVolume": "31394.37",
+        "liquidity": "3754082.4",
         "decimalPrecision": 2,
         "outcomes": [
           {
@@ -1093,8 +1093,8 @@
             "path": "file-center/web3-prediction/S3/market/1782903126772_4zyxo8t17mcg2wzfigx9ul877nm5wwfg_NEF_q80_64x64"
           }
         ],
-        "tradeVolume": "823359.62",
-        "liquidity": "2870527.77",
+        "tradeVolume": "870582.84",
+        "liquidity": "2834756.23",
         "decimalPrecision": 2,
         "outcomes": [
           {
@@ -1140,8 +1140,8 @@
             "path": "file-center/web3-prediction/S3/market/1782903125825_kzfs93x6c68d47p8x72nf6wpaje35zvt_NEF_q80_64x64"
           }
         ],
-        "tradeVolume": "238277.99",
-        "liquidity": "1757892.19",
+        "tradeVolume": "264627.01",
+        "liquidity": "1757550.94",
         "decimalPrecision": 2,
         "outcomes": [
           {
@@ -1187,8 +1187,8 @@
             "path": "file-center/web3-prediction/S3/market/1782974230994_di8cvlctrqarb5u719pwhl0rba6cvs2y_NEF_q80_64x64"
           }
         ],
-        "tradeVolume": "147759.83",
-        "liquidity": "1244242.8",
+        "tradeVolume": "167264.04",
+        "liquidity": "1199765.88",
         "decimalPrecision": 2,
         "outcomes": [
           {
@@ -1234,21 +1234,21 @@
             "path": "file-center/web3-prediction/S3/market/1782974231097_7mgbyabmfgayxthvya5me6thh8rt2jir_NEF_q80_64x64"
           }
         ],
-        "tradeVolume": "45213.33",
-        "liquidity": "541756.29",
+        "tradeVolume": "56757.02",
+        "liquidity": "916463.31",
         "decimalPrecision": 2,
         "outcomes": [
           {
             "name": "Over",
-            "price": "0.35",
-            "chance": "0.345",
+            "price": "0.36",
+            "chance": "0.355",
             "index": 0,
             "tokenId": "59814756078544927129054380630256199259754843706681503649501430624791801456157"
           },
           {
             "name": "Under",
-            "price": "0.65",
-            "chance": "0.655",
+            "price": "0.64",
+            "chance": "0.645",
             "index": 1,
             "tokenId": "102878494035278915787329707768664095473794031262890381665164919973808778401699"
           }
@@ -1281,8 +1281,8 @@
             "path": "file-center/web3-prediction/S3/market/1782974229817_0fbyisvqeeboasy0rw2ukcz6dg6dc1li_NEF_q80_64x64"
           }
         ],
-        "tradeVolume": "52949.9",
-        "liquidity": "611494.55",
+        "tradeVolume": "60140.29",
+        "liquidity": "939823.5",
         "decimalPrecision": 2,
         "outcomes": [
           {
@@ -1328,8 +1328,8 @@
             "path": "file-center/web3-prediction/S3/market/1782974231190_x6sgxta1xzf3he91g87qilepikamutel_NEF_q80_64x64"
           }
         ],
-        "tradeVolume": "53380.19",
-        "liquidity": "658625.58",
+        "tradeVolume": "59767.37",
+        "liquidity": "648705.23",
         "decimalPrecision": 2,
         "outcomes": [
           {
@@ -1375,8 +1375,8 @@
             "path": "file-center/web3-prediction/S3/market/1782974230022_5ss346srfc4s26ehnxssjnmaj8we4dcr_NEF_q80_64x64"
           }
         ],
-        "tradeVolume": "17040",
-        "liquidity": "313754.33",
+        "tradeVolume": "17289.51",
+        "liquidity": "666561.8",
         "decimalPrecision": 2,
         "outcomes": [
           {
@@ -1422,8 +1422,8 @@
             "path": "file-center/web3-prediction/S3/market/1782974231288_4fz16e7gqt8gw37fkq5xmgwcornz4w6q_NEF_q80_64x64"
           }
         ],
-        "tradeVolume": "18101.45",
-        "liquidity": "575127.85",
+        "tradeVolume": "18383.03",
+        "liquidity": "564168.25",
         "decimalPrecision": 2,
         "outcomes": [
           {
@@ -1469,8 +1469,8 @@
             "path": "file-center/web3-prediction/S3/market/1782974229911_hl8xipmj9kc07ul2oexyypjtkoakvkv6_NEF_q80_64x64"
           }
         ],
-        "tradeVolume": "5655.11",
-        "liquidity": "475286.45",
+        "tradeVolume": "6245.97",
+        "liquidity": "462200.94",
         "decimalPrecision": 2,
         "outcomes": [
           {
@@ -1516,8 +1516,8 @@
             "path": "file-center/web3-prediction/S3/market/1782974230217_9hn4iz47q2ulu8h14ckp75d5ss8qua5l_NEF_q80_64x64"
           }
         ],
-        "tradeVolume": "3141.38",
-        "liquidity": "441837.01",
+        "tradeVolume": "3656.84",
+        "liquidity": "443785.82",
         "decimalPrecision": 2,
         "outcomes": [
           {
@@ -1563,8 +1563,8 @@
             "path": "file-center/web3-prediction/S3/market/1782974231386_f6tneirmoe7jn4b4pa78wwd732eb58yw_NEF_q80_64x64"
           }
         ],
-        "tradeVolume": "18378.71",
-        "liquidity": "122327.43",
+        "tradeVolume": "19577.48",
+        "liquidity": "123358.86",
         "decimalPrecision": 2,
         "outcomes": [
           {
@@ -1610,8 +1610,8 @@
             "path": "file-center/web3-prediction/S3/market/1782974230118_d3xy6x36p747xpskga2pyrnxqxuxin8g_NEF_q80_64x64"
           }
         ],
-        "tradeVolume": "1863.6",
-        "liquidity": "19310.04",
+        "tradeVolume": "1964.61",
+        "liquidity": "19892.47",
         "decimalPrecision": 2,
         "outcomes": [
           {
@@ -1658,7 +1658,7 @@
           }
         ],
         "tradeVolume": "2606.78",
-        "liquidity": "8025.21",
+        "liquidity": "8499.08",
         "decimalPrecision": 2,
         "outcomes": [
           {
@@ -1705,7 +1705,7 @@
           }
         ],
         "tradeVolume": "759.2",
-        "liquidity": "7892.11",
+        "liquidity": "8381.76",
         "decimalPrecision": 2,
         "outcomes": [
           {
@@ -1751,8 +1751,8 @@
             "path": "file-center/web3-prediction/S3/market/1782974230407_w75zm3cecuh8cwvtk9ruecl3y26xcvwq_NEF_q80_64x64"
           }
         ],
-        "tradeVolume": "9188.95",
-        "liquidity": "17749.53",
+        "tradeVolume": "9688.95",
+        "liquidity": "12214.8",
         "decimalPrecision": 2,
         "outcomes": [
           {
@@ -1799,7 +1799,7 @@
           }
         ],
         "tradeVolume": "1000",
-        "liquidity": "3897.49",
+        "liquidity": "4388.36",
         "decimalPrecision": 2,
         "outcomes": [
           {
@@ -1846,7 +1846,7 @@
           }
         ],
         "tradeVolume": "345",
-        "liquidity": "10702.52",
+        "liquidity": "10142.07",
         "decimalPrecision": 2,
         "outcomes": [
           {
@@ -1893,7 +1893,7 @@
           }
         ],
         "tradeVolume": "1052",
-        "liquidity": "8010",
+        "liquidity": "8442.68",
         "decimalPrecision": 2,
         "outcomes": [
           {
@@ -1940,7 +1940,7 @@
           }
         ],
         "tradeVolume": "5.16",
-        "liquidity": "4225.98",
+        "liquidity": "4716.27",
         "decimalPrecision": 2,
         "outcomes": [
           {
@@ -1960,8 +1960,8 @@
         ]
       }
     ],
-    "tradeVolume": "1494365.71",
-    "liquidity": "35728272.25",
+    "tradeVolume": "1621131.8",
+    "liquidity": "35759542.69",
     "publishedAt": 1782903086061,
     "startDate": 1783281600000,
     "endDate": 1783292400000,
@@ -1997,7 +1997,7 @@
     "variantData": {
       "type": "SPORTS_FIFA_WORLD_CUP"
     },
-    "participantCount": 9324,
+    "participantCount": 10412,
     "collateral": "USDT",
     "feeRateBps": 200,
     "slippageBps": 1000,
@@ -2031,8 +2031,8 @@
             "path": "file-center/web3-prediction/S3/market/1782974239973_23clif48kvm4icawlz3hbd6yk5sjuh93_NEF_q80_64x64"
           }
         ],
-        "tradeVolume": "488892.17",
-        "liquidity": "2027957.24",
+        "tradeVolume": "544753.07",
+        "liquidity": "2062916.94",
         "decimalPrecision": 2,
         "outcomes": [
           {
@@ -2078,8 +2078,8 @@
             "path": "file-center/web3-prediction/S3/market/1782974240078_jspvd4xw7l6mor0vmb795te1ldcvrxxr_NEF_q80_64x64"
           }
         ],
-        "tradeVolume": "76849.5",
-        "liquidity": "1179599.31",
+        "tradeVolume": "101456.22",
+        "liquidity": "1123651.82",
         "decimalPrecision": 2,
         "outcomes": [
           {
@@ -2125,8 +2125,8 @@
             "path": "file-center/web3-prediction/S3/market/1782974240193_grhhc90gea6bke1lxzkcpo0zpodnuqgb_NEF_q80_64x64"
           }
         ],
-        "tradeVolume": "121829.27",
-        "liquidity": "1062860.68",
+        "tradeVolume": "151575.95",
+        "liquidity": "1045118.36",
         "decimalPrecision": 2,
         "outcomes": [
           {
@@ -2146,8 +2146,8 @@
         ]
       }
     ],
-    "tradeVolume": "687607.99",
-    "liquidity": "4278518.67",
+    "tradeVolume": "797785.26",
+    "liquidity": "4231991.26",
     "publishedAt": 1782901601065,
     "startDate": 1783281600000,
     "endDate": 1783292400000,
@@ -2183,7 +2183,7 @@
     "variantData": {
       "type": "SPORTS_FIFA_WORLD_CUP"
     },
-    "participantCount": 1557,
+    "participantCount": 1770,
     "collateral": "USDT",
     "feeRateBps": 200,
     "slippageBps": 1000,
@@ -2217,8 +2217,8 @@
             "path": "file-center/web3-prediction/S3/market/1782974246336_lt817vjw3ultyol55llyl1eud8knt896_NEF_q80_64x64"
           }
         ],
-        "tradeVolume": "55979.09",
-        "liquidity": "1231806.79",
+        "tradeVolume": "59447.32",
+        "liquidity": "1212351.7",
         "decimalPrecision": 2,
         "outcomes": [
           {
@@ -2264,8 +2264,8 @@
             "path": "file-center/web3-prediction/S3/market/1782974246437_24xu5wgnvyrh7st9644e09vlm7ixn52n_NEF_q80_64x64"
           }
         ],
-        "tradeVolume": "16861.93",
-        "liquidity": "624072.47",
+        "tradeVolume": "18495.24",
+        "liquidity": "696910.12",
         "decimalPrecision": 2,
         "outcomes": [
           {
@@ -2311,8 +2311,8 @@
             "path": "file-center/web3-prediction/S3/market/1782974246540_yfs771bpf7vgn0za00zzbtejo02xh2zf_NEF_q80_64x64"
           }
         ],
-        "tradeVolume": "7970.76",
-        "liquidity": "441229.78",
+        "tradeVolume": "8403.97",
+        "liquidity": "440743.83",
         "decimalPrecision": 2,
         "outcomes": [
           {
@@ -2332,8 +2332,8 @@
         ]
       }
     ],
-    "tradeVolume": "80811.8",
-    "liquidity": "2293622.74",
+    "tradeVolume": "86346.53",
+    "liquidity": "2350005.65",
     "publishedAt": 1782900941375,
     "startDate": 1783281600000,
     "endDate": 1783292400000,
@@ -2366,7 +2366,7 @@
       }
     ],
     "topicType": "GROUPED",
-    "participantCount": 1457,
+    "participantCount": 1675,
     "collateral": "USDT",
     "feeRateBps": 200,
     "slippageBps": 1000,
@@ -2400,21 +2400,21 @@
             "path": "file-center/web3-prediction/S3/market/1783074479474_0dpz3llzrshgxjd93cwnvpffbcgrv2p7_NEF_q80_64x64"
           }
         ],
-        "tradeVolume": "31789.37",
-        "liquidity": "557028.18",
+        "tradeVolume": "35402.82",
+        "liquidity": "641366.64",
         "decimalPrecision": 2,
         "outcomes": [
           {
             "name": "Over 0.5",
-            "price": "0.44",
-            "chance": "0.435",
+            "price": "0.45",
+            "chance": "0.445",
             "index": 0,
             "tokenId": "26594921193773018456910978060337072098186371959953142255416234893959398277716"
           },
           {
             "name": "Under 0.5",
-            "price": "0.56",
-            "chance": "0.565",
+            "price": "0.55",
+            "chance": "0.555",
             "index": 1,
             "tokenId": "2711082073244369135910844727350893045695835885781755280603410197634420436799"
           }
@@ -2447,29 +2447,29 @@
             "path": "file-center/web3-prediction/S3/market/1783074479532_353vlq5v4w0egsq0s4bfnm84wke35cns_NEF_q80_64x64"
           }
         ],
-        "tradeVolume": "32642.47",
-        "liquidity": "616648.06",
+        "tradeVolume": "36030.11",
+        "liquidity": "541957.68",
         "decimalPrecision": 2,
         "outcomes": [
           {
             "name": "Over 0.5",
-            "price": "0.42",
-            "chance": "0.415",
+            "price": "0.41",
+            "chance": "0.405",
             "index": 0,
             "tokenId": "33203765178106694229706839221834784888303264264994088357511827642782551364221"
           },
           {
             "name": "Under 0.5",
-            "price": "0.58",
-            "chance": "0.585",
+            "price": "0.59",
+            "chance": "0.595",
             "index": 1,
             "tokenId": "74953165068040886696385702697511913015243564857326977015061987162614769349693"
           }
         ]
       }
     ],
-    "tradeVolume": "64431.86",
-    "liquidity": "1171337.19",
+    "tradeVolume": "71337.13",
+    "liquidity": "1060920.72",
     "publishedAt": 1783074478186,
     "startDate": 1783281600000,
     "endDate": 1783292400000,
@@ -2505,60 +2505,13 @@
     "variantData": {
       "type": "SPORTS_FIFA_WORLD_CUP"
     },
-    "participantCount": 1857,
+    "participantCount": 2076,
     "collateral": "USDT",
     "feeRateBps": 200,
     "slippageBps": 1000,
     "isYieldBearing": true,
     "exchangeContractAddress": "0x8A289d458f5a134bA40015085A8F50Ffb681B41d",
     "markets": [
-      {
-        "marketId": 6187870,
-        "externalId": "644861",
-        "title": "Draw",
-        "question": "Brazil vs. Norway: Draw at halftime?",
-        "description": "In the upcoming game, scheduled for July 5, 2026 If the game ends in a draw within the first 45 minutes of regular play plus stoppage time, this market will resolve to \"Yes\". Otherwise, this market will resolve to \"No\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve to \"Yes\". This market refers only to the outcome within the first 45 minutes of regular play plus stoppage time.The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 24 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
-        "conditionId": "0x40f948413d9f193195fbac3536c59c7da12c946ac230bc8027755d383a6d5d99",
-        "status": "REGISTERED",
-        "tradingStatus": "OPEN",
-        "thumbnailPaths": [
-          {
-            "size": "800x800",
-            "path": "file-center/web3-prediction/S3/market/1782974243748_rkf2jau2xne5wht7xn0ux4mij9z7juqp_NEF_q80_800x800"
-          },
-          {
-            "size": "400x400",
-            "path": "file-center/web3-prediction/S3/market/1782974243748_rkf2jau2xne5wht7xn0ux4mij9z7juqp_NEF_q80_400x400"
-          },
-          {
-            "size": "96x96",
-            "path": "file-center/web3-prediction/S3/market/1782974243748_rkf2jau2xne5wht7xn0ux4mij9z7juqp_NEF_q80_96x96"
-          },
-          {
-            "size": "64x64",
-            "path": "file-center/web3-prediction/S3/market/1782974243748_rkf2jau2xne5wht7xn0ux4mij9z7juqp_NEF_q80_64x64"
-          }
-        ],
-        "tradeVolume": "17309.69",
-        "liquidity": "954143.5",
-        "decimalPrecision": 2,
-        "outcomes": [
-          {
-            "name": "Yes",
-            "price": "0.42",
-            "chance": "0.415",
-            "index": 0,
-            "tokenId": "33585246361641730780028389413345863153674356554045802784715726498401414030275"
-          },
-          {
-            "name": "No",
-            "price": "0.58",
-            "chance": "0.585",
-            "index": 1,
-            "tokenId": "40920019320496367465324798095717820216813167936432823465174638889414585752587"
-          }
-        ]
-      },
       {
         "marketId": 6187875,
         "externalId": "644859",
@@ -2586,8 +2539,8 @@
             "path": "file-center/web3-prediction/S3/market/1782974243539_5iyyenaj4guahn0givaisuztoyawdh1k_NEF_q80_64x64"
           }
         ],
-        "tradeVolume": "22589.34",
-        "liquidity": "928885.12",
+        "tradeVolume": "24696.84",
+        "liquidity": "940198.47",
         "decimalPrecision": 2,
         "outcomes": [
           {
@@ -2603,6 +2556,53 @@
             "chance": "0.585",
             "index": 1,
             "tokenId": "42030648736860730663147691662566700958462714835998348426942688070954977379082"
+          }
+        ]
+      },
+      {
+        "marketId": 6187870,
+        "externalId": "644861",
+        "title": "Draw",
+        "question": "Brazil vs. Norway: Draw at halftime?",
+        "description": "In the upcoming game, scheduled for July 5, 2026 If the game ends in a draw within the first 45 minutes of regular play plus stoppage time, this market will resolve to \"Yes\". Otherwise, this market will resolve to \"No\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve to \"Yes\". This market refers only to the outcome within the first 45 minutes of regular play plus stoppage time.The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 24 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x40f948413d9f193195fbac3536c59c7da12c946ac230bc8027755d383a6d5d99",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782974243748_rkf2jau2xne5wht7xn0ux4mij9z7juqp_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782974243748_rkf2jau2xne5wht7xn0ux4mij9z7juqp_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782974243748_rkf2jau2xne5wht7xn0ux4mij9z7juqp_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782974243748_rkf2jau2xne5wht7xn0ux4mij9z7juqp_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "19312.26",
+        "liquidity": "955738.37",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.41",
+            "chance": "0.405",
+            "index": 0,
+            "tokenId": "33585246361641730780028389413345863153674356554045802784715726498401414030275"
+          },
+          {
+            "name": "No",
+            "price": "0.59",
+            "chance": "0.595",
+            "index": 1,
+            "tokenId": "40920019320496367465324798095717820216813167936432823465174638889414585752587"
           }
         ]
       },
@@ -2633,8 +2633,8 @@
             "path": "file-center/web3-prediction/S3/market/1782974243641_dzfy0slkml96aowx8qasxsv4nunlji6j_NEF_q80_64x64"
           }
         ],
-        "tradeVolume": "11000.42",
-        "liquidity": "677933.31",
+        "tradeVolume": "19201.16",
+        "liquidity": "657179.59",
         "decimalPrecision": 2,
         "outcomes": [
           {
@@ -2654,8 +2654,8 @@
         ]
       }
     ],
-    "tradeVolume": "50923.26",
-    "liquidity": "2540306.86",
+    "tradeVolume": "63210.28",
+    "liquidity": "2553116.44",
     "publishedAt": 1782900964806,
     "startDate": 1783281600000,
     "endDate": 1783292400000,
