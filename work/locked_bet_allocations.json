@@ -1,0 +1,30 @@
+{
+  "bra-nor": {
+    "locked": true,
+    "lockedAt": "2026-07-05T09:15:00+08:00",
+    "lockedBy": "Codex",
+    "note": "依巴西 vs 挪威賽前盤口與容錯情境鎖定；後續盤口只更新行情，不覆蓋下注金額、鎖定價格與賽後結算基準。",
+    "allocation": [
+      {
+        "name": "巴西晉級",
+        "stake": 30,
+        "price": 0.68
+      },
+      {
+        "name": "Brazil -1.5 選 NOR（挪威 +1.5）",
+        "stake": 25,
+        "price": 0.70
+      },
+      {
+        "name": "BTTS Yes",
+        "stake": 25,
+        "price": 0.61
+      },
+      {
+        "name": "全場小 3.5 球",
+        "stake": 20,
+        "price": 0.66
+      }
+    ]
+  }
+}

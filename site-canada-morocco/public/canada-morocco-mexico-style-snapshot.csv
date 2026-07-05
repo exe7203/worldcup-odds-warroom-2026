@@ -1,0 +1,18 @@
+﻿source,market,price_or_water,chance_or_line,note
+Binance,MAR 90min win,0.56,0.555,main direction
+Binance,Draw 90min,0.29,0.285,highest exact score includes 1-1
+Binance,CAN 90min win,0.18,0.175,underdog
+Binance,MAR advance,0.73,0.735,safer but low return
+Binance,Under 2.5,0.57,0.575,goal-line value
+Binance,Under 3.5,0.78,0.785,low return stabilizer
+Binance,BTTS Yes,0.51,0.505,split market
+Binance,MAR -1.5,0.28,0.275,aggressive add-on only
+Binance,Corners Over 8.5,0.53,0.525,corner lean only
+Titan,Asian line average,0.8975,-0.75,摩洛哥 -0.75 / 加拿大 +0.75
+Titan,Total goals line average,0.95875,2.28125,over water / line average
+Titan,Corners total line average,0.8422499999999999,8.5,over water / line average
+Binance Prediction API,主盤,,,MAR 90 分鐘勝 55.5%，摩洛哥晉級 73.5%，小 2.5 球 57.5%，小 3.5 球 78.5%。
+Titan007,亞盤升摩洛哥,,,主流公司從摩洛哥 -0.5 左右推到 摩洛哥 -0.75 / 加拿大 +0.75，大小球集中 2.25，角球總數 8.5。
+Al Jazeera / Opta,模型偏摩洛哥,,,Opta 模型賽前給摩洛哥 90 分鐘勝率 52.7%，加拿大 21.7%，進延長賽 25.6%。
+SportsGambler,摩洛哥勝,,,主推 Morocco To Win，市場價格約 1.78；其文內正確比分方向偏 0-2 摩洛哥。
+Covers,小球 + 平局風險,,,總分方向推 Under 2.5；但晉級選擇偏加拿大，提醒 90 分鐘平局或延長賽風險不能忽略。

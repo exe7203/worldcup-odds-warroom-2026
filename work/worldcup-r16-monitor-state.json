@@ -1,0 +1,770 @@
+{
+  "updatedAt": "2026-07-05T15:51:38+08:00",
+  "matches": {
+    "can-mar": {
+      "title": "加拿大 vs 摩洛哥",
+      "kickoff": "2026-07-05T01:00:00+08:00",
+      "lastScoreCheck": "2026-07-05T15:51:38+08:00",
+      "espnStatus": "FT",
+      "espnState": "post",
+      "completed": true,
+      "scoreDisplay": "CAN 0 MAR 3",
+      "espnOdds": {},
+      "status": "finished",
+      "lastOddsUpdate": "2026-07-05T02:55:45+08:00",
+      "lastPrematchOddsUpdate": "2026-07-05T01:00:46+08:00",
+      "clock": "",
+      "liveEvents": [
+        {
+          "time": "20'",
+          "team": "MAR",
+          "type": "黃牌",
+          "rawType": "Yellow Card",
+          "player": "Redouane Halhal",
+          "scoringPlay": false,
+          "yellowCard": true,
+          "redCard": false,
+          "penaltyKick": false,
+          "ownGoal": false,
+          "shootout": false
+        },
+        {
+          "time": "40'",
+          "team": "MAR",
+          "type": "黃牌",
+          "rawType": "Yellow Card",
+          "player": "Achraf Hakimi",
+          "scoringPlay": false,
+          "yellowCard": true,
+          "redCard": false,
+          "penaltyKick": false,
+          "ownGoal": false,
+          "shootout": false
+        },
+        {
+          "time": "40'",
+          "team": "CAN",
+          "type": "黃牌",
+          "rawType": "Yellow Card",
+          "player": "Richie Laryea",
+          "scoringPlay": false,
+          "yellowCard": true,
+          "redCard": false,
+          "penaltyKick": false,
+          "ownGoal": false,
+          "shootout": false
+        },
+        {
+          "time": "43'",
+          "team": "CAN",
+          "type": "黃牌",
+          "rawType": "Yellow Card",
+          "player": "Jonathan David",
+          "scoringPlay": false,
+          "yellowCard": true,
+          "redCard": false,
+          "penaltyKick": false,
+          "ownGoal": false,
+          "shootout": false
+        },
+        {
+          "time": "45'",
+          "team": "MAR",
+          "type": "黃牌",
+          "rawType": "Yellow Card",
+          "player": "Azzedine Ounahi",
+          "scoringPlay": false,
+          "yellowCard": true,
+          "redCard": false,
+          "penaltyKick": false,
+          "ownGoal": false,
+          "shootout": false
+        },
+        {
+          "time": "45'+6'",
+          "team": "MAR",
+          "type": "黃牌",
+          "rawType": "Yellow Card",
+          "player": "Bilal El Khannouss",
+          "scoringPlay": false,
+          "yellowCard": true,
+          "redCard": false,
+          "penaltyKick": false,
+          "ownGoal": false,
+          "shootout": false
+        },
+        {
+          "time": "49'",
+          "team": "CAN",
+          "type": "黃牌",
+          "rawType": "Yellow Card",
+          "player": "Luc de Fougerolles",
+          "scoringPlay": false,
+          "yellowCard": true,
+          "redCard": false,
+          "penaltyKick": false,
+          "ownGoal": false,
+          "shootout": false
+        },
+        {
+          "time": "50'",
+          "team": "MAR",
+          "type": "進球",
+          "rawType": "Goal",
+          "player": "Azzedine Ounahi",
+          "scoringPlay": true,
+          "yellowCard": false,
+          "redCard": false,
+          "penaltyKick": false,
+          "ownGoal": false,
+          "shootout": false
+        },
+        {
+          "time": "67'",
+          "team": "CAN",
+          "type": "黃牌",
+          "rawType": "Yellow Card",
+          "player": "Cyle Larin",
+          "scoringPlay": false,
+          "yellowCard": true,
+          "redCard": false,
+          "penaltyKick": false,
+          "ownGoal": false,
+          "shootout": false
+        },
+        {
+          "time": "82'",
+          "team": "MAR",
+          "type": "進球",
+          "rawType": "Goal",
+          "player": "Azzedine Ounahi",
+          "scoringPlay": true,
+          "yellowCard": false,
+          "redCard": false,
+          "penaltyKick": false,
+          "ownGoal": false,
+          "shootout": false
+        },
+        {
+          "time": "90'+8'",
+          "team": "MAR",
+          "type": "進球",
+          "rawType": "Goal",
+          "player": "Soufiane Rahimi",
+          "scoringPlay": true,
+          "yellowCard": false,
+          "redCard": false,
+          "penaltyKick": false,
+          "ownGoal": false,
+          "shootout": false
+        }
+      ],
+      "liveStats": {
+        "teams": [
+          "CAN",
+          "MAR"
+        ],
+        "rows": [
+          {
+            "name": "totalShots",
+            "label": "射門",
+            "values": {
+              "CAN": "10",
+              "MAR": "5"
+            }
+          },
+          {
+            "name": "shotsOnTarget",
+            "label": "射正",
+            "values": {
+              "CAN": "3",
+              "MAR": "4"
+            }
+          },
+          {
+            "name": "possessionPct",
+            "label": "控球",
+            "values": {
+              "CAN": "44.7%",
+              "MAR": "55.3%"
+            }
+          },
+          {
+            "name": "foulsCommitted",
+            "label": "犯規",
+            "values": {
+              "CAN": "24",
+              "MAR": "14"
+            }
+          },
+          {
+            "name": "yellowCards",
+            "label": "黃牌",
+            "values": {
+              "CAN": "4",
+              "MAR": "4"
+            }
+          },
+          {
+            "name": "redCards",
+            "label": "紅牌",
+            "values": {
+              "CAN": "0",
+              "MAR": "0"
+            }
+          },
+          {
+            "name": "wonCorners",
+            "label": "角球",
+            "values": {
+              "CAN": "11",
+              "MAR": "1"
+            }
+          },
+          {
+            "name": "offsides",
+            "label": "越位",
+            "values": {
+              "CAN": "2",
+              "MAR": "3"
+            }
+          },
+          {
+            "name": "saves",
+            "label": "撲救",
+            "values": {
+              "CAN": "1",
+              "MAR": "3"
+            }
+          }
+        ],
+        "sourceError": null
+      },
+      "cardCounts": {
+        "CAN": {
+          "yellow": 4,
+          "red": 0
+        },
+        "MAR": {
+          "yellow": 4,
+          "red": 0
+        }
+      },
+      "liveDataUpdatedAt": "2026-07-05T15:51:38+08:00",
+      "taiwanSportsLottery": {
+        "source": "Taiwan Sports Lottery",
+        "status": "missing",
+        "url": "https://www.sportslottery.com.tw/sportsbook/world-cup",
+        "dataUrl": "https://blob3rd.sportslottery.com.tw/apidata/Pre/WC-Games.en.json",
+        "updatedAt": "2026-07-05T03:00:44+08:00",
+        "error": "World Cup public JSON did not include this match."
+      },
+      "lastLiveOddsUpdate": "2026-07-05T02:55:45+08:00",
+      "winner": "MAR",
+      "resultSummary": "完賽 CAN 0 MAR 3，勝方/晉級方：MAR。總進球 3，大 2.5、小 3.5，BTTS No。90 分鐘勝負與讓球若涉及延長/PK，仍需以 Binance 結算規則核對。",
+      "finishedAt": "2026-07-05T03:06:12+08:00"
+    },
+    "par-fra": {
+      "title": "巴拉圭 vs 法國",
+      "kickoff": "2026-07-05T05:00:00+08:00",
+      "lastScoreCheck": "2026-07-05T15:51:38+08:00",
+      "espnStatus": "FT",
+      "espnState": "post",
+      "completed": true,
+      "scoreDisplay": "PAR 0 FRA 1",
+      "espnOdds": {},
+      "status": "finished",
+      "lastOddsUpdate": "2026-07-05T06:56:02+08:00",
+      "lastPrematchOddsUpdate": "2026-07-05T05:00:47+08:00",
+      "clock": "",
+      "liveEvents": [
+        {
+          "time": "19'",
+          "team": "FRA",
+          "type": "黃牌",
+          "rawType": "Yellow Card",
+          "player": "Bradley Barcola",
+          "scoringPlay": false,
+          "yellowCard": true,
+          "redCard": false,
+          "penaltyKick": false,
+          "ownGoal": false,
+          "shootout": false
+        },
+        {
+          "time": "70'",
+          "team": "FRA",
+          "type": "點球進球",
+          "rawType": "Penalty - Scored",
+          "player": "Kylian Mbappé",
+          "scoringPlay": true,
+          "yellowCard": false,
+          "redCard": false,
+          "penaltyKick": true,
+          "ownGoal": false,
+          "shootout": false
+        },
+        {
+          "time": "81'",
+          "team": "FRA",
+          "type": "黃牌",
+          "rawType": "Yellow Card",
+          "player": "Manu Koné",
+          "scoringPlay": false,
+          "yellowCard": true,
+          "redCard": false,
+          "penaltyKick": false,
+          "ownGoal": false,
+          "shootout": false
+        },
+        {
+          "time": "90'+7'",
+          "team": "FRA",
+          "type": "黃牌",
+          "rawType": "Yellow Card",
+          "player": "Michael Olise",
+          "scoringPlay": false,
+          "yellowCard": true,
+          "redCard": false,
+          "penaltyKick": false,
+          "ownGoal": false,
+          "shootout": false
+        }
+      ],
+      "liveStats": {
+        "teams": [
+          "PAR",
+          "FRA"
+        ],
+        "rows": [
+          {
+            "name": "totalShots",
+            "label": "射門",
+            "values": {
+              "PAR": "5",
+              "FRA": "15"
+            }
+          },
+          {
+            "name": "shotsOnTarget",
+            "label": "射正",
+            "values": {
+              "PAR": "1",
+              "FRA": "5"
+            }
+          },
+          {
+            "name": "possessionPct",
+            "label": "控球",
+            "values": {
+              "PAR": "24.1%",
+              "FRA": "75.9%"
+            }
+          },
+          {
+            "name": "foulsCommitted",
+            "label": "犯規",
+            "values": {
+              "PAR": "13",
+              "FRA": "11"
+            }
+          },
+          {
+            "name": "yellowCards",
+            "label": "黃牌",
+            "values": {
+              "PAR": "0",
+              "FRA": "3"
+            }
+          },
+          {
+            "name": "redCards",
+            "label": "紅牌",
+            "values": {
+              "PAR": "0",
+              "FRA": "0"
+            }
+          },
+          {
+            "name": "wonCorners",
+            "label": "角球",
+            "values": {
+              "PAR": "2",
+              "FRA": "12"
+            }
+          },
+          {
+            "name": "offsides",
+            "label": "越位",
+            "values": {
+              "PAR": "0",
+              "FRA": "0"
+            }
+          },
+          {
+            "name": "saves",
+            "label": "撲救",
+            "values": {
+              "PAR": "4",
+              "FRA": "1"
+            }
+          }
+        ],
+        "sourceError": null
+      },
+      "cardCounts": {
+        "PAR": {
+          "yellow": 0,
+          "red": 0
+        },
+        "FRA": {
+          "yellow": 3,
+          "red": 0
+        }
+      },
+      "liveDataUpdatedAt": "2026-07-05T15:51:38+08:00",
+      "taiwanSportsLottery": {
+        "source": "Taiwan Sports Lottery",
+        "status": "missing",
+        "url": "https://www.sportslottery.com.tw/sportsbook/world-cup",
+        "dataUrl": "https://blob3rd.sportslottery.com.tw/apidata/Pre/WC-Games.en.json",
+        "updatedAt": "2026-07-05T07:00:59+08:00",
+        "error": "World Cup public JSON did not include this match."
+      },
+      "lastLiveOddsUpdate": "2026-07-05T06:56:02+08:00",
+      "winner": "FRA",
+      "resultSummary": "完賽 PAR 0 FRA 1，勝方/晉級方：FRA。總進球 1，小 2.5、小 3.5，BTTS No。90 分鐘勝負與讓球若涉及延長/PK，仍需以 Binance 結算規則核對。",
+      "finishedAt": "2026-07-05T07:06:59+08:00"
+    },
+    "bra-nor": {
+      "title": "巴西 vs 挪威",
+      "kickoff": "2026-07-06T04:00:00+08:00",
+      "lastScoreCheck": "2026-07-05T15:51:38+08:00",
+      "espnStatus": "Scheduled",
+      "espnState": "pre",
+      "completed": false,
+      "scoreDisplay": "BRA 0 NOR 0",
+      "espnOdds": {
+        "moneyline": "主 -125 / 客 +340 / 和 +275",
+        "spread": "主 -0.5 -135 / 客 +0.5 +105",
+        "total": "大 o2.5 -145 / 小 u2.5 +115"
+      },
+      "status": "prematch",
+      "lastOddsUpdate": "2026-07-05T15:32:10+08:00",
+      "lastPrematchOddsUpdate": "2026-07-05T15:32:10+08:00",
+      "clock": "",
+      "liveEvents": [],
+      "liveStats": {
+        "teams": [
+          "BRA",
+          "NOR"
+        ],
+        "rows": [],
+        "sourceError": null
+      },
+      "cardCounts": {
+        "BRA": {
+          "yellow": 0,
+          "red": 0
+        },
+        "NOR": {
+          "yellow": 0,
+          "red": 0
+        }
+      },
+      "liveDataUpdatedAt": "2026-07-05T15:51:38+08:00",
+      "taiwanSportsLottery": {
+        "source": "Taiwan Sports Lottery",
+        "status": "ok",
+        "url": "https://www.sportslottery.com.tw/sportsbook/world-cup",
+        "dataUrl": "https://blob3rd.sportslottery.com.tw/apidata/Pre/WC-Games.en.json",
+        "updatedAt": "2026-07-05T15:51:39+08:00",
+        "eventId": "3476440.1",
+        "boardName": "Norway @ Brazil",
+        "kickoff": "2026-07-06T04:00:00+08:00",
+        "marketCount": 5,
+        "markets": {
+          "1x2": "Norway: 2.95x / Draw: 3.55x / Brazil: 1.45x",
+          "total2.5": "Over 2.5: 1.46x / Under 2.5: 2.05x",
+          "oddEven": "Odd: 1.66x / Even: 1.76x",
+          "correctScoreShort": "1:2: 4.55x / 1:3: 6.00x / 0:1: 6.50x / 1:1: 6.75x / 0:2: 7.00x"
+        }
+      }
+    },
+    "mex-eng": {
+      "title": "墨西哥 vs 英格蘭",
+      "kickoff": "2026-07-06T08:00:00+08:00",
+      "lastScoreCheck": "2026-07-05T15:51:38+08:00",
+      "espnStatus": "Scheduled",
+      "espnState": "pre",
+      "completed": false,
+      "scoreDisplay": "MEX 0 ENG 0",
+      "espnOdds": {
+        "moneyline": "主 +215 / 客 +140 / 和 +220",
+        "spread": "主 +0.5 -170 / 客 -0.5 +135",
+        "total": "大 o2.5 +135 / 小 u2.5 -170"
+      },
+      "status": "prematch",
+      "lastOddsUpdate": "2026-07-05T15:32:10+08:00",
+      "lastPrematchOddsUpdate": "2026-07-05T15:32:10+08:00",
+      "clock": "",
+      "liveEvents": [],
+      "liveStats": {
+        "teams": [
+          "MEX",
+          "ENG"
+        ],
+        "rows": [],
+        "sourceError": null
+      },
+      "cardCounts": {
+        "MEX": {
+          "yellow": 0,
+          "red": 0
+        },
+        "ENG": {
+          "yellow": 0,
+          "red": 0
+        }
+      },
+      "liveDataUpdatedAt": "2026-07-05T15:51:38+08:00",
+      "taiwanSportsLottery": {
+        "source": "Taiwan Sports Lottery",
+        "status": "ok",
+        "url": "https://www.sportslottery.com.tw/sportsbook/world-cup",
+        "dataUrl": "https://blob3rd.sportslottery.com.tw/apidata/Pre/WC-Games.en.json",
+        "updatedAt": "2026-07-05T15:51:39+08:00",
+        "eventId": "3476561.1",
+        "boardName": "England @ Mexico",
+        "kickoff": "2026-07-06T08:00:00+08:00",
+        "marketCount": 4,
+        "markets": {
+          "1x2": "England: 1.85x / Draw: 2.75x / Mexico: 2.70x",
+          "total2.5": "Over 2.5: 1.94x / Under 2.5: 1.52x",
+          "oddEven": "Odd: 1.73x / Even: 1.70x",
+          "correctScoreShort": "2:1: 4.50x / 1:1: 4.50x / 1:0: 4.70x / 0:0: 5.95x / 0:1: 6.00x"
+        }
+      }
+    },
+    "por-esp": {
+      "title": "葡萄牙 vs 西班牙",
+      "kickoff": "2026-07-07T03:00:00+08:00",
+      "lastScoreCheck": "2026-07-05T15:51:38+08:00",
+      "espnStatus": "Scheduled",
+      "espnState": "pre",
+      "completed": false,
+      "scoreDisplay": "POR 0 ESP 0",
+      "espnOdds": {
+        "moneyline": "主 +295 / 客 -110 / 和 +265",
+        "spread": "主 +0.5 -110 / 客 -0.5 -115",
+        "total": "大 o2.5 -125 / 小 u2.5 +100"
+      },
+      "status": "prematch",
+      "lastOddsUpdate": "2026-07-04T23:37:39+08:00",
+      "lastPrematchOddsUpdate": "2026-07-04T23:37:39+08:00",
+      "clock": "",
+      "liveEvents": [],
+      "liveStats": {
+        "teams": [
+          "POR",
+          "ESP"
+        ],
+        "rows": [],
+        "sourceError": null
+      },
+      "cardCounts": {
+        "POR": {
+          "yellow": 0,
+          "red": 0
+        },
+        "ESP": {
+          "yellow": 0,
+          "red": 0
+        }
+      },
+      "liveDataUpdatedAt": "2026-07-05T15:51:38+08:00",
+      "taiwanSportsLottery": {
+        "source": "Taiwan Sports Lottery",
+        "status": "ok",
+        "url": "https://www.sportslottery.com.tw/sportsbook/world-cup",
+        "dataUrl": "https://blob3rd.sportslottery.com.tw/apidata/Pre/WC-Games.en.json",
+        "updatedAt": "2026-07-05T15:51:39+08:00",
+        "eventId": "3476716.1",
+        "boardName": "Spain @ Portugal",
+        "kickoff": "2026-07-07T03:00:00+08:00",
+        "marketCount": 5,
+        "markets": {
+          "1x2": "Spain: 1.65x / Draw: 2.85x / Portugal: 3.15x",
+          "total2.5": "Over 2.5: 1.63x / Under 2.5: 1.80x",
+          "oddEven": "Odd: 1.76x / Even: 1.66x",
+          "correctScoreShort": "1:1: 4.60x / 2:1: 4.80x / 1:0: 5.70x / 2:0: 6.50x / 0:0: 8.00x"
+        }
+      }
+    },
+    "usa-bel": {
+      "title": "美國 vs 比利時",
+      "kickoff": "2026-07-07T08:00:00+08:00",
+      "lastScoreCheck": "2026-07-05T15:51:38+08:00",
+      "espnStatus": "Scheduled",
+      "espnState": "pre",
+      "completed": false,
+      "scoreDisplay": "USA 0 BEL 0",
+      "espnOdds": {
+        "moneyline": "主 +160 / 客 +170 / 和 +230",
+        "spread": "主 -0.5 +155 / 客 +0.5 -200",
+        "total": "大 o2.5 -145 / 小 u2.5 +115"
+      },
+      "status": "prematch",
+      "lastOddsUpdate": "2026-07-04T23:37:39+08:00",
+      "lastPrematchOddsUpdate": "2026-07-04T23:37:39+08:00",
+      "clock": "",
+      "liveEvents": [],
+      "liveStats": {
+        "teams": [
+          "USA",
+          "BEL"
+        ],
+        "rows": [],
+        "sourceError": null
+      },
+      "cardCounts": {
+        "USA": {
+          "yellow": 0,
+          "red": 0
+        },
+        "BEL": {
+          "yellow": 0,
+          "red": 0
+        }
+      },
+      "liveDataUpdatedAt": "2026-07-05T15:51:38+08:00",
+      "taiwanSportsLottery": {
+        "source": "Taiwan Sports Lottery",
+        "status": "ok",
+        "url": "https://www.sportslottery.com.tw/sportsbook/world-cup",
+        "dataUrl": "https://blob3rd.sportslottery.com.tw/apidata/Pre/WC-Games.en.json",
+        "updatedAt": "2026-07-05T15:51:39+08:00",
+        "eventId": "3476562.1",
+        "boardName": "Belgium @ USA",
+        "kickoff": "2026-07-07T08:00:00+08:00",
+        "marketCount": 4,
+        "markets": {
+          "1x2": "Belgium: 2.35x / Draw: 3.25x / USA: 1.85x",
+          "total2.5": "Over 2.5: 1.50x / Under 2.5: 1.96x",
+          "oddEven": "Odd: 1.70x / Even: 1.73x",
+          "correctScoreShort": "1:1: 5.20x / 1:2: 5.95x / 0:1: 6.50x / 2:1: 7.00x / 1:0: 7.75x"
+        }
+      }
+    },
+    "arg-egy": {
+      "title": "阿根廷 vs 埃及",
+      "kickoff": "2026-07-08T00:00:00+08:00",
+      "lastScoreCheck": "2026-07-05T15:51:38+08:00",
+      "espnStatus": "Scheduled",
+      "espnState": "pre",
+      "completed": false,
+      "scoreDisplay": "ARG 0 EGY 0",
+      "espnOdds": {
+        "moneyline": "主 -260 / 客 +750 / 和 +360",
+        "spread": "主 -1.5 +115 / 客 +1.5 -145",
+        "total": "大 o2.5 +100 / 小 u2.5 -125"
+      },
+      "status": "prematch",
+      "lastOddsUpdate": "2026-07-04T23:37:39+08:00",
+      "lastPrematchOddsUpdate": "2026-07-04T23:37:39+08:00",
+      "clock": "",
+      "liveEvents": [],
+      "liveStats": {
+        "teams": [
+          "ARG",
+          "EGY"
+        ],
+        "rows": [],
+        "sourceError": null
+      },
+      "cardCounts": {
+        "ARG": {
+          "yellow": 0,
+          "red": 0
+        },
+        "EGY": {
+          "yellow": 0,
+          "red": 0
+        }
+      },
+      "liveDataUpdatedAt": "2026-07-05T15:51:38+08:00",
+      "taiwanSportsLottery": {
+        "source": "Taiwan Sports Lottery",
+        "status": "ok",
+        "url": "https://www.sportslottery.com.tw/sportsbook/world-cup",
+        "dataUrl": "https://blob3rd.sportslottery.com.tw/apidata/Pre/WC-Games.en.json",
+        "updatedAt": "2026-07-05T15:51:39+08:00",
+        "eventId": "3476854.1",
+        "boardName": "Egypt @ Argentina",
+        "kickoff": "2026-07-08T00:00:00+08:00",
+        "marketCount": 4,
+        "markets": {
+          "1x2": "Egypt: 6.50x / Draw: 3.65x / Argentina: 1.14x",
+          "total2.5": "Over 2.5: 1.78x / Under 2.5: 1.65x",
+          "oddEven": "Odd: 1.68x / Even: 1.75x",
+          "correctScoreShort": "0:2: 3.55x / 0:1: 3.65x / 0:3: 4.95x / 1:2: 6.75x / 0:0: 8.25x"
+        }
+      }
+    },
+    "sui-col": {
+      "title": "瑞士 vs 哥倫比亞",
+      "kickoff": "2026-07-08T04:00:00+08:00",
+      "lastScoreCheck": "2026-07-05T15:51:38+08:00",
+      "espnStatus": "Scheduled",
+      "espnState": "pre",
+      "completed": false,
+      "scoreDisplay": "SUI 0 COL 0",
+      "espnOdds": {
+        "moneyline": "主 +245 / 客 +125 / 和 +210",
+        "spread": "主 +0.5 -150 / 客 -0.5 +120",
+        "total": "大 o2.5 +135 / 小 u2.5 -170"
+      },
+      "status": "prematch",
+      "lastOddsUpdate": "2026-07-04T23:37:39+08:00",
+      "lastPrematchOddsUpdate": "2026-07-04T23:37:39+08:00",
+      "clock": "",
+      "liveEvents": [],
+      "liveStats": {
+        "teams": [
+          "SUI",
+          "COL"
+        ],
+        "rows": [],
+        "sourceError": null
+      },
+      "cardCounts": {
+        "SUI": {
+          "yellow": 0,
+          "red": 0
+        },
+        "COL": {
+          "yellow": 0,
+          "red": 0
+        }
+      },
+      "liveDataUpdatedAt": "2026-07-05T15:51:38+08:00",
+      "taiwanSportsLottery": {
+        "source": "Taiwan Sports Lottery",
+        "status": "ok",
+        "url": "https://www.sportslottery.com.tw/sportsbook/world-cup",
+        "dataUrl": "https://blob3rd.sportslottery.com.tw/apidata/Pre/WC-Games.en.json",
+        "updatedAt": "2026-07-05T15:51:39+08:00",
+        "eventId": "3476855.1",
+        "boardName": "Colombia @ Switzerland",
+        "kickoff": "2026-07-08T04:00:00+08:00",
+        "marketCount": 4,
+        "markets": {
+          "1x2": "Colombia: 1.90x / Draw: 2.55x / Switzerland: 2.80x",
+          "total2.5": "Over 2.5: 2.05x / Under 2.5: 1.46x",
+          "oddEven": "Odd: 1.78x / Even: 1.65x",
+          "correctScoreShort": "1:1: 4.25x / 1:0: 4.75x / 0:0: 5.30x / 0:1: 6.25x / 2:1: 7.00x"
+        }
+      }
+    }
+  }
+}

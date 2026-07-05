@@ -1,0 +1,76 @@
+name: Deploy World Cup dashboard
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+  schedule:
+    # Baseline refresh: every 30 minutes.
+    - cron: "*/30 * * * *"
+    # Live windows are UTC. They cover roughly 45 minutes before kickoff
+    # through possible stoppage/extra time for the listed Taiwan kickoffs.
+    - cron: "*/5 19-23 5 7 *" # Brazil vs Norway, 2026-07-06 04:00 TPE
+    - cron: "*/5 0-3 6 7 *"   # Mexico vs England, 2026-07-06 08:00 TPE
+    - cron: "*/5 18-22 6 7 *" # Portugal vs Spain, 2026-07-07 03:00 TPE
+    - cron: "*/5 23 6 7 *"    # USA vs Belgium, pre-kickoff UTC window
+    - cron: "*/5 0-3 7 7 *"   # USA vs Belgium, 2026-07-07 08:00 TPE
+    - cron: "*/5 15-19 7 7 *" # Argentina vs Egypt, 2026-07-08 00:00 TPE
+    - cron: "*/5 19-23 7 7 *" # Switzerland vs Colombia, 2026-07-08 04:00 TPE
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: worldcup-dashboard-pages
+  cancel-in-progress: true
+
+jobs:
+  update-and-deploy:
+    runs-on: windows-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Update data and rebuild site
+        shell: pwsh
+        env:
+          BINANCE_API_KEY: ${{ secrets.BINANCE_API_KEY }}
+          BINANCE_API_SECRET: ${{ secrets.BINANCE_API_SECRET }}
+        run: .\work\update_worldcup_r16_monitor.ps1
+
+      - name: Persist refreshed state
+        shell: pwsh
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add outputs/worldcup-r16-tabs-analysis.html outputs/worldcup-r16-tabs-snapshot.csv outputs/worldcup-stadium-hero.png work/worldcup-r16-monitor-state.json site-canada-morocco/public
+          git reset -- site-canada-morocco/public/*.log site-canada-morocco/public/*.pid 2>$null
+          git diff --cached --quiet
+          if ($LASTEXITCODE -ne 0) {
+            git commit -m "Update World Cup dashboard data [skip ci]"
+            git push
+          }
+
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: site-canada-morocco/public
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

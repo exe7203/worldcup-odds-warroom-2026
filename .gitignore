@@ -1,0 +1,34 @@
+# Dependencies and build output
+**/node_modules/
+site-canada-morocco/dist/
+site-canada-morocco/.vinext/
+site-canada-morocco/.wrangler/
+
+# Local runtime files
+**/*.pid
+**/*.log
+tools/cloudflared.exe
+**/__pycache__/
+**/*.pyc
+
+# Generated/experimental output. Keep only the current dashboard artifacts.
+outputs/*
+!outputs/worldcup-r16-tabs-analysis.html
+!outputs/worldcup-r16-tabs-snapshot.csv
+!outputs/worldcup-stadium-hero.png
+
+# Raw odds scrape caches and probe dumps.
+work/probe_*
+work/titan_*
+work/m.titan007.com_script_1x2.js
+work/txt.titan007.com_1x2_*.js
+work/letgoalOverunderData.js
+
+# Secrets
+.env
+.env.*
+work/binance_prediction_credentials.json
+
+# Local OS/editor noise
+.DS_Store
+Thumbs.db
