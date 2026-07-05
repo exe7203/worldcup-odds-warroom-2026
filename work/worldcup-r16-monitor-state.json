@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-07-06T00:11:42+08:00",
+  "updatedAt": "2026-07-06T00:34:30+08:00",
   "matches": {
     "can-mar": {
       "title": "加拿大 vs 摩洛哥",
       "kickoff": "2026-07-05T01:00:00+08:00",
-      "lastScoreCheck": "2026-07-06T00:11:42+08:00",
+      "lastScoreCheck": "2026-07-06T00:34:30+08:00",
       "espnStatus": "FT",
       "espnState": "post",
       "completed": true,
@@ -250,7 +250,7 @@
           "red": 0
         }
       },
-      "liveDataUpdatedAt": "2026-07-06T00:11:42+08:00",
+      "liveDataUpdatedAt": "2026-07-06T00:34:30+08:00",
       "taiwanSportsLottery": {
         "source": "Taiwan Sports Lottery",
         "status": "missing",
@@ -267,7 +267,7 @@
     "par-fra": {
       "title": "巴拉圭 vs 法國",
       "kickoff": "2026-07-05T05:00:00+08:00",
-      "lastScoreCheck": "2026-07-06T00:11:42+08:00",
+      "lastScoreCheck": "2026-07-06T00:34:30+08:00",
       "espnStatus": "FT",
       "espnState": "post",
       "completed": true,
@@ -422,7 +422,7 @@
           "red": 0
         }
       },
-      "liveDataUpdatedAt": "2026-07-06T00:11:42+08:00",
+      "liveDataUpdatedAt": "2026-07-06T00:34:30+08:00",
       "taiwanSportsLottery": {
         "source": "Taiwan Sports Lottery",
         "status": "missing",
@@ -439,7 +439,7 @@
     "bra-nor": {
       "title": "巴西 vs 挪威",
       "kickoff": "2026-07-06T04:00:00+08:00",
-      "lastScoreCheck": "2026-07-06T00:11:42+08:00",
+      "lastScoreCheck": "2026-07-06T00:34:30+08:00",
       "espnStatus": "Scheduled",
       "espnState": "pre",
       "completed": false,
@@ -447,7 +447,7 @@
       "espnOdds": {
         "moneyline": "主 -130 / 客 +350 / 和 +275",
         "spread": "主 -0.5 -135 / 客 +0.5 +105",
-        "total": "大 o2.5 -150 / 小 u2.5 +125"
+        "total": "大 o2.5 -150 / 小 u2.5 +120"
       },
       "status": "prematch",
       "lastOddsUpdate": "2026-07-06T00:09:53+08:00",
@@ -472,20 +472,20 @@
           "red": 0
         }
       },
-      "liveDataUpdatedAt": "2026-07-06T00:11:42+08:00",
+      "liveDataUpdatedAt": "2026-07-06T00:34:30+08:00",
       "taiwanSportsLottery": {
         "source": "Taiwan Sports Lottery",
         "status": "error",
         "url": "https://www.sportslottery.com.tw/sportsbook/world-cup",
         "dataUrl": "https://blob3rd.sportslottery.com.tw/apidata/Pre/WC-Games.en.json",
-        "updatedAt": "2026-07-06T00:11:43+08:00",
+        "updatedAt": "2026-07-06T00:34:30+08:00",
         "error": "HTTP Error 403: Forbidden"
       }
     },
     "mex-eng": {
       "title": "墨西哥 vs 英格蘭",
       "kickoff": "2026-07-06T08:00:00+08:00",
-      "lastScoreCheck": "2026-07-06T00:11:42+08:00",
+      "lastScoreCheck": "2026-07-06T00:34:30+08:00",
       "espnStatus": "Scheduled",
       "espnState": "pre",
       "completed": false,
@@ -518,20 +518,20 @@
           "red": 0
         }
       },
-      "liveDataUpdatedAt": "2026-07-06T00:11:42+08:00",
+      "liveDataUpdatedAt": "2026-07-06T00:34:30+08:00",
       "taiwanSportsLottery": {
         "source": "Taiwan Sports Lottery",
         "status": "error",
         "url": "https://www.sportslottery.com.tw/sportsbook/world-cup",
         "dataUrl": "https://blob3rd.sportslottery.com.tw/apidata/Pre/WC-Games.en.json",
-        "updatedAt": "2026-07-06T00:11:43+08:00",
+        "updatedAt": "2026-07-06T00:34:30+08:00",
         "error": "HTTP Error 403: Forbidden"
       }
     },
     "por-esp": {
       "title": "葡萄牙 vs 西班牙",
       "kickoff": "2026-07-07T03:00:00+08:00",
-      "lastScoreCheck": "2026-07-06T00:11:42+08:00",
+      "lastScoreCheck": "2026-07-06T00:34:30+08:00",
       "espnStatus": "Scheduled",
       "espnState": "pre",
       "completed": false,
@@ -564,20 +564,20 @@
           "red": 0
         }
       },
-      "liveDataUpdatedAt": "2026-07-06T00:11:42+08:00",
+      "liveDataUpdatedAt": "2026-07-06T00:34:30+08:00",
       "taiwanSportsLottery": {
         "source": "Taiwan Sports Lottery",
         "status": "error",
         "url": "https://www.sportslottery.com.tw/sportsbook/world-cup",
         "dataUrl": "https://blob3rd.sportslottery.com.tw/apidata/Pre/WC-Games.en.json",
-        "updatedAt": "2026-07-06T00:11:43+08:00",
+        "updatedAt": "2026-07-06T00:34:30+08:00",
         "error": "HTTP Error 403: Forbidden"
       }
     },
     "usa-bel": {
       "title": "美國 vs 比利時",
       "kickoff": "2026-07-07T08:00:00+08:00",
-      "lastScoreCheck": "2026-07-06T00:11:42+08:00",
+      "lastScoreCheck": "2026-07-06T00:34:30+08:00",
       "espnStatus": "Scheduled",
       "espnState": "pre",
       "completed": false,
@@ -610,20 +610,20 @@
           "red": 0
         }
       },
-      "liveDataUpdatedAt": "2026-07-06T00:11:42+08:00",
+      "liveDataUpdatedAt": "2026-07-06T00:34:30+08:00",
       "taiwanSportsLottery": {
         "source": "Taiwan Sports Lottery",
         "status": "error",
         "url": "https://www.sportslottery.com.tw/sportsbook/world-cup",
         "dataUrl": "https://blob3rd.sportslottery.com.tw/apidata/Pre/WC-Games.en.json",
-        "updatedAt": "2026-07-06T00:11:43+08:00",
+        "updatedAt": "2026-07-06T00:34:30+08:00",
         "error": "HTTP Error 403: Forbidden"
       }
     },
     "arg-egy": {
       "title": "阿根廷 vs 埃及",
       "kickoff": "2026-07-08T00:00:00+08:00",
-      "lastScoreCheck": "2026-07-06T00:11:42+08:00",
+      "lastScoreCheck": "2026-07-06T00:34:30+08:00",
       "espnStatus": "Scheduled",
       "espnState": "pre",
       "completed": false,
@@ -656,20 +656,20 @@
           "red": 0
         }
       },
-      "liveDataUpdatedAt": "2026-07-06T00:11:42+08:00",
+      "liveDataUpdatedAt": "2026-07-06T00:34:30+08:00",
       "taiwanSportsLottery": {
         "source": "Taiwan Sports Lottery",
         "status": "error",
         "url": "https://www.sportslottery.com.tw/sportsbook/world-cup",
         "dataUrl": "https://blob3rd.sportslottery.com.tw/apidata/Pre/WC-Games.en.json",
-        "updatedAt": "2026-07-06T00:11:43+08:00",
+        "updatedAt": "2026-07-06T00:34:30+08:00",
         "error": "HTTP Error 403: Forbidden"
       }
     },
     "sui-col": {
       "title": "瑞士 vs 哥倫比亞",
       "kickoff": "2026-07-08T04:00:00+08:00",
-      "lastScoreCheck": "2026-07-06T00:11:42+08:00",
+      "lastScoreCheck": "2026-07-06T00:34:30+08:00",
       "espnStatus": "Scheduled",
       "espnState": "pre",
       "completed": false,
@@ -702,13 +702,13 @@
           "red": 0
         }
       },
-      "liveDataUpdatedAt": "2026-07-06T00:11:42+08:00",
+      "liveDataUpdatedAt": "2026-07-06T00:34:30+08:00",
       "taiwanSportsLottery": {
         "source": "Taiwan Sports Lottery",
         "status": "error",
         "url": "https://www.sportslottery.com.tw/sportsbook/world-cup",
         "dataUrl": "https://blob3rd.sportslottery.com.tw/apidata/Pre/WC-Games.en.json",
-        "updatedAt": "2026-07-06T00:11:43+08:00",
+        "updatedAt": "2026-07-06T00:34:30+08:00",
         "error": "HTTP Error 403: Forbidden"
       }
     }
