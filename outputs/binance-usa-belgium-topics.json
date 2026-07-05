@@ -1,0 +1,2664 @@
+[
+  {
+    "marketTopicId": 4298862,
+    "vendor": "PREDICT_FUN",
+    "chainId": "56",
+    "slug": "fifwc-usa-bel-2026-07-06-exact-score",
+    "title": "United States vs. Belgium - Exact Score",
+    "question": "Exact Score: United States 0 - 0 Belgium?",
+    "imageUrl": "https://static.predict.fun/fifwc",
+    "thumbnailPaths": [
+      {
+        "size": "800x800",
+        "path": "file-center/web3-prediction/S3/topic/1782987848396_wwxl6jf4r1g1wdsaifk7xyyiamhvo6g7_NEF_q80_800x800"
+      },
+      {
+        "size": "400x400",
+        "path": "file-center/web3-prediction/S3/topic/1782987848396_wwxl6jf4r1g1wdsaifk7xyyiamhvo6g7_NEF_q80_400x400"
+      },
+      {
+        "size": "96x96",
+        "path": "file-center/web3-prediction/S3/topic/1782987848396_wwxl6jf4r1g1wdsaifk7xyyiamhvo6g7_NEF_q80_96x96"
+      },
+      {
+        "size": "64x64",
+        "path": "file-center/web3-prediction/S3/topic/1782987848396_wwxl6jf4r1g1wdsaifk7xyyiamhvo6g7_NEF_q80_64x64"
+      }
+    ],
+    "topicType": "GROUPED",
+    "variantData": {
+      "type": "SPORTS_FIFA_WORLD_CUP"
+    },
+    "participantCount": 156,
+    "collateral": "USDT",
+    "feeRateBps": 200,
+    "slippageBps": 1000,
+    "isYieldBearing": true,
+    "exchangeContractAddress": "0x8A289d458f5a134bA40015085A8F50Ffb681B41d",
+    "markets": [
+      {
+        "marketId": 6275932,
+        "externalId": "655048",
+        "title": "USA 1 - 1 BEL",
+        "question": "Exact Score: United States 1 - 1 Belgium?",
+        "description": "In the upcoming FIFA World Cup game between United States and Belgium, scheduled for July 6, 2026 at 8:00 PM ET: This market will resolve based on the final score of the United States vs. Belgium match originally scheduled for July 6, 2026 at 8:00 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xa4942f3b872be538fe45aaa4bf27fdd28abc8378da6ed2d07ccff8f2f3aaa96e",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782988202805_p51agfknk5we4iwnwqzvzhg916ohv6wc_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782988202805_p51agfknk5we4iwnwqzvzhg916ohv6wc_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782988202805_p51agfknk5we4iwnwqzvzhg916ohv6wc_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782988202805_p51agfknk5we4iwnwqzvzhg916ohv6wc_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "2394.37",
+        "liquidity": "375108.53",
+        "decimalPrecision": 3,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.147",
+            "chance": "0.144",
+            "index": 0,
+            "tokenId": "80553514072955138714216468998327458277035836007954368221322648066502859888152"
+          },
+          {
+            "name": "No",
+            "price": "0.853",
+            "chance": "0.856",
+            "index": 1,
+            "tokenId": "91741729413180876405055326725958169518494855307354794885339659118589086776750"
+          }
+        ]
+      },
+      {
+        "marketId": 6275944,
+        "externalId": "655060",
+        "title": "Any Other Score",
+        "question": "Exact Score: Any Other Score?",
+        "description": "In the upcoming FIFA World Cup game between United States and Belgium, scheduled for July 6, 2026 at 8:00 PM ET: This market will resolve based on the final score of the United States vs. Belgium match originally scheduled for July 6, 2026 at 8:00 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x9fae3103b7273af17a8de6ea16f587fd14093e9e62d6e00016489cf2006189f3",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782988202799_joe132lnmqihaw7xsfqhrvybd6x1hmza_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782988202799_joe132lnmqihaw7xsfqhrvybd6x1hmza_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782988202799_joe132lnmqihaw7xsfqhrvybd6x1hmza_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782988202799_joe132lnmqihaw7xsfqhrvybd6x1hmza_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "416.42",
+        "liquidity": "9442.12",
+        "decimalPrecision": 3,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.119",
+            "chance": "0.105",
+            "index": 0,
+            "tokenId": "3438923662832909260180775855644582008196901658330436972226206905438360186959"
+          },
+          {
+            "name": "No",
+            "price": "0.881",
+            "chance": "0.895",
+            "index": 1,
+            "tokenId": "4105524364752528176722750562914991253513500437839245905564381451659053360171"
+          }
+        ]
+      },
+      {
+        "marketId": 6275935,
+        "externalId": "655051",
+        "title": "USA 1 - 2 BEL",
+        "question": "Exact Score: United States 1 - 2 Belgium?",
+        "description": "In the upcoming FIFA World Cup game between United States and Belgium, scheduled for July 6, 2026 at 8:00 PM ET: This market will resolve based on the final score of the United States vs. Belgium match originally scheduled for July 6, 2026 at 8:00 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x122705a6be66af127576ec37b054c087f1d6d3017beb90f2c9135ad83c36b559",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782988202798_yxmz7jtzsj2d04d8udfqhmxmq5m9lomc_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782988202798_yxmz7jtzsj2d04d8udfqhmxmq5m9lomc_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782988202798_yxmz7jtzsj2d04d8udfqhmxmq5m9lomc_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782988202798_yxmz7jtzsj2d04d8udfqhmxmq5m9lomc_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "1205.19",
+        "liquidity": "364752.54",
+        "decimalPrecision": 3,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.097",
+            "chance": "0.0935",
+            "index": 0,
+            "tokenId": "64329976770458625036344685121314683067229554532201676237104065244898220983908"
+          },
+          {
+            "name": "No",
+            "price": "0.903",
+            "chance": "0.9065",
+            "index": 1,
+            "tokenId": "89739897282750397081560531134557593612527566224665549363558408721891438249111"
+          }
+        ]
+      },
+      {
+        "marketId": 6275936,
+        "externalId": "655052",
+        "title": "USA 2 - 1 BEL",
+        "question": "Exact Score: United States 2 - 1 Belgium?",
+        "description": "In the upcoming FIFA World Cup game between United States and Belgium, scheduled for July 6, 2026 at 8:00 PM ET: This market will resolve based on the final score of the United States vs. Belgium match originally scheduled for July 6, 2026 at 8:00 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xf3037c70b7e008e5ec80a93eeed47c2de9758bc718763d9b85ff05ed9bd345f3",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782988202798_vhw720uus33aiqfyhdff3zd4jj7w6pyf_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782988202798_vhw720uus33aiqfyhdff3zd4jj7w6pyf_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782988202798_vhw720uus33aiqfyhdff3zd4jj7w6pyf_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782988202798_vhw720uus33aiqfyhdff3zd4jj7w6pyf_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "2104.47",
+        "liquidity": "20895.89",
+        "decimalPrecision": 3,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.089",
+            "chance": "0.0855",
+            "index": 0,
+            "tokenId": "101158619062715998331660262277979402070165857185425965562472385744897330504785"
+          },
+          {
+            "name": "No",
+            "price": "0.911",
+            "chance": "0.9145",
+            "index": 1,
+            "tokenId": "24846699917948491695825779003333062683992993043914031551140854226005377294305"
+          }
+        ]
+      },
+      {
+        "marketId": 6275939,
+        "externalId": "655055",
+        "title": "USA 2 - 2 BEL",
+        "question": "Exact Score: United States 2 - 2 Belgium?",
+        "description": "In the upcoming FIFA World Cup game between United States and Belgium, scheduled for July 6, 2026 at 8:00 PM ET: This market will resolve based on the final score of the United States vs. Belgium match originally scheduled for July 6, 2026 at 8:00 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x6391b71c90082dda6ca008cef70a1537deb7e9f1d73372567846a9ef374a6311",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782988202806_ry1t9zizwg4ucjwt5nbetfv92rn2k8bp_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782988202806_ry1t9zizwg4ucjwt5nbetfv92rn2k8bp_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782988202806_ry1t9zizwg4ucjwt5nbetfv92rn2k8bp_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782988202806_ry1t9zizwg4ucjwt5nbetfv92rn2k8bp_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "2199.29",
+        "liquidity": "362736.15",
+        "decimalPrecision": 3,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.079",
+            "chance": "0.0785",
+            "index": 0,
+            "tokenId": "92036240405833761889911038831942116014887812958542516508260706971435856445953"
+          },
+          {
+            "name": "No",
+            "price": "0.921",
+            "chance": "0.9215",
+            "index": 1,
+            "tokenId": "76641149475803532768848743566120296823741647836225624734311284339027056295792"
+          }
+        ]
+      },
+      {
+        "marketId": 6275930,
+        "externalId": "655046",
+        "title": "USA 1 - 0 BEL",
+        "question": "Exact Score: United States 1 - 0 Belgium?",
+        "description": "In the upcoming FIFA World Cup game between United States and Belgium, scheduled for July 6, 2026 at 8:00 PM ET: This market will resolve based on the final score of the United States vs. Belgium match originally scheduled for July 6, 2026 at 8:00 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x41ade278af359602a5ab2f4b14497d3c3eeca828d2c0780460377fca052a27dd",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782988202801_amubve4c5enmtnowp53ep4i7h8fr3ji4_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782988202801_amubve4c5enmtnowp53ep4i7h8fr3ji4_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782988202801_amubve4c5enmtnowp53ep4i7h8fr3ji4_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782988202801_amubve4c5enmtnowp53ep4i7h8fr3ji4_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "809.31",
+        "liquidity": "363413.22",
+        "decimalPrecision": 3,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.081",
+            "chance": "0.0775",
+            "index": 0,
+            "tokenId": "31498771395033060353681536974425081936818594116812965133864025253410676454186"
+          },
+          {
+            "name": "No",
+            "price": "0.919",
+            "chance": "0.9225",
+            "index": 1,
+            "tokenId": "95893690690933872594931125884734858410887874769554757724492129429728725801905"
+          }
+        ]
+      },
+      {
+        "marketId": 6275929,
+        "externalId": "655045",
+        "title": "USA 0 - 1 BEL",
+        "question": "Exact Score: United States 0 - 1 Belgium?",
+        "description": "In the upcoming FIFA World Cup game between United States and Belgium, scheduled for July 6, 2026 at 8:00 PM ET: This market will resolve based on the final score of the United States vs. Belgium match originally scheduled for July 6, 2026 at 8:00 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x482de132e8534427270298e33c94815ac5a2d7e74f017e69b95283a7f2eaebf4",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782988202797_fuwhpnl9wyz2590c55tpvlx0j83qnijz_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782988202797_fuwhpnl9wyz2590c55tpvlx0j83qnijz_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782988202797_fuwhpnl9wyz2590c55tpvlx0j83qnijz_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782988202797_fuwhpnl9wyz2590c55tpvlx0j83qnijz_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "726.52",
+        "liquidity": "364454.04",
+        "decimalPrecision": 3,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.08",
+            "chance": "0.0765",
+            "index": 0,
+            "tokenId": "2037773486653848958282629368801607265486409624256498969321507781379812304135"
+          },
+          {
+            "name": "No",
+            "price": "0.92",
+            "chance": "0.9235",
+            "index": 1,
+            "tokenId": "83657567587932141408262034323099862512970064626961472719331321736902199394714"
+          }
+        ]
+      },
+      {
+        "marketId": 6275928,
+        "externalId": "655044",
+        "title": "USA 0 - 0 BEL",
+        "question": "Exact Score: United States 0 - 0 Belgium?",
+        "description": "In the upcoming FIFA World Cup game between United States and Belgium, scheduled for July 6, 2026 at 8:00 PM ET: This market will resolve based on the final score of the United States vs. Belgium match originally scheduled for July 6, 2026 at 8:00 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x4906e5e9a9293550001dbf1d9a9279132010104429c7bf71ecc4a6c60c8c4e61",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782988202799_xdtpb2qnpnswvq429dv0qlhdv6fyavyd_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782988202799_xdtpb2qnpnswvq429dv0qlhdv6fyavyd_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782988202799_xdtpb2qnpnswvq429dv0qlhdv6fyavyd_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782988202799_xdtpb2qnpnswvq429dv0qlhdv6fyavyd_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "1816.55",
+        "liquidity": "11418.63",
+        "decimalPrecision": 3,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.075",
+            "chance": "0.0725",
+            "index": 0,
+            "tokenId": "16068242482738848424228427170924719480842008704328853399942960150483061422505"
+          },
+          {
+            "name": "No",
+            "price": "0.925",
+            "chance": "0.9275",
+            "index": 1,
+            "tokenId": "5500909662284557350949008116835214136961978823214366461162684746834005183085"
+          }
+        ]
+      },
+      {
+        "marketId": 6275931,
+        "externalId": "655047",
+        "title": "USA 0 - 2 BEL",
+        "question": "Exact Score: United States 0 - 2 Belgium?",
+        "description": "In the upcoming FIFA World Cup game between United States and Belgium, scheduled for July 6, 2026 at 8:00 PM ET: This market will resolve based on the final score of the United States vs. Belgium match originally scheduled for July 6, 2026 at 8:00 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x63d3154eb79ec16082d292cc0ac53401889439ab99f87ee1b7bd59bb49264a1c",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782988202803_svp964fvmqxjtog6ux0aj1l7p5jci5wa_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782988202803_svp964fvmqxjtog6ux0aj1l7p5jci5wa_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782988202803_svp964fvmqxjtog6ux0aj1l7p5jci5wa_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782988202803_svp964fvmqxjtog6ux0aj1l7p5jci5wa_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "423.57",
+        "liquidity": "360023.2",
+        "decimalPrecision": 3,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.061",
+            "chance": "0.0575",
+            "index": 0,
+            "tokenId": "87456961765016888043896948134389624531290407467352150064429448499347159699095"
+          },
+          {
+            "name": "No",
+            "price": "0.939",
+            "chance": "0.9425",
+            "index": 1,
+            "tokenId": "68487016787543401511221891313214608432207487670337520348945043171167940111441"
+          }
+        ]
+      },
+      {
+        "marketId": 6275933,
+        "externalId": "655049",
+        "title": "USA 2 - 0 BEL",
+        "question": "Exact Score: United States 2 - 0 Belgium?",
+        "description": "In the upcoming FIFA World Cup game between United States and Belgium, scheduled for July 6, 2026 at 8:00 PM ET: This market will resolve based on the final score of the United States vs. Belgium match originally scheduled for July 6, 2026 at 8:00 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x5614e7ba5e5dfce94b547703d6941309048f890d2e6665ab32662b10c98b00cd",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782988202805_2al01ykbkr5ltg5yp9ljjn4zngpb17hv_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782988202805_2al01ykbkr5ltg5yp9ljjn4zngpb17hv_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782988202805_2al01ykbkr5ltg5yp9ljjn4zngpb17hv_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782988202805_2al01ykbkr5ltg5yp9ljjn4zngpb17hv_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "180.73",
+        "liquidity": "359751.98",
+        "decimalPrecision": 3,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.057",
+            "chance": "0.053",
+            "index": 0,
+            "tokenId": "23671819704649460455914345126681975716780343123592188002184156114592362118179"
+          },
+          {
+            "name": "No",
+            "price": "0.943",
+            "chance": "0.947",
+            "index": 1,
+            "tokenId": "28959777497821289439825947210043397838947735165436973030198015561454712877274"
+          }
+        ]
+      },
+      {
+        "marketId": 6275938,
+        "externalId": "655054",
+        "title": "USA 1 - 3 BEL",
+        "question": "Exact Score: United States 1 - 3 Belgium?",
+        "description": "In the upcoming FIFA World Cup game between United States and Belgium, scheduled for July 6, 2026 at 8:00 PM ET: This market will resolve based on the final score of the United States vs. Belgium match originally scheduled for July 6, 2026 at 8:00 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xb2b3b58f7dd19fa30c7e6b9fc94634a32bad15eb6b4ae334ffc39540ef6b08f1",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782988202803_m4vlxpx53wczmtm4txwaqb00gt52yi7u_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782988202803_m4vlxpx53wczmtm4txwaqb00gt52yi7u_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782988202803_m4vlxpx53wczmtm4txwaqb00gt52yi7u_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782988202803_m4vlxpx53wczmtm4txwaqb00gt52yi7u_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "284.91",
+        "liquidity": "346627.89",
+        "decimalPrecision": 3,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.046",
+            "chance": "0.0445",
+            "index": 0,
+            "tokenId": "23306305487914989021659587201145598699549612436567797864461674285004885618822"
+          },
+          {
+            "name": "No",
+            "price": "0.954",
+            "chance": "0.9555",
+            "index": 1,
+            "tokenId": "102031232767949895687256458446573653109382573606304370999960185056794616484613"
+          }
+        ]
+      },
+      {
+        "marketId": 6275940,
+        "externalId": "655056",
+        "title": "USA 3 - 1 BEL",
+        "question": "Exact Score: United States 3 - 1 Belgium?",
+        "description": "In the upcoming FIFA World Cup game between United States and Belgium, scheduled for July 6, 2026 at 8:00 PM ET: This market will resolve based on the final score of the United States vs. Belgium match originally scheduled for July 6, 2026 at 8:00 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x19c08c7e491e7d78f6522845e5c9ea45b67d2c96b18d1042a9369dea2000e6f9",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782988202808_tlwipqo90hd09o62g0khasf463mpuxoc_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782988202808_tlwipqo90hd09o62g0khasf463mpuxoc_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782988202808_tlwipqo90hd09o62g0khasf463mpuxoc_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782988202808_tlwipqo90hd09o62g0khasf463mpuxoc_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "1180.91",
+        "liquidity": "345676.35",
+        "decimalPrecision": 3,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.04",
+            "chance": "0.039",
+            "index": 0,
+            "tokenId": "56559308381094511884596877064320023735587055242115039514427039763526008178100"
+          },
+          {
+            "name": "No",
+            "price": "0.96",
+            "chance": "0.961",
+            "index": 1,
+            "tokenId": "95834689635244554400892394483286635884516968810316478923727335040510423957860"
+          }
+        ]
+      },
+      {
+        "marketId": 6275934,
+        "externalId": "655050",
+        "title": "USA 0 - 3 BEL",
+        "question": "Exact Score: United States 0 - 3 Belgium?",
+        "description": "In the upcoming FIFA World Cup game between United States and Belgium, scheduled for July 6, 2026 at 8:00 PM ET: This market will resolve based on the final score of the United States vs. Belgium match originally scheduled for July 6, 2026 at 8:00 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xa241ba9f86a9f8aeaaa9a778174e6dcf18b9be3840576328b9b31f5b419b9d0c",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782987848357_t65818cx1s58tacjv6gnxmhh3vyxkm1x_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782987848357_t65818cx1s58tacjv6gnxmhh3vyxkm1x_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782987848357_t65818cx1s58tacjv6gnxmhh3vyxkm1x_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782987848357_t65818cx1s58tacjv6gnxmhh3vyxkm1x_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "397.12",
+        "liquidity": "347002.2",
+        "decimalPrecision": 3,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.03",
+            "chance": "0.029",
+            "index": 0,
+            "tokenId": "27034550869682101250797614624166323614632857193318012649079709587764532914251"
+          },
+          {
+            "name": "No",
+            "price": "0.97",
+            "chance": "0.971",
+            "index": 1,
+            "tokenId": "66682513249790029436076670512582771204764739105973762060636636838483175071953"
+          }
+        ]
+      },
+      {
+        "marketId": 6275941,
+        "externalId": "655057",
+        "title": "USA 2 - 3 BEL",
+        "question": "Exact Score: United States 2 - 3 Belgium?",
+        "description": "In the upcoming FIFA World Cup game between United States and Belgium, scheduled for July 6, 2026 at 8:00 PM ET: This market will resolve based on the final score of the United States vs. Belgium match originally scheduled for July 6, 2026 at 8:00 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xf4caeab2b127386e0716d127c5cf35dfb872624e8371a8324c778ebf0ee94564",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782988202806_dnwvt69jg7hrzxhv7qnd84n8n90cu8w9_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782988202806_dnwvt69jg7hrzxhv7qnd84n8n90cu8w9_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782988202806_dnwvt69jg7hrzxhv7qnd84n8n90cu8w9_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782988202806_dnwvt69jg7hrzxhv7qnd84n8n90cu8w9_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "212.31",
+        "liquidity": "345261.58",
+        "decimalPrecision": 3,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.028",
+            "chance": "0.0275",
+            "index": 0,
+            "tokenId": "59177666325086703343938463061422803303163583642502397881994321969839816885482"
+          },
+          {
+            "name": "No",
+            "price": "0.972",
+            "chance": "0.9725",
+            "index": 1,
+            "tokenId": "12962697389183745033896938155473957571612261505805201548315092441919636825065"
+          }
+        ]
+      },
+      {
+        "marketId": 6275942,
+        "externalId": "655058",
+        "title": "USA 3 - 2 BEL",
+        "question": "Exact Score: United States 3 - 2 Belgium?",
+        "description": "In the upcoming FIFA World Cup game between United States and Belgium, scheduled for July 6, 2026 at 8:00 PM ET: This market will resolve based on the final score of the United States vs. Belgium match originally scheduled for July 6, 2026 at 8:00 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x7eca7b226f0d604420d6619eee832f30e620cab3d80739a2058a7a61db31dac9",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782988202804_vq21v7l96qxshwsdmkhciv08lucqk58u_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782988202804_vq21v7l96qxshwsdmkhciv08lucqk58u_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782988202804_vq21v7l96qxshwsdmkhciv08lucqk58u_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782988202804_vq21v7l96qxshwsdmkhciv08lucqk58u_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "194.36",
+        "liquidity": "344751.51",
+        "decimalPrecision": 3,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.028",
+            "chance": "0.0275",
+            "index": 0,
+            "tokenId": "2661842318719511391727562778003315134629375316441380276422434442482979510837"
+          },
+          {
+            "name": "No",
+            "price": "0.972",
+            "chance": "0.9725",
+            "index": 1,
+            "tokenId": "67517655518927035682205392432996960161675621894931111770163908509868858364536"
+          }
+        ]
+      },
+      {
+        "marketId": 6275937,
+        "externalId": "655053",
+        "title": "USA 3 - 0 BEL",
+        "question": "Exact Score: United States 3 - 0 Belgium?",
+        "description": "In the upcoming FIFA World Cup game between United States and Belgium, scheduled for July 6, 2026 at 8:00 PM ET: This market will resolve based on the final score of the United States vs. Belgium match originally scheduled for July 6, 2026 at 8:00 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x56c50bd6eacd9dbbaf6f7cc8db044fea4220885ebb21f4202a3199e9a534ed79",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782988202800_sf4we4l88r7a4te74ab26los2fg843xx_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782988202800_sf4we4l88r7a4te74ab26los2fg843xx_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782988202800_sf4we4l88r7a4te74ab26los2fg843xx_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782988202800_sf4we4l88r7a4te74ab26los2fg843xx_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "157.47",
+        "liquidity": "345137.08",
+        "decimalPrecision": 3,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.027",
+            "chance": "0.024",
+            "index": 0,
+            "tokenId": "92185684405366290430332279629969754969418737195407609233638881210606423166829"
+          },
+          {
+            "name": "No",
+            "price": "0.973",
+            "chance": "0.976",
+            "index": 1,
+            "tokenId": "42264665989347386636398325260359610445552135852589498141834641976385228083647"
+          }
+        ]
+      },
+      {
+        "marketId": 6275943,
+        "externalId": "655059",
+        "title": "USA 3 - 3 BEL",
+        "question": "Exact Score: United States 3 - 3 Belgium?",
+        "description": "In the upcoming FIFA World Cup game between United States and Belgium, scheduled for July 6, 2026 at 8:00 PM ET: This market will resolve based on the final score of the United States vs. Belgium match originally scheduled for July 6, 2026 at 8:00 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xb6ad3fd510968b4d91f3cf80bba7c0b529eddeb5259dc48ee330080c8a016ff7",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782988202807_3a2sl74n50o5kizszdbcr0hnsmz2muyk_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782988202807_3a2sl74n50o5kizszdbcr0hnsmz2muyk_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782988202807_3a2sl74n50o5kizszdbcr0hnsmz2muyk_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782988202807_3a2sl74n50o5kizszdbcr0hnsmz2muyk_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "10534.04",
+        "liquidity": "343891.27",
+        "decimalPrecision": 3,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.021",
+            "chance": "0.02",
+            "index": 0,
+            "tokenId": "114141568671636474741089688013448384519538068325307622647287139168490077593986"
+          },
+          {
+            "name": "No",
+            "price": "0.979",
+            "chance": "0.98",
+            "index": 1,
+            "tokenId": "92700966793336158134950071167132286603382643738600847493174256615093754220734"
+          }
+        ]
+      }
+    ],
+    "tradeVolume": "25237.61",
+    "liquidity": "5010344.43",
+    "publishedAt": 1782987846762,
+    "startDate": 1783382400000,
+    "endDate": 1783393200000,
+    "status": "REGISTERED"
+  },
+  {
+    "marketTopicId": 4298863,
+    "vendor": "PREDICT_FUN",
+    "chainId": "56",
+    "slug": "fifwc-usa-bel-2026-07-06",
+    "title": "United States vs. Belgium",
+    "question": "Will United States win on 2026-07-06?",
+    "imageUrl": "https://static.predict.fun/fifwc",
+    "thumbnailPaths": [
+      {
+        "size": "800x800",
+        "path": "file-center/web3-prediction/S3/topic/1782987848489_xk1qoyxzipb2dxsf4b2rca9pzj6t8g4h_NEF_q80_800x800"
+      },
+      {
+        "size": "400x400",
+        "path": "file-center/web3-prediction/S3/topic/1782987848489_xk1qoyxzipb2dxsf4b2rca9pzj6t8g4h_NEF_q80_400x400"
+      },
+      {
+        "size": "96x96",
+        "path": "file-center/web3-prediction/S3/topic/1782987848489_xk1qoyxzipb2dxsf4b2rca9pzj6t8g4h_NEF_q80_96x96"
+      },
+      {
+        "size": "64x64",
+        "path": "file-center/web3-prediction/S3/topic/1782987848489_xk1qoyxzipb2dxsf4b2rca9pzj6t8g4h_NEF_q80_64x64"
+      }
+    ],
+    "topicType": "GROUPED",
+    "variantData": {
+      "type": "SPORTS_FIFA_WORLD_CUP"
+    },
+    "participantCount": 655,
+    "collateral": "USDT",
+    "feeRateBps": 200,
+    "slippageBps": 1000,
+    "isYieldBearing": true,
+    "exchangeContractAddress": "0x8A289d458f5a134bA40015085A8F50Ffb681B41d",
+    "markets": [
+      {
+        "marketId": 6275947,
+        "externalId": "655040",
+        "title": "BEL",
+        "question": "Will Belgium win on 2026-07-06?",
+        "description": "In the upcoming game, scheduled for July 6, 2026\nIf Belgium wins, this market will resolve to \"Yes\".\nOtherwise, this market will resolve to \"No\".\nIf the game is postponed, this market will remain open until the game has been completed.\nIf the game is canceled entirely, with no make-up game, this market will resolve \"No\".\nThis market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x601b0dff083b9ce5a2cc7a0f2be98887d027f8fe5d9ef06fdc1594bf957eba28",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782988202809_xa56i3t4je0d7ry482bzrjedwit33gu0_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782988202809_xa56i3t4je0d7ry482bzrjedwit33gu0_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782988202809_xa56i3t4je0d7ry482bzrjedwit33gu0_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782988202809_xa56i3t4je0d7ry482bzrjedwit33gu0_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "6223.72",
+        "liquidity": "548301.51",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.39",
+            "chance": "0.385",
+            "index": 0,
+            "tokenId": "90564237518853446830925812519691917816679178579609973299246302824816687554710"
+          },
+          {
+            "name": "No",
+            "price": "0.61",
+            "chance": "0.615",
+            "index": 1,
+            "tokenId": "38415390931852350926763524253806414098712556331700720056886095000064995290493"
+          }
+        ]
+      },
+      {
+        "marketId": 6275945,
+        "externalId": "655038",
+        "title": "USA",
+        "question": "Will United States win on 2026-07-06?",
+        "description": "In the upcoming game, scheduled for July 6, 2026\nIf United States wins, this market will resolve to \"Yes\".\nOtherwise, this market will resolve to \"No\".\nIf the game is postponed, this market will remain open until the game has been completed.\nIf the game is canceled entirely, with no make-up game, this market will resolve \"No\".\nThis market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x787f018825d9c7ed2a5fcfa1ccfc539f761d452607302d90646f55e00115e05d",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782988202810_235k05q768ca7wfn3150r1pibitmsmmf_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782988202810_235k05q768ca7wfn3150r1pibitmsmmf_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782988202810_235k05q768ca7wfn3150r1pibitmsmmf_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782988202810_235k05q768ca7wfn3150r1pibitmsmmf_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "10156.66",
+        "liquidity": "873338.83",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.35",
+            "chance": "0.345",
+            "index": 0,
+            "tokenId": "67881120948084165785217230979588638598692040826035084273267772975267229957715"
+          },
+          {
+            "name": "No",
+            "price": "0.65",
+            "chance": "0.655",
+            "index": 1,
+            "tokenId": "3026221231788041925048198483133615439522495031013387286839584563523942908909"
+          }
+        ]
+      },
+      {
+        "marketId": 6275946,
+        "externalId": "655039",
+        "title": "Draw",
+        "question": "Will United States vs. Belgium end in a draw?",
+        "description": "In the upcoming game, scheduled for July 6, 2026\nIf the game ends in a draw, this market will resolve to \"Yes\".\nOtherwise, this market will resolve to \"No\".\nIf the game is postponed, this market will remain open until the game has been completed.\nIf the game is canceled entirely, with no make-up game, this market will resolve to \"Yes\".\nThis market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x075bc29e35019bb178e864165be87b49ec221f2d89ce7f57de947a6362a35d14",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782987848478_4a4tjaatpd5hxphhiyid9opw7g1rquzq_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782987848478_4a4tjaatpd5hxphhiyid9opw7g1rquzq_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782987848478_4a4tjaatpd5hxphhiyid9opw7g1rquzq_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782987848478_4a4tjaatpd5hxphhiyid9opw7g1rquzq_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "3061.6",
+        "liquidity": "826511.69",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.3",
+            "chance": "0.295",
+            "index": 0,
+            "tokenId": "3828420734367599890251282161407568277483256607444016855783376844266919986808"
+          },
+          {
+            "name": "No",
+            "price": "0.7",
+            "chance": "0.705",
+            "index": 1,
+            "tokenId": "52122050649043706645341726816213358498655879743014437719995276019911209893262"
+          }
+        ]
+      }
+    ],
+    "tradeVolume": "19442",
+    "liquidity": "2247643.4",
+    "publishedAt": 1782987846762,
+    "startDate": 1783382400000,
+    "endDate": 1783393200000,
+    "status": "REGISTERED"
+  },
+  {
+    "marketTopicId": 4301530,
+    "vendor": "PREDICT_FUN",
+    "chainId": "56",
+    "slug": "fifwc-usa-bel-2026-07-06-more-markets",
+    "title": "United States vs. Belgium - More Markets",
+    "question": "Spread: United States (-1.5)",
+    "imageUrl": "https://static.predict.fun/fifwc",
+    "thumbnailPaths": [
+      {
+        "size": "800x800",
+        "path": "file-center/web3-prediction/S3/topic/1782989694776_va7plq0y7bed51re6ue7v8zi48qdxu4f_NEF_q80_800x800"
+      },
+      {
+        "size": "400x400",
+        "path": "file-center/web3-prediction/S3/topic/1782989694776_va7plq0y7bed51re6ue7v8zi48qdxu4f_NEF_q80_400x400"
+      },
+      {
+        "size": "96x96",
+        "path": "file-center/web3-prediction/S3/topic/1782989694776_va7plq0y7bed51re6ue7v8zi48qdxu4f_NEF_q80_96x96"
+      },
+      {
+        "size": "64x64",
+        "path": "file-center/web3-prediction/S3/topic/1782989694776_va7plq0y7bed51re6ue7v8zi48qdxu4f_NEF_q80_64x64"
+      }
+    ],
+    "topicType": "GROUPED",
+    "variantData": {
+      "type": "SPORTS_FIFA_WORLD_CUP"
+    },
+    "participantCount": 219,
+    "collateral": "USDT",
+    "feeRateBps": 200,
+    "slippageBps": 1000,
+    "isYieldBearing": true,
+    "exchangeContractAddress": "0x8A289d458f5a134bA40015085A8F50Ffb681B41d",
+    "markets": [
+      {
+        "marketId": 6279416,
+        "externalId": "655158",
+        "title": "O/U 0.5",
+        "question": "United States vs. Belgium: O/U 0.5",
+        "description": "In the upcoming FIFA World Cup game between United States and Belgium, scheduled for July 6 at 8:00 PM ET:\n\nThis market will resolve to \"Over\" if United States and Belgium combine to score 1 or more goals in this game.\n\nIf the combined total is less than 1, this market will resolve to \"Under\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nIf the game is started but not completed, this market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xd75715d21e8655433b7aa553283cd6a5b52346c08e5b14aed5f4ab9f7d07b094",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782990002979_azslyolkb4wdm1ti40hy2oc0argshmej_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782990002979_azslyolkb4wdm1ti40hy2oc0argshmej_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782990002979_azslyolkb4wdm1ti40hy2oc0argshmej_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782990002979_azslyolkb4wdm1ti40hy2oc0argshmej_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "53.19",
+        "liquidity": "1195412.09",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Over",
+            "price": "0.94",
+            "chance": "0.935",
+            "index": 0,
+            "tokenId": "101018876231488431893374279988749887035055087022025238875728158256314219696025"
+          },
+          {
+            "name": "Under",
+            "price": "0.06",
+            "chance": "0.065",
+            "index": 1,
+            "tokenId": "9862276224222797324495312569056942328122001425619296730722171976733783692436"
+          }
+        ]
+      },
+      {
+        "marketId": 6279417,
+        "externalId": "655159",
+        "title": "O/U 1.5",
+        "question": "United States vs. Belgium: O/U 1.5",
+        "description": "In the upcoming FIFA World Cup game between United States and Belgium, scheduled for July 6 at 8:00 PM ET:\n\nThis market will resolve to \"Over\" if United States and Belgium combine to score 2 or more goals in this game.\n\nIf the combined total is less than 2, this market will resolve to \"Under\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nIf the game is started but not completed, this market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x66bfad91d7adf3af3f1e8a1919829ffa54c6d7058f1d4cfdf2f35f27f157044d",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782989694759_r35d9tm5mev5mhij02atvlqigo4yadat_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782989694759_r35d9tm5mev5mhij02atvlqigo4yadat_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782989694759_r35d9tm5mev5mhij02atvlqigo4yadat_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782989694759_r35d9tm5mev5mhij02atvlqigo4yadat_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "3.05",
+        "liquidity": "529902.51",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Over",
+            "price": "0.79",
+            "chance": "0.785",
+            "index": 0,
+            "tokenId": "82043283625613784122952055268472586968508589706449079831783126244218301720671"
+          },
+          {
+            "name": "Under",
+            "price": "0.21",
+            "chance": "0.215",
+            "index": 1,
+            "tokenId": "17068487092975665267551015918570884947205674007696891610366405683171748320935"
+          }
+        ]
+      },
+      {
+        "marketId": 6279446,
+        "externalId": "655167",
+        "title": "Both Teams to Score",
+        "question": "United States vs. Belgium: Both Teams to Score",
+        "description": "In the upcoming FIFA World Cup game between United States and Belgium, scheduled for July 6 at 8:00 PM ET:\n\nThis market will resolve to \"Yes\" if both United States and Belgium each score at least one goal during the game.\n\nThis market will resolve to \"No\" if either team fails to score (i.e., if one or both teams finish with zero goals).\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nIf the game is started but not completed, this market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xde9103fde36096b216d243e8dcfda67b0b281582dde365bc73d21b6e497df00f",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782990003331_0hf0ylwzjp9yvvqd0fshwagiq4rel90h_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782990003331_0hf0ylwzjp9yvvqd0fshwagiq4rel90h_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782990003331_0hf0ylwzjp9yvvqd0fshwagiq4rel90h_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782990003331_0hf0ylwzjp9yvvqd0fshwagiq4rel90h_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "1275.82",
+        "liquidity": "955861.19",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.62",
+            "chance": "0.615",
+            "index": 0,
+            "tokenId": "95442696284453143898606562181962389549068120658103742197328681695037533427095"
+          },
+          {
+            "name": "No",
+            "price": "0.38",
+            "chance": "0.385",
+            "index": 1,
+            "tokenId": "13777541088575308555488874928972886766934933959881065988049361696144705503403"
+          }
+        ]
+      },
+      {
+        "marketId": 6279418,
+        "externalId": "655160",
+        "title": "O/U 2.5",
+        "question": "United States vs. Belgium: O/U 2.5",
+        "description": "In the upcoming FIFA World Cup game between United States and Belgium, scheduled for July 6 at 8:00 PM ET:\n\nThis market will resolve to \"Over\" if United States and Belgium combine to score 3 or more goals in this game.\n\nIf the combined total is less than 3, this market will resolve to \"Under\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nIf the game is started but not completed, this market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x1b45bb364ec01d8d8a4dc212124803dbae01613cce946ce7051a3fe0c469664e",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782990002984_4126bez7mhgh8trwil869ssl7obik257_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782990002984_4126bez7mhgh8trwil869ssl7obik257_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782990002984_4126bez7mhgh8trwil869ssl7obik257_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782990002984_4126bez7mhgh8trwil869ssl7obik257_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "2469.4",
+        "liquidity": "397139.27",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Over",
+            "price": "0.56",
+            "chance": "0.555",
+            "index": 0,
+            "tokenId": "83031438626829870439085750685895834695929354078012683259396004233586108626239"
+          },
+          {
+            "name": "Under",
+            "price": "0.44",
+            "chance": "0.445",
+            "index": 1,
+            "tokenId": "109945033214439387728761860096387886015144549882757308708054538817278384235180"
+          }
+        ]
+      },
+      {
+        "marketId": 6279908,
+        "externalId": "655168",
+        "title": "Team to Advance",
+        "question": "United States vs. Belgium: Team to Advance",
+        "description": "In the upcoming FIFA World Cup game between United States and Belgium, scheduled for July 6 at 8:00 PM ET: This market will resolve to \"United States\" if United States is the team that officially advances from this match to the next round of the FIFA World Cup, or is crowned winner of the competition if this match is the final. This market will resolve to \"Belgium\" if Belgium is the team that officially advances from this match to the next round of the FIFA World Cup, or is crowned winner of the competition if this match is the final. This includes advancement after regulation, extra time, a penalty shoot-out, or an official ruling by the competition organizer such as forfeit, abandonment, or disqualification. If the game is postponed, this market will remain open until the game has been completed or a team is officially declared to advance. If the game is canceled entirely and no team advances from this match, this market will resolve 50-50. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 24 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x359572cff7fa5c10c991f483a18cbc028394d69b1853a7dbfaab3d68f222422b",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782989868616_elp61vd7lqx4r3z35f6epc7kinjuvlcf_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782989868616_elp61vd7lqx4r3z35f6epc7kinjuvlcf_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782989868616_elp61vd7lqx4r3z35f6epc7kinjuvlcf_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782989868616_elp61vd7lqx4r3z35f6epc7kinjuvlcf_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "27943.77",
+        "liquidity": "538391.81",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "USA",
+            "price": "0.51",
+            "chance": "0.505",
+            "index": 0,
+            "tokenId": "71695204990966520913769872629055057085676542048360440680651346204459843369550"
+          },
+          {
+            "name": "BEL",
+            "price": "0.49",
+            "chance": "0.495",
+            "index": 1,
+            "tokenId": "28555699295109586863050730159458620343940585556781144982117221733119362990769"
+          }
+        ]
+      },
+      {
+        "marketId": 6279419,
+        "externalId": "655161",
+        "title": "O/U 3.5",
+        "question": "United States vs. Belgium: O/U 3.5",
+        "description": "In the upcoming FIFA World Cup game between United States and Belgium, scheduled for July 6 at 8:00 PM ET:\n\nThis market will resolve to \"Over\" if United States and Belgium combine to score 4 or more goals in this game.\n\nIf the combined total is less than 4, this market will resolve to \"Under\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nIf the game is started but not completed, this market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x03f383ef6f5751fdee8eaa9deae4e464e561d2e87e00862ae13a8291d5ab3c5b",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782990002962_5uf9kcldhltxlcn0b22jtmjic9cgn722_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782990002962_5uf9kcldhltxlcn0b22jtmjic9cgn722_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782990002962_5uf9kcldhltxlcn0b22jtmjic9cgn722_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782990002962_5uf9kcldhltxlcn0b22jtmjic9cgn722_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "26.67",
+        "liquidity": "213381.31",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Over",
+            "price": "0.34",
+            "chance": "0.33",
+            "index": 0,
+            "tokenId": "10376074687069921399263245543919527955863367242781762157242643407022950973942"
+          },
+          {
+            "name": "Under",
+            "price": "0.66",
+            "chance": "0.67",
+            "index": 1,
+            "tokenId": "31632180922955247676804685951584669304586462581851498779745269638146712433665"
+          }
+        ]
+      },
+      {
+        "marketId": 6279407,
+        "externalId": "655149",
+        "title": "Belgium (-1.5)",
+        "question": "Spread: Belgium (-1.5)",
+        "description": "In the upcoming FIFA World Cup game, scheduled for July 6 at 8:00 PM ET:\n\nThis market will resolve to \"Belgium\" if Belgium win the game by 2 or more goals.\n\nOtherwise, this market will resolve to \"United States\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x70c64b45c3def4ecf4df5f8a77c718b9c44ccd1ec86eea922f5a69c5e4934c53",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782990002960_8a66m9ebvjepsi2la0m4vkxphwxvjtzx_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782990002960_8a66m9ebvjepsi2la0m4vkxphwxvjtzx_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782990002960_8a66m9ebvjepsi2la0m4vkxphwxvjtzx_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782990002960_8a66m9ebvjepsi2la0m4vkxphwxvjtzx_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "157.5",
+        "liquidity": "136526.49",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "BEL",
+            "price": "0.18",
+            "chance": "0.175",
+            "index": 0,
+            "tokenId": "30378596606792456997993625961556230284309909253680899915656395557918091073219"
+          },
+          {
+            "name": "USA",
+            "price": "0.82",
+            "chance": "0.825",
+            "index": 1,
+            "tokenId": "72625015242790373823437544132222848573946904927962667948880277570165196181339"
+          }
+        ]
+      },
+      {
+        "marketId": 6279406,
+        "externalId": "655148",
+        "title": "United States (-1.5)",
+        "question": "Spread: United States (-1.5)",
+        "description": "In the upcoming FIFA World Cup game, scheduled for July 6 at 8:00 PM ET:\n\nThis market will resolve to \"United States\" if United States win the game by 2 or more goals.\n\nOtherwise, this market will resolve to \"Belgium\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xc9834de5971d1f24265499de3eef038783ddf90e0c67b68bed44a973ac9ea049",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782990002965_qe8bomkhhu1iltlhq1yt3c0j6i1ekhza_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782990002965_qe8bomkhhu1iltlhq1yt3c0j6i1ekhza_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782990002965_qe8bomkhhu1iltlhq1yt3c0j6i1ekhza_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782990002965_qe8bomkhhu1iltlhq1yt3c0j6i1ekhza_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "249.73",
+        "liquidity": "133724.48",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "USA",
+            "price": "0.17",
+            "chance": "0.165",
+            "index": 0,
+            "tokenId": "99615406656890269589104354127055412920584045223875334586284356979183010617130"
+          },
+          {
+            "name": "BEL",
+            "price": "0.83",
+            "chance": "0.835",
+            "index": 1,
+            "tokenId": "63425917193602628421807476098897624680149533897646924804194635728940074856467"
+          }
+        ]
+      },
+      {
+        "marketId": 6279420,
+        "externalId": "655162",
+        "title": "O/U 4.5",
+        "question": "United States vs. Belgium: O/U 4.5",
+        "description": "In the upcoming FIFA World Cup game between United States and Belgium, scheduled for July 6 at 8:00 PM ET:\n\nThis market will resolve to \"Over\" if United States and Belgium combine to score 5 or more goals in this game.\n\nIf the combined total is less than 5, this market will resolve to \"Under\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nIf the game is started but not completed, this market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xd11b26bd5a86175ed66c39cbf334b4044e1547dd9e9b6007cb1b908fb566a351",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782990002967_zdbzlox5ob00qvflufv12je0im7t28sh_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782990002967_zdbzlox5ob00qvflufv12je0im7t28sh_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782990002967_zdbzlox5ob00qvflufv12je0im7t28sh_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782990002967_zdbzlox5ob00qvflufv12je0im7t28sh_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "13.36",
+        "liquidity": "111834.07",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Over",
+            "price": "0.17",
+            "chance": "0.165",
+            "index": 0,
+            "tokenId": "96497817917291666791506031592574300770490909844291905033314288785004626369082"
+          },
+          {
+            "name": "Under",
+            "price": "0.83",
+            "chance": "0.835",
+            "index": 1,
+            "tokenId": "100749315499750041168491551753493785697514058778376124711190188472765693564442"
+          }
+        ]
+      },
+      {
+        "marketId": 6279412,
+        "externalId": "655154",
+        "title": "United States (-4.5)",
+        "question": "Spread: United States (-4.5)",
+        "description": "In the upcoming FIFA World Cup game, scheduled for July 6 at 8:00 PM ET:\n\nThis market will resolve to \"United States\" if United States win the game by 5 or more goals.\n\nOtherwise, this market will resolve to \"Belgium\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xcf4ab48e90641cf8d443c24f3408f6081ef219c5ce09194770227173e5de80d5",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782989694767_x026ixf76892y816hlebszqq78yiz28d_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782989694767_x026ixf76892y816hlebszqq78yiz28d_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782989694767_x026ixf76892y816hlebszqq78yiz28d_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782989694767_x026ixf76892y816hlebszqq78yiz28d_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "0",
+        "liquidity": "4762.51",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "USA",
+            "price": "0.1",
+            "chance": "0.1",
+            "index": 0,
+            "tokenId": "110094123976687247127805182785544426717496903000159275489169755199278763060954"
+          },
+          {
+            "name": "BEL",
+            "price": "0.9",
+            "chance": "0.9",
+            "index": 1,
+            "tokenId": "115551902697890068910209735811284123892916368251223566244647244292367132354326"
+          }
+        ]
+      },
+      {
+        "marketId": 6279421,
+        "externalId": "655163",
+        "title": "O/U 5.5",
+        "question": "United States vs. Belgium: O/U 5.5",
+        "description": "In the upcoming FIFA World Cup game between United States and Belgium, scheduled for July 6 at 8:00 PM ET:\n\nThis market will resolve to \"Over\" if United States and Belgium combine to score 6 or more goals in this game.\n\nIf the combined total is less than 6, this market will resolve to \"Under\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nIf the game is started but not completed, this market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x40a517c59ea1c82115f54e14017f02bee44fb1be9f61c5ff1938970045b8c91d",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782989694765_3coo2hu2hj7u0jcaw4ofspnt1z28y9xy_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782989694765_3coo2hu2hj7u0jcaw4ofspnt1z28y9xy_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782989694765_3coo2hu2hj7u0jcaw4ofspnt1z28y9xy_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782989694765_3coo2hu2hj7u0jcaw4ofspnt1z28y9xy_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "0",
+        "liquidity": "76110.35",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Over",
+            "price": "0.08",
+            "chance": "0.075",
+            "index": 0,
+            "tokenId": "75651494348788183378274045845244798353931151225750234543221187928370221253226"
+          },
+          {
+            "name": "Under",
+            "price": "0.92",
+            "chance": "0.925",
+            "index": 1,
+            "tokenId": "64978810620877254268565574109178475482002920137308545835317194253434489650615"
+          }
+        ]
+      },
+      {
+        "marketId": 6279408,
+        "externalId": "655150",
+        "title": "United States (-2.5)",
+        "question": "Spread: United States (-2.5)",
+        "description": "In the upcoming FIFA World Cup game, scheduled for July 6 at 8:00 PM ET:\n\nThis market will resolve to \"United States\" if United States win the game by 3 or more goals.\n\nOtherwise, this market will resolve to \"Belgium\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xbde9ee0aec341a5b29732b6f72fdb67cee444aa7d846314ed927c0c1bd752e5e",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782990002976_3htglne0acay4r6m0xc9ro0dk0sdcumr_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782990002976_3htglne0acay4r6m0xc9ro0dk0sdcumr_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782990002976_3htglne0acay4r6m0xc9ro0dk0sdcumr_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782990002976_3htglne0acay4r6m0xc9ro0dk0sdcumr_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "0",
+        "liquidity": "58679.91",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "USA",
+            "price": "0.07",
+            "chance": "0.065",
+            "index": 0,
+            "tokenId": "10663034336681633576934507238148701691070689098204564386292939809081663217678"
+          },
+          {
+            "name": "BEL",
+            "price": "0.93",
+            "chance": "0.935",
+            "index": 1,
+            "tokenId": "16011693871076863377315528620803571102333178530928284239450980704461033005333"
+          }
+        ]
+      },
+      {
+        "marketId": 6279409,
+        "externalId": "655151",
+        "title": "Belgium (-2.5)",
+        "question": "Spread: Belgium (-2.5)",
+        "description": "In the upcoming FIFA World Cup game, scheduled for July 6 at 8:00 PM ET:\n\nThis market will resolve to \"Belgium\" if Belgium win the game by 3 or more goals.\n\nOtherwise, this market will resolve to \"United States\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x1b8e44914918690b5811e6360455a5aa7c9468be3bb462cafec038675f8f4cf0",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782990002978_ddm336w0dxszcrszceakpno7rmw9tajn_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782990002978_ddm336w0dxszcrszceakpno7rmw9tajn_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782990002978_ddm336w0dxszcrszceakpno7rmw9tajn_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782990002978_ddm336w0dxszcrszceakpno7rmw9tajn_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "0",
+        "liquidity": "85855.52",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "BEL",
+            "price": "0.07",
+            "chance": "0.065",
+            "index": 0,
+            "tokenId": "98508269275415181544768521432762854971556677939790983336574645420070632480901"
+          },
+          {
+            "name": "USA",
+            "price": "0.93",
+            "chance": "0.935",
+            "index": 1,
+            "tokenId": "31432315335418632564795142435321860624922293895630802099723031051589978057212"
+          }
+        ]
+      },
+      {
+        "marketId": 6279422,
+        "externalId": "655164",
+        "title": "O/U 6.5",
+        "question": "United States vs. Belgium: O/U 6.5",
+        "description": "In the upcoming FIFA World Cup game between United States and Belgium, scheduled for July 6 at 8:00 PM ET:\n\nThis market will resolve to \"Over\" if United States and Belgium combine to score 7 or more goals in this game.\n\nIf the combined total is less than 7, this market will resolve to \"Under\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nIf the game is started but not completed, this market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xe59b709a1eede4bb10394abf31b9cf225b5fb982225702dc3f44db4225f828ff",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782990002962_ol60yevg6uq2igb7nioaw842ojp6xumh_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782990002962_ol60yevg6uq2igb7nioaw842ojp6xumh_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782990002962_ol60yevg6uq2igb7nioaw842ojp6xumh_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782990002962_ol60yevg6uq2igb7nioaw842ojp6xumh_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "0",
+        "liquidity": "105618.12",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Over",
+            "price": "0.04",
+            "chance": "0.03",
+            "index": 0,
+            "tokenId": "2412353379730711396312884246469166108532791344510801764300460984528205377274"
+          },
+          {
+            "name": "Under",
+            "price": "0.96",
+            "chance": "0.97",
+            "index": 1,
+            "tokenId": "84531582353826530416093962181443622100394222727039341262186382834993092310264"
+          }
+        ]
+      },
+      {
+        "marketId": 6279411,
+        "externalId": "655153",
+        "title": "Belgium (-3.5)",
+        "question": "Spread: Belgium (-3.5)",
+        "description": "In the upcoming FIFA World Cup game, scheduled for July 6 at 8:00 PM ET:\n\nThis market will resolve to \"Belgium\" if Belgium win the game by 4 or more goals.\n\nOtherwise, this market will resolve to \"United States\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xd413e4e7ac044a950e2503d96be26b41813d5e74e1066bfa1bcbb1b3b3a88483",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782990002979_ynwiegpikepkrldlrrh28ylqzpi5ajwn_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782990002979_ynwiegpikepkrldlrrh28ylqzpi5ajwn_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782990002979_ynwiegpikepkrldlrrh28ylqzpi5ajwn_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782990002979_ynwiegpikepkrldlrrh28ylqzpi5ajwn_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "0",
+        "liquidity": "5886.63",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "BEL",
+            "price": "0.03",
+            "chance": "0.025",
+            "index": 0,
+            "tokenId": "17654596471279449309124905536412140890633945186366126724256389130464455158275"
+          },
+          {
+            "name": "USA",
+            "price": "0.97",
+            "chance": "0.975",
+            "index": 1,
+            "tokenId": "83239081902572345312260592829659877098473611069596281884715474463388418858932"
+          }
+        ]
+      },
+      {
+        "marketId": 6279410,
+        "externalId": "655152",
+        "title": "United States (-3.5)",
+        "question": "Spread: United States (-3.5)",
+        "description": "In the upcoming FIFA World Cup game, scheduled for July 6 at 8:00 PM ET:\n\nThis market will resolve to \"United States\" if United States win the game by 4 or more goals.\n\nOtherwise, this market will resolve to \"Belgium\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xc8edb148521a249be88fa77fab6fe2261f11ea148bea6be1cf2c6531d457313a",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782990002977_3kjx8xkiusergi0rbczrt2fusj09ljb1_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782990002977_3kjx8xkiusergi0rbczrt2fusj09ljb1_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782990002977_3kjx8xkiusergi0rbczrt2fusj09ljb1_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782990002977_3kjx8xkiusergi0rbczrt2fusj09ljb1_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "0",
+        "liquidity": "4398.47",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "USA",
+            "price": "0.03",
+            "chance": "0.02",
+            "index": 0,
+            "tokenId": "30902898990643380257396380502314625966415523081125920801060715671364190010200"
+          },
+          {
+            "name": "BEL",
+            "price": "0.97",
+            "chance": "0.98",
+            "index": 1,
+            "tokenId": "10386118093163785334645725139306893905913941340424585095478612902877316964223"
+          }
+        ]
+      },
+      {
+        "marketId": 6279413,
+        "externalId": "655155",
+        "title": "Belgium (-4.5)",
+        "question": "Spread: Belgium (-4.5)",
+        "description": "In the upcoming FIFA World Cup game, scheduled for July 6 at 8:00 PM ET:\n\nThis market will resolve to \"Belgium\" if Belgium win the game by 5 or more goals.\n\nOtherwise, this market will resolve to \"United States\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xed97521beb9466940b774074559186ecd8301b79d7f5eb3aef05215502aec6e4",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782990002966_fci6ap2t6iz6oas3yv3m4n6gitzl89l4_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782990002966_fci6ap2t6iz6oas3yv3m4n6gitzl89l4_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782990002966_fci6ap2t6iz6oas3yv3m4n6gitzl89l4_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782990002966_fci6ap2t6iz6oas3yv3m4n6gitzl89l4_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "0",
+        "liquidity": "386.4",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "BEL",
+            "price": "0.02",
+            "chance": "0.02",
+            "index": 0,
+            "tokenId": "89639503909742140418986371488603460291130333662684207934972181632231546347832"
+          },
+          {
+            "name": "USA",
+            "price": "0.98",
+            "chance": "0.98",
+            "index": 1,
+            "tokenId": "91278707868246810936784116604581420543351471353405059278717689765677820079277"
+          }
+        ]
+      },
+      {
+        "marketId": 6279415,
+        "externalId": "655157",
+        "title": "Belgium (-5.5)",
+        "question": "Spread: Belgium (-5.5)",
+        "description": "In the upcoming FIFA World Cup game, scheduled for July 6 at 8:00 PM ET:\n\nThis market will resolve to \"Belgium\" if Belgium win the game by 6 or more goals.\n\nOtherwise, this market will resolve to \"United States\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x93ed7ac00532a8eb792485aa202409529a0c5fbf799ee5acda729200103aeb0d",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782990002967_opogi5se91eqowu4plrxdavbohvp2bwv_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782990002967_opogi5se91eqowu4plrxdavbohvp2bwv_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782990002967_opogi5se91eqowu4plrxdavbohvp2bwv_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782990002967_opogi5se91eqowu4plrxdavbohvp2bwv_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "0",
+        "liquidity": "4763.91",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "BEL",
+            "price": "0.02",
+            "chance": "0.02",
+            "index": 0,
+            "tokenId": "76877980934643689660723490748910499343761283119331933765438539810154544616372"
+          },
+          {
+            "name": "USA",
+            "price": "0.98",
+            "chance": "0.98",
+            "index": 1,
+            "tokenId": "28576046032934380521457174338837562804066948413485441869768998417117850384720"
+          }
+        ]
+      },
+      {
+        "marketId": 6279423,
+        "externalId": "655165",
+        "title": "O/U 7.5",
+        "question": "United States vs. Belgium: O/U 7.5",
+        "description": "In the upcoming FIFA World Cup game between United States and Belgium, scheduled for July 6 at 8:00 PM ET:\n\nThis market will resolve to \"Over\" if United States and Belgium combine to score 8 or more goals in this game.\n\nIf the combined total is less than 8, this market will resolve to \"Under\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nIf the game is started but not completed, this market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x22c42f34d11cb5dc3e3a9949d021749744ebf49393d0b5fe4482305c563e84ab",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782990002968_81xa1hn3reu0yazaq45rvq3r6lsu1wn0_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782990002968_81xa1hn3reu0yazaq45rvq3r6lsu1wn0_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782990002968_81xa1hn3reu0yazaq45rvq3r6lsu1wn0_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782990002968_81xa1hn3reu0yazaq45rvq3r6lsu1wn0_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "0",
+        "liquidity": "4419.19",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Over",
+            "price": "0.02",
+            "chance": "0.015",
+            "index": 0,
+            "tokenId": "82339503525154926084376363120818047706196962029893556766715297029726828264502"
+          },
+          {
+            "name": "Under",
+            "price": "0.98",
+            "chance": "0.985",
+            "index": 1,
+            "tokenId": "104258799740111397550609926928907359907168968929401023822919755512412802944710"
+          }
+        ]
+      },
+      {
+        "marketId": 6279424,
+        "externalId": "655166",
+        "title": "O/U 8.5",
+        "question": "United States vs. Belgium: O/U 8.5",
+        "description": "In the upcoming FIFA World Cup game between United States and Belgium, scheduled for July 6 at 8:00 PM ET:\n\nThis market will resolve to \"Over\" if United States and Belgium combine to score 9 or more goals in this game.\n\nIf the combined total is less than 9, this market will resolve to \"Under\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nIf the game is started but not completed, this market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x0ce4df87d54b99b7eba94680755a5672edd1b55d9dbbf41a4e0db273011f0f8b",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782990002978_o1fuiya0pxkq2tscn2vi83zwx4646l9r_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782990002978_o1fuiya0pxkq2tscn2vi83zwx4646l9r_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782990002978_o1fuiya0pxkq2tscn2vi83zwx4646l9r_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782990002978_o1fuiya0pxkq2tscn2vi83zwx4646l9r_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "90.02",
+        "liquidity": "3817.69",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Over",
+            "price": "0.02",
+            "chance": "0.015",
+            "index": 0,
+            "tokenId": "49828941318542528990593775698726545653574632233606572862253830228942334854826"
+          },
+          {
+            "name": "Under",
+            "price": "0.98",
+            "chance": "0.985",
+            "index": 1,
+            "tokenId": "728684378647242525565955665955817315054884722903705813809271708526271263190"
+          }
+        ]
+      },
+      {
+        "marketId": 6279414,
+        "externalId": "655156",
+        "title": "United States (-5.5)",
+        "question": "Spread: United States (-5.5)",
+        "description": "In the upcoming FIFA World Cup game, scheduled for July 6 at 8:00 PM ET:\n\nThis market will resolve to \"United States\" if United States win the game by 6 or more goals.\n\nOtherwise, this market will resolve to \"Belgium\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xca9600a6032307b5fda5c7864eff8ed7a6c6cdcf2f7bac0003ff62e02db1d2a6",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782990002961_ywmi9ljbeu141me7w92rec1ugwnn8ihb_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782990002961_ywmi9ljbeu141me7w92rec1ugwnn8ihb_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782990002961_ywmi9ljbeu141me7w92rec1ugwnn8ihb_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782990002961_ywmi9ljbeu141me7w92rec1ugwnn8ihb_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "0",
+        "liquidity": "1472.92",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "USA",
+            "price": "0.01",
+            "chance": "0.01",
+            "index": 0,
+            "tokenId": "75806364850899412235057783782281604112664394147598940141357921684617649572607"
+          },
+          {
+            "name": "BEL",
+            "price": "0.99",
+            "chance": "0.99",
+            "index": 1,
+            "tokenId": "31831500351479496417402574078760315509153929177556799446807309876863884682634"
+          }
+        ]
+      }
+    ],
+    "tradeVolume": "32296.23",
+    "liquidity": "5307361.98",
+    "publishedAt": 1782989692665,
+    "startDate": 1783382400000,
+    "endDate": 1783393200000,
+    "status": "REGISTERED"
+  },
+  {
+    "marketTopicId": 4368471,
+    "vendor": "PREDICT_FUN",
+    "chainId": "56",
+    "slug": "fifwc-usa-bel-2026-07-06-player-props",
+    "title": "United States vs. Belgium - Player Props",
+    "question": "Christian Pulisic: 1+ goals",
+    "imageUrl": "https://static.predict.fun/fifwc-usa-bel-2026-07-06-player-props",
+    "thumbnailPaths": [
+      {
+        "size": "800x800",
+        "path": "file-center/web3-prediction/S3/topic/1783074599905_avolxaqbncufmmevedzi1emz2q00jfim_NEF_q80_800x800"
+      },
+      {
+        "size": "400x400",
+        "path": "file-center/web3-prediction/S3/topic/1783074599905_avolxaqbncufmmevedzi1emz2q00jfim_NEF_q80_400x400"
+      },
+      {
+        "size": "96x96",
+        "path": "file-center/web3-prediction/S3/topic/1783074599905_avolxaqbncufmmevedzi1emz2q00jfim_NEF_q80_96x96"
+      },
+      {
+        "size": "64x64",
+        "path": "file-center/web3-prediction/S3/topic/1783074599905_avolxaqbncufmmevedzi1emz2q00jfim_NEF_q80_64x64"
+      }
+    ],
+    "topicType": "GROUPED",
+    "participantCount": 47,
+    "collateral": "USDT",
+    "feeRateBps": 200,
+    "slippageBps": 1000,
+    "isYieldBearing": false,
+    "exchangeContractAddress": "0x365fb81bd4A24D6303cd2F19c349dE6894D8d58A",
+    "markets": [
+      {
+        "marketId": 6390808,
+        "externalId": "667240",
+        "title": "Christian Pulisic Total Goals",
+        "question": "Christian Pulisic: 1+ goals",
+        "description": "In the upcoming FIFA World Cup game between USA and Belgium, scheduled for July 6 at 8:00 PM ET: This market will resolve to \"Yes\" if Christian Pulisic records 1+ goals in the official box score within the first 90 minutes of regular play plus stoppage time. Otherwise, this market will resolve to \"No\". Own goals do not count. If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve \"50-50\". If the player is listed as inactive or otherwise does not play, the market will resolve \"No\". The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 24 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xf553f5d9a47292af6c593b7c56e8491b7994c59fe6e9b88b7face69577f09860",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1783074599995_p2ildrlh4pq1hj71qzgqkkryhq448oad_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1783074599995_p2ildrlh4pq1hj71qzgqkkryhq448oad_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1783074599995_p2ildrlh4pq1hj71qzgqkkryhq448oad_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1783074599995_p2ildrlh4pq1hj71qzgqkkryhq448oad_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "1987.34",
+        "liquidity": "732.37",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Over 0.5",
+            "price": "0.99",
+            "chance": "0.57",
+            "index": 0,
+            "tokenId": "49703772356633673496277498804203845843563449652181213459635488272784348341500"
+          },
+          {
+            "name": "Under 0.5",
+            "price": "0.01",
+            "chance": "0.43",
+            "index": 1,
+            "tokenId": "80356195286763184623331315209513933331572188201993144978515917192677016808549"
+          }
+        ]
+      },
+      {
+        "marketId": 6390809,
+        "externalId": "667247",
+        "title": "De Ketelaere Total Goals",
+        "question": "De Ketelaere: 1+ goals",
+        "description": "In the upcoming FIFA World Cup game between USA and Belgium, scheduled for July 6 at 8:00 PM ET: This market will resolve to \"Yes\" if De Ketelaere records 1+ goals in the official box score within the first 90 minutes of regular play plus stoppage time. Otherwise, this market will resolve to \"No\". Own goals do not count. If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve \"50-50\". If the player is listed as inactive or otherwise does not play, the market will resolve \"No\". The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 24 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x8581202bac9036d3fb800d6a505d64a631c26d0cd0e5fdf20ccfafae850ded66",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1783074599875_qzkex9cbj0uyl4nez7ywmz38jqic2f73_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1783074599875_qzkex9cbj0uyl4nez7ywmz38jqic2f73_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1783074599875_qzkex9cbj0uyl4nez7ywmz38jqic2f73_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1783074599875_qzkex9cbj0uyl4nez7ywmz38jqic2f73_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "3593.52",
+        "liquidity": "601.2",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Over 0.5",
+            "price": "0.99",
+            "chance": "0.55",
+            "index": 0,
+            "tokenId": "33281929350232516072255259055102969535493970758132539110650703238413426137980"
+          },
+          {
+            "name": "Under 0.5",
+            "price": "0.01",
+            "chance": "0.45",
+            "index": 1,
+            "tokenId": "75982573765459701005993158851053526879170167268959374057208858761251164225954"
+          }
+        ]
+      }
+    ],
+    "tradeVolume": "5580.88",
+    "liquidity": "1333.56",
+    "publishedAt": 1783074598066,
+    "startDate": 1783382400000,
+    "endDate": 1783393200000,
+    "status": "REGISTERED"
+  },
+  {
+    "marketTopicId": 4298860,
+    "vendor": "PREDICT_FUN",
+    "chainId": "56",
+    "slug": "fifwc-usa-bel-2026-07-06-first-to-score",
+    "title": "United States vs. Belgium - First Team to Score",
+    "question": "United States to score first vs. Belgium?",
+    "imageUrl": "https://static.predict.fun/fifwc",
+    "thumbnailPaths": [
+      {
+        "size": "800x800",
+        "path": "file-center/web3-prediction/S3/topic/1782987848084_syzlcxxsjrm8avk4xwi267hhjb6tyway_NEF_q80_800x800"
+      },
+      {
+        "size": "400x400",
+        "path": "file-center/web3-prediction/S3/topic/1782987848084_syzlcxxsjrm8avk4xwi267hhjb6tyway_NEF_q80_400x400"
+      },
+      {
+        "size": "96x96",
+        "path": "file-center/web3-prediction/S3/topic/1782987848084_syzlcxxsjrm8avk4xwi267hhjb6tyway_NEF_q80_96x96"
+      },
+      {
+        "size": "64x64",
+        "path": "file-center/web3-prediction/S3/topic/1782987848084_syzlcxxsjrm8avk4xwi267hhjb6tyway_NEF_q80_64x64"
+      }
+    ],
+    "topicType": "GROUPED",
+    "variantData": {
+      "type": "SPORTS_FIFA_WORLD_CUP"
+    },
+    "participantCount": 62,
+    "collateral": "USDT",
+    "feeRateBps": 200,
+    "slippageBps": 1000,
+    "isYieldBearing": true,
+    "exchangeContractAddress": "0x8A289d458f5a134bA40015085A8F50Ffb681B41d",
+    "markets": [
+      {
+        "marketId": 6275922,
+        "externalId": "655041",
+        "title": "USA",
+        "question": "United States to score first vs. Belgium?",
+        "description": "In the upcoming match between United States and Belgium, scheduled for July 6, 2026 at 8:00 PM ET: This market will resolve to \"United States\" if United States are the first to score within the first 90 minutes of regular play plus stoppage time. This market will resolve to \"Belgium\" if Belgium are the first to score within the first 90 minutes of regular play plus stoppage time. If neither team scores within the first 90 minutes of regular play plus stoppage time, this market will resolve \"Neither\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve to \"Neither\". This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time. Extra time and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x9bafcf6bbe9d7230067237a7c795a2b1e5e98ec56b2b2ff9aacd4e18249f5f97",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782987848072_cvxul3uiqumsqsh0tm8lu273glsry8tb_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782987848072_cvxul3uiqumsqsh0tm8lu273glsry8tb_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782987848072_cvxul3uiqumsqsh0tm8lu273glsry8tb_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782987848072_cvxul3uiqumsqsh0tm8lu273glsry8tb_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "256.44",
+        "liquidity": "88121.44",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.49",
+            "chance": "0.485",
+            "index": 0,
+            "tokenId": "65081101142008123829771261330023151070023016490412421658980100464663527153592"
+          },
+          {
+            "name": "No",
+            "price": "0.51",
+            "chance": "0.515",
+            "index": 1,
+            "tokenId": "22843383209913354752716906621353089067573234294166692736052235668250571530407"
+          }
+        ]
+      },
+      {
+        "marketId": 6275923,
+        "externalId": "655042",
+        "title": "BEL",
+        "question": "Belgium to score first vs. United States?",
+        "description": "In the upcoming match between United States and Belgium, scheduled for July 6, 2026 at 8:00 PM ET: This market will resolve to \"United States\" if United States are the first to score within the first 90 minutes of regular play plus stoppage time. This market will resolve to \"Belgium\" if Belgium are the first to score within the first 90 minutes of regular play plus stoppage time. If neither team scores within the first 90 minutes of regular play plus stoppage time, this market will resolve \"Neither\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve to \"Neither\". This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time. Extra time and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x16a588da220883f8e6a37fe7b44a0931e28170ab994e80f450bb006697828d4b",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782988202802_w53werc7szb1uzk9xdzmgnrw4l7jejbv_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782988202802_w53werc7szb1uzk9xdzmgnrw4l7jejbv_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782988202802_w53werc7szb1uzk9xdzmgnrw4l7jejbv_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782988202802_w53werc7szb1uzk9xdzmgnrw4l7jejbv_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "312.96",
+        "liquidity": "407344.15",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.49",
+            "chance": "0.485",
+            "index": 0,
+            "tokenId": "17474035292019171650678898216439811336718810781486968973755686723423392616058"
+          },
+          {
+            "name": "No",
+            "price": "0.51",
+            "chance": "0.515",
+            "index": 1,
+            "tokenId": "107215862337259395466707010288856319441107582439951067408255443315901105093345"
+          }
+        ]
+      },
+      {
+        "marketId": 6275924,
+        "externalId": "655043",
+        "title": "Neither",
+        "question": "United States vs. Belgium: Neither team to score first?",
+        "description": "In the upcoming match between United States and Belgium, scheduled for July 6, 2026 at 8:00 PM ET: This market will resolve to \"United States\" if United States are the first to score within the first 90 minutes of regular play plus stoppage time. This market will resolve to \"Belgium\" if Belgium are the first to score within the first 90 minutes of regular play plus stoppage time. If neither team scores within the first 90 minutes of regular play plus stoppage time, this market will resolve \"Neither\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve to \"Neither\". This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time. Extra time and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x4cba527e436309a8d62355747d959b368c0c64420db1aaad9e02eae1f471a5ae",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782988202804_sug9wvh1icmmzh2ndb69h09vclfxyti2_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782988202804_sug9wvh1icmmzh2ndb69h09vclfxyti2_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782988202804_sug9wvh1icmmzh2ndb69h09vclfxyti2_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782988202804_sug9wvh1icmmzh2ndb69h09vclfxyti2_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "32.7",
+        "liquidity": "352878.18",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.07",
+            "chance": "0.065",
+            "index": 0,
+            "tokenId": "71723366293484611683935970703871756107566711578795370913978442476461581761793"
+          },
+          {
+            "name": "No",
+            "price": "0.93",
+            "chance": "0.935",
+            "index": 1,
+            "tokenId": "94195925028894961175293366476762365509516969024669871875992849628562798914718"
+          }
+        ]
+      }
+    ],
+    "tradeVolume": "602.12",
+    "liquidity": "841282.59",
+    "publishedAt": 1782987846762,
+    "startDate": 1783382400000,
+    "endDate": 1783393200000,
+    "status": "REGISTERED"
+  },
+  {
+    "marketTopicId": 4298861,
+    "vendor": "PREDICT_FUN",
+    "chainId": "56",
+    "slug": "fifwc-usa-bel-2026-07-06-halftime-result",
+    "title": "United States vs. Belgium - Halftime Result",
+    "question": "United States leading at halftime?",
+    "imageUrl": "https://static.predict.fun/fifwc",
+    "thumbnailPaths": [
+      {
+        "size": "800x800",
+        "path": "file-center/web3-prediction/S3/topic/1782987848257_i9es9qpw6ftg4134zi841fq7i6z5bap1_NEF_q80_800x800"
+      },
+      {
+        "size": "400x400",
+        "path": "file-center/web3-prediction/S3/topic/1782987848257_i9es9qpw6ftg4134zi841fq7i6z5bap1_NEF_q80_400x400"
+      },
+      {
+        "size": "96x96",
+        "path": "file-center/web3-prediction/S3/topic/1782987848257_i9es9qpw6ftg4134zi841fq7i6z5bap1_NEF_q80_96x96"
+      },
+      {
+        "size": "64x64",
+        "path": "file-center/web3-prediction/S3/topic/1782987848257_i9es9qpw6ftg4134zi841fq7i6z5bap1_NEF_q80_64x64"
+      }
+    ],
+    "topicType": "GROUPED",
+    "variantData": {
+      "type": "SPORTS_FIFA_WORLD_CUP"
+    },
+    "participantCount": 68,
+    "collateral": "USDT",
+    "feeRateBps": 200,
+    "slippageBps": 1000,
+    "isYieldBearing": true,
+    "exchangeContractAddress": "0x8A289d458f5a134bA40015085A8F50Ffb681B41d",
+    "markets": [
+      {
+        "marketId": 6275926,
+        "externalId": "655069",
+        "title": "Draw",
+        "question": "United States vs. Belgium: Draw at halftime?",
+        "description": "In the upcoming game, scheduled for July 6, 2026 If the game ends in a draw within the first 45 minutes of regular play plus stoppage time, this market will resolve to \"Yes\". Otherwise, this market will resolve to \"No\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve to \"Yes\". This market refers only to the outcome within the first 45 minutes of regular play plus stoppage time.The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 24 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xfa9c775d6c952f6c4d475a09f4331fefd8f743abf02907285e049135565efd20",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782988202798_np5ie0kivth3mk1isqtf4ueunf2o4ykh_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782988202798_np5ie0kivth3mk1isqtf4ueunf2o4ykh_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782988202798_np5ie0kivth3mk1isqtf4ueunf2o4ykh_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782988202798_np5ie0kivth3mk1isqtf4ueunf2o4ykh_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "176.39",
+        "liquidity": "532215.33",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.42",
+            "chance": "0.415",
+            "index": 0,
+            "tokenId": "12853814083239711203887898017089413583993752000357645306708637881836502831026"
+          },
+          {
+            "name": "No",
+            "price": "0.58",
+            "chance": "0.585",
+            "index": 1,
+            "tokenId": "4790742069397101898592676206906548159089300013739907132596550906263010196924"
+          }
+        ]
+      },
+      {
+        "marketId": 6275927,
+        "externalId": "655070",
+        "title": "BEL",
+        "question": "Belgium leading at halftime?",
+        "description": "In the upcoming game, scheduled for July 6, 2026 If Belgium wins within the first 45 minutes of regular play plus stoppage time, this market will resolve to \"Yes\". Otherwise, this market will resolve to \"No\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve \"No\". This market refers only to the outcome within the first 45 minutes of regular play plus stoppage time.The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 24 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xc71a1f62bfa37b9e8408f6a49a4cc4f3792764398bfe15e60cabd2601a3c712e",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782987848233_5813u78xb0th6ud6imb9qf0yi7etwlmm_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782987848233_5813u78xb0th6ud6imb9qf0yi7etwlmm_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782987848233_5813u78xb0th6ud6imb9qf0yi7etwlmm_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782987848233_5813u78xb0th6ud6imb9qf0yi7etwlmm_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "154.03",
+        "liquidity": "557812.9",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.31",
+            "chance": "0.305",
+            "index": 0,
+            "tokenId": "10161851056233846724902914404545578650848253359958120022936105002310203912492"
+          },
+          {
+            "name": "No",
+            "price": "0.69",
+            "chance": "0.695",
+            "index": 1,
+            "tokenId": "101623909965289753248984695889135000126900081693765761415009288649286458863163"
+          }
+        ]
+      },
+      {
+        "marketId": 6275925,
+        "externalId": "655068",
+        "title": "USA",
+        "question": "United States leading at halftime?",
+        "description": "In the upcoming game, scheduled for July 6, 2026 If United States wins within the first 45 minutes of regular play plus stoppage time, this market will resolve to \"Yes\". Otherwise, this market will resolve to \"No\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve \"No\". This market refers only to the outcome within the first 45 minutes of regular play plus stoppage time.The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 24 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x0baefffeeb1839183e7c7288fec207fa9b176cd2b44e6263c379cea77ddb0b87",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782987848228_h8o3lobvojvui22mt3dow0mqvxk026ie_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782987848228_h8o3lobvojvui22mt3dow0mqvxk026ie_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782987848228_h8o3lobvojvui22mt3dow0mqvxk026ie_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782987848228_h8o3lobvojvui22mt3dow0mqvxk026ie_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "177.28",
+        "liquidity": "517699.82",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.3",
+            "chance": "0.295",
+            "index": 0,
+            "tokenId": "107327002223050095064251016410949331817135346669474516159505170749086101661228"
+          },
+          {
+            "name": "No",
+            "price": "0.7",
+            "chance": "0.705",
+            "index": 1,
+            "tokenId": "84727093150864410133783627860016047674166245155338928506189686742149496411824"
+          }
+        ]
+      }
+    ],
+    "tradeVolume": "507.71",
+    "liquidity": "1610229.01",
+    "publishedAt": 1782987846762,
+    "startDate": 1783382400000,
+    "endDate": 1783393200000,
+    "status": "REGISTERED"
+  },
+  {
+    "marketTopicId": 4372161,
+    "vendor": "PREDICT_FUN",
+    "chainId": "56",
+    "slug": "fifwc-usa-bel-2026-07-06-total-corners",
+    "title": "United States vs. Belgium - Total Corners",
+    "question": "United States vs. Belgium: O/U 9.5 Total Corners",
+    "imageUrl": "https://static.predict.fun/fifwc",
+    "thumbnailPaths": [
+      {
+        "size": "800x800",
+        "path": "file-center/web3-prediction/S3/topic/1783156191548_0mhsu22jon7e9x13gb6dbofexddk6l35_NEF_q80_800x800"
+      },
+      {
+        "size": "400x400",
+        "path": "file-center/web3-prediction/S3/topic/1783156191548_0mhsu22jon7e9x13gb6dbofexddk6l35_NEF_q80_400x400"
+      },
+      {
+        "size": "96x96",
+        "path": "file-center/web3-prediction/S3/topic/1783156191548_0mhsu22jon7e9x13gb6dbofexddk6l35_NEF_q80_96x96"
+      },
+      {
+        "size": "64x64",
+        "path": "file-center/web3-prediction/S3/topic/1783156191548_0mhsu22jon7e9x13gb6dbofexddk6l35_NEF_q80_64x64"
+      }
+    ],
+    "topicType": "GROUPED",
+    "variantData": {
+      "type": "SPORTS_FIFA_WORLD_CUP"
+    },
+    "participantCount": 29,
+    "collateral": "USDT",
+    "feeRateBps": 200,
+    "slippageBps": 1000,
+    "isYieldBearing": false,
+    "exchangeContractAddress": "0x365fb81bd4A24D6303cd2F19c349dE6894D8d58A",
+    "markets": [
+      {
+        "marketId": 6421148,
+        "externalId": "675909",
+        "title": "Total Corners: O/U 9.5",
+        "question": "United States vs. Belgium: O/U 9.5 Total Corners",
+        "description": "In the upcoming FIFA World Cup game between United States and Belgium, scheduled for July 6 at 8:00 PM ET: This market will resolve to \"Over\" if there are 10 or more total corners taken in this game (combining corners for both teams). If the total number of corners is fewer than 10, this market will resolve to \"Under\". Markets on number of corners refers to number of corners taken and not corners awarded. If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50. This market refers only to corners taken within the first 90 minutes of regular play plus stoppage time. Corners awarded but not taken will not count. Corners awarded during extra time or penalty shootouts do not count. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 24 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xc02fa6d65cc963895768a2d04a5be5367d40adfdc1e2f494422daee87f638d0a",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1783156191540_o1t0v82e70dy773rbgrukk6eyanptu78_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1783156191540_o1t0v82e70dy773rbgrukk6eyanptu78_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1783156191540_o1t0v82e70dy773rbgrukk6eyanptu78_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1783156191540_o1t0v82e70dy773rbgrukk6eyanptu78_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "305.53",
+        "liquidity": "15506.62",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Over 9.5",
+            "price": "0.5",
+            "chance": "0.485",
+            "index": 0,
+            "tokenId": "64645609035965095159196693852608786848180871510954865701051947876062210952199"
+          },
+          {
+            "name": "Under 9.5",
+            "price": "0.5",
+            "chance": "0.515",
+            "index": 1,
+            "tokenId": "37083592845173587811721249410594947964202930122114011880838377142929676958352"
+          }
+        ]
+      }
+    ],
+    "tradeVolume": "305.54",
+    "liquidity": "14990.46",
+    "publishedAt": 1783156190084,
+    "startDate": 1783382400000,
+    "endDate": 1783393200000,
+    "status": "REGISTERED"
+  }
+]

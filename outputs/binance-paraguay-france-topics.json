@@ -1,0 +1,2664 @@
+[
+  {
+    "marketTopicId": 4251655,
+    "vendor": "PREDICT_FUN",
+    "chainId": "56",
+    "slug": "fifwc-par-fra-2026-07-04-exact-score",
+    "title": "Paraguay vs. France - Exact Score",
+    "question": "Exact Score: Paraguay 0 - 0 France?",
+    "imageUrl": "https://static.predict.fun/fifwc",
+    "thumbnailPaths": [
+      {
+        "size": "800x800",
+        "path": "file-center/web3-prediction/S3/topic/1782974242195_ajmdv8kdgf6kpygg7rb6lvzv69ff7jb8_NEF_q80_800x800"
+      },
+      {
+        "size": "400x400",
+        "path": "file-center/web3-prediction/S3/topic/1782974242195_ajmdv8kdgf6kpygg7rb6lvzv69ff7jb8_NEF_q80_400x400"
+      },
+      {
+        "size": "96x96",
+        "path": "file-center/web3-prediction/S3/topic/1782974242195_ajmdv8kdgf6kpygg7rb6lvzv69ff7jb8_NEF_q80_96x96"
+      },
+      {
+        "size": "64x64",
+        "path": "file-center/web3-prediction/S3/topic/1782974242195_ajmdv8kdgf6kpygg7rb6lvzv69ff7jb8_NEF_q80_64x64"
+      }
+    ],
+    "topicType": "GROUPED",
+    "variantData": {
+      "type": "SPORTS_FIFA_WORLD_CUP"
+    },
+    "participantCount": 7383,
+    "collateral": "USDT",
+    "feeRateBps": 200,
+    "slippageBps": 1000,
+    "isYieldBearing": false,
+    "exchangeContractAddress": "0x365fb81bd4A24D6303cd2F19c349dE6894D8d58A",
+    "markets": [
+      {
+        "marketId": 6187887,
+        "externalId": "644871",
+        "title": "PAR 0 - 1 FRA",
+        "question": "Exact Score: Paraguay 0 - 1 France?",
+        "description": "In the upcoming FIFA World Cup game between Paraguay and France, scheduled for July 4, 2026 at 5:00 PM ET: This market will resolve based on the final score of the Paraguay vs. France match originally scheduled for July 4, 2026 at 5:00 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xa8136b292101ad05234974104618ae94e8a5a2d3ccaa80469d0b5bbdf64580ab",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782974238287_njswdt0fszhftrzsaxtjocd356nck68l_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782974238287_njswdt0fszhftrzsaxtjocd356nck68l_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782974238287_njswdt0fszhftrzsaxtjocd356nck68l_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782974238287_njswdt0fszhftrzsaxtjocd356nck68l_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "112720.67",
+        "liquidity": "60547.86",
+        "decimalPrecision": 3,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.705",
+            "chance": "0.6975",
+            "index": 0,
+            "tokenId": "14560244207021867886003756575614834409445254914614812942726883061156374786876"
+          },
+          {
+            "name": "No",
+            "price": "0.295",
+            "chance": "0.2975",
+            "index": 1,
+            "tokenId": "31756394258957888746407962557349666151193530096608790029305480178851778444913"
+          }
+        ]
+      },
+      {
+        "marketId": 6187889,
+        "externalId": "644873",
+        "title": "PAR 0 - 2 FRA",
+        "question": "Exact Score: Paraguay 0 - 2 France?",
+        "description": "In the upcoming FIFA World Cup game between Paraguay and France, scheduled for July 4, 2026 at 5:00 PM ET: This market will resolve based on the final score of the Paraguay vs. France match originally scheduled for July 4, 2026 at 5:00 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x7cc2d2bc73f6d29a9b3798cd1d0e15cf5411aea039c44db79ab2504172df7345",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782974238488_jqgb610j5wyx31r2dwt18ge44zy7i7us_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782974238488_jqgb610j5wyx31r2dwt18ge44zy7i7us_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782974238488_jqgb610j5wyx31r2dwt18ge44zy7i7us_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782974238488_jqgb610j5wyx31r2dwt18ge44zy7i7us_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "391955.8",
+        "liquidity": "36767.12",
+        "decimalPrecision": 3,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.25",
+            "chance": "0.235",
+            "index": 0,
+            "tokenId": "20226174693472069789905906516533289257402541869257719644638296770512223296194"
+          },
+          {
+            "name": "No",
+            "price": "0.74",
+            "chance": "0.77",
+            "index": 1,
+            "tokenId": "63089045084823150364756854988231018586421341138186391150900914848806576569747"
+          }
+        ]
+      },
+      {
+        "marketId": 6187890,
+        "externalId": "644874",
+        "title": "PAR 1 - 1 FRA",
+        "question": "Exact Score: Paraguay 1 - 1 France?",
+        "description": "In the upcoming FIFA World Cup game between Paraguay and France, scheduled for July 4, 2026 at 5:00 PM ET: This market will resolve based on the final score of the Paraguay vs. France match originally scheduled for July 4, 2026 at 5:00 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xb2518f0419d75e20e1db2466b8e59a21acee4c87ebc65507bb88a8e2b678eacf",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782974238594_zkhu85frllm85nnueif3cdakh0jbpom3_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782974238594_zkhu85frllm85nnueif3cdakh0jbpom3_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782974238594_zkhu85frllm85nnueif3cdakh0jbpom3_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782974238594_zkhu85frllm85nnueif3cdakh0jbpom3_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "113321.08",
+        "liquidity": "40985.12",
+        "decimalPrecision": 3,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.09",
+            "chance": "0.07",
+            "index": 0,
+            "tokenId": "4894624953829373014231983876770703230867190023928173118501480992268998481734"
+          },
+          {
+            "name": "No",
+            "price": "0.91",
+            "chance": "0.93",
+            "index": 1,
+            "tokenId": "77960515397403546286574847455138752490478454015800713786696313933443166801254"
+          }
+        ]
+      },
+      {
+        "marketId": 6187892,
+        "externalId": "644876",
+        "title": "PAR 0 - 3 FRA",
+        "question": "Exact Score: Paraguay 0 - 3 France?",
+        "description": "In the upcoming FIFA World Cup game between Paraguay and France, scheduled for July 4, 2026 at 5:00 PM ET: This market will resolve based on the final score of the Paraguay vs. France match originally scheduled for July 4, 2026 at 5:00 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x158c5652aab8020fcf1ab6e9b617773959b1bee9dbb72c8efe133167fe0284a8",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782974238808_x1n7fidz1293e9k5rvapzqn2mg5fa4ji_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782974238808_x1n7fidz1293e9k5rvapzqn2mg5fa4ji_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782974238808_x1n7fidz1293e9k5rvapzqn2mg5fa4ji_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782974238808_x1n7fidz1293e9k5rvapzqn2mg5fa4ji_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "348411.29",
+        "liquidity": "39568.84",
+        "decimalPrecision": 3,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.01",
+            "chance": "0.006",
+            "index": 0,
+            "tokenId": "112485005956200412912008305115928557007543983363645747243459267088537104542233"
+          },
+          {
+            "name": "No",
+            "price": "0.99",
+            "chance": "0.994",
+            "index": 1,
+            "tokenId": "60138847127045728851093936859400618337997943966491059675880290518111625790735"
+          }
+        ]
+      },
+      {
+        "marketId": 6187893,
+        "externalId": "644877",
+        "title": "PAR 1 - 2 FRA",
+        "question": "Exact Score: Paraguay 1 - 2 France?",
+        "description": "In the upcoming FIFA World Cup game between Paraguay and France, scheduled for July 4, 2026 at 5:00 PM ET: This market will resolve based on the final score of the Paraguay vs. France match originally scheduled for July 4, 2026 at 5:00 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xc56937ae67cbc3e040dfed556dbbaa7fff6c0229180ed3cd9bda2b7c63000f70",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782974238912_sjchqid1c43vnt3kujwgy4q3twdad8vo_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782974238912_sjchqid1c43vnt3kujwgy4q3twdad8vo_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782974238912_sjchqid1c43vnt3kujwgy4q3twdad8vo_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782974238912_sjchqid1c43vnt3kujwgy4q3twdad8vo_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "270278.94",
+        "liquidity": "36016.21",
+        "decimalPrecision": 3,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.01",
+            "chance": "0.0055",
+            "index": 0,
+            "tokenId": "41989085433663967300226004768227526618404662823159047515017541696795542045585"
+          },
+          {
+            "name": "No",
+            "price": "0.99",
+            "chance": "0.9945",
+            "index": 1,
+            "tokenId": "93049320687599982807496916550910815990191922781130180901768952171451597526214"
+          }
+        ]
+      },
+      {
+        "marketId": 6187896,
+        "externalId": "644880",
+        "title": "PAR 1 - 3 FRA",
+        "question": "Exact Score: Paraguay 1 - 3 France?",
+        "description": "In the upcoming FIFA World Cup game between Paraguay and France, scheduled for July 4, 2026 at 5:00 PM ET: This market will resolve based on the final score of the Paraguay vs. France match originally scheduled for July 4, 2026 at 5:00 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x094718a22f9f77659555153515c515d45998202c14ec653341c3aec0bd59f3a6",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782974239229_elemgydmkdwf25z6tee5xjt8dgke9pkv_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782974239229_elemgydmkdwf25z6tee5xjt8dgke9pkv_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782974239229_elemgydmkdwf25z6tee5xjt8dgke9pkv_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782974239229_elemgydmkdwf25z6tee5xjt8dgke9pkv_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "384538",
+        "liquidity": "35686.27",
+        "decimalPrecision": 3,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.002",
+            "chance": "0.002",
+            "index": 0,
+            "tokenId": "87637242415205034656352962600561899244793555623849005938737132628226596071636"
+          },
+          {
+            "name": "No",
+            "price": "0.998",
+            "chance": "0.998",
+            "index": 1,
+            "tokenId": "102572236710641885208864235100422648234043098595719122344212655201625709194673"
+          }
+        ]
+      },
+      {
+        "marketId": 6187894,
+        "externalId": "644878",
+        "title": "PAR 2 - 1 FRA",
+        "question": "Exact Score: Paraguay 2 - 1 France?",
+        "description": "In the upcoming FIFA World Cup game between Paraguay and France, scheduled for July 4, 2026 at 5:00 PM ET: This market will resolve based on the final score of the Paraguay vs. France match originally scheduled for July 4, 2026 at 5:00 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xcd84b8af573f3a3d28c34e2325cf6d66e5bf3050c793401a72846874466c46ce",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782974239018_ie5m2wfm09h2v5soxhxmrgaogctbskw1_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782974239018_ie5m2wfm09h2v5soxhxmrgaogctbskw1_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782974239018_ie5m2wfm09h2v5soxhxmrgaogctbskw1_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782974239018_ie5m2wfm09h2v5soxhxmrgaogctbskw1_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "68494.36",
+        "liquidity": "35985.36",
+        "decimalPrecision": 3,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.002",
+            "chance": "0.0015",
+            "index": 0,
+            "tokenId": "76133793144650048174885296021970160863469324122008163053268039385378054356184"
+          },
+          {
+            "name": "No",
+            "price": "0.998",
+            "chance": "0.9985",
+            "index": 1,
+            "tokenId": "11517437539132189857082738682041880507824048854496130711554910763749161563417"
+          }
+        ]
+      },
+      {
+        "marketId": 6187886,
+        "externalId": "644870",
+        "title": "PAR 0 - 0 FRA",
+        "question": "Exact Score: Paraguay 0 - 0 France?",
+        "description": "In the upcoming FIFA World Cup game between Paraguay and France, scheduled for July 4, 2026 at 5:00 PM ET: This market will resolve based on the final score of the Paraguay vs. France match originally scheduled for July 4, 2026 at 5:00 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x773a57d6ec30ce0f4191247626debab2aa89f7b717565d5619f75b8de25cb149",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782974238163_nf8781jha0o9zjadrfdmbmzxlqm5wklj_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782974238163_nf8781jha0o9zjadrfdmbmzxlqm5wklj_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782974238163_nf8781jha0o9zjadrfdmbmzxlqm5wklj_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782974238163_nf8781jha0o9zjadrfdmbmzxlqm5wklj_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "124750.31",
+        "liquidity": "36726.03",
+        "decimalPrecision": 3,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.001",
+            "chance": "0.001",
+            "index": 0,
+            "tokenId": "50382571008426123151562904010354465945829541498261141882154855531471530888167"
+          },
+          {
+            "name": "No",
+            "price": "0.999",
+            "chance": "0.999",
+            "index": 1,
+            "tokenId": "41386413986541282178764575056595161225686087592783486742590166630174765777410"
+          }
+        ]
+      },
+      {
+        "marketId": 6187888,
+        "externalId": "644872",
+        "title": "PAR 1 - 0 FRA",
+        "question": "Exact Score: Paraguay 1 - 0 France?",
+        "description": "In the upcoming FIFA World Cup game between Paraguay and France, scheduled for July 4, 2026 at 5:00 PM ET: This market will resolve based on the final score of the Paraguay vs. France match originally scheduled for July 4, 2026 at 5:00 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x406ad1fdf96e980b87bf042c5255a390f611f8c0219b7c7ff8235d04e636c866",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782974238389_j0qbqfjdvvzm8f61zag1hv5j59e7zs0w_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782974238389_j0qbqfjdvvzm8f61zag1hv5j59e7zs0w_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782974238389_j0qbqfjdvvzm8f61zag1hv5j59e7zs0w_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782974238389_j0qbqfjdvvzm8f61zag1hv5j59e7zs0w_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "83956.74",
+        "liquidity": "36154.95",
+        "decimalPrecision": 3,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.001",
+            "chance": "0.001",
+            "index": 0,
+            "tokenId": "114338831299999691998410358450516949016899734470173085278792359105400331865594"
+          },
+          {
+            "name": "No",
+            "price": "0.999",
+            "chance": "0.999",
+            "index": 1,
+            "tokenId": "25253914563201532407319647548356954038554382988233750868571968376965145982301"
+          }
+        ]
+      },
+      {
+        "marketId": 6187891,
+        "externalId": "644875",
+        "title": "PAR 2 - 0 FRA",
+        "question": "Exact Score: Paraguay 2 - 0 France?",
+        "description": "In the upcoming FIFA World Cup game between Paraguay and France, scheduled for July 4, 2026 at 5:00 PM ET: This market will resolve based on the final score of the Paraguay vs. France match originally scheduled for July 4, 2026 at 5:00 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x2f8378963eaafbfb8897ccd84d9980638abd9b2aaff9d2978517c96dfe464cdf",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782974238702_dh32drsjo7eaefsax8076ogwr1795tm8_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782974238702_dh32drsjo7eaefsax8076ogwr1795tm8_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782974238702_dh32drsjo7eaefsax8076ogwr1795tm8_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782974238702_dh32drsjo7eaefsax8076ogwr1795tm8_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "37623.84",
+        "liquidity": "36570.91",
+        "decimalPrecision": 3,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.001",
+            "chance": "0.001",
+            "index": 0,
+            "tokenId": "53830654311062621772397274161407020066415762058367080053711558066144888102201"
+          },
+          {
+            "name": "No",
+            "price": "0.999",
+            "chance": "0.999",
+            "index": 1,
+            "tokenId": "90715125128128467252195326457230770617008692183547459465460217516103016383096"
+          }
+        ]
+      },
+      {
+        "marketId": 6187895,
+        "externalId": "644879",
+        "title": "PAR 3 - 0 FRA",
+        "question": "Exact Score: Paraguay 3 - 0 France?",
+        "description": "In the upcoming FIFA World Cup game between Paraguay and France, scheduled for July 4, 2026 at 5:00 PM ET: This market will resolve based on the final score of the Paraguay vs. France match originally scheduled for July 4, 2026 at 5:00 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xacddf43ac5124cb31bf96170bd975212865f5a97a496fb48a4732f37a3b7e052",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782974239122_h4vn6yb1j9sfsujosff8dw6494ejzqdh_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782974239122_h4vn6yb1j9sfsujosff8dw6494ejzqdh_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782974239122_h4vn6yb1j9sfsujosff8dw6494ejzqdh_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782974239122_h4vn6yb1j9sfsujosff8dw6494ejzqdh_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "30223.36",
+        "liquidity": "36412.81",
+        "decimalPrecision": 3,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.001",
+            "chance": "0.001",
+            "index": 0,
+            "tokenId": "4522802724541993783481150264669194072840316191043698856546553859353138438813"
+          },
+          {
+            "name": "No",
+            "price": "0.999",
+            "chance": "0.999",
+            "index": 1,
+            "tokenId": "6688047616336547922469024455979271615078815055390666671253092771183050538926"
+          }
+        ]
+      },
+      {
+        "marketId": 6187897,
+        "externalId": "644881",
+        "title": "PAR 2 - 2 FRA",
+        "question": "Exact Score: Paraguay 2 - 2 France?",
+        "description": "In the upcoming FIFA World Cup game between Paraguay and France, scheduled for July 4, 2026 at 5:00 PM ET: This market will resolve based on the final score of the Paraguay vs. France match originally scheduled for July 4, 2026 at 5:00 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x46ac993b37b2c01e78e8c7a2ded4263dcca9c8a14c4b6bd6706187c90e29e831",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782974239335_xamtogzu52i3j9zfb9ed0nz1oelqgrex_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782974239335_xamtogzu52i3j9zfb9ed0nz1oelqgrex_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782974239335_xamtogzu52i3j9zfb9ed0nz1oelqgrex_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782974239335_xamtogzu52i3j9zfb9ed0nz1oelqgrex_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "64909.83",
+        "liquidity": "35596.81",
+        "decimalPrecision": 3,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.001",
+            "chance": "0.001",
+            "index": 0,
+            "tokenId": "15408116458656233772117207981216344377043844033965396587408463580254099361289"
+          },
+          {
+            "name": "No",
+            "price": "0.999",
+            "chance": "0.999",
+            "index": 1,
+            "tokenId": "15234066476246923569193859199699999861514035683106541731819803602819394156823"
+          }
+        ]
+      },
+      {
+        "marketId": 6187898,
+        "externalId": "644882",
+        "title": "PAR 3 - 1 FRA",
+        "question": "Exact Score: Paraguay 3 - 1 France?",
+        "description": "In the upcoming FIFA World Cup game between Paraguay and France, scheduled for July 4, 2026 at 5:00 PM ET: This market will resolve based on the final score of the Paraguay vs. France match originally scheduled for July 4, 2026 at 5:00 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x377c2d546c0642a276830cd5d9e8c2d119eb93bbfaaeba655c246a3c94cc761f",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782974239442_18xcg6tu82sjg35uc5em577do8vps5gj_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782974239442_18xcg6tu82sjg35uc5em577do8vps5gj_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782974239442_18xcg6tu82sjg35uc5em577do8vps5gj_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782974239442_18xcg6tu82sjg35uc5em577do8vps5gj_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "30619.55",
+        "liquidity": "35923.26",
+        "decimalPrecision": 3,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.001",
+            "chance": "0.001",
+            "index": 0,
+            "tokenId": "2510914151981211375101407072359205941881498736227474142845663511289866257950"
+          },
+          {
+            "name": "No",
+            "price": "0.999",
+            "chance": "0.999",
+            "index": 1,
+            "tokenId": "63680971596811324296640126330444474884555332796661388984968014810632500738927"
+          }
+        ]
+      },
+      {
+        "marketId": 6187899,
+        "externalId": "644883",
+        "title": "PAR 2 - 3 FRA",
+        "question": "Exact Score: Paraguay 2 - 3 France?",
+        "description": "In the upcoming FIFA World Cup game between Paraguay and France, scheduled for July 4, 2026 at 5:00 PM ET: This market will resolve based on the final score of the Paraguay vs. France match originally scheduled for July 4, 2026 at 5:00 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x2b7c7fa0c52fd97aaf308bea39be7edcd3f50d5d931d772720c44c2ad5f588e5",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782974239550_vjz8mwm2tow0pycbc5s7do8avsbeupc0_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782974239550_vjz8mwm2tow0pycbc5s7do8avsbeupc0_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782974239550_vjz8mwm2tow0pycbc5s7do8avsbeupc0_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782974239550_vjz8mwm2tow0pycbc5s7do8avsbeupc0_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "99969.28",
+        "liquidity": "35614.74",
+        "decimalPrecision": 3,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.001",
+            "chance": "0.001",
+            "index": 0,
+            "tokenId": "55659640069886375016170771256636124776429036469611731568678712499172508693183"
+          },
+          {
+            "name": "No",
+            "price": "0.999",
+            "chance": "0.999",
+            "index": 1,
+            "tokenId": "99135295896720129824424032365978006644806238426095878992551415385568845085697"
+          }
+        ]
+      },
+      {
+        "marketId": 6187900,
+        "externalId": "644884",
+        "title": "PAR 3 - 2 FRA",
+        "question": "Exact Score: Paraguay 3 - 2 France?",
+        "description": "In the upcoming FIFA World Cup game between Paraguay and France, scheduled for July 4, 2026 at 5:00 PM ET: This market will resolve based on the final score of the Paraguay vs. France match originally scheduled for July 4, 2026 at 5:00 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xb957aa31f07a1fa4014e005fe46bf7a482f25dfeafd04f2c7266edc710397e5e",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782974239660_kae1cipqxcc9gzhaoqj3gqtrocmqjc4m_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782974239660_kae1cipqxcc9gzhaoqj3gqtrocmqjc4m_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782974239660_kae1cipqxcc9gzhaoqj3gqtrocmqjc4m_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782974239660_kae1cipqxcc9gzhaoqj3gqtrocmqjc4m_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "22991.39",
+        "liquidity": "35973.76",
+        "decimalPrecision": 3,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.001",
+            "chance": "0.001",
+            "index": 0,
+            "tokenId": "43376599616827384668246481571714889584733886704993031578347120981608854379644"
+          },
+          {
+            "name": "No",
+            "price": "0.999",
+            "chance": "0.999",
+            "index": 1,
+            "tokenId": "98959061034428090314057979040851481659724624183545411272952427863335392738312"
+          }
+        ]
+      },
+      {
+        "marketId": 6187901,
+        "externalId": "644885",
+        "title": "PAR 3 - 3 FRA",
+        "question": "Exact Score: Paraguay 3 - 3 France?",
+        "description": "In the upcoming FIFA World Cup game between Paraguay and France, scheduled for July 4, 2026 at 5:00 PM ET: This market will resolve based on the final score of the Paraguay vs. France match originally scheduled for July 4, 2026 at 5:00 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x26f0ec908d1c691f0623edbd1476947af7014db9f46b2ed034c4f90837fee2ca",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782974239770_hntz6hezudhmjze3djkrv1f29bg32kko_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782974239770_hntz6hezudhmjze3djkrv1f29bg32kko_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782974239770_hntz6hezudhmjze3djkrv1f29bg32kko_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782974239770_hntz6hezudhmjze3djkrv1f29bg32kko_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "68511.5",
+        "liquidity": "35933.9",
+        "decimalPrecision": 3,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.001",
+            "chance": "0.001",
+            "index": 0,
+            "tokenId": "111207677489599105525673946122883141359474348976181161207388688543595592402519"
+          },
+          {
+            "name": "No",
+            "price": "0.999",
+            "chance": "0.999",
+            "index": 1,
+            "tokenId": "13692127752507476267895591205223020648409573602595035623177253607716482534855"
+          }
+        ]
+      },
+      {
+        "marketId": 6187902,
+        "externalId": "644886",
+        "title": "Any Other Score",
+        "question": "Exact Score: Any Other Score?",
+        "description": "In the upcoming FIFA World Cup game between Paraguay and France, scheduled for July 4, 2026 at 5:00 PM ET: This market will resolve based on the final score of the Paraguay vs. France match originally scheduled for July 4, 2026 at 5:00 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xb8d2c9185fa69de3ffddcd0f15f77a515804b6be6e9ece1e29b148da3f58b5bc",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782974239875_jwrvhdqmg6tmcy27u73xlgk1yqmv995r_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782974239875_jwrvhdqmg6tmcy27u73xlgk1yqmv995r_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782974239875_jwrvhdqmg6tmcy27u73xlgk1yqmv995r_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782974239875_jwrvhdqmg6tmcy27u73xlgk1yqmv995r_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "101395.75",
+        "liquidity": "55452.29",
+        "decimalPrecision": 3,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.001",
+            "chance": "0.001",
+            "index": 0,
+            "tokenId": "51958022273534519992007735937304954913660176414104154546590984213809540278611"
+          },
+          {
+            "name": "No",
+            "price": "0.999",
+            "chance": "0.999",
+            "index": 1,
+            "tokenId": "45066959595890917325933716757317773639603110092097530033086308612582450649685"
+          }
+        ]
+      }
+    ],
+    "tradeVolume": "2359613.16",
+    "liquidity": "662648.98",
+    "publishedAt": 1782901601065,
+    "startDate": 1783198800000,
+    "endDate": 1783209600000,
+    "status": "REGISTERED"
+  },
+  {
+    "marketTopicId": 4368148,
+    "vendor": "PREDICT_FUN",
+    "chainId": "56",
+    "slug": "fifwc-par-fra-2026-07-04-total-corners",
+    "title": "Paraguay vs. France - Total Corners",
+    "question": "Paraguay vs. France: O/U 9.5 Total Corners",
+    "imageUrl": "https://static.predict.fun/fifwc",
+    "thumbnailPaths": [
+      {
+        "size": "800x800",
+        "path": "file-center/web3-prediction/S3/topic/1783067150370_3rdfo29bmfv5hwzwua4mnzytq4lkewdc_NEF_q80_800x800"
+      },
+      {
+        "size": "400x400",
+        "path": "file-center/web3-prediction/S3/topic/1783067150370_3rdfo29bmfv5hwzwua4mnzytq4lkewdc_NEF_q80_400x400"
+      },
+      {
+        "size": "96x96",
+        "path": "file-center/web3-prediction/S3/topic/1783067150370_3rdfo29bmfv5hwzwua4mnzytq4lkewdc_NEF_q80_96x96"
+      },
+      {
+        "size": "64x64",
+        "path": "file-center/web3-prediction/S3/topic/1783067150370_3rdfo29bmfv5hwzwua4mnzytq4lkewdc_NEF_q80_64x64"
+      }
+    ],
+    "topicType": "GROUPED",
+    "variantData": {
+      "type": "SPORTS_FIFA_WORLD_CUP"
+    },
+    "participantCount": 3346,
+    "collateral": "USDT",
+    "feeRateBps": 200,
+    "slippageBps": 1000,
+    "isYieldBearing": false,
+    "exchangeContractAddress": "0x365fb81bd4A24D6303cd2F19c349dE6894D8d58A",
+    "markets": [
+      {
+        "marketId": 6388132,
+        "externalId": "650199",
+        "title": "Total Corners: O/U 9.5",
+        "question": "Paraguay vs. France: O/U 9.5 Total Corners",
+        "description": "In the upcoming FIFA World Cup game between Paraguay and France, scheduled for July 4 at 5:00 PM ET: This market will resolve to \"Over\" if there are 10 or more total corners taken in this game (combining corners for both teams). If the total number of corners is fewer than 10, this market will resolve to \"Under\". Markets on number of corners refers to number of corners taken and not corners awarded. If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50. This market refers only to corners taken within the first 90 minutes of regular play plus stoppage time. Corners awarded but not taken will not count. Corners awarded during extra time or penalty shootouts do not count. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 24 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x76465e0f04fa0eff364d059331885577cae5011c37690fcf742b9435176c28f8",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1783067150819_9cxo0whotw9sd6zn4tfpdyb55r02upn6_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1783067150819_9cxo0whotw9sd6zn4tfpdyb55r02upn6_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1783067150819_9cxo0whotw9sd6zn4tfpdyb55r02upn6_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1783067150819_9cxo0whotw9sd6zn4tfpdyb55r02upn6_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "171839.8",
+        "liquidity": "145135.64",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Over 9.5",
+            "price": "0.99",
+            "chance": "0.99",
+            "index": 0,
+            "tokenId": "5491801211772886410952230684070190534415220983098954596235973975902885553444"
+          },
+          {
+            "name": "Under 9.5",
+            "price": "0.01",
+            "chance": "0.01",
+            "index": 1,
+            "tokenId": "24250401208189707617663133503418995013577552545945284912038721053295748703559"
+          }
+        ]
+      }
+    ],
+    "tradeVolume": "171839.81",
+    "liquidity": "145135.64",
+    "publishedAt": 1783067149877,
+    "startDate": 1783198800000,
+    "endDate": 1783209600000,
+    "status": "REGISTERED"
+  },
+  {
+    "marketTopicId": 4251644,
+    "vendor": "PREDICT_FUN",
+    "chainId": "56",
+    "slug": "fifwc-par-fra-2026-07-04",
+    "title": "Paraguay vs. France",
+    "question": "Will Paraguay win on 2026-07-04?",
+    "imageUrl": "https://static.predict.fun/fifwc",
+    "thumbnailPaths": [
+      {
+        "size": "800x800",
+        "path": "file-center/web3-prediction/S3/topic/1782974248155_vtwfnhjwpn2xpqdhab9lfo3x1jl2coyt_NEF_q80_800x800"
+      },
+      {
+        "size": "400x400",
+        "path": "file-center/web3-prediction/S3/topic/1782974248155_vtwfnhjwpn2xpqdhab9lfo3x1jl2coyt_NEF_q80_400x400"
+      },
+      {
+        "size": "96x96",
+        "path": "file-center/web3-prediction/S3/topic/1782974248155_vtwfnhjwpn2xpqdhab9lfo3x1jl2coyt_NEF_q80_96x96"
+      },
+      {
+        "size": "64x64",
+        "path": "file-center/web3-prediction/S3/topic/1782974248155_vtwfnhjwpn2xpqdhab9lfo3x1jl2coyt_NEF_q80_64x64"
+      }
+    ],
+    "topicType": "GROUPED",
+    "variantData": {
+      "type": "SPORTS_FIFA_WORLD_CUP"
+    },
+    "participantCount": 11319,
+    "collateral": "USDT",
+    "feeRateBps": 200,
+    "slippageBps": 1000,
+    "isYieldBearing": false,
+    "exchangeContractAddress": "0x365fb81bd4A24D6303cd2F19c349dE6894D8d58A",
+    "markets": [
+      {
+        "marketId": 6187873,
+        "externalId": "644858",
+        "title": "FRA",
+        "question": "Will France win on 2026-07-04?",
+        "description": "In the upcoming game, scheduled for July 4, 2026\nIf France wins, this market will resolve to \"Yes\".\nOtherwise, this market will resolve to \"No\".\nIf the game is postponed, this market will remain open until the game has been completed.\nIf the game is canceled entirely, with no make-up game, this market will resolve \"No\".\nThis market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xc527eb3e7566f516d271a9dd38dc5f2c5b9150691028531b1fd3738776a758aa",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782974243437_pg6vqf8hm47gpxmej6i1c68az5y0tbgn_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782974243437_pg6vqf8hm47gpxmej6i1c68az5y0tbgn_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782974243437_pg6vqf8hm47gpxmej6i1c68az5y0tbgn_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782974243437_pg6vqf8hm47gpxmej6i1c68az5y0tbgn_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "1860050.4",
+        "liquidity": "67743.71",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.95",
+            "chance": "0.945",
+            "index": 0,
+            "tokenId": "111587799289298758988466909010922062579725521462191949965094477544204348878043"
+          },
+          {
+            "name": "No",
+            "price": "0.05",
+            "chance": "0.055",
+            "index": 1,
+            "tokenId": "114391803510874080148372903715285397571701197914709238090237798938995416684426"
+          }
+        ]
+      },
+      {
+        "marketId": 6187872,
+        "externalId": "644857",
+        "title": "Draw",
+        "question": "Will Paraguay vs. France end in a draw?",
+        "description": "In the upcoming game, scheduled for July 4, 2026\nIf the game ends in a draw, this market will resolve to \"Yes\".\nOtherwise, this market will resolve to \"No\".\nIf the game is postponed, this market will remain open until the game has been completed.\nIf the game is canceled entirely, with no make-up game, this market will resolve to \"Yes\".\nThis market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xe49c8b77d83d2f55a004f96f2b78b1a9f2cb3ef8123e972b313708efe46c88af",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782974243328_i76jinn1xtn95vsep6fxtzfn0xwb7yoq_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782974243328_i76jinn1xtn95vsep6fxtzfn0xwb7yoq_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782974243328_i76jinn1xtn95vsep6fxtzfn0xwb7yoq_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782974243328_i76jinn1xtn95vsep6fxtzfn0xwb7yoq_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "882123.26",
+        "liquidity": "51781.05",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.06",
+            "chance": "0.055",
+            "index": 0,
+            "tokenId": "92744308950695512320086620544929210003037083093942308989284431319528117392282"
+          },
+          {
+            "name": "No",
+            "price": "0.94",
+            "chance": "0.945",
+            "index": 1,
+            "tokenId": "12807457602254378519710781096926439671051171593053647640650539163851147962532"
+          }
+        ]
+      },
+      {
+        "marketId": 6187871,
+        "externalId": "644856",
+        "title": "PAR",
+        "question": "Will Paraguay win on 2026-07-04?",
+        "description": "In the upcoming game, scheduled for July 4, 2026\nIf Paraguay wins, this market will resolve to \"Yes\".\nOtherwise, this market will resolve to \"No\".\nIf the game is postponed, this market will remain open until the game has been completed.\nIf the game is canceled entirely, with no make-up game, this market will resolve \"No\".\nThis market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x1cc118f4e8fb92039c3cb1ad1525666adac73fc53c633f97e491d6069f667350",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782974243220_cy0zd2tql4v337s86d4up59g0otc6fpy_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782974243220_cy0zd2tql4v337s86d4up59g0otc6fpy_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782974243220_cy0zd2tql4v337s86d4up59g0otc6fpy_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782974243220_cy0zd2tql4v337s86d4up59g0otc6fpy_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "511519.33",
+        "liquidity": "38502.27",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.01",
+            "chance": "0.01",
+            "index": 0,
+            "tokenId": "80641372841689862098230208621316701021946226916306528540655023736473818910290"
+          },
+          {
+            "name": "No",
+            "price": "0.99",
+            "chance": "0.99",
+            "index": 1,
+            "tokenId": "57764594448922303798999162416524468608523900728223202782268035130399032423658"
+          }
+        ]
+      }
+    ],
+    "tradeVolume": "3253693.01",
+    "liquidity": "154050.62",
+    "publishedAt": 1782900968375,
+    "startDate": 1783198800000,
+    "endDate": 1783209600000,
+    "status": "REGISTERED"
+  },
+  {
+    "marketTopicId": 4251674,
+    "vendor": "PREDICT_FUN",
+    "chainId": "56",
+    "slug": "fifwc-par-fra-2026-07-04-more-markets",
+    "title": "Paraguay vs. France - More Markets",
+    "question": "Spread: Paraguay (-1.5)",
+    "imageUrl": "https://static.predict.fun/fifwc",
+    "thumbnailPaths": [
+      {
+        "size": "800x800",
+        "path": "file-center/web3-prediction/S3/topic/1782974235823_jdpvw94crttxljjew5shbskqnk5jf7ju_NEF_q80_800x800"
+      },
+      {
+        "size": "400x400",
+        "path": "file-center/web3-prediction/S3/topic/1782974235823_jdpvw94crttxljjew5shbskqnk5jf7ju_NEF_q80_400x400"
+      },
+      {
+        "size": "96x96",
+        "path": "file-center/web3-prediction/S3/topic/1782974235823_jdpvw94crttxljjew5shbskqnk5jf7ju_NEF_q80_96x96"
+      },
+      {
+        "size": "64x64",
+        "path": "file-center/web3-prediction/S3/topic/1782974235823_jdpvw94crttxljjew5shbskqnk5jf7ju_NEF_q80_64x64"
+      }
+    ],
+    "topicType": "GROUPED",
+    "variantData": {
+      "type": "SPORTS_FIFA_WORLD_CUP"
+    },
+    "participantCount": 9312,
+    "collateral": "USDT",
+    "feeRateBps": 200,
+    "slippageBps": 1000,
+    "isYieldBearing": false,
+    "exchangeContractAddress": "0x365fb81bd4A24D6303cd2F19c349dE6894D8d58A",
+    "markets": [
+      {
+        "marketId": 6187929,
+        "externalId": "644980",
+        "title": "O/U 0.5",
+        "question": "Paraguay vs. France: O/U 0.5",
+        "description": "In the upcoming FIFA World Cup game between Paraguay and France, scheduled for July 4 at 5:00 PM ET:\n\nThis market will resolve to \"Over\" if Paraguay and France combine to score 1 or more goals in this game.\n\nIf the combined total is less than 1, this market will resolve to \"Under\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nIf the game is started but not completed, this market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x9105e93c08621c783e056f3a69f293fdac3286085cce6ce5a11ad883e2691b1f",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782974232981_cijots9ee3516gyqztms9mlxh0pkj2cj_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782974232981_cijots9ee3516gyqztms9mlxh0pkj2cj_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782974232981_cijots9ee3516gyqztms9mlxh0pkj2cj_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782974232981_cijots9ee3516gyqztms9mlxh0pkj2cj_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "91246.28",
+        "liquidity": "162721.8",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Over",
+            "price": "0.99",
+            "chance": "0.99",
+            "index": 0,
+            "tokenId": "104139644748245400459622218418633548285115145282175943017206515805115300924937"
+          },
+          {
+            "name": "Under",
+            "price": "0.01",
+            "chance": "0.01",
+            "index": 1,
+            "tokenId": "80841826680110575239017201685344296698185566434468085382637400739781571775753"
+          }
+        ]
+      },
+      {
+        "marketId": 6187930,
+        "externalId": "644981",
+        "title": "O/U 1.5",
+        "question": "Paraguay vs. France: O/U 1.5",
+        "description": "In the upcoming FIFA World Cup game between Paraguay and France, scheduled for July 4 at 5:00 PM ET:\n\nThis market will resolve to \"Over\" if Paraguay and France combine to score 2 or more goals in this game.\n\nIf the combined total is less than 2, this market will resolve to \"Under\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nIf the game is started but not completed, this market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x0825d63079b23835733b874530dc982feb1a362a44076524594c49febc818a77",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782974233084_iydnbqo2tmhyz4v40kqalr0r1a0w0uo5_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782974233084_iydnbqo2tmhyz4v40kqalr0r1a0w0uo5_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782974233084_iydnbqo2tmhyz4v40kqalr0r1a0w0uo5_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782974233084_iydnbqo2tmhyz4v40kqalr0r1a0w0uo5_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "326991.69",
+        "liquidity": "5597.13",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Over",
+            "price": "0.33",
+            "chance": "0.315",
+            "index": 0,
+            "tokenId": "35907736602930485152360067838591543307499867001177696653339704483258742217852"
+          },
+          {
+            "name": "Under",
+            "price": "0.67",
+            "chance": "0.685",
+            "index": 1,
+            "tokenId": "110162160442740143219397934740125483302685926658083590239817921160525812910343"
+          }
+        ]
+      },
+      {
+        "marketId": 6187936,
+        "externalId": "644971",
+        "title": "France (-1.5)",
+        "question": "Spread: France (-1.5)",
+        "description": "In the upcoming FIFA World Cup game, scheduled for July 4 at 5:00 PM ET:\n\nThis market will resolve to \"France\" if France win the game by 2 or more goals.\n\nOtherwise, this market will resolve to \"Paraguay\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xf874a7a60d08806f83db3bd562de9232f26ce261b7e05bccd611a983512221ec",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782974232094_2xmp343ik2ig1vbihnek48tc11b6ppzv_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782974232094_2xmp343ik2ig1vbihnek48tc11b6ppzv_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782974232094_2xmp343ik2ig1vbihnek48tc11b6ppzv_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782974232094_2xmp343ik2ig1vbihnek48tc11b6ppzv_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "457703.11",
+        "liquidity": "2939.9",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "FRA",
+            "price": "0.24",
+            "chance": "0.19",
+            "index": 0,
+            "tokenId": "94627763064540533788861839383028143131626773429712298303667484830740213334116"
+          },
+          {
+            "name": "PAR",
+            "price": "0.76",
+            "chance": "0.81",
+            "index": 1,
+            "tokenId": "94185666583765979273608487787908002729529106224203576928470406038531332317476"
+          }
+        ]
+      },
+      {
+        "marketId": 6187940,
+        "externalId": "644989",
+        "title": "Both Teams to Score",
+        "question": "Paraguay vs. France: Both Teams to Score",
+        "description": "In the upcoming FIFA World Cup game between Paraguay and France, scheduled for July 4 at 5:00 PM ET:\n\nThis market will resolve to \"Yes\" if both Paraguay and France each score at least one goal during the game.\n\nThis market will resolve to \"No\" if either team fails to score (i.e., if one or both teams finish with zero goals).\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nIf the game is started but not completed, this market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x51197f9229871fea5d490547134bfe570fb125526902f3f1247fc1fea6ea5c50",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782903603126_fh1544eob6lrevj24ggp69a1av6uef3e_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782903603126_fh1544eob6lrevj24ggp69a1av6uef3e_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782903603126_fh1544eob6lrevj24ggp69a1av6uef3e_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782903603126_fh1544eob6lrevj24ggp69a1av6uef3e_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "158091.77",
+        "liquidity": "1704.81",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.1",
+            "chance": "0.08",
+            "index": 0,
+            "tokenId": "22657955521578235815423946982137470578198446239435234276870216876721809046768"
+          },
+          {
+            "name": "No",
+            "price": "0.9",
+            "chance": "0.92",
+            "index": 1,
+            "tokenId": "43955919058906759470754070488321693811390762853215274280790439642946670560742"
+          }
+        ]
+      },
+      {
+        "marketId": 6187932,
+        "externalId": "644982",
+        "title": "O/U 2.5",
+        "question": "Paraguay vs. France: O/U 2.5",
+        "description": "In the upcoming FIFA World Cup game between Paraguay and France, scheduled for July 4 at 5:00 PM ET:\n\nThis market will resolve to \"Over\" if Paraguay and France combine to score 3 or more goals in this game.\n\nIf the combined total is less than 3, this market will resolve to \"Under\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nIf the game is started but not completed, this market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x98ac95388db5339c274304dfecad278967ae911875ec569cfecd3d41a78150cd",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782974233194_0musvqd180662phnv6e27wc36yl6ihkz_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782974233194_0musvqd180662phnv6e27wc36yl6ihkz_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782974233194_0musvqd180662phnv6e27wc36yl6ihkz_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782974233194_0musvqd180662phnv6e27wc36yl6ihkz_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "311241.59",
+        "liquidity": "1948.94",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Over",
+            "price": "0.04",
+            "chance": "0.03",
+            "index": 0,
+            "tokenId": "67034055655127772913688805147550523827425724007488566933769972529590903211110"
+          },
+          {
+            "name": "Under",
+            "price": "0.96",
+            "chance": "0.97",
+            "index": 1,
+            "tokenId": "22590240277653093188504122747431583651242275361039170912273425635606933890934"
+          }
+        ]
+      },
+      {
+        "marketId": 6187939,
+        "externalId": "644973",
+        "title": "France (-2.5)",
+        "question": "Spread: France (-2.5)",
+        "description": "In the upcoming FIFA World Cup game, scheduled for July 4 at 5:00 PM ET:\n\nThis market will resolve to \"France\" if France win the game by 3 or more goals.\n\nOtherwise, this market will resolve to \"Paraguay\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x65c61b11903868ed1e199a69aa4da4b029186b72df37830f7554ff1b64c5ce3a",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782974232316_ch2ojwshqsog2wce1pkvgw2v8t99cn6f_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782974232316_ch2ojwshqsog2wce1pkvgw2v8t99cn6f_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782974232316_ch2ojwshqsog2wce1pkvgw2v8t99cn6f_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782974232316_ch2ojwshqsog2wce1pkvgw2v8t99cn6f_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "68206.82",
+        "liquidity": "1122.07",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "FRA",
+            "price": "0.03",
+            "chance": "0.02",
+            "index": 0,
+            "tokenId": "84279391886152374787451948560430835687470372018906953149269688798810172189779"
+          },
+          {
+            "name": "PAR",
+            "price": "0.97",
+            "chance": "0.98",
+            "index": 1,
+            "tokenId": "75770089670207084738977111826364957311962904124292601421007040441867322426524"
+          }
+        ]
+      },
+      {
+        "marketId": 6187960,
+        "externalId": "644990",
+        "title": "Team to Advance",
+        "question": "Paraguay vs. France: Team to Advance",
+        "description": "In the upcoming FIFA World Cup game between Paraguay and France, scheduled for July 4 at 5:00 PM ET: This market will resolve to \"Paraguay\" if Paraguay is the team that officially advances from this match to the next round of the FIFA World Cup, or is crowned winner of the competition if this match is the final. This market will resolve to \"France\" if France is the team that officially advances from this match to the next round of the FIFA World Cup, or is crowned winner of the competition if this match is the final. This includes advancement after regulation, extra time, a penalty shoot-out, or an official ruling by the competition organizer such as forfeit, abandonment, or disqualification. If the game is postponed, this market will remain open until the game has been completed or a team is officially declared to advance. If the game is canceled entirely and no team advances from this match, this market will resolve 50-50. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 24 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x41bb5c1d4d3cd729b22b54c35d40a6e4764cabcd35a9720f6eac8736f2a2b3b4",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782903096882_7f9e3tc966lvycbze42h5wontbjlsssi_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782903096882_7f9e3tc966lvycbze42h5wontbjlsssi_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782903096882_7f9e3tc966lvycbze42h5wontbjlsssi_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782903096882_7f9e3tc966lvycbze42h5wontbjlsssi_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "752878.56",
+        "liquidity": "22182.23",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "PAR",
+            "price": "0.02",
+            "chance": "0.015",
+            "index": 0,
+            "tokenId": "9179289250072281854721674258935154208790479915159235394669789621205889266847"
+          },
+          {
+            "name": "FRA",
+            "price": "0.98",
+            "chance": "0.985",
+            "index": 1,
+            "tokenId": "32374904235579635885167384195622701076251298165444726669355505952220772417470"
+          }
+        ]
+      },
+      {
+        "marketId": 6187926,
+        "externalId": "644976",
+        "title": "Paraguay (-4.5)",
+        "question": "Spread: Paraguay (-4.5)",
+        "description": "In the upcoming FIFA World Cup game, scheduled for July 4 at 5:00 PM ET:\n\nThis market will resolve to \"Paraguay\" if Paraguay win the game by 5 or more goals.\n\nOtherwise, this market will resolve to \"France\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x02bd6db949ee78c1b5a3531f9a64061d6e9cc34bcab194b4e76c5ffaed98bef4",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782974232596_qdu2zlht6qhgq8xcls49ahauzp0f1wxe_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782974232596_qdu2zlht6qhgq8xcls49ahauzp0f1wxe_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782974232596_qdu2zlht6qhgq8xcls49ahauzp0f1wxe_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782974232596_qdu2zlht6qhgq8xcls49ahauzp0f1wxe_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "500",
+        "liquidity": "433.89",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "PAR",
+            "price": "0.01",
+            "chance": "0.01",
+            "index": 0,
+            "tokenId": "35085051101041653301137770761826816902761702876340087423050504739719565706270"
+          },
+          {
+            "name": "FRA",
+            "price": "0.99",
+            "chance": "0.99",
+            "index": 1,
+            "tokenId": "51832594537292948248701414963407828968208847980767315497889512614809104167606"
+          }
+        ]
+      },
+      {
+        "marketId": 6187927,
+        "externalId": "644978",
+        "title": "Paraguay (-5.5)",
+        "question": "Spread: Paraguay (-5.5)",
+        "description": "In the upcoming FIFA World Cup game, scheduled for July 4 at 5:00 PM ET:\n\nThis market will resolve to \"Paraguay\" if Paraguay win the game by 6 or more goals.\n\nOtherwise, this market will resolve to \"France\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x53b8d7ed44779dcd0276505dc6036f1e6d1a29cfc70ec64c192a34b6f85b4fad",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782974232798_14room7pu3ut9ft7z4s1p7wq3pzhox8o_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782974232798_14room7pu3ut9ft7z4s1p7wq3pzhox8o_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782974232798_14room7pu3ut9ft7z4s1p7wq3pzhox8o_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782974232798_14room7pu3ut9ft7z4s1p7wq3pzhox8o_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "400",
+        "liquidity": "489.51",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "PAR",
+            "price": "0.01",
+            "chance": "0.01",
+            "index": 0,
+            "tokenId": "38486889603446296925968077031181310751327446686998511283412583482753900984794"
+          },
+          {
+            "name": "FRA",
+            "price": "0.99",
+            "chance": "0.99",
+            "index": 1,
+            "tokenId": "26813470116143449716673020999982789502099662197766902295383426433820923795713"
+          }
+        ]
+      },
+      {
+        "marketId": 6187928,
+        "externalId": "644979",
+        "title": "France (-5.5)",
+        "question": "Spread: France (-5.5)",
+        "description": "In the upcoming FIFA World Cup game, scheduled for July 4 at 5:00 PM ET:\n\nThis market will resolve to \"France\" if France win the game by 6 or more goals.\n\nOtherwise, this market will resolve to \"Paraguay\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x2271b3076ae7025a04423bcb45340d3d7d4d99edfb68b2ed32f9445ea788265f",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782974232891_4ubw6p12t06rtym29oik13igxnq4ivp6_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782974232891_4ubw6p12t06rtym29oik13igxnq4ivp6_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782974232891_4ubw6p12t06rtym29oik13igxnq4ivp6_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782974232891_4ubw6p12t06rtym29oik13igxnq4ivp6_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "4378.83",
+        "liquidity": "1042.91",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "FRA",
+            "price": "0.01",
+            "chance": "0.01",
+            "index": 0,
+            "tokenId": "28832929929619039981968607104012002957862539564623133425159274052109159157679"
+          },
+          {
+            "name": "PAR",
+            "price": "0.99",
+            "chance": "0.99",
+            "index": 1,
+            "tokenId": "96811141668886880380705419894796148731313057827268929193873869820876429684701"
+          }
+        ]
+      },
+      {
+        "marketId": 6187933,
+        "externalId": "644983",
+        "title": "O/U 3.5",
+        "question": "Paraguay vs. France: O/U 3.5",
+        "description": "In the upcoming FIFA World Cup game between Paraguay and France, scheduled for July 4 at 5:00 PM ET:\n\nThis market will resolve to \"Over\" if Paraguay and France combine to score 4 or more goals in this game.\n\nIf the combined total is less than 4, this market will resolve to \"Under\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nIf the game is started but not completed, this market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x07a8e15f2f5edbd67c7684b97856be5b8ae65e708bf173edbe0475d37975ff15",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782974233324_3ytrw7ds4shu60whbblooisn2dkz870o_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782974233324_3ytrw7ds4shu60whbblooisn2dkz870o_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782974233324_3ytrw7ds4shu60whbblooisn2dkz870o_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782974233324_3ytrw7ds4shu60whbblooisn2dkz870o_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "141339.62",
+        "liquidity": "1268.2",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Over",
+            "price": "0.01",
+            "chance": "0.01",
+            "index": 0,
+            "tokenId": "16065990962237343975708428695426407960061171880845223932094422471668733427918"
+          },
+          {
+            "name": "Under",
+            "price": "0.99",
+            "chance": "0.99",
+            "index": 1,
+            "tokenId": "73936571378780586392613467822630483418216422142308131977304793150280747489683"
+          }
+        ]
+      },
+      {
+        "marketId": 6187934,
+        "externalId": "644984",
+        "title": "O/U 4.5",
+        "question": "Paraguay vs. France: O/U 4.5",
+        "description": "In the upcoming FIFA World Cup game between Paraguay and France, scheduled for July 4 at 5:00 PM ET:\n\nThis market will resolve to \"Over\" if Paraguay and France combine to score 5 or more goals in this game.\n\nIf the combined total is less than 5, this market will resolve to \"Under\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nIf the game is started but not completed, this market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xc9d17c4aa1f7200ac53b33be582a1eb7051834cf441a44d86c9f102d39517761",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782974233418_xpgz6o2umsocuxcpx9yh2lu8fxy50cal_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782974233418_xpgz6o2umsocuxcpx9yh2lu8fxy50cal_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782974233418_xpgz6o2umsocuxcpx9yh2lu8fxy50cal_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782974233418_xpgz6o2umsocuxcpx9yh2lu8fxy50cal_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "64254.4",
+        "liquidity": "1094.25",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Over",
+            "price": "0.01",
+            "chance": "0.01",
+            "index": 0,
+            "tokenId": "21447384283873566919528746299303707917338052483713749100565295199214478097256"
+          },
+          {
+            "name": "Under",
+            "price": "0.99",
+            "chance": "0.99",
+            "index": 1,
+            "tokenId": "3482199491662118949765122605156212841103122543728667880041340365064723580802"
+          }
+        ]
+      },
+      {
+        "marketId": 6187935,
+        "externalId": "644970",
+        "title": "Paraguay (-1.5)",
+        "question": "Spread: Paraguay (-1.5)",
+        "description": "In the upcoming FIFA World Cup game, scheduled for July 4 at 5:00 PM ET:\n\nThis market will resolve to \"Paraguay\" if Paraguay win the game by 2 or more goals.\n\nOtherwise, this market will resolve to \"France\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x61eee93f386a751f1f4b08dc346c0619bc315619e01f5fa9c92de25c0d8255c2",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782974232000_bwvgd2jo5cr28dp3vi8murjhwp8hc5ce_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782974232000_bwvgd2jo5cr28dp3vi8murjhwp8hc5ce_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782974232000_bwvgd2jo5cr28dp3vi8murjhwp8hc5ce_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782974232000_bwvgd2jo5cr28dp3vi8murjhwp8hc5ce_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "10700.87",
+        "liquidity": "1495.94",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "PAR",
+            "price": "0.01",
+            "chance": "0.01",
+            "index": 0,
+            "tokenId": "76070285290595901998611357821903377927323081426313142159543026009634117738533"
+          },
+          {
+            "name": "FRA",
+            "price": "0.99",
+            "chance": "0.99",
+            "index": 1,
+            "tokenId": "70733418441172517426639169335831467179083592397399115901219362940590524176514"
+          }
+        ]
+      },
+      {
+        "marketId": 6187937,
+        "externalId": "644975",
+        "title": "France (-3.5)",
+        "question": "Spread: France (-3.5)",
+        "description": "In the upcoming FIFA World Cup game, scheduled for July 4 at 5:00 PM ET:\n\nThis market will resolve to \"France\" if France win the game by 4 or more goals.\n\nOtherwise, this market will resolve to \"Paraguay\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xc21ec7ed43189de0019bfe196bf7c7f550423dc3b91ab26d3e191d8b8d5820fb",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782974232502_d50ejodoaj6yhv6qp165bw1c80mkh19q_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782974232502_d50ejodoaj6yhv6qp165bw1c80mkh19q_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782974232502_d50ejodoaj6yhv6qp165bw1c80mkh19q_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782974232502_d50ejodoaj6yhv6qp165bw1c80mkh19q_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "15189.9",
+        "liquidity": "1299.35",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "FRA",
+            "price": "0.01",
+            "chance": "0.01",
+            "index": 0,
+            "tokenId": "35661260079916541565943509951214935738979947209030046779377819883829919523647"
+          },
+          {
+            "name": "PAR",
+            "price": "0.99",
+            "chance": "0.99",
+            "index": 1,
+            "tokenId": "1917281991395349101340001867335928073505758121827524139420772618695067213816"
+          }
+        ]
+      },
+      {
+        "marketId": 6187938,
+        "externalId": "644972",
+        "title": "Paraguay (-2.5)",
+        "question": "Spread: Paraguay (-2.5)",
+        "description": "In the upcoming FIFA World Cup game, scheduled for July 4 at 5:00 PM ET:\n\nThis market will resolve to \"Paraguay\" if Paraguay win the game by 3 or more goals.\n\nOtherwise, this market will resolve to \"France\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xb2dec31de04609f66a1c2b318d24a66ab6278aad201bd10350fa30554ad0a405",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782974232188_njlj29wmeg3bk712ppbjbxoslxgcasfy_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782974232188_njlj29wmeg3bk712ppbjbxoslxgcasfy_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782974232188_njlj29wmeg3bk712ppbjbxoslxgcasfy_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782974232188_njlj29wmeg3bk712ppbjbxoslxgcasfy_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "1279",
+        "liquidity": "1428.88",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "PAR",
+            "price": "0.01",
+            "chance": "0.01",
+            "index": 0,
+            "tokenId": "31079844991578836058181926311107197333240373010165927824554007717136868337858"
+          },
+          {
+            "name": "FRA",
+            "price": "0.99",
+            "chance": "0.99",
+            "index": 1,
+            "tokenId": "77720223742641124102851228553761322385288828631138765804017305600618965857006"
+          }
+        ]
+      },
+      {
+        "marketId": 6187941,
+        "externalId": "644974",
+        "title": "Paraguay (-3.5)",
+        "question": "Spread: Paraguay (-3.5)",
+        "description": "In the upcoming FIFA World Cup game, scheduled for July 4 at 5:00 PM ET:\n\nThis market will resolve to \"Paraguay\" if Paraguay win the game by 4 or more goals.\n\nOtherwise, this market will resolve to \"France\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x9baa46576ed1e207e565c4be1291d64217134c5875175c76e496d8acb94855b4",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782974232410_2zuis95suc46xo71yrkgkv2jwwqhg1z6_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782974232410_2zuis95suc46xo71yrkgkv2jwwqhg1z6_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782974232410_2zuis95suc46xo71yrkgkv2jwwqhg1z6_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782974232410_2zuis95suc46xo71yrkgkv2jwwqhg1z6_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "400",
+        "liquidity": "1437.78",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "PAR",
+            "price": "0.01",
+            "chance": "0.01",
+            "index": 0,
+            "tokenId": "52876829732818617790355042311568140736308848256689043375136582730643405525647"
+          },
+          {
+            "name": "FRA",
+            "price": "0.99",
+            "chance": "0.99",
+            "index": 1,
+            "tokenId": "43546291848905947420774228155252602130492426996564302643142869087925886266037"
+          }
+        ]
+      },
+      {
+        "marketId": 6187942,
+        "externalId": "644977",
+        "title": "France (-4.5)",
+        "question": "Spread: France (-4.5)",
+        "description": "In the upcoming FIFA World Cup game, scheduled for July 4 at 5:00 PM ET:\n\nThis market will resolve to \"France\" if France win the game by 5 or more goals.\n\nOtherwise, this market will resolve to \"Paraguay\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x40a357b565ff3eb8249c6f8e628b0d87a3e892f2cd4138f21787e89a43a750d9",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782974232702_lsp8zv8j9299ari2r2ptic87372uri3y_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782974232702_lsp8zv8j9299ari2r2ptic87372uri3y_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782974232702_lsp8zv8j9299ari2r2ptic87372uri3y_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782974232702_lsp8zv8j9299ari2r2ptic87372uri3y_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "4361.98",
+        "liquidity": "1164.78",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "FRA",
+            "price": "0.01",
+            "chance": "0.01",
+            "index": 0,
+            "tokenId": "76536763546629005799026901448254994893627508318850568005373676478353622083365"
+          },
+          {
+            "name": "PAR",
+            "price": "0.99",
+            "chance": "0.99",
+            "index": 1,
+            "tokenId": "44847384386895505545372933263453873846802330078285100392356555378641157842284"
+          }
+        ]
+      },
+      {
+        "marketId": 6187943,
+        "externalId": "644985",
+        "title": "O/U 5.5",
+        "question": "Paraguay vs. France: O/U 5.5",
+        "description": "In the upcoming FIFA World Cup game between Paraguay and France, scheduled for July 4 at 5:00 PM ET:\n\nThis market will resolve to \"Over\" if Paraguay and France combine to score 6 or more goals in this game.\n\nIf the combined total is less than 6, this market will resolve to \"Under\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nIf the game is started but not completed, this market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xf7646eb492cab4edebaef13667b7bc568bd2dbd793a2dbf240fb398169c84f01",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782974233518_cl47l86ykn1gie6i8a8b1i8ta858b5d4_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782974233518_cl47l86ykn1gie6i8a8b1i8ta858b5d4_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782974233518_cl47l86ykn1gie6i8a8b1i8ta858b5d4_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782974233518_cl47l86ykn1gie6i8a8b1i8ta858b5d4_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "24593.04",
+        "liquidity": "1146.28",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Over",
+            "price": "0.01",
+            "chance": "0.01",
+            "index": 0,
+            "tokenId": "12944715769325328359886717325083171133462308688731833352662171432521141957336"
+          },
+          {
+            "name": "Under",
+            "price": "0.99",
+            "chance": "0.99",
+            "index": 1,
+            "tokenId": "26828945306362905388705484126038443680660560965675347517539021711111583506480"
+          }
+        ]
+      },
+      {
+        "marketId": 6187944,
+        "externalId": "644986",
+        "title": "O/U 6.5",
+        "question": "Paraguay vs. France: O/U 6.5",
+        "description": "In the upcoming FIFA World Cup game between Paraguay and France, scheduled for July 4 at 5:00 PM ET:\n\nThis market will resolve to \"Over\" if Paraguay and France combine to score 7 or more goals in this game.\n\nIf the combined total is less than 7, this market will resolve to \"Under\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nIf the game is started but not completed, this market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x196888992106f3e0479b55cc90becdb436e50861cd7add06c211c212cee0b0e7",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782974233610_6764lkvjrogpvj6zl9tj6btslvu0sp8a_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782974233610_6764lkvjrogpvj6zl9tj6btslvu0sp8a_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782974233610_6764lkvjrogpvj6zl9tj6btslvu0sp8a_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782974233610_6764lkvjrogpvj6zl9tj6btslvu0sp8a_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "8847.3",
+        "liquidity": "1055.41",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Over",
+            "price": "0.01",
+            "chance": "0.01",
+            "index": 0,
+            "tokenId": "17306305359421107104542651376398460836027207150676991290584378838810751836379"
+          },
+          {
+            "name": "Under",
+            "price": "0.99",
+            "chance": "0.99",
+            "index": 1,
+            "tokenId": "95817962200651402901751648749859136608119858976933006313318490847663693307404"
+          }
+        ]
+      },
+      {
+        "marketId": 6187945,
+        "externalId": "644987",
+        "title": "O/U 7.5",
+        "question": "Paraguay vs. France: O/U 7.5",
+        "description": "In the upcoming FIFA World Cup game between Paraguay and France, scheduled for July 4 at 5:00 PM ET:\n\nThis market will resolve to \"Over\" if Paraguay and France combine to score 8 or more goals in this game.\n\nIf the combined total is less than 8, this market will resolve to \"Under\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nIf the game is started but not completed, this market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x068d0a3709da860482d87707e22c9442cdb259ba7be80e38fe188ca6cc86a48f",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782974233709_ppzsohwglxxnvz289xxb7aq2p5rtykkq_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782974233709_ppzsohwglxxnvz289xxb7aq2p5rtykkq_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782974233709_ppzsohwglxxnvz289xxb7aq2p5rtykkq_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782974233709_ppzsohwglxxnvz289xxb7aq2p5rtykkq_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "6991.51",
+        "liquidity": "1059.24",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Over",
+            "price": "0.01",
+            "chance": "0.01",
+            "index": 0,
+            "tokenId": "62911317560316927583226933682520120819928351747096420329169638532750274276372"
+          },
+          {
+            "name": "Under",
+            "price": "0.99",
+            "chance": "0.99",
+            "index": 1,
+            "tokenId": "57487167343750221133498276495877408687647379347482558759537208158410334925840"
+          }
+        ]
+      },
+      {
+        "marketId": 6187946,
+        "externalId": "644988",
+        "title": "O/U 8.5",
+        "question": "Paraguay vs. France: O/U 8.5",
+        "description": "In the upcoming FIFA World Cup game between Paraguay and France, scheduled for July 4 at 5:00 PM ET:\n\nThis market will resolve to \"Over\" if Paraguay and France combine to score 9 or more goals in this game.\n\nIf the combined total is less than 9, this market will resolve to \"Under\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nIf the game is started but not completed, this market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xae7e1da54f9a3cce89b429e91834ad31f878f98b6047534cf220230b72f0e1fe",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782974233810_n8fndzxsq4i9uji4s7d20qfb9efouh6b_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782974233810_n8fndzxsq4i9uji4s7d20qfb9efouh6b_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782974233810_n8fndzxsq4i9uji4s7d20qfb9efouh6b_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782974233810_n8fndzxsq4i9uji4s7d20qfb9efouh6b_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "3180.99",
+        "liquidity": "1442.25",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Over",
+            "price": "0.01",
+            "chance": "0.01",
+            "index": 0,
+            "tokenId": "82724285888398306978773665022922245535240588149893306521817523010349515524072"
+          },
+          {
+            "name": "Under",
+            "price": "0.99",
+            "chance": "0.99",
+            "index": 1,
+            "tokenId": "17284933960979707054132384514542535933409439861110148396020924202910887250674"
+          }
+        ]
+      }
+    ],
+    "tradeVolume": "2471710.86",
+    "liquidity": "402989.36",
+    "publishedAt": 1782903011231,
+    "startDate": 1783198800000,
+    "endDate": 1783209600000,
+    "status": "REGISTERED"
+  },
+  {
+    "marketTopicId": 4251642,
+    "vendor": "PREDICT_FUN",
+    "chainId": "56",
+    "slug": "fifwc-par-fra-2026-07-04-halftime-result",
+    "title": "Paraguay vs. France - Halftime Result",
+    "question": "Paraguay leading at halftime?",
+    "imageUrl": "https://static.predict.fun/fifwc",
+    "thumbnailPaths": [
+      {
+        "size": "800x800",
+        "path": "file-center/web3-prediction/S3/topic/1782974248358_l724zhj9flwrs5fter23r3jz1mtuyz80_NEF_q80_800x800"
+      },
+      {
+        "size": "400x400",
+        "path": "file-center/web3-prediction/S3/topic/1782974248358_l724zhj9flwrs5fter23r3jz1mtuyz80_NEF_q80_400x400"
+      },
+      {
+        "size": "96x96",
+        "path": "file-center/web3-prediction/S3/topic/1782974248358_l724zhj9flwrs5fter23r3jz1mtuyz80_NEF_q80_96x96"
+      },
+      {
+        "size": "64x64",
+        "path": "file-center/web3-prediction/S3/topic/1782974248358_l724zhj9flwrs5fter23r3jz1mtuyz80_NEF_q80_64x64"
+      }
+    ],
+    "topicType": "GROUPED",
+    "variantData": {
+      "type": "SPORTS_FIFA_WORLD_CUP"
+    },
+    "participantCount": 4089,
+    "collateral": "USDT",
+    "feeRateBps": 200,
+    "slippageBps": 1000,
+    "isYieldBearing": false,
+    "exchangeContractAddress": "0x365fb81bd4A24D6303cd2F19c349dE6894D8d58A",
+    "markets": [
+      {
+        "marketId": 6187866,
+        "externalId": "644851",
+        "title": "Draw",
+        "question": "Paraguay vs. France: Draw at halftime?",
+        "description": "In the upcoming game, scheduled for July 4, 2026 If the game ends in a draw within the first 45 minutes of regular play plus stoppage time, this market will resolve to \"Yes\". Otherwise, this market will resolve to \"No\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve to \"Yes\". This market refers only to the outcome within the first 45 minutes of regular play plus stoppage time.The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 24 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x2c217d9f9795e8fe620562d498298bdceb99f9bab286baf04731dffde705bcd7",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782974243965_77s4t1zih369vvg9gzr9jz88b1ctpt95_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782974243965_77s4t1zih369vvg9gzr9jz88b1ctpt95_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782974243965_77s4t1zih369vvg9gzr9jz88b1ctpt95_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782974243965_77s4t1zih369vvg9gzr9jz88b1ctpt95_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "64710.96",
+        "liquidity": "174627.5",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.99",
+            "chance": "0.99",
+            "index": 0,
+            "tokenId": "77905127261742404800153657494867601763522466011015325508651743327481955600575"
+          },
+          {
+            "name": "No",
+            "price": "0.01",
+            "chance": "0.01",
+            "index": 1,
+            "tokenId": "14660252412084331420903078198445756813971617538405185314088556751223577143672"
+          }
+        ]
+      },
+      {
+        "marketId": 6187865,
+        "externalId": "644850",
+        "title": "PAR",
+        "question": "Paraguay leading at halftime?",
+        "description": "In the upcoming game, scheduled for July 4, 2026 If Paraguay wins within the first 45 minutes of regular play plus stoppage time, this market will resolve to \"Yes\". Otherwise, this market will resolve to \"No\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve \"No\". This market refers only to the outcome within the first 45 minutes of regular play plus stoppage time.The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 24 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x6c9896c8c8676b69dda213aecb9e28c6adf412c03855ed232a6dd54c0685380c",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782974243858_85cdkncgaaj9v47muxncygo5qxfy456z_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782974243858_85cdkncgaaj9v47muxncygo5qxfy456z_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782974243858_85cdkncgaaj9v47muxncygo5qxfy456z_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782974243858_85cdkncgaaj9v47muxncygo5qxfy456z_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "38379.53",
+        "liquidity": "2659.68",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.01",
+            "chance": "0.01",
+            "index": 0,
+            "tokenId": "112785711825120303569796673486425679790341207725206622184265912284904025347146"
+          },
+          {
+            "name": "No",
+            "price": "0.99",
+            "chance": "0.99",
+            "index": 1,
+            "tokenId": "27093305708374791041583258395234362784610613640201659394185420261225212256910"
+          }
+        ]
+      },
+      {
+        "marketId": 6187867,
+        "externalId": "644852",
+        "title": "FRA",
+        "question": "France leading at halftime?",
+        "description": "In the upcoming game, scheduled for July 4, 2026 If France wins within the first 45 minutes of regular play plus stoppage time, this market will resolve to \"Yes\". Otherwise, this market will resolve to \"No\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve \"No\". This market refers only to the outcome within the first 45 minutes of regular play plus stoppage time.The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 24 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xa224e40d007100ef005c9f4e9b25adf1b19ad7c8ff8461e800aca12e754b756a",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782974244070_fp99a3by29qdg9qgni6tdtl1qyc6ml4j_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782974244070_fp99a3by29qdg9qgni6tdtl1qyc6ml4j_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782974244070_fp99a3by29qdg9qgni6tdtl1qyc6ml4j_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782974244070_fp99a3by29qdg9qgni6tdtl1qyc6ml4j_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "182087.66",
+        "liquidity": "2622.76",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.01",
+            "chance": "0.01",
+            "index": 0,
+            "tokenId": "40734612462383321033278938614591962022541265125631248570064008307130387215106"
+          },
+          {
+            "name": "No",
+            "price": "0.99",
+            "chance": "0.99",
+            "index": 1,
+            "tokenId": "4590089479593066033076807703934086170481130169393004046466236279712181675722"
+          }
+        ]
+      }
+    ],
+    "tradeVolume": "285178.16",
+    "liquidity": "185709.94",
+    "publishedAt": 1782900961237,
+    "startDate": 1783198800000,
+    "endDate": 1783209600000,
+    "status": "REGISTERED"
+  },
+  {
+    "marketTopicId": 4368462,
+    "vendor": "PREDICT_FUN",
+    "chainId": "56",
+    "slug": "fifwc-par-fra-2026-07-04-player-props",
+    "title": "Paraguay vs France - Player Props",
+    "question": "Kylian Mbappe: 1+ goals",
+    "imageUrl": "https://static.predict.fun/fifwc-par-fra-2026-07-04-player-props",
+    "thumbnailPaths": [
+      {
+        "size": "800x800",
+        "path": "file-center/web3-prediction/S3/topic/1783074075241_9e1zaixq7rrfulecki38kyrn1xf1n0me_NEF_q80_800x800"
+      },
+      {
+        "size": "400x400",
+        "path": "file-center/web3-prediction/S3/topic/1783074075241_9e1zaixq7rrfulecki38kyrn1xf1n0me_NEF_q80_400x400"
+      },
+      {
+        "size": "96x96",
+        "path": "file-center/web3-prediction/S3/topic/1783074075241_9e1zaixq7rrfulecki38kyrn1xf1n0me_NEF_q80_96x96"
+      },
+      {
+        "size": "64x64",
+        "path": "file-center/web3-prediction/S3/topic/1783074075241_9e1zaixq7rrfulecki38kyrn1xf1n0me_NEF_q80_64x64"
+      }
+    ],
+    "topicType": "GROUPED",
+    "participantCount": 2490,
+    "collateral": "USDT",
+    "feeRateBps": 200,
+    "slippageBps": 1000,
+    "isYieldBearing": false,
+    "exchangeContractAddress": "0x365fb81bd4A24D6303cd2F19c349dE6894D8d58A",
+    "markets": [
+      {
+        "marketId": 6390796,
+        "externalId": "667081",
+        "title": "Kylian Mbappe Total Goals",
+        "question": "Kylian Mbappe: 1+ goals",
+        "description": "In the upcoming FIFA World Cup game between Paraguay and France, scheduled for July 4 at 5:00 PM ET.: This market will resolve to \"Yes\" if Kylian Mbappe records 1+ goals in the official box score within the first 90 minutes of regular play plus stoppage time. Otherwise, this market will resolve to \"No\". Own goals do not count. If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve \"50-50\". If the player is listed as inactive or otherwise does not play, the market will resolve \"No\". The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 24 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xdf6e588316473c5afdbf2c4849fc3b356a26f467b3f370ab058da37d227db8bb",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1783074075279_a4b2efxb7kisq34l9n6mhj6miy2n28s8_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1783074075279_a4b2efxb7kisq34l9n6mhj6miy2n28s8_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1783074075279_a4b2efxb7kisq34l9n6mhj6miy2n28s8_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1783074075279_a4b2efxb7kisq34l9n6mhj6miy2n28s8_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "83509.97",
+        "liquidity": "191635.42",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Over 0.5",
+            "price": "0.99",
+            "chance": "0.99",
+            "index": 0,
+            "tokenId": "53985374548135826846935614873911244625564402551795095721654658575900159635320"
+          },
+          {
+            "name": "Under 0.5",
+            "price": "0.01",
+            "chance": "0.01",
+            "index": 1,
+            "tokenId": "76813995067011098568416762871955326658288465677380860802540331690668326577036"
+          }
+        ]
+      },
+      {
+        "marketId": 6390797,
+        "externalId": "667085",
+        "title": "Ousmane Dembele Total Goals",
+        "question": "Ousmele Dembele: 1+ goals",
+        "description": "In the upcoming FIFA World Cup game between Paraguay and France, scheduled for July 4 at 5:00 PM ET.: This market will resolve to \"Yes\" if Ousmele Dembele records 1+ goals in the official box score within the first 90 minutes of regular play plus stoppage time. Otherwise, this market will resolve to \"No\". Own goals do not count. If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve \"50-50\". If the player is listed as inactive or otherwise does not play, the market will resolve \"No\". The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 24 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x7c87dd0cf7a233ea4c911193fa490804993212d042fdf54680c7198c131e6e39",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1783074075241_2s9tw41z9wacc3t539w6xvn62b6jhunz_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1783074075241_2s9tw41z9wacc3t539w6xvn62b6jhunz_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1783074075241_2s9tw41z9wacc3t539w6xvn62b6jhunz_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1783074075241_2s9tw41z9wacc3t539w6xvn62b6jhunz_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "55592.6",
+        "liquidity": "800.43",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Over 0.5",
+            "price": "0.01",
+            "chance": "0.01",
+            "index": 0,
+            "tokenId": "91234066481597798214196714839204268010415808026340110184179444000531132447947"
+          },
+          {
+            "name": "Under 0.5",
+            "price": "0.99",
+            "chance": "0.99",
+            "index": 1,
+            "tokenId": "33096584902308503165306624244968088645093600448682180531114564487176580214677"
+          }
+        ]
+      }
+    ],
+    "tradeVolume": "139102.58",
+    "liquidity": "192804.66",
+    "publishedAt": 1783074072920,
+    "startDate": 1783198800000,
+    "endDate": 1783209600000,
+    "status": "REGISTERED"
+  },
+  {
+    "marketTopicId": 4251640,
+    "vendor": "PREDICT_FUN",
+    "chainId": "56",
+    "slug": "fifwc-par-fra-2026-07-04-first-to-score",
+    "title": "Paraguay vs. France - First Team to Score",
+    "question": "Paraguay to score first vs. France?",
+    "imageUrl": "https://static.predict.fun/fifwc",
+    "thumbnailPaths": [
+      {
+        "size": "800x800",
+        "path": "file-center/web3-prediction/S3/topic/1782974248565_4pfzfzmk8o9gxx3je4936xyslijsk87e_NEF_q80_800x800"
+      },
+      {
+        "size": "400x400",
+        "path": "file-center/web3-prediction/S3/topic/1782974248565_4pfzfzmk8o9gxx3je4936xyslijsk87e_NEF_q80_400x400"
+      },
+      {
+        "size": "96x96",
+        "path": "file-center/web3-prediction/S3/topic/1782974248565_4pfzfzmk8o9gxx3je4936xyslijsk87e_NEF_q80_96x96"
+      },
+      {
+        "size": "64x64",
+        "path": "file-center/web3-prediction/S3/topic/1782974248565_4pfzfzmk8o9gxx3je4936xyslijsk87e_NEF_q80_64x64"
+      }
+    ],
+    "topicType": "GROUPED",
+    "variantData": {
+      "type": "SPORTS_FIFA_WORLD_CUP"
+    },
+    "participantCount": 2938,
+    "collateral": "USDT",
+    "feeRateBps": 200,
+    "slippageBps": 1000,
+    "isYieldBearing": false,
+    "exchangeContractAddress": "0x365fb81bd4A24D6303cd2F19c349dE6894D8d58A",
+    "markets": [
+      {
+        "marketId": 6187885,
+        "externalId": "644854",
+        "title": "FRA",
+        "question": "France to score first vs. Paraguay?",
+        "description": "In the upcoming match between Paraguay and France, scheduled for July 4, 2026 at 5:00 PM ET: This market will resolve to \"Paraguay\" if Paraguay are the first to score within the first 90 minutes of regular play plus stoppage time. This market will resolve to \"France\" if France are the first to score within the first 90 minutes of regular play plus stoppage time. If neither team scores within the first 90 minutes of regular play plus stoppage time, this market will resolve \"Neither\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve to \"Neither\". This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time. Extra time and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xefbdd09db4d0d7dcabc4d734d88ff2c07fcde6668b6322d137be3f330344bc34",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782974246138_zvblfcly8b8d8eic9uxvf941xeux5b79_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782974246138_zvblfcly8b8d8eic9uxvf941xeux5b79_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782974246138_zvblfcly8b8d8eic9uxvf941xeux5b79_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782974246138_zvblfcly8b8d8eic9uxvf941xeux5b79_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "64906.27",
+        "liquidity": "196441.32",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.99",
+            "chance": "0.99",
+            "index": 0,
+            "tokenId": "18472585551125443039867018936283967331891936937385466844641170827199561068307"
+          },
+          {
+            "name": "No",
+            "price": "0.01",
+            "chance": "0.01",
+            "index": 1,
+            "tokenId": "78588470097789657389805016727629592850870442277306964884881511769011974149425"
+          }
+        ]
+      },
+      {
+        "marketId": 6187848,
+        "externalId": "644853",
+        "title": "PAR",
+        "question": "Paraguay to score first vs. France?",
+        "description": "In the upcoming match between Paraguay and France, scheduled for July 4, 2026 at 5:00 PM ET: This market will resolve to \"Paraguay\" if Paraguay are the first to score within the first 90 minutes of regular play plus stoppage time. This market will resolve to \"France\" if France are the first to score within the first 90 minutes of regular play plus stoppage time. If neither team scores within the first 90 minutes of regular play plus stoppage time, this market will resolve \"Neither\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve to \"Neither\". This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time. Extra time and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x50324d125a64cf10d65213a9edb4a3330e3bf06ef475a2627fa2c83a97b66638",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782974246032_v9uivfo2oxlxybuuaa0v7pppra2abn6o_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782974246032_v9uivfo2oxlxybuuaa0v7pppra2abn6o_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782974246032_v9uivfo2oxlxybuuaa0v7pppra2abn6o_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782974246032_v9uivfo2oxlxybuuaa0v7pppra2abn6o_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "24513.22",
+        "liquidity": "2852.51",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.01",
+            "chance": "0.01",
+            "index": 0,
+            "tokenId": "28029966596520276307903611708560164556688707953954131647645563186411966805185"
+          },
+          {
+            "name": "No",
+            "price": "0.99",
+            "chance": "0.99",
+            "index": 1,
+            "tokenId": "37230196831916623611011902549345874232381863038278282715416625552199324885736"
+          }
+        ]
+      },
+      {
+        "marketId": 6187849,
+        "externalId": "644855",
+        "title": "Neither",
+        "question": "Paraguay vs. France: Neither team to score first?",
+        "description": "In the upcoming match between Paraguay and France, scheduled for July 4, 2026 at 5:00 PM ET: This market will resolve to \"Paraguay\" if Paraguay are the first to score within the first 90 minutes of regular play plus stoppage time. This market will resolve to \"France\" if France are the first to score within the first 90 minutes of regular play plus stoppage time. If neither team scores within the first 90 minutes of regular play plus stoppage time, this market will resolve \"Neither\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve to \"Neither\". This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time. Extra time and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xe4a8839664a7282fc3b7b8c42c9f7c6af101363099960f691abd5d3635e6dd8a",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782974246239_lren3pebnmjq74revaseoqbxewrthy3e_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782974246239_lren3pebnmjq74revaseoqbxewrthy3e_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782974246239_lren3pebnmjq74revaseoqbxewrthy3e_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782974246239_lren3pebnmjq74revaseoqbxewrthy3e_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "13511.96",
+        "liquidity": "2727.75",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.01",
+            "chance": "0.01",
+            "index": 0,
+            "tokenId": "3125114315460875415831496853885211765221771684504747397376908608389539408622"
+          },
+          {
+            "name": "No",
+            "price": "0.99",
+            "chance": "0.99",
+            "index": 1,
+            "tokenId": "68779132540575150645014947948723655774591321263747285566649380081092194452292"
+          }
+        ]
+      }
+    ],
+    "tradeVolume": "102931.46",
+    "liquidity": "202027.48",
+    "publishedAt": 1782900944916,
+    "startDate": 1783198800000,
+    "endDate": 1783209600000,
+    "status": "REGISTERED"
+  }
+]

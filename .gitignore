@@ -13,6 +13,7 @@ tools/cloudflared.exe
 
 # Generated/experimental output. Keep only the current dashboard artifacts.
 outputs/*
+!outputs/binance-*-topics.json
 !outputs/worldcup-r16-tabs-analysis.html
 !outputs/worldcup-r16-tabs-snapshot.csv
 !outputs/worldcup-stadium-hero.png

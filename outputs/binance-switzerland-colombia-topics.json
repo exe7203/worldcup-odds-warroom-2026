@@ -1,0 +1,2436 @@
+[
+  {
+    "marketTopicId": 4372486,
+    "vendor": "PREDICT_FUN",
+    "chainId": "56",
+    "slug": "fifwc-che-col-2026-07-07-more-markets",
+    "title": "Switzerland vs. Colombia - More Markets",
+    "question": "Spread: Switzerland (-1.5)",
+    "imageUrl": "https://static.predict.fun/fifwc",
+    "thumbnailPaths": [
+      {
+        "size": "800x800",
+        "path": "file-center/web3-prediction/S3/topic/1783163618383_5ysexpmwn79ccew0coixt147otzwkdr0_NEF_q80_800x800"
+      },
+      {
+        "size": "400x400",
+        "path": "file-center/web3-prediction/S3/topic/1783163618383_5ysexpmwn79ccew0coixt147otzwkdr0_NEF_q80_400x400"
+      },
+      {
+        "size": "96x96",
+        "path": "file-center/web3-prediction/S3/topic/1783163618383_5ysexpmwn79ccew0coixt147otzwkdr0_NEF_q80_96x96"
+      },
+      {
+        "size": "64x64",
+        "path": "file-center/web3-prediction/S3/topic/1783163618383_5ysexpmwn79ccew0coixt147otzwkdr0_NEF_q80_64x64"
+      }
+    ],
+    "topicType": "GROUPED",
+    "variantData": {
+      "type": "SPORTS_FIFA_WORLD_CUP"
+    },
+    "participantCount": 52,
+    "collateral": "USDT",
+    "feeRateBps": 200,
+    "slippageBps": 1000,
+    "isYieldBearing": false,
+    "exchangeContractAddress": "0x365fb81bd4A24D6303cd2F19c349dE6894D8d58A",
+    "markets": [
+      {
+        "marketId": 6423777,
+        "externalId": "677119",
+        "title": "Switzerland (-3.5)",
+        "question": "Spread: Switzerland (-3.5)",
+        "description": "In the upcoming FIFA World Cup game, scheduled for July 7 at 4:00 PM ET:\n\nThis market will resolve to \"Switzerland\" if Switzerland win the game by 4 or more goals.\n\nOtherwise, this market will resolve to \"Colombia\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x785cc86b258bd35bb347493259a8fc7bbfa51b3915d88010d2cff12b09c8ee8f",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1783163618418_3cgdnuoluhet7pjbqphajsnwirxumq1a_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1783163618418_3cgdnuoluhet7pjbqphajsnwirxumq1a_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1783163618418_3cgdnuoluhet7pjbqphajsnwirxumq1a_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1783163618418_3cgdnuoluhet7pjbqphajsnwirxumq1a_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "0",
+        "liquidity": "3960",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "CHE",
+            "price": "0.99",
+            "chance": "0.99",
+            "index": 0,
+            "tokenId": "94026010768748503347356910447780304509573777969189231979806422461249490985331"
+          },
+          {
+            "name": "COL",
+            "price": "0.01",
+            "chance": "0.01",
+            "index": 1,
+            "tokenId": "32482759385020605187967737727533040923030696039886296765784412099110535012230"
+          }
+        ]
+      },
+      {
+        "marketId": 6423779,
+        "externalId": "677121",
+        "title": "Switzerland (-4.5)",
+        "question": "Spread: Switzerland (-4.5)",
+        "description": "In the upcoming FIFA World Cup game, scheduled for July 7 at 4:00 PM ET:\n\nThis market will resolve to \"Switzerland\" if Switzerland win the game by 5 or more goals.\n\nOtherwise, this market will resolve to \"Colombia\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x5e72dbee4a302edb49d23df1164cf359e108384a181c567b80e1c4db9492e2a2",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1783163618410_37trwlcn4p6p1u4ri6v7khq1ah3xeyg6_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1783163618410_37trwlcn4p6p1u4ri6v7khq1ah3xeyg6_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1783163618410_37trwlcn4p6p1u4ri6v7khq1ah3xeyg6_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1783163618410_37trwlcn4p6p1u4ri6v7khq1ah3xeyg6_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "0",
+        "liquidity": "807.59",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "CHE",
+            "price": "0.99",
+            "chance": "0.99",
+            "index": 0,
+            "tokenId": "109852713753278139276899467023694530527588416369092334463198040148601971608163"
+          },
+          {
+            "name": "COL",
+            "price": "0.01",
+            "chance": "0.01",
+            "index": 1,
+            "tokenId": "85319838622062090463351320801921638704150861247587516543444667586095300171781"
+          }
+        ]
+      },
+      {
+        "marketId": 6423780,
+        "externalId": "677122",
+        "title": "Colombia (-4.5)",
+        "question": "Spread: Colombia (-4.5)",
+        "description": "In the upcoming FIFA World Cup game, scheduled for July 7 at 4:00 PM ET:\n\nThis market will resolve to \"Colombia\" if Colombia win the game by 5 or more goals.\n\nOtherwise, this market will resolve to \"Switzerland\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xbca4ab48f1859dd9802703d7694e09a1104dd7862f9c20801de6e22cd4d593a2",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1783163618374_s5rfw8loa7qecshvxof6w2ej7p3if75v_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1783163618374_s5rfw8loa7qecshvxof6w2ej7p3if75v_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1783163618374_s5rfw8loa7qecshvxof6w2ej7p3if75v_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1783163618374_s5rfw8loa7qecshvxof6w2ej7p3if75v_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "0",
+        "liquidity": "2970",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "COL",
+            "price": "0.99",
+            "chance": "0.99",
+            "index": 0,
+            "tokenId": "114213166481264434596152339347166780569291884740149218107221699378856353563416"
+          },
+          {
+            "name": "CHE",
+            "price": "0.01",
+            "chance": "0.01",
+            "index": 1,
+            "tokenId": "8871291432909552222274432897779742956645831686664500487189998614663895170154"
+          }
+        ]
+      },
+      {
+        "marketId": 6423781,
+        "externalId": "677123",
+        "title": "Switzerland (-5.5)",
+        "question": "Spread: Switzerland (-5.5)",
+        "description": "In the upcoming FIFA World Cup game, scheduled for July 7 at 4:00 PM ET:\n\nThis market will resolve to \"Switzerland\" if Switzerland win the game by 6 or more goals.\n\nOtherwise, this market will resolve to \"Colombia\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x02f54b21e3498fb7578e554b0ff13d9e636e5fd512b986175da4266f6cb01f07",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1783163618370_8z7ac8x2h3gqsq3fk4jkfj1wbh0qorh5_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1783163618370_8z7ac8x2h3gqsq3fk4jkfj1wbh0qorh5_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1783163618370_8z7ac8x2h3gqsq3fk4jkfj1wbh0qorh5_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1783163618370_8z7ac8x2h3gqsq3fk4jkfj1wbh0qorh5_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "0",
+        "liquidity": "209.98",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "CHE",
+            "price": "0.99",
+            "chance": "0.99",
+            "index": 0,
+            "tokenId": "81917964154892970133171782165674348586951699262630286413417646308030278178418"
+          },
+          {
+            "name": "COL",
+            "price": "0.01",
+            "chance": "0.01",
+            "index": 1,
+            "tokenId": "107542256303540277444952961277813481481711572986970319579456579795536554461716"
+          }
+        ]
+      },
+      {
+        "marketId": 6423782,
+        "externalId": "677124",
+        "title": "Colombia (-5.5)",
+        "question": "Spread: Colombia (-5.5)",
+        "description": "In the upcoming FIFA World Cup game, scheduled for July 7 at 4:00 PM ET:\n\nThis market will resolve to \"Colombia\" if Colombia win the game by 6 or more goals.\n\nOtherwise, this market will resolve to \"Switzerland\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x61dbac0562e0f15790d8ec5f201099ed8d721af69fe6b4b8bcef629b14f997fa",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1783163618453_yegvmssg0dfh819ya6i199hl9v7rm08f_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1783163618453_yegvmssg0dfh819ya6i199hl9v7rm08f_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1783163618453_yegvmssg0dfh819ya6i199hl9v7rm08f_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1783163618453_yegvmssg0dfh819ya6i199hl9v7rm08f_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "0",
+        "liquidity": "209.98",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "COL",
+            "price": "0.99",
+            "chance": "0.99",
+            "index": 0,
+            "tokenId": "104380215720476548003654993288174292139295988621935038555792356060797622302466"
+          },
+          {
+            "name": "CHE",
+            "price": "0.01",
+            "chance": "0.01",
+            "index": 1,
+            "tokenId": "60397527173917501557290322221906041251866045345657814319248719917115863702723"
+          }
+        ]
+      },
+      {
+        "marketId": 6423790,
+        "externalId": "677132",
+        "title": "O/U 7.5",
+        "question": "Switzerland vs. Colombia: O/U 7.5",
+        "description": "In the upcoming FIFA World Cup game between Switzerland and Colombia, scheduled for July 7 at 4:00 PM ET:\n\nThis market will resolve to \"Over\" if Switzerland and Colombia combine to score 8 or more goals in this game.\n\nIf the combined total is less than 8, this market will resolve to \"Under\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nIf the game is started but not completed, this market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x12726f0dd33612deed42d78249f21d6ba9ba132b31ff5caef0c090d7bcb1bae8",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1783163618375_l485yaaib1qmyjr6bqndw8o74sesfc53_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1783163618375_l485yaaib1qmyjr6bqndw8o74sesfc53_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1783163618375_l485yaaib1qmyjr6bqndw8o74sesfc53_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1783163618375_l485yaaib1qmyjr6bqndw8o74sesfc53_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "0",
+        "liquidity": "3960",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Over",
+            "price": "0.99",
+            "chance": "0.99",
+            "index": 0,
+            "tokenId": "102099265450682117426273872296842313226412103967448002128056227355724407155401"
+          },
+          {
+            "name": "Under",
+            "price": "0.01",
+            "chance": "0.01",
+            "index": 1,
+            "tokenId": "30332164595352232368063348655116713193463277008070768439273669892379314193322"
+          }
+        ]
+      },
+      {
+        "marketId": 6423783,
+        "externalId": "677125",
+        "title": "O/U 0.5",
+        "question": "Switzerland vs. Colombia: O/U 0.5",
+        "description": "In the upcoming FIFA World Cup game between Switzerland and Colombia, scheduled for July 7 at 4:00 PM ET:\n\nThis market will resolve to \"Over\" if Switzerland and Colombia combine to score 1 or more goals in this game.\n\nIf the combined total is less than 1, this market will resolve to \"Under\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nIf the game is started but not completed, this market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x169e7a756e90722060b834ac39ebea477d096e67055a4b5f92fc3b0f5d0e0d3f",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1783163618374_00u92e506cfeiita1zl6dms55oiasusx_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1783163618374_00u92e506cfeiita1zl6dms55oiasusx_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1783163618374_00u92e506cfeiita1zl6dms55oiasusx_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1783163618374_00u92e506cfeiita1zl6dms55oiasusx_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "0",
+        "liquidity": "228122.65",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Over",
+            "price": "0.91",
+            "chance": "0.9",
+            "index": 0,
+            "tokenId": "91701802758877328797068342026813354778109835346495639226149638746413510305545"
+          },
+          {
+            "name": "Under",
+            "price": "0.09",
+            "chance": "0.1",
+            "index": 1,
+            "tokenId": "35793597056571079643699710378164792914565343489068576819997256902018297212313"
+          }
+        ]
+      },
+      {
+        "marketId": 6423791,
+        "externalId": "677133",
+        "title": "O/U 8.5",
+        "question": "Switzerland vs. Colombia: O/U 8.5",
+        "description": "In the upcoming FIFA World Cup game between Switzerland and Colombia, scheduled for July 7 at 4:00 PM ET:\n\nThis market will resolve to \"Over\" if Switzerland and Colombia combine to score 9 or more goals in this game.\n\nIf the combined total is less than 9, this market will resolve to \"Under\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nIf the game is started but not completed, this market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x52fab4f9362674850b36d51f841073176dc015624b307299c69d99192993c631",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1783163618389_nmtvzo6475lx7y4n9sgdo7gyhqtn0p5r_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1783163618389_nmtvzo6475lx7y4n9sgdo7gyhqtn0p5r_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1783163618389_nmtvzo6475lx7y4n9sgdo7gyhqtn0p5r_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1783163618389_nmtvzo6475lx7y4n9sgdo7gyhqtn0p5r_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "18354.24",
+        "liquidity": "3306.9",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Over",
+            "price": "0.89",
+            "chance": "0.89",
+            "index": 0,
+            "tokenId": "103325530688572805697815834641036722956936753742680262979762071445167264477182"
+          },
+          {
+            "name": "Under",
+            "price": "0.11",
+            "chance": "0.11",
+            "index": 1,
+            "tokenId": "4057401253062926056163621677374250220392465485973108701409898955620582199727"
+          }
+        ]
+      },
+      {
+        "marketId": 6423784,
+        "externalId": "677126",
+        "title": "O/U 1.5",
+        "question": "Switzerland vs. Colombia: O/U 1.5",
+        "description": "In the upcoming FIFA World Cup game between Switzerland and Colombia, scheduled for July 7 at 4:00 PM ET:\n\nThis market will resolve to \"Over\" if Switzerland and Colombia combine to score 2 or more goals in this game.\n\nIf the combined total is less than 2, this market will resolve to \"Under\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nIf the game is started but not completed, this market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x4d683d461934f391084242507e391ae0d5789b4b9ce5141ceadd14ec4e82a220",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1783163618373_tmntmyk5laq75wdbhepojre0oiiu3kxe_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1783163618373_tmntmyk5laq75wdbhepojre0oiiu3kxe_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1783163618373_tmntmyk5laq75wdbhepojre0oiiu3kxe_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1783163618373_tmntmyk5laq75wdbhepojre0oiiu3kxe_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "10.14",
+        "liquidity": "89049.45",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Over",
+            "price": "0.69",
+            "chance": "0.68",
+            "index": 0,
+            "tokenId": "18158993934699876287193733453438321740217654679932486447325503892510024969065"
+          },
+          {
+            "name": "Under",
+            "price": "0.31",
+            "chance": "0.32",
+            "index": 1,
+            "tokenId": "6692801681376220690553859383208616171789682385588039408823696471357648470630"
+          }
+        ]
+      },
+      {
+        "marketId": 6423792,
+        "externalId": "677134",
+        "title": "Both Teams to Score",
+        "question": "Switzerland vs. Colombia: Both Teams to Score",
+        "description": "In the upcoming FIFA World Cup game between Switzerland and Colombia, scheduled for July 7 at 4:00 PM ET:\n\nThis market will resolve to \"Yes\" if both Switzerland and Colombia each score at least one goal during the game.\n\nThis market will resolve to \"No\" if either team fails to score (i.e., if one or both teams finish with zero goals).\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nIf the game is started but not completed, this market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x2d89b789b9ad161e59e81ffe488ea03c62f4ef7d8cd5c9e3e10811be869d0fb1",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1783163618377_eo2il244ixgdypatoiv18jl6kvio56jd_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1783163618377_eo2il244ixgdypatoiv18jl6kvio56jd_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1783163618377_eo2il244ixgdypatoiv18jl6kvio56jd_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1783163618377_eo2il244ixgdypatoiv18jl6kvio56jd_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "261.42",
+        "liquidity": "41405.05",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.49",
+            "chance": "0.485",
+            "index": 0,
+            "tokenId": "48678735262765912965110868106589978200725196724774642086611365796666973512508"
+          },
+          {
+            "name": "No",
+            "price": "0.51",
+            "chance": "0.515",
+            "index": 1,
+            "tokenId": "54679889516371534884338058631659361763195270553121781199310399981883189139289"
+          }
+        ]
+      },
+      {
+        "marketId": 6423785,
+        "externalId": "677127",
+        "title": "O/U 2.5",
+        "question": "Switzerland vs. Colombia: O/U 2.5",
+        "description": "In the upcoming FIFA World Cup game between Switzerland and Colombia, scheduled for July 7 at 4:00 PM ET:\n\nThis market will resolve to \"Over\" if Switzerland and Colombia combine to score 3 or more goals in this game.\n\nIf the combined total is less than 3, this market will resolve to \"Under\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nIf the game is started but not completed, this market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xdd2928e9b2ef6b1c9f2d3b5a8b2fadec72110b7da97bbcef3e6477d7ed2b8242",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1783163618410_ua8q53mkwy7769ejb9ua8kozqtx40gv1_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1783163618410_ua8q53mkwy7769ejb9ua8kozqtx40gv1_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1783163618410_ua8q53mkwy7769ejb9ua8kozqtx40gv1_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1783163618410_ua8q53mkwy7769ejb9ua8kozqtx40gv1_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "0",
+        "liquidity": "44731.36",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Over",
+            "price": "0.41",
+            "chance": "0.405",
+            "index": 0,
+            "tokenId": "101644977806849479148903324516310147151004365237087971884394117977677587855789"
+          },
+          {
+            "name": "Under",
+            "price": "0.59",
+            "chance": "0.595",
+            "index": 1,
+            "tokenId": "26221336817825625843800926766747819091115041474482787310809207952061728427060"
+          }
+        ]
+      },
+      {
+        "marketId": 6423799,
+        "externalId": "677141",
+        "title": "Team to Advance",
+        "question": "Switzerland vs. Colombia: Team to Advance",
+        "description": "In the upcoming FIFA World Cup game between Switzerland and Colombia, scheduled for July 7 at 4:00 PM ET: This market will resolve to \"Switzerland\" if Switzerland is the team that officially advances from this match to the next round of the FIFA World Cup, or is crowned winner of the competition if this match is the final. This market will resolve to \"Colombia\" if Colombia is the team that officially advances from this match to the next round of the FIFA World Cup, or is crowned winner of the competition if this match is the final. This includes advancement after regulation, extra time, a penalty shoot-out, or an official ruling by the competition organizer such as forfeit, abandonment, or disqualification. If the game is postponed, this market will remain open until the game has been completed or a team is officially declared to advance. If the game is canceled entirely and no team advances from this match, this market will resolve 50-50. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 24 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xee5cfbaa59503effe55584d618c2adea89573e320fe9b08dd6e784476aa35bf4",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1783163618384_i1eyar29jjujsh81wid5opz545dudw6w_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1783163618384_i1eyar29jjujsh81wid5opz545dudw6w_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1783163618384_i1eyar29jjujsh81wid5opz545dudw6w_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1783163618384_i1eyar29jjujsh81wid5opz545dudw6w_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "1791.88",
+        "liquidity": "28367.55",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "CHE",
+            "price": "0.41",
+            "chance": "0.4",
+            "index": 0,
+            "tokenId": "83779436046072296556627946738671359956568322645496346683262501903512332324073"
+          },
+          {
+            "name": "COL",
+            "price": "0.59",
+            "chance": "0.6",
+            "index": 1,
+            "tokenId": "115316511913952293493830003936250032039126421786463861378945425151039293801183"
+          }
+        ]
+      },
+      {
+        "marketId": 6423786,
+        "externalId": "677128",
+        "title": "O/U 3.5",
+        "question": "Switzerland vs. Colombia: O/U 3.5",
+        "description": "In the upcoming FIFA World Cup game between Switzerland and Colombia, scheduled for July 7 at 4:00 PM ET:\n\nThis market will resolve to \"Over\" if Switzerland and Colombia combine to score 4 or more goals in this game.\n\nIf the combined total is less than 4, this market will resolve to \"Under\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nIf the game is started but not completed, this market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x31e20e741b69e8ea380ba4d8a16e629f45a4c8a7e5d1e6b5744443072017f022",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1783163618376_v5ltetxiw69b19awbkd95eu6fafbym8j_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1783163618376_v5ltetxiw69b19awbkd95eu6fafbym8j_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1783163618376_v5ltetxiw69b19awbkd95eu6fafbym8j_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1783163618376_v5ltetxiw69b19awbkd95eu6fafbym8j_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "0",
+        "liquidity": "33606.97",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Over",
+            "price": "0.21",
+            "chance": "0.2",
+            "index": 0,
+            "tokenId": "14016449705398851064713905000036773295229675971857692381615985116201107678706"
+          },
+          {
+            "name": "Under",
+            "price": "0.79",
+            "chance": "0.8",
+            "index": 1,
+            "tokenId": "53348531530455654095514897911085406005931742094768164517813848147207964256863"
+          }
+        ]
+      },
+      {
+        "marketId": 6423774,
+        "externalId": "677116",
+        "title": "Colombia (-1.5)",
+        "question": "Spread: Colombia (-1.5)",
+        "description": "In the upcoming FIFA World Cup game, scheduled for July 7 at 4:00 PM ET:\n\nThis market will resolve to \"Colombia\" if Colombia win the game by 2 or more goals.\n\nOtherwise, this market will resolve to \"Switzerland\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xb50da221eb99cd45972cad7f75f573a4ab58399362828b6ceb2a86251df0fa00",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1783163618405_ycotg2cwxwmn5tu0corcfn50oukcsp2i_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1783163618405_ycotg2cwxwmn5tu0corcfn50oukcsp2i_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1783163618405_ycotg2cwxwmn5tu0corcfn50oukcsp2i_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1783163618405_ycotg2cwxwmn5tu0corcfn50oukcsp2i_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "210",
+        "liquidity": "32388.22",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "COL",
+            "price": "0.2",
+            "chance": "0.19",
+            "index": 0,
+            "tokenId": "89357942652830805345228317450898650581552759173327933129761809727315043086538"
+          },
+          {
+            "name": "CHE",
+            "price": "0.8",
+            "chance": "0.81",
+            "index": 1,
+            "tokenId": "85714387063696234914836675823617833634240283863919137955841631362101016523825"
+          }
+        ]
+      },
+      {
+        "marketId": 6423773,
+        "externalId": "677115",
+        "title": "Switzerland (-1.5)",
+        "question": "Spread: Switzerland (-1.5)",
+        "description": "In the upcoming FIFA World Cup game, scheduled for July 7 at 4:00 PM ET:\n\nThis market will resolve to \"Switzerland\" if Switzerland win the game by 2 or more goals.\n\nOtherwise, this market will resolve to \"Colombia\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x7cffa9bcac863032e1d94a7908f08e31515f829df59ea3e014499b10e5ad3d4c",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1783163618399_t09fgk0psbusk2otmutbcchcpvln1cxm_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1783163618399_t09fgk0psbusk2otmutbcchcpvln1cxm_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1783163618399_t09fgk0psbusk2otmutbcchcpvln1cxm_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1783163618399_t09fgk0psbusk2otmutbcchcpvln1cxm_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "0",
+        "liquidity": "12064.71",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "CHE",
+            "price": "0.1",
+            "chance": "0.095",
+            "index": 0,
+            "tokenId": "21742612074578022419644973808024842730312080672046392548955381990853807155088"
+          },
+          {
+            "name": "COL",
+            "price": "0.9",
+            "chance": "0.905",
+            "index": 1,
+            "tokenId": "19314629476865061161425229883878886761000346707808388512004158051972953957736"
+          }
+        ]
+      },
+      {
+        "marketId": 6423787,
+        "externalId": "677129",
+        "title": "O/U 4.5",
+        "question": "Switzerland vs. Colombia: O/U 4.5",
+        "description": "In the upcoming FIFA World Cup game between Switzerland and Colombia, scheduled for July 7 at 4:00 PM ET:\n\nThis market will resolve to \"Over\" if Switzerland and Colombia combine to score 5 or more goals in this game.\n\nIf the combined total is less than 5, this market will resolve to \"Under\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nIf the game is started but not completed, this market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x1e792428cc6d18e42460ddcbac7d40b53d1e731f1966ff11f24ae24b7e78ab0b",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1783163618378_ax2cv5urysioyh6krmoj4zkx1ytouajp_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1783163618378_ax2cv5urysioyh6krmoj4zkx1ytouajp_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1783163618378_ax2cv5urysioyh6krmoj4zkx1ytouajp_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1783163618378_ax2cv5urysioyh6krmoj4zkx1ytouajp_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "0",
+        "liquidity": "17440.94",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Over",
+            "price": "0.09",
+            "chance": "0.08",
+            "index": 0,
+            "tokenId": "63102703338317720833151690190364206550961708423932694799085895898078950449933"
+          },
+          {
+            "name": "Under",
+            "price": "0.91",
+            "chance": "0.92",
+            "index": 1,
+            "tokenId": "16302058346145785024015286314825662976134920263307053517855170871595319984888"
+          }
+        ]
+      },
+      {
+        "marketId": 6423776,
+        "externalId": "677118",
+        "title": "Colombia (-2.5)",
+        "question": "Spread: Colombia (-2.5)",
+        "description": "In the upcoming FIFA World Cup game, scheduled for July 7 at 4:00 PM ET:\n\nThis market will resolve to \"Colombia\" if Colombia win the game by 3 or more goals.\n\nOtherwise, this market will resolve to \"Switzerland\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xf0eda1391761b6ce390dfdb657734f9a548b8f49d4912e4f278a5872e6f9fbe1",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1783163618413_45ijzdzuuq60cfhcpp79bj3j79jytxub_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1783163618413_45ijzdzuuq60cfhcpp79bj3j79jytxub_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1783163618413_45ijzdzuuq60cfhcpp79bj3j79jytxub_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1783163618413_45ijzdzuuq60cfhcpp79bj3j79jytxub_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "0",
+        "liquidity": "8464.82",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "COL",
+            "price": "0.07",
+            "chance": "0.065",
+            "index": 0,
+            "tokenId": "39912708448012871984572258807935657868640377076893119783385602242457763297589"
+          },
+          {
+            "name": "CHE",
+            "price": "0.93",
+            "chance": "0.935",
+            "index": 1,
+            "tokenId": "31666702125584869060302108397565702334580570744644557036215796020947730167447"
+          }
+        ]
+      },
+      {
+        "marketId": 6423788,
+        "externalId": "677130",
+        "title": "O/U 5.5",
+        "question": "Switzerland vs. Colombia: O/U 5.5",
+        "description": "In the upcoming FIFA World Cup game between Switzerland and Colombia, scheduled for July 7 at 4:00 PM ET:\n\nThis market will resolve to \"Over\" if Switzerland and Colombia combine to score 6 or more goals in this game.\n\nIf the combined total is less than 6, this market will resolve to \"Under\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nIf the game is started but not completed, this market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x72337dc2486a32ddeb14750a3669f2383ad661934656c1fb17d025e2f65a27bb",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1783163618383_zq8q2pt8lqh2j7ss0m1mj80in8zfrdpp_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1783163618383_zq8q2pt8lqh2j7ss0m1mj80in8zfrdpp_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1783163618383_zq8q2pt8lqh2j7ss0m1mj80in8zfrdpp_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1783163618383_zq8q2pt8lqh2j7ss0m1mj80in8zfrdpp_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "0",
+        "liquidity": "101554.89",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Over",
+            "price": "0.04",
+            "chance": "0.03",
+            "index": 0,
+            "tokenId": "7005793641789116873596156455655921186035475171499393125171113188048122913094"
+          },
+          {
+            "name": "Under",
+            "price": "0.96",
+            "chance": "0.97",
+            "index": 1,
+            "tokenId": "62211297463803014725428895489525929584947540719886450116591418395681653230597"
+          }
+        ]
+      },
+      {
+        "marketId": 6423775,
+        "externalId": "677117",
+        "title": "Switzerland (-2.5)",
+        "question": "Spread: Switzerland (-2.5)",
+        "description": "In the upcoming FIFA World Cup game, scheduled for July 7 at 4:00 PM ET:\n\nThis market will resolve to \"Switzerland\" if Switzerland win the game by 3 or more goals.\n\nOtherwise, this market will resolve to \"Colombia\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xbf8bc610afdd6099612c47a2d6795490510cdd951d903e0e734221b3d0536f8b",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1783163618404_ic1g2nieqmexep82hqf5zdkhwihl3mcn_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1783163618404_ic1g2nieqmexep82hqf5zdkhwihl3mcn_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1783163618404_ic1g2nieqmexep82hqf5zdkhwihl3mcn_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1783163618404_ic1g2nieqmexep82hqf5zdkhwihl3mcn_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "0",
+        "liquidity": "104453.6",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "CHE",
+            "price": "0.03",
+            "chance": "0.025",
+            "index": 0,
+            "tokenId": "94633884343754051940455412476085004473740238115932351494362907918804371564343"
+          },
+          {
+            "name": "COL",
+            "price": "0.97",
+            "chance": "0.975",
+            "index": 1,
+            "tokenId": "60683207668380291775320048394167084021452002590894088776079222629828449382435"
+          }
+        ]
+      },
+      {
+        "marketId": 6423778,
+        "externalId": "677120",
+        "title": "Colombia (-3.5)",
+        "question": "Spread: Colombia (-3.5)",
+        "description": "In the upcoming FIFA World Cup game, scheduled for July 7 at 4:00 PM ET:\n\nThis market will resolve to \"Colombia\" if Colombia win the game by 4 or more goals.\n\nOtherwise, this market will resolve to \"Switzerland\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xb20bfedb3a5d7e5ddfaf67e0d08030b1eddd4f19d8f5f21218ed761d643314b2",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1783163618425_1gb0j1oq7iw0kqwsrcg5ile4xsezn6z4_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1783163618425_1gb0j1oq7iw0kqwsrcg5ile4xsezn6z4_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1783163618425_1gb0j1oq7iw0kqwsrcg5ile4xsezn6z4_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1783163618425_1gb0j1oq7iw0kqwsrcg5ile4xsezn6z4_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "0",
+        "liquidity": "1709.58",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "COL",
+            "price": "0.03",
+            "chance": "0.02",
+            "index": 0,
+            "tokenId": "105760718553281651113140086295163050111295867516426004714102105775118767627826"
+          },
+          {
+            "name": "CHE",
+            "price": "0.97",
+            "chance": "0.98",
+            "index": 1,
+            "tokenId": "101897064028793297464208262263267122274659445993887174817440840249427912074207"
+          }
+        ]
+      },
+      {
+        "marketId": 6423789,
+        "externalId": "677131",
+        "title": "O/U 6.5",
+        "question": "Switzerland vs. Colombia: O/U 6.5",
+        "description": "In the upcoming FIFA World Cup game between Switzerland and Colombia, scheduled for July 7 at 4:00 PM ET:\n\nThis market will resolve to \"Over\" if Switzerland and Colombia combine to score 7 or more goals in this game.\n\nIf the combined total is less than 7, this market will resolve to \"Under\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nIf the game is started but not completed, this market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x246d802227f33c188ce3602f12064d5a5cc7b58830aaa530bd19d25883bea342",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1783163618413_14d4syny27xx734btpyaz4hkb6gbb7d3_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1783163618413_14d4syny27xx734btpyaz4hkb6gbb7d3_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1783163618413_14d4syny27xx734btpyaz4hkb6gbb7d3_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1783163618413_14d4syny27xx734btpyaz4hkb6gbb7d3_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "0",
+        "liquidity": "11.1",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Over",
+            "price": "0.02",
+            "chance": "0.02",
+            "index": 0,
+            "tokenId": "23328563352852649263507089126781666541990872110763387321695772016348668628131"
+          },
+          {
+            "name": "Under",
+            "price": "0.98",
+            "chance": "0.98",
+            "index": 1,
+            "tokenId": "10012734917815538408076359998198020078660769768880408237277887911590014423850"
+          }
+        ]
+      }
+    ],
+    "tradeVolume": "20627.7",
+    "liquidity": "809195.88",
+    "publishedAt": 1783163060782,
+    "startDate": 1783454400000,
+    "endDate": 1783465200000,
+    "status": "REGISTERED"
+  },
+  {
+    "marketTopicId": 4372327,
+    "vendor": "PREDICT_FUN",
+    "chainId": "56",
+    "slug": "fifwc-che-col-2026-07-07",
+    "title": "Switzerland vs. Colombia",
+    "question": "Will Switzerland win on 2026-07-07?",
+    "imageUrl": "https://static.predict.fun/fifwc",
+    "thumbnailPaths": [
+      {
+        "size": "800x800",
+        "path": "file-center/web3-prediction/S3/topic/1783160265459_tb2h5hnqbzf3xp3qdcio4yr4iw1y68c8_NEF_q80_800x800"
+      },
+      {
+        "size": "400x400",
+        "path": "file-center/web3-prediction/S3/topic/1783160265459_tb2h5hnqbzf3xp3qdcio4yr4iw1y68c8_NEF_q80_400x400"
+      },
+      {
+        "size": "96x96",
+        "path": "file-center/web3-prediction/S3/topic/1783160265459_tb2h5hnqbzf3xp3qdcio4yr4iw1y68c8_NEF_q80_96x96"
+      },
+      {
+        "size": "64x64",
+        "path": "file-center/web3-prediction/S3/topic/1783160265459_tb2h5hnqbzf3xp3qdcio4yr4iw1y68c8_NEF_q80_64x64"
+      }
+    ],
+    "topicType": "GROUPED",
+    "variantData": {
+      "type": "SPORTS_FIFA_WORLD_CUP"
+    },
+    "participantCount": 93,
+    "collateral": "USDT",
+    "feeRateBps": 200,
+    "slippageBps": 1000,
+    "isYieldBearing": false,
+    "exchangeContractAddress": "0x365fb81bd4A24D6303cd2F19c349dE6894D8d58A",
+    "markets": [
+      {
+        "marketId": 6422471,
+        "externalId": "676990",
+        "title": "COL",
+        "question": "Will Colombia win on 2026-07-07?",
+        "description": "In the upcoming game, scheduled for July 7, 2026\nIf Colombia wins, this market will resolve to \"Yes\".\nOtherwise, this market will resolve to \"No\".\nIf the game is postponed, this market will remain open until the game has been completed.\nIf the game is canceled entirely, with no make-up game, this market will resolve \"No\".\nThis market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x723f0ea9a30dceba9161c1074b6834b4226064404e864def8b0102349c244df5",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1783160265752_hyowtxuxr2ko36j3i1e4886khp9rkerq_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1783160265752_hyowtxuxr2ko36j3i1e4886khp9rkerq_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1783160265752_hyowtxuxr2ko36j3i1e4886khp9rkerq_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1783160265752_hyowtxuxr2ko36j3i1e4886khp9rkerq_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "963.24",
+        "liquidity": "128032.56",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.44",
+            "chance": "0.435",
+            "index": 0,
+            "tokenId": "16749356379165102656151792642158406118842417226325028906173131591991609576736"
+          },
+          {
+            "name": "No",
+            "price": "0.56",
+            "chance": "0.565",
+            "index": 1,
+            "tokenId": "44971898369364166200108885515202237366654600884586329059316006591037721515348"
+          }
+        ]
+      },
+      {
+        "marketId": 6422470,
+        "externalId": "676989",
+        "title": "Draw",
+        "question": "Will Switzerland vs. Colombia end in a draw?",
+        "description": "In the upcoming game, scheduled for July 7, 2026\nIf the game ends in a draw, this market will resolve to \"Yes\".\nOtherwise, this market will resolve to \"No\".\nIf the game is postponed, this market will remain open until the game has been completed.\nIf the game is canceled entirely, with no make-up game, this market will resolve to \"Yes\".\nThis market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xf4150969e1b5959969b40390d357f52ee4f63297151f96a422b4ae6b1252e621",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1783160265432_k1dgpy1k1gx2fd1hee3cm1txjxdx23um_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1783160265432_k1dgpy1k1gx2fd1hee3cm1txjxdx23um_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1783160265432_k1dgpy1k1gx2fd1hee3cm1txjxdx23um_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1783160265432_k1dgpy1k1gx2fd1hee3cm1txjxdx23um_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "512.6",
+        "liquidity": "74407.5",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.31",
+            "chance": "0.3",
+            "index": 0,
+            "tokenId": "56139024200080733967973052998181629376429241758907454242942693574956023855961"
+          },
+          {
+            "name": "No",
+            "price": "0.69",
+            "chance": "0.7",
+            "index": 1,
+            "tokenId": "42786137169571886189235606768552656895979054368787947401494887608229851180206"
+          }
+        ]
+      },
+      {
+        "marketId": 6422469,
+        "externalId": "676988",
+        "title": "CHE",
+        "question": "Will Switzerland win on 2026-07-07?",
+        "description": "In the upcoming game, scheduled for July 7, 2026\nIf Switzerland wins, this market will resolve to \"Yes\".\nOtherwise, this market will resolve to \"No\".\nIf the game is postponed, this market will remain open until the game has been completed.\nIf the game is canceled entirely, with no make-up game, this market will resolve \"No\".\nThis market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xebb1353d61da30e6cfb5c311055d2073fe0830c3753458f9b948aeeb31933781",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1783160265728_u81nqcf83en5v0kdol6kuh1s2s6tfixm_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1783160265728_u81nqcf83en5v0kdol6kuh1s2s6tfixm_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1783160265728_u81nqcf83en5v0kdol6kuh1s2s6tfixm_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1783160265728_u81nqcf83en5v0kdol6kuh1s2s6tfixm_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "503.2",
+        "liquidity": "88575.64",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.28",
+            "chance": "0.27",
+            "index": 0,
+            "tokenId": "101155657656611901909660332266070572673947210413260932972056089741415152361817"
+          },
+          {
+            "name": "No",
+            "price": "0.72",
+            "chance": "0.73",
+            "index": 1,
+            "tokenId": "91486433968911620270977616626948024168781837146152095735380364677917060702807"
+          }
+        ]
+      }
+    ],
+    "tradeVolume": "1979.05",
+    "liquidity": "306408.45",
+    "publishedAt": 1783160263800,
+    "startDate": 1783454400000,
+    "endDate": 1783465200000,
+    "status": "REGISTERED"
+  },
+  {
+    "marketTopicId": 4372334,
+    "vendor": "PREDICT_FUN",
+    "chainId": "56",
+    "slug": "fifwc-che-col-2026-07-07-exact-score",
+    "title": "Switzerland vs. Colombia - Exact Score",
+    "question": "Exact Score: Switzerland 0 - 0 Colombia?",
+    "imageUrl": "https://static.predict.fun/fifwc",
+    "thumbnailPaths": [
+      {
+        "size": "800x800",
+        "path": "file-center/web3-prediction/S3/topic/1783160707039_6yghwpn9dplhqgocysv5avx3mfbcks76_NEF_q80_800x800"
+      },
+      {
+        "size": "400x400",
+        "path": "file-center/web3-prediction/S3/topic/1783160707039_6yghwpn9dplhqgocysv5avx3mfbcks76_NEF_q80_400x400"
+      },
+      {
+        "size": "96x96",
+        "path": "file-center/web3-prediction/S3/topic/1783160707039_6yghwpn9dplhqgocysv5avx3mfbcks76_NEF_q80_96x96"
+      },
+      {
+        "size": "64x64",
+        "path": "file-center/web3-prediction/S3/topic/1783160707039_6yghwpn9dplhqgocysv5avx3mfbcks76_NEF_q80_64x64"
+      }
+    ],
+    "topicType": "GROUPED",
+    "variantData": {
+      "type": "SPORTS_FIFA_WORLD_CUP"
+    },
+    "participantCount": 33,
+    "collateral": "USDT",
+    "feeRateBps": 200,
+    "slippageBps": 1000,
+    "isYieldBearing": false,
+    "exchangeContractAddress": "0x365fb81bd4A24D6303cd2F19c349dE6894D8d58A",
+    "markets": [
+      {
+        "marketId": 6422503,
+        "externalId": "677029",
+        "title": "CHE 1 - 1 COL",
+        "question": "Exact Score: Switzerland 1 - 1 Colombia?",
+        "description": "In the upcoming FIFA World Cup game between Switzerland and Colombia, scheduled for July 7, 2026 at 4:00 PM ET: This market will resolve based on the final score of the Switzerland vs. Colombia match originally scheduled for July 7, 2026 at 4:00 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xb2fe7b3372be0aecfb2c63f0d58d25dac3e1ebeb62f53e517ba75d7ba1658f87",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1783160707044_hsecdpg3ukk3adu4944bi5eklrs4twsp_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1783160707044_hsecdpg3ukk3adu4944bi5eklrs4twsp_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1783160707044_hsecdpg3ukk3adu4944bi5eklrs4twsp_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1783160707044_hsecdpg3ukk3adu4944bi5eklrs4twsp_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "550.7",
+        "liquidity": "21285.25",
+        "decimalPrecision": 3,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.141",
+            "chance": "0.1405",
+            "index": 0,
+            "tokenId": "65116862261815190758318354666228703065640722163168440535334133571120853057974"
+          },
+          {
+            "name": "No",
+            "price": "0.859",
+            "chance": "0.8595",
+            "index": 1,
+            "tokenId": "34962600434882326653590752325022902050497369245662983671080349345895878904898"
+          }
+        ]
+      },
+      {
+        "marketId": 6422500,
+        "externalId": "677026",
+        "title": "CHE 0 - 1 COL",
+        "question": "Exact Score: Switzerland 0 - 1 Colombia?",
+        "description": "In the upcoming FIFA World Cup game between Switzerland and Colombia, scheduled for July 7, 2026 at 4:00 PM ET: This market will resolve based on the final score of the Switzerland vs. Colombia match originally scheduled for July 7, 2026 at 4:00 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x1b9172e716ccfaedef91d7e4d49ca1bb7dcd832b56d26662e238635230e18f08",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1783160707047_hagxcbqg4mn852ru4frr1p1d3nzy1y3g_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1783160707047_hagxcbqg4mn852ru4frr1p1d3nzy1y3g_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1783160707047_hagxcbqg4mn852ru4frr1p1d3nzy1y3g_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1783160707047_hagxcbqg4mn852ru4frr1p1d3nzy1y3g_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "7.87",
+        "liquidity": "15701.54",
+        "decimalPrecision": 3,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.122",
+            "chance": "0.121",
+            "index": 0,
+            "tokenId": "74538022390445144488854348594931812745838279439926337167641650479901623721473"
+          },
+          {
+            "name": "No",
+            "price": "0.878",
+            "chance": "0.879",
+            "index": 1,
+            "tokenId": "101051896831881042144352436467747497696480735720778014408693824546056091520450"
+          }
+        ]
+      },
+      {
+        "marketId": 6422515,
+        "externalId": "677041",
+        "title": "Any Other Score",
+        "question": "Exact Score: Any Other Score?",
+        "description": "In the upcoming FIFA World Cup game between Switzerland and Colombia, scheduled for July 7, 2026 at 4:00 PM ET: This market will resolve based on the final score of the Switzerland vs. Colombia match originally scheduled for July 7, 2026 at 4:00 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xfe8f58fe6b586ee6bfe2f44ccafea9b1604ee5a458d42aa6246f35e69eb23956",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1783160707032_fvtyowv6o9yo7hogiu6xwyznsau8qqa6_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1783160707032_fvtyowv6o9yo7hogiu6xwyznsau8qqa6_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1783160707032_fvtyowv6o9yo7hogiu6xwyznsau8qqa6_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1783160707032_fvtyowv6o9yo7hogiu6xwyznsau8qqa6_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "0",
+        "liquidity": "138.26",
+        "decimalPrecision": 3,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.183",
+            "chance": "0.101",
+            "index": 0,
+            "tokenId": "16021430261081842255705462991203725445161124517686243626308419291335755887499"
+          },
+          {
+            "name": "No",
+            "price": "0.817",
+            "chance": "0.899",
+            "index": 1,
+            "tokenId": "69237509348110329149121318271817271712642805882493602945087108251796917576972"
+          }
+        ]
+      },
+      {
+        "marketId": 6422499,
+        "externalId": "677025",
+        "title": "CHE 0 - 0 COL",
+        "question": "Exact Score: Switzerland 0 - 0 Colombia?",
+        "description": "In the upcoming FIFA World Cup game between Switzerland and Colombia, scheduled for July 7, 2026 at 4:00 PM ET: This market will resolve based on the final score of the Switzerland vs. Colombia match originally scheduled for July 7, 2026 at 4:00 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x1c521b8a8553118d0da4ac87e8cacbe95e8c661920b7055ca4e4cd3eb833a7b9",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1783160707048_ixxt74sz92hdd54xkcfzhhqpfo5jlspo_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1783160707048_ixxt74sz92hdd54xkcfzhhqpfo5jlspo_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1783160707048_ixxt74sz92hdd54xkcfzhhqpfo5jlspo_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1783160707048_ixxt74sz92hdd54xkcfzhhqpfo5jlspo_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "0",
+        "liquidity": "4582.7",
+        "decimalPrecision": 3,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.096",
+            "chance": "0.093",
+            "index": 0,
+            "tokenId": "92059745433809397930785919836197286403542106367201364476991814843854239908142"
+          },
+          {
+            "name": "No",
+            "price": "0.904",
+            "chance": "0.907",
+            "index": 1,
+            "tokenId": "44074545318020833689212910473791777749895480047730801970161696289583102024108"
+          }
+        ]
+      },
+      {
+        "marketId": 6422501,
+        "externalId": "677027",
+        "title": "CHE 1 - 0 COL",
+        "question": "Exact Score: Switzerland 1 - 0 Colombia?",
+        "description": "In the upcoming FIFA World Cup game between Switzerland and Colombia, scheduled for July 7, 2026 at 4:00 PM ET: This market will resolve based on the final score of the Switzerland vs. Colombia match originally scheduled for July 7, 2026 at 4:00 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x0be274443a9ff85be01f96d5b0279628765817c982bc5f7214ecc1d01cc5c6e8",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1783160707044_9l27srmoxs3mjfw3g061m8ustw670pd6_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1783160707044_9l27srmoxs3mjfw3g061m8ustw670pd6_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1783160707044_9l27srmoxs3mjfw3g061m8ustw670pd6_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1783160707044_9l27srmoxs3mjfw3g061m8ustw670pd6_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "59.7",
+        "liquidity": "8263.52",
+        "decimalPrecision": 3,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.097",
+            "chance": "0.089",
+            "index": 0,
+            "tokenId": "78791228781543682999285687792754529018239838546654525088020268474019360331351"
+          },
+          {
+            "name": "No",
+            "price": "0.903",
+            "chance": "0.911",
+            "index": 1,
+            "tokenId": "93664999698418299085123859111364039390834753511808439617149534175524322025477"
+          }
+        ]
+      },
+      {
+        "marketId": 6422506,
+        "externalId": "677032",
+        "title": "CHE 1 - 2 COL",
+        "question": "Exact Score: Switzerland 1 - 2 Colombia?",
+        "description": "In the upcoming FIFA World Cup game between Switzerland and Colombia, scheduled for July 7, 2026 at 4:00 PM ET: This market will resolve based on the final score of the Switzerland vs. Colombia match originally scheduled for July 7, 2026 at 4:00 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x0d030db5dc7a8ee979c6be0524ae3cdb0c2324438a30eb12540a2ebd7ef8da11",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1783160707051_w4cnnq24s3f3vy9y3fgrwfp2jc7g38vg_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1783160707051_w4cnnq24s3f3vy9y3fgrwfp2jc7g38vg_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1783160707051_w4cnnq24s3f3vy9y3fgrwfp2jc7g38vg_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1783160707051_w4cnnq24s3f3vy9y3fgrwfp2jc7g38vg_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "280.52",
+        "liquidity": "5984.07",
+        "decimalPrecision": 3,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.09",
+            "chance": "0.083",
+            "index": 0,
+            "tokenId": "67533530741896857369031061679794922443498216836026943312475976823644591782702"
+          },
+          {
+            "name": "No",
+            "price": "0.91",
+            "chance": "0.917",
+            "index": 1,
+            "tokenId": "99806817170046541436964215006118812618866863581699929099675256980046642327332"
+          }
+        ]
+      },
+      {
+        "marketId": 6422502,
+        "externalId": "677028",
+        "title": "CHE 0 - 2 COL",
+        "question": "Exact Score: Switzerland 0 - 2 Colombia?",
+        "description": "In the upcoming FIFA World Cup game between Switzerland and Colombia, scheduled for July 7, 2026 at 4:00 PM ET: This market will resolve based on the final score of the Switzerland vs. Colombia match originally scheduled for July 7, 2026 at 4:00 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x868cba44fcd78d51f5ed653bc1bd7bc3183a3efbac2704f419eb7926cf65c637",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1783160707065_qpisccnpg5lletca9tkgv0pge18q7x4s_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1783160707065_qpisccnpg5lletca9tkgv0pge18q7x4s_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1783160707065_qpisccnpg5lletca9tkgv0pge18q7x4s_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1783160707065_qpisccnpg5lletca9tkgv0pge18q7x4s_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "0",
+        "liquidity": "6760.47",
+        "decimalPrecision": 3,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.08",
+            "chance": "0.077",
+            "index": 0,
+            "tokenId": "48735291885545679765076191170718617586660592206705410557726438877124808757902"
+          },
+          {
+            "name": "No",
+            "price": "0.92",
+            "chance": "0.923",
+            "index": 1,
+            "tokenId": "94582995192190299939850010817513354683923299792650710492700001693725682358694"
+          }
+        ]
+      },
+      {
+        "marketId": 6422507,
+        "externalId": "677033",
+        "title": "CHE 2 - 1 COL",
+        "question": "Exact Score: Switzerland 2 - 1 Colombia?",
+        "description": "In the upcoming FIFA World Cup game between Switzerland and Colombia, scheduled for July 7, 2026 at 4:00 PM ET: This market will resolve based on the final score of the Switzerland vs. Colombia match originally scheduled for July 7, 2026 at 4:00 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x89a02eb9bb15f23ef2a41f751ce5b465669fba20072f931f4507e1c45c893824",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1783160707056_7x83bt5pchxpn9wfx1izyiw87so3p43a_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1783160707056_7x83bt5pchxpn9wfx1izyiw87so3p43a_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1783160707056_7x83bt5pchxpn9wfx1izyiw87so3p43a_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1783160707056_7x83bt5pchxpn9wfx1izyiw87so3p43a_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "384.25",
+        "liquidity": "5577.41",
+        "decimalPrecision": 3,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.074",
+            "chance": "0.0735",
+            "index": 0,
+            "tokenId": "12549278730956714144419007936839125957817179201910044642288178219419585069814"
+          },
+          {
+            "name": "No",
+            "price": "0.926",
+            "chance": "0.9265",
+            "index": 1,
+            "tokenId": "52626449528113173880602679470463191204436894441948288744775645278497703534002"
+          }
+        ]
+      },
+      {
+        "marketId": 6422510,
+        "externalId": "677036",
+        "title": "CHE 2 - 2 COL",
+        "question": "Exact Score: Switzerland 2 - 2 Colombia?",
+        "description": "In the upcoming FIFA World Cup game between Switzerland and Colombia, scheduled for July 7, 2026 at 4:00 PM ET: This market will resolve based on the final score of the Switzerland vs. Colombia match originally scheduled for July 7, 2026 at 4:00 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x206cc05ddc373d78e0f82aa860d23027c6013f2fb457768fb98e18d274825ba8",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1783160707049_jb1uc42dsifadjrraoshvm7ogav9kof8_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1783160707049_jb1uc42dsifadjrraoshvm7ogav9kof8_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1783160707049_jb1uc42dsifadjrraoshvm7ogav9kof8_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1783160707049_jb1uc42dsifadjrraoshvm7ogav9kof8_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "36.36",
+        "liquidity": "3390.04",
+        "decimalPrecision": 3,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.053",
+            "chance": "0.047",
+            "index": 0,
+            "tokenId": "5886590436613393011574042800749500369624268796190473131327787504183336131719"
+          },
+          {
+            "name": "No",
+            "price": "0.947",
+            "chance": "0.953",
+            "index": 1,
+            "tokenId": "69645020921785437770440934712559474149936165295861877875323061589253034859847"
+          }
+        ]
+      },
+      {
+        "marketId": 6422504,
+        "externalId": "677030",
+        "title": "CHE 2 - 0 COL",
+        "question": "Exact Score: Switzerland 2 - 0 Colombia?",
+        "description": "In the upcoming FIFA World Cup game between Switzerland and Colombia, scheduled for July 7, 2026 at 4:00 PM ET: This market will resolve based on the final score of the Switzerland vs. Colombia match originally scheduled for July 7, 2026 at 4:00 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xf9709c5b4a1931898648cbd6bab8db29b998f22781bdf9726903e778ffd023a4",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1783160707067_jfzrxi8zbznh6nf982d1dlyvcvmtszmq_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1783160707067_jfzrxi8zbznh6nf982d1dlyvcvmtszmq_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1783160707067_jfzrxi8zbznh6nf982d1dlyvcvmtszmq_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1783160707067_jfzrxi8zbznh6nf982d1dlyvcvmtszmq_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "0",
+        "liquidity": "4646.98",
+        "decimalPrecision": 3,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.052",
+            "chance": "0.046",
+            "index": 0,
+            "tokenId": "97279590936032659388138992147586781655613518872011837794766139273075061826392"
+          },
+          {
+            "name": "No",
+            "price": "0.948",
+            "chance": "0.954",
+            "index": 1,
+            "tokenId": "85823482730559306401296168445537896234583833518856780329276764623634193016378"
+          }
+        ]
+      },
+      {
+        "marketId": 6422509,
+        "externalId": "677035",
+        "title": "CHE 1 - 3 COL",
+        "question": "Exact Score: Switzerland 1 - 3 Colombia?",
+        "description": "In the upcoming FIFA World Cup game between Switzerland and Colombia, scheduled for July 7, 2026 at 4:00 PM ET: This market will resolve based on the final score of the Switzerland vs. Colombia match originally scheduled for July 7, 2026 at 4:00 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x1ee201f6f5d90e63f85ea79f7ac9ca0ee081754a145703026f5b09f76339ea97",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1783160707037_bvhgdq6gkei7rfn21r96ghcxj34tqlq8_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1783160707037_bvhgdq6gkei7rfn21r96ghcxj34tqlq8_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1783160707037_bvhgdq6gkei7rfn21r96ghcxj34tqlq8_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1783160707037_bvhgdq6gkei7rfn21r96ghcxj34tqlq8_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "0",
+        "liquidity": "2178.77",
+        "decimalPrecision": 3,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.041",
+            "chance": "0.0315",
+            "index": 0,
+            "tokenId": "62115222261883595564364212890705079763588021016399264602505473033736796083496"
+          },
+          {
+            "name": "No",
+            "price": "0.959",
+            "chance": "0.9685",
+            "index": 1,
+            "tokenId": "45518403934468776997834522744046931093196403210218692554564990964468372769051"
+          }
+        ]
+      },
+      {
+        "marketId": 6422505,
+        "externalId": "677031",
+        "title": "CHE 0 - 3 COL",
+        "question": "Exact Score: Switzerland 0 - 3 Colombia?",
+        "description": "In the upcoming FIFA World Cup game between Switzerland and Colombia, scheduled for July 7, 2026 at 4:00 PM ET: This market will resolve based on the final score of the Switzerland vs. Colombia match originally scheduled for July 7, 2026 at 4:00 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xd91eccd10860b79e901d1328ba2ebfe904fcba7c3cad16a687a85eccfb019fd1",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1783160707053_veppo6en5dyctwgpx1ikoaioesycspzg_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1783160707053_veppo6en5dyctwgpx1ikoaioesycspzg_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1783160707053_veppo6en5dyctwgpx1ikoaioesycspzg_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1783160707053_veppo6en5dyctwgpx1ikoaioesycspzg_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "0",
+        "liquidity": "2313.48",
+        "decimalPrecision": 3,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.04",
+            "chance": "0.0305",
+            "index": 0,
+            "tokenId": "17625921681452882110832589940726818345974623391921328643438104299957147717176"
+          },
+          {
+            "name": "No",
+            "price": "0.96",
+            "chance": "0.9695",
+            "index": 1,
+            "tokenId": "81218759881429491220158513063058603812308803266829712038335576797537396959845"
+          }
+        ]
+      },
+      {
+        "marketId": 6422511,
+        "externalId": "677037",
+        "title": "CHE 3 - 1 COL",
+        "question": "Exact Score: Switzerland 3 - 1 Colombia?",
+        "description": "In the upcoming FIFA World Cup game between Switzerland and Colombia, scheduled for July 7, 2026 at 4:00 PM ET: This market will resolve based on the final score of the Switzerland vs. Colombia match originally scheduled for July 7, 2026 at 4:00 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x52fe804d733663b6b87dfa25584aa4d39367005c7bd624a2639dd90902e3a52d",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1783160707053_hmd7iz0tx0247yus50ttp314wmufsuu0_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1783160707053_hmd7iz0tx0247yus50ttp314wmufsuu0_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1783160707053_hmd7iz0tx0247yus50ttp314wmufsuu0_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1783160707053_hmd7iz0tx0247yus50ttp314wmufsuu0_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "0",
+        "liquidity": "1397.09",
+        "decimalPrecision": 3,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.028",
+            "chance": "0.0205",
+            "index": 0,
+            "tokenId": "72161711886036507273376861425771010988750535270556329252562717794492255117359"
+          },
+          {
+            "name": "No",
+            "price": "0.972",
+            "chance": "0.9795",
+            "index": 1,
+            "tokenId": "30260656118353197669304528576489889100173926425981243501458039881104804141625"
+          }
+        ]
+      },
+      {
+        "marketId": 6422508,
+        "externalId": "677034",
+        "title": "CHE 3 - 0 COL",
+        "question": "Exact Score: Switzerland 3 - 0 Colombia?",
+        "description": "In the upcoming FIFA World Cup game between Switzerland and Colombia, scheduled for July 7, 2026 at 4:00 PM ET: This market will resolve based on the final score of the Switzerland vs. Colombia match originally scheduled for July 7, 2026 at 4:00 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x2e0b9910b4564ab367f96aaddcf2db7212bc7f8a4700e9230114ac28c3c730fc",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1783160707033_qa8zhd9p22oyr63te477eove4i9an4mn_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1783160707033_qa8zhd9p22oyr63te477eove4i9an4mn_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1783160707033_qa8zhd9p22oyr63te477eove4i9an4mn_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1783160707033_qa8zhd9p22oyr63te477eove4i9an4mn_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "0",
+        "liquidity": "27.79",
+        "decimalPrecision": 3,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.02",
+            "chance": "0.02",
+            "index": 0,
+            "tokenId": "77630092968045662696923590163840586458616665929989415914988073359630162247637"
+          },
+          {
+            "name": "No",
+            "price": "0.98",
+            "chance": "0.98",
+            "index": 1,
+            "tokenId": "68455870343800076972586204581611330243118618482779311870232022305678541603120"
+          }
+        ]
+      },
+      {
+        "marketId": 6422513,
+        "externalId": "677039",
+        "title": "CHE 3 - 2 COL",
+        "question": "Exact Score: Switzerland 3 - 2 Colombia?",
+        "description": "In the upcoming FIFA World Cup game between Switzerland and Colombia, scheduled for July 7, 2026 at 4:00 PM ET: This market will resolve based on the final score of the Switzerland vs. Colombia match originally scheduled for July 7, 2026 at 4:00 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xa3319a5dfc19ac63e0c9dcf9030a0935ee7a9920605513b4024e7abb70735180",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1783160707034_bsfegkejq09fw1htx9t557ilw755c6tp_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1783160707034_bsfegkejq09fw1htx9t557ilw755c6tp_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1783160707034_bsfegkejq09fw1htx9t557ilw755c6tp_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1783160707034_bsfegkejq09fw1htx9t557ilw755c6tp_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "0",
+        "liquidity": "26.39",
+        "decimalPrecision": 3,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.02",
+            "chance": "0.02",
+            "index": 0,
+            "tokenId": "70547451273252519560539631395309421305695188944329917740641970234080028122906"
+          },
+          {
+            "name": "No",
+            "price": "0.98",
+            "chance": "0.98",
+            "index": 1,
+            "tokenId": "23082490630185444627743546251265442905058003241533686678066221053114224129286"
+          }
+        ]
+      },
+      {
+        "marketId": 6422512,
+        "externalId": "677038",
+        "title": "CHE 2 - 3 COL",
+        "question": "Exact Score: Switzerland 2 - 3 Colombia?",
+        "description": "In the upcoming FIFA World Cup game between Switzerland and Colombia, scheduled for July 7, 2026 at 4:00 PM ET: This market will resolve based on the final score of the Switzerland vs. Colombia match originally scheduled for July 7, 2026 at 4:00 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xde25aff64c2897a3b2a053963108c645d193a1d75ccd2e4c20b1e90004e5927c",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1783160707059_j9t3m7q2jguln4g3nekkymcvqsqz9xaz_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1783160707059_j9t3m7q2jguln4g3nekkymcvqsqz9xaz_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1783160707059_j9t3m7q2jguln4g3nekkymcvqsqz9xaz_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1783160707059_j9t3m7q2jguln4g3nekkymcvqsqz9xaz_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "0",
+        "liquidity": "653.05",
+        "decimalPrecision": 3,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.026",
+            "chance": "0.019",
+            "index": 0,
+            "tokenId": "16707615735455128010058769446448275750628294707980402962937353498334015323565"
+          },
+          {
+            "name": "No",
+            "price": "0.974",
+            "chance": "0.981",
+            "index": 1,
+            "tokenId": "78443852375932406094035164604351592562459803056670603421318618918693360384667"
+          }
+        ]
+      },
+      {
+        "marketId": 6422514,
+        "externalId": "677040",
+        "title": "CHE 3 - 3 COL",
+        "question": "Exact Score: Switzerland 3 - 3 Colombia?",
+        "description": "In the upcoming FIFA World Cup game between Switzerland and Colombia, scheduled for July 7, 2026 at 4:00 PM ET: This market will resolve based on the final score of the Switzerland vs. Colombia match originally scheduled for July 7, 2026 at 4:00 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x12da77e8f0dc7b463e195603a7315dd4c0578632a5c033ec7190a162af4e839e",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1783160707050_8bcvpkoxz4wtc2csenw3o2oo7coan4cr_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1783160707050_8bcvpkoxz4wtc2csenw3o2oo7coan4cr_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1783160707050_8bcvpkoxz4wtc2csenw3o2oo7coan4cr_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1783160707050_8bcvpkoxz4wtc2csenw3o2oo7coan4cr_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "0",
+        "liquidity": "16.01",
+        "decimalPrecision": 3,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.01",
+            "chance": "0.01",
+            "index": 0,
+            "tokenId": "3206041720825774207028225409063452212227203387655646058286411245867840866781"
+          },
+          {
+            "name": "No",
+            "price": "0.99",
+            "chance": "0.99",
+            "index": 1,
+            "tokenId": "17160439812175306933426131003277076250322493921294367431885558445527616133079"
+          }
+        ]
+      }
+    ],
+    "tradeVolume": "1319.43",
+    "liquidity": "83155.28",
+    "publishedAt": 1783160705514,
+    "startDate": 1783454400000,
+    "endDate": 1783465200000,
+    "status": "REGISTERED"
+  },
+  {
+    "marketTopicId": 4372329,
+    "vendor": "PREDICT_FUN",
+    "chainId": "56",
+    "slug": "fifwc-che-col-2026-07-07-first-to-score",
+    "title": "Switzerland vs. Colombia - First Team to Score",
+    "question": "Switzerland to score first vs. Colombia?",
+    "imageUrl": "https://static.predict.fun/fifwc",
+    "thumbnailPaths": [
+      {
+        "size": "800x800",
+        "path": "file-center/web3-prediction/S3/topic/1783160265548_98txl64mj635083qzh05vvi8lwi17hbx_NEF_q80_800x800"
+      },
+      {
+        "size": "400x400",
+        "path": "file-center/web3-prediction/S3/topic/1783160265548_98txl64mj635083qzh05vvi8lwi17hbx_NEF_q80_400x400"
+      },
+      {
+        "size": "96x96",
+        "path": "file-center/web3-prediction/S3/topic/1783160265548_98txl64mj635083qzh05vvi8lwi17hbx_NEF_q80_96x96"
+      },
+      {
+        "size": "64x64",
+        "path": "file-center/web3-prediction/S3/topic/1783160265548_98txl64mj635083qzh05vvi8lwi17hbx_NEF_q80_64x64"
+      }
+    ],
+    "topicType": "GROUPED",
+    "variantData": {
+      "type": "SPORTS_FIFA_WORLD_CUP"
+    },
+    "participantCount": 14,
+    "collateral": "USDT",
+    "feeRateBps": 200,
+    "slippageBps": 1000,
+    "isYieldBearing": false,
+    "exchangeContractAddress": "0x365fb81bd4A24D6303cd2F19c349dE6894D8d58A",
+    "markets": [
+      {
+        "marketId": 6422490,
+        "externalId": "676993",
+        "title": "COL",
+        "question": "Colombia to score first vs. Switzerland?",
+        "description": "In the upcoming match between Switzerland and Colombia, scheduled for July 7, 2026 at 4:00 PM ET: This market will resolve to \"Switzerland\" if Switzerland are the first to score within the first 90 minutes of regular play plus stoppage time. This market will resolve to \"Colombia\" if Colombia are the first to score within the first 90 minutes of regular play plus stoppage time. If neither team scores within the first 90 minutes of regular play plus stoppage time, this market will resolve \"Neither\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve to \"Neither\". This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time. Extra time and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xa82bce594871814cd654dc53678b1261d21b1a68feae7535ebabf6842d893c40",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1783160265551_qr0huluyy89atdjkpv7900m1q7w1mrr9_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1783160265551_qr0huluyy89atdjkpv7900m1q7w1mrr9_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1783160265551_qr0huluyy89atdjkpv7900m1q7w1mrr9_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1783160265551_qr0huluyy89atdjkpv7900m1q7w1mrr9_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "210",
+        "liquidity": "18827.99",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.54",
+            "chance": "0.52",
+            "index": 0,
+            "tokenId": "26750426386972263369008014352081465096473613217442700418718111839799595937943"
+          },
+          {
+            "name": "No",
+            "price": "0.46",
+            "chance": "0.48",
+            "index": 1,
+            "tokenId": "29012480279541278572570507516627451390924694962554256348111768654263221974628"
+          }
+        ]
+      },
+      {
+        "marketId": 6422489,
+        "externalId": "676992",
+        "title": "CHE",
+        "question": "Switzerland to score first vs. Colombia?",
+        "description": "In the upcoming match between Switzerland and Colombia, scheduled for July 7, 2026 at 4:00 PM ET: This market will resolve to \"Switzerland\" if Switzerland are the first to score within the first 90 minutes of regular play plus stoppage time. This market will resolve to \"Colombia\" if Colombia are the first to score within the first 90 minutes of regular play plus stoppage time. If neither team scores within the first 90 minutes of regular play plus stoppage time, this market will resolve \"Neither\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve to \"Neither\". This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time. Extra time and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x35f51c5750e318cdb18ec869b7ed62055c71019454feccbe82781f12f95505f5",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1783160265534_bc2rtn5nlnrysrkk7kocgxjl0prc7t49_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1783160265534_bc2rtn5nlnrysrkk7kocgxjl0prc7t49_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1783160265534_bc2rtn5nlnrysrkk7kocgxjl0prc7t49_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1783160265534_bc2rtn5nlnrysrkk7kocgxjl0prc7t49_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "0",
+        "liquidity": "16431.17",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.4",
+            "chance": "0.385",
+            "index": 0,
+            "tokenId": "28611557267032607515831328444031261377899210252532756830307761760206389603107"
+          },
+          {
+            "name": "No",
+            "price": "0.6",
+            "chance": "0.615",
+            "index": 1,
+            "tokenId": "46565953931603764902363993129849789069572650628928151917424757458379973665717"
+          }
+        ]
+      },
+      {
+        "marketId": 6422491,
+        "externalId": "676994",
+        "title": "Neither",
+        "question": "Switzerland vs. Colombia: Neither team to score first?",
+        "description": "In the upcoming match between Switzerland and Colombia, scheduled for July 7, 2026 at 4:00 PM ET: This market will resolve to \"Switzerland\" if Switzerland are the first to score within the first 90 minutes of regular play plus stoppage time. This market will resolve to \"Colombia\" if Colombia are the first to score within the first 90 minutes of regular play plus stoppage time. If neither team scores within the first 90 minutes of regular play plus stoppage time, this market will resolve \"Neither\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve to \"Neither\". This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time. Extra time and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x1174317c211b5d5b00a8ef168ffee898cf7f71e79e462f4f33c9c55f29dbd10d",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1783160265537_d9qj8hlwlmkgg82ik8yndboikg862spx_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1783160265537_d9qj8hlwlmkgg82ik8yndboikg862spx_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1783160265537_d9qj8hlwlmkgg82ik8yndboikg862spx_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1783160265537_d9qj8hlwlmkgg82ik8yndboikg862spx_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "0",
+        "liquidity": "6299.41",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.1",
+            "chance": "0.09",
+            "index": 0,
+            "tokenId": "95058889961078512006423302841777458577163073489021703387285840424536118779173"
+          },
+          {
+            "name": "No",
+            "price": "0.9",
+            "chance": "0.91",
+            "index": 1,
+            "tokenId": "110661367253000851411880703603539897975065265562005587128417166209728217946500"
+          }
+        ]
+      }
+    ],
+    "tradeVolume": "210",
+    "liquidity": "41570.91",
+    "publishedAt": 1783160263800,
+    "startDate": 1783454400000,
+    "endDate": 1783465200000,
+    "status": "REGISTERED"
+  },
+  {
+    "marketTopicId": 4372333,
+    "vendor": "PREDICT_FUN",
+    "chainId": "56",
+    "slug": "fifwc-che-col-2026-07-07-halftime-result",
+    "title": "Switzerland vs. Colombia - Halftime Result",
+    "question": "Switzerland leading at halftime?",
+    "imageUrl": "https://static.predict.fun/fifwc",
+    "thumbnailPaths": [
+      {
+        "size": "800x800",
+        "path": "file-center/web3-prediction/S3/topic/1783160706971_9v6n5akrqs6eicjzoqmu37s14yfq24lv_NEF_q80_800x800"
+      },
+      {
+        "size": "400x400",
+        "path": "file-center/web3-prediction/S3/topic/1783160706971_9v6n5akrqs6eicjzoqmu37s14yfq24lv_NEF_q80_400x400"
+      },
+      {
+        "size": "96x96",
+        "path": "file-center/web3-prediction/S3/topic/1783160706971_9v6n5akrqs6eicjzoqmu37s14yfq24lv_NEF_q80_96x96"
+      },
+      {
+        "size": "64x64",
+        "path": "file-center/web3-prediction/S3/topic/1783160706971_9v6n5akrqs6eicjzoqmu37s14yfq24lv_NEF_q80_64x64"
+      }
+    ],
+    "topicType": "GROUPED",
+    "variantData": {
+      "type": "SPORTS_FIFA_WORLD_CUP"
+    },
+    "participantCount": 14,
+    "collateral": "USDT",
+    "feeRateBps": 200,
+    "slippageBps": 1000,
+    "isYieldBearing": false,
+    "exchangeContractAddress": "0x365fb81bd4A24D6303cd2F19c349dE6894D8d58A",
+    "markets": [
+      {
+        "marketId": 6422497,
+        "externalId": "677023",
+        "title": "Draw",
+        "question": "Switzerland vs. Colombia: Draw at halftime?",
+        "description": "In the upcoming game, scheduled for July 7, 2026 If the game ends in a draw within the first 45 minutes of regular play plus stoppage time, this market will resolve to \"Yes\". Otherwise, this market will resolve to \"No\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve to \"Yes\". This market refers only to the outcome within the first 45 minutes of regular play plus stoppage time.The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 24 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x4bb5dd5807afb1b3d97cf9b580759332f146e2034210f514c05d2931328f88b2",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1783160706975_z9xojmtlau6wuggvibmoj25b8kzil687_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1783160706975_z9xojmtlau6wuggvibmoj25b8kzil687_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1783160706975_z9xojmtlau6wuggvibmoj25b8kzil687_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1783160706975_z9xojmtlau6wuggvibmoj25b8kzil687_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "210",
+        "liquidity": "73409.43",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.47",
+            "chance": "0.465",
+            "index": 0,
+            "tokenId": "106085256801661656746794213226735292193455432447973567290556972580328975840361"
+          },
+          {
+            "name": "No",
+            "price": "0.53",
+            "chance": "0.535",
+            "index": 1,
+            "tokenId": "45625343569304638557858417100586272147785972601685897155696173725012183692141"
+          }
+        ]
+      },
+      {
+        "marketId": 6422498,
+        "externalId": "677024",
+        "title": "COL",
+        "question": "Colombia leading at halftime?",
+        "description": "In the upcoming game, scheduled for July 7, 2026 If Colombia wins within the first 45 minutes of regular play plus stoppage time, this market will resolve to \"Yes\". Otherwise, this market will resolve to \"No\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve \"No\". This market refers only to the outcome within the first 45 minutes of regular play plus stoppage time.The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 24 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x1a2ce056f472be26403d7e12c95c51cd659f678aa96a84582efa1366e8de04d2",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1783160706950_qgdujie6oowvkrrmv27di1ke9uato2sa_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1783160706950_qgdujie6oowvkrrmv27di1ke9uato2sa_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1783160706950_qgdujie6oowvkrrmv27di1ke9uato2sa_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1783160706950_qgdujie6oowvkrrmv27di1ke9uato2sa_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "0",
+        "liquidity": "47717.69",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.33",
+            "chance": "0.32",
+            "index": 0,
+            "tokenId": "95168236912795775571260102532975541099566729113103198757018298540761650005436"
+          },
+          {
+            "name": "No",
+            "price": "0.67",
+            "chance": "0.68",
+            "index": 1,
+            "tokenId": "37036513164019373695352500427634802539823944049057104672564423779036209985381"
+          }
+        ]
+      },
+      {
+        "marketId": 6422496,
+        "externalId": "677022",
+        "title": "CHE",
+        "question": "Switzerland leading at halftime?",
+        "description": "In the upcoming game, scheduled for July 7, 2026 If Switzerland wins within the first 45 minutes of regular play plus stoppage time, this market will resolve to \"Yes\". Otherwise, this market will resolve to \"No\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve \"No\". This market refers only to the outcome within the first 45 minutes of regular play plus stoppage time.The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 24 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x4806b2cff3bfea283c66e846d3bef34dddab89e554dc7dd1f1d40100b7a59159",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1783160706969_3zki7sgk3t7quj9lhhfe3osg0eh537bv_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1783160706969_3zki7sgk3t7quj9lhhfe3osg0eh537bv_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1783160706969_3zki7sgk3t7quj9lhhfe3osg0eh537bv_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1783160706969_3zki7sgk3t7quj9lhhfe3osg0eh537bv_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "0",
+        "liquidity": "32584.85",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.23",
+            "chance": "0.22",
+            "index": 0,
+            "tokenId": "62767313138550063117318749071876037321370887354093464261461422777311784592228"
+          },
+          {
+            "name": "No",
+            "price": "0.77",
+            "chance": "0.78",
+            "index": 1,
+            "tokenId": "59068342252506392513679981833411119264397036560318877100300937977169851951436"
+          }
+        ]
+      }
+    ],
+    "tradeVolume": "210",
+    "liquidity": "146745.52",
+    "publishedAt": 1783160705514,
+    "startDate": 1783454400000,
+    "endDate": 1783465200000,
+    "status": "REGISTERED"
+  }
+]

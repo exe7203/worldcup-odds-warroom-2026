@@ -1,0 +1,2664 @@
+[
+  {
+    "marketTopicId": 4247217,
+    "vendor": "PREDICT_FUN",
+    "chainId": "56",
+    "slug": "fifwc-can-mar-2026-07-04-exact-score",
+    "title": "Canada vs. Morocco - Exact Score",
+    "question": "Exact Score: Canada 0 - 0 Morocco?",
+    "imageUrl": "https://static.predict.fun/fifwc",
+    "thumbnailPaths": [
+      {
+        "size": "800x800",
+        "path": "file-center/web3-prediction/S3/topic/1782974527880_z2x446hktuiitujgyqhmvtz68b6zvgow_NEF_q80_800x800"
+      },
+      {
+        "size": "400x400",
+        "path": "file-center/web3-prediction/S3/topic/1782974527880_z2x446hktuiitujgyqhmvtz68b6zvgow_NEF_q80_400x400"
+      },
+      {
+        "size": "96x96",
+        "path": "file-center/web3-prediction/S3/topic/1782974527880_z2x446hktuiitujgyqhmvtz68b6zvgow_NEF_q80_96x96"
+      },
+      {
+        "size": "64x64",
+        "path": "file-center/web3-prediction/S3/topic/1782974527880_z2x446hktuiitujgyqhmvtz68b6zvgow_NEF_q80_64x64"
+      }
+    ],
+    "topicType": "GROUPED",
+    "variantData": {
+      "type": "SPORTS_FIFA_WORLD_CUP"
+    },
+    "participantCount": 6896,
+    "collateral": "USDT",
+    "feeRateBps": 200,
+    "slippageBps": 1000,
+    "isYieldBearing": true,
+    "exchangeContractAddress": "0x8A289d458f5a134bA40015085A8F50Ffb681B41d",
+    "markets": [
+      {
+        "marketId": 6152445,
+        "externalId": "633287",
+        "title": "CAN 0 - 2 MAR",
+        "question": "Exact Score: Canada 0 - 2 Morocco?",
+        "description": "In the upcoming FIFA World Cup game between Canada and Morocco, scheduled for July 4, 2026 at 1:00 PM ET: This market will resolve based on the final score of the Canada vs. Morocco match originally scheduled for July 4, 2026 at 1:00 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x2b15081f53f01aced9e7352688e30b96063faad846fae247eeec66f7c0f3e049",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782974524281_w9udtfm4b1z8roox3ie91v8fm9wighpb_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782974524281_w9udtfm4b1z8roox3ie91v8fm9wighpb_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782974524281_w9udtfm4b1z8roox3ie91v8fm9wighpb_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782974524281_w9udtfm4b1z8roox3ie91v8fm9wighpb_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "409421.32",
+        "liquidity": "60475.42",
+        "decimalPrecision": 3,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.76",
+            "chance": "0.705",
+            "index": 0,
+            "tokenId": "8802312202514935410443775979333603645397153802930965612094198316683130824236"
+          },
+          {
+            "name": "No",
+            "price": "0.25",
+            "chance": "0.27",
+            "index": 1,
+            "tokenId": "4900059280808709118624182955234634593989052676639440800524312253359557014417"
+          }
+        ]
+      },
+      {
+        "marketId": 6152448,
+        "externalId": "633290",
+        "title": "CAN 0 - 3 MAR",
+        "question": "Exact Score: Canada 0 - 3 Morocco?",
+        "description": "In the upcoming FIFA World Cup game between Canada and Morocco, scheduled for July 4, 2026 at 1:00 PM ET: This market will resolve based on the final score of the Canada vs. Morocco match originally scheduled for July 4, 2026 at 1:00 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x1c3930d986e592c8ca3f1aaf441bfa51ffe0a4c2d64e0e60d3597f2bff0aaf75",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782974524590_doqpjsde30m1cr4yo3343bmaufxa7n1q_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782974524590_doqpjsde30m1cr4yo3343bmaufxa7n1q_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782974524590_doqpjsde30m1cr4yo3343bmaufxa7n1q_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782974524590_doqpjsde30m1cr4yo3343bmaufxa7n1q_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "71300.39",
+        "liquidity": "56225.86",
+        "decimalPrecision": 3,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.14",
+            "chance": "0.12",
+            "index": 0,
+            "tokenId": "25412629997994863653766704178192268313501628515967817481677809270310484544313"
+          },
+          {
+            "name": "No",
+            "price": "0.85",
+            "chance": "0.8735",
+            "index": 1,
+            "tokenId": "38716170121076911650361807052517302534996943712533707565589443436672361066644"
+          }
+        ]
+      },
+      {
+        "marketId": 6152449,
+        "externalId": "633291",
+        "title": "CAN 1 - 2 MAR",
+        "question": "Exact Score: Canada 1 - 2 Morocco?",
+        "description": "In the upcoming FIFA World Cup game between Canada and Morocco, scheduled for July 4, 2026 at 1:00 PM ET: This market will resolve based on the final score of the Canada vs. Morocco match originally scheduled for July 4, 2026 at 1:00 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x5f17ddfc44cfbeb1781aa361f2727a88e4addd38b6667d9398c1374a4d08c579",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782974524696_24bukb878jen43r5q86i6txaa3ou2ems_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782974524696_24bukb878jen43r5q86i6txaa3ou2ems_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782974524696_24bukb878jen43r5q86i6txaa3ou2ems_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782974524696_24bukb878jen43r5q86i6txaa3ou2ems_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "427440.43",
+        "liquidity": "56102.04",
+        "decimalPrecision": 3,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.12",
+            "chance": "0.105",
+            "index": 0,
+            "tokenId": "73714292328228114076833095214434651471373475750977609615098170552040107730462"
+          },
+          {
+            "name": "No",
+            "price": "0.88",
+            "chance": "0.895",
+            "index": 1,
+            "tokenId": "9363747093816884403068739776561823999319186778795515276556692374861855174223"
+          }
+        ]
+      },
+      {
+        "marketId": 6152453,
+        "externalId": "633295",
+        "title": "CAN 2 - 2 MAR",
+        "question": "Exact Score: Canada 2 - 2 Morocco?",
+        "description": "In the upcoming FIFA World Cup game between Canada and Morocco, scheduled for July 4, 2026 at 1:00 PM ET: This market will resolve based on the final score of the Canada vs. Morocco match originally scheduled for July 4, 2026 at 1:00 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x5717469051469e7a2d6fa2d8a2042138a4dcfa8e4671d04ded5566225bf433cc",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782974525104_mfoh0juuc0i72urjkhfrkskunptzpy6p_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782974525104_mfoh0juuc0i72urjkhfrkskunptzpy6p_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782974525104_mfoh0juuc0i72urjkhfrkskunptzpy6p_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782974525104_mfoh0juuc0i72urjkhfrkskunptzpy6p_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "93975.64",
+        "liquidity": "55616.29",
+        "decimalPrecision": 3,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.02",
+            "chance": "0.011",
+            "index": 0,
+            "tokenId": "79117194079625103675280119615811130348099821055208419633833827229202907137854"
+          },
+          {
+            "name": "No",
+            "price": "0.98",
+            "chance": "0.989",
+            "index": 1,
+            "tokenId": "111942401294381091052038529579341355584886838391736704488051332370731071863695"
+          }
+        ]
+      },
+      {
+        "marketId": 6152452,
+        "externalId": "633294",
+        "title": "CAN 1 - 3 MAR",
+        "question": "Exact Score: Canada 1 - 3 Morocco?",
+        "description": "In the upcoming FIFA World Cup game between Canada and Morocco, scheduled for July 4, 2026 at 1:00 PM ET: This market will resolve based on the final score of the Canada vs. Morocco match originally scheduled for July 4, 2026 at 1:00 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x732eaca1c5930d815bbe6c9ad1c1e22391aae02a8686a1bb98215f6983f7b06a",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782974525005_4vs7yp4vzv1j35ujjzpc3vn72zgg72rh_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782974525005_4vs7yp4vzv1j35ujjzpc3vn72zgg72rh_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782974525005_4vs7yp4vzv1j35ujjzpc3vn72zgg72rh_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782974525005_4vs7yp4vzv1j35ujjzpc3vn72zgg72rh_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "147788.13",
+        "liquidity": "55676.37",
+        "decimalPrecision": 3,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.01",
+            "chance": "0.0055",
+            "index": 0,
+            "tokenId": "86818997487584970767933753482862095178895747275528621161970960288398393015606"
+          },
+          {
+            "name": "No",
+            "price": "0.99",
+            "chance": "0.9945",
+            "index": 1,
+            "tokenId": "42963669827021305259422535124193504545259183084988833598630743756008491920850"
+          }
+        ]
+      },
+      {
+        "marketId": 6152458,
+        "externalId": "633300",
+        "title": "Any Other Score",
+        "question": "Exact Score: Any Other Score?",
+        "description": "In the upcoming FIFA World Cup game between Canada and Morocco, scheduled for July 4, 2026 at 1:00 PM ET: This market will resolve based on the final score of the Canada vs. Morocco match originally scheduled for July 4, 2026 at 1:00 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x8250674bce6f1393472e9ca7d7e2af17f759232c515455726a64dc81ae5fa3a0",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782974525609_5760gzmjqxwe8qswkfcjndzvl19bvqbx_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782974525609_5760gzmjqxwe8qswkfcjndzvl19bvqbx_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782974525609_5760gzmjqxwe8qswkfcjndzvl19bvqbx_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782974525609_5760gzmjqxwe8qswkfcjndzvl19bvqbx_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "60066.96",
+        "liquidity": "55598.01",
+        "decimalPrecision": 3,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.007",
+            "chance": "0.0055",
+            "index": 0,
+            "tokenId": "41688086520252394346695341663767312645916558336647993895596864583927048886420"
+          },
+          {
+            "name": "No",
+            "price": "0.993",
+            "chance": "0.9945",
+            "index": 1,
+            "tokenId": "107151414270131015607158828719057115435821727567300847763200309066219058830273"
+          }
+        ]
+      },
+      {
+        "marketId": 6152455,
+        "externalId": "633297",
+        "title": "CAN 2 - 3 MAR",
+        "question": "Exact Score: Canada 2 - 3 Morocco?",
+        "description": "In the upcoming FIFA World Cup game between Canada and Morocco, scheduled for July 4, 2026 at 1:00 PM ET: This market will resolve based on the final score of the Canada vs. Morocco match originally scheduled for July 4, 2026 at 1:00 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xb4a809813397d7528ab35d81d4437c90b07a56eab3346d6a66d5ef0e494c16d7",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782974525314_yx25oi0ah7072liwx3lrm8l4vlr2rxmi_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782974525314_yx25oi0ah7072liwx3lrm8l4vlr2rxmi_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782974525314_yx25oi0ah7072liwx3lrm8l4vlr2rxmi_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782974525314_yx25oi0ah7072liwx3lrm8l4vlr2rxmi_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "97712.89",
+        "liquidity": "55584.24",
+        "decimalPrecision": 3,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.005",
+            "chance": "0.005",
+            "index": 0,
+            "tokenId": "9308076437220977144304195176966997081885372536805445558127614658085568417179"
+          },
+          {
+            "name": "No",
+            "price": "0.995",
+            "chance": "0.995",
+            "index": 1,
+            "tokenId": "21099763527253580304852264523569710964488350336656345392000422154360713923701"
+          }
+        ]
+      },
+      {
+        "marketId": 6152456,
+        "externalId": "633298",
+        "title": "CAN 3 - 2 MAR",
+        "question": "Exact Score: Canada 3 - 2 Morocco?",
+        "description": "In the upcoming FIFA World Cup game between Canada and Morocco, scheduled for July 4, 2026 at 1:00 PM ET: This market will resolve based on the final score of the Canada vs. Morocco match originally scheduled for July 4, 2026 at 1:00 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x3e6a700d9ce9e6c776882af81754e249245091dfa39a562d1a580e2e0f05d0ff",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782974525409_fbvv00a7216ronkrtoxn6ukxwa7z0q0n_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782974525409_fbvv00a7216ronkrtoxn6ukxwa7z0q0n_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782974525409_fbvv00a7216ronkrtoxn6ukxwa7z0q0n_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782974525409_fbvv00a7216ronkrtoxn6ukxwa7z0q0n_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "49188.22",
+        "liquidity": "55955.75",
+        "decimalPrecision": 3,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.002",
+            "chance": "0.0015",
+            "index": 0,
+            "tokenId": "35306845365040491320673670589758247323352850793290377034731587644725705292415"
+          },
+          {
+            "name": "No",
+            "price": "0.998",
+            "chance": "0.9985",
+            "index": 1,
+            "tokenId": "18611849185980151609552987876021874557194983584755645236727653672227214817133"
+          }
+        ]
+      },
+      {
+        "marketId": 6152442,
+        "externalId": "633284",
+        "title": "CAN 0 - 0 MAR",
+        "question": "Exact Score: Canada 0 - 0 Morocco?",
+        "description": "In the upcoming FIFA World Cup game between Canada and Morocco, scheduled for July 4, 2026 at 1:00 PM ET: This market will resolve based on the final score of the Canada vs. Morocco match originally scheduled for July 4, 2026 at 1:00 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x63db0ef00ac4ec28fc6ade20178ad833d850da85effb347dff94c7d3dd237ab5",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782974523976_j8gtdiolfgzemw3thk9zeux7bkp53ek4_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782974523976_j8gtdiolfgzemw3thk9zeux7bkp53ek4_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782974523976_j8gtdiolfgzemw3thk9zeux7bkp53ek4_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782974523976_j8gtdiolfgzemw3thk9zeux7bkp53ek4_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "118125.64",
+        "liquidity": "55805.06",
+        "decimalPrecision": 3,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.001",
+            "chance": "0.001",
+            "index": 0,
+            "tokenId": "33011021049463267605245587489590942685014392819313979040838183131828155546931"
+          },
+          {
+            "name": "No",
+            "price": "0.999",
+            "chance": "0.999",
+            "index": 1,
+            "tokenId": "55224328283835761691442880374060246229302715468874647433727743022984584677717"
+          }
+        ]
+      },
+      {
+        "marketId": 6152443,
+        "externalId": "633285",
+        "title": "CAN 0 - 1 MAR",
+        "question": "Exact Score: Canada 0 - 1 Morocco?",
+        "description": "In the upcoming FIFA World Cup game between Canada and Morocco, scheduled for July 4, 2026 at 1:00 PM ET: This market will resolve based on the final score of the Canada vs. Morocco match originally scheduled for July 4, 2026 at 1:00 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x1c77e3e835f251b9bd0a8b4b8cd78113aa16f0a37d95c033009ccd3db3c846a7",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782974524078_pjvd0b6wc4oes342b56zjmnnz19z4cq1_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782974524078_pjvd0b6wc4oes342b56zjmnnz19z4cq1_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782974524078_pjvd0b6wc4oes342b56zjmnnz19z4cq1_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782974524078_pjvd0b6wc4oes342b56zjmnnz19z4cq1_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "314424.74",
+        "liquidity": "56163.09",
+        "decimalPrecision": 3,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.001",
+            "chance": "0.001",
+            "index": 0,
+            "tokenId": "43323446865424701075651618941573735606899712744152802630616193073090784457569"
+          },
+          {
+            "name": "No",
+            "price": "0.999",
+            "chance": "0.999",
+            "index": 1,
+            "tokenId": "46257699450674658299844790691590959045097896615159793348744129021077834531111"
+          }
+        ]
+      },
+      {
+        "marketId": 6152444,
+        "externalId": "633286",
+        "title": "CAN 1 - 0 MAR",
+        "question": "Exact Score: Canada 1 - 0 Morocco?",
+        "description": "In the upcoming FIFA World Cup game between Canada and Morocco, scheduled for July 4, 2026 at 1:00 PM ET: This market will resolve based on the final score of the Canada vs. Morocco match originally scheduled for July 4, 2026 at 1:00 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xf89feca12cffe97fffe2841b88b0b05d4692a79e678551f91540dd7423a8fa60",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782974524178_hkh96kglvxfaco1u4u7j2atxu9or486o_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782974524178_hkh96kglvxfaco1u4u7j2atxu9or486o_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782974524178_hkh96kglvxfaco1u4u7j2atxu9or486o_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782974524178_hkh96kglvxfaco1u4u7j2atxu9or486o_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "80279.58",
+        "liquidity": "52265.33",
+        "decimalPrecision": 3,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.001",
+            "chance": "0.001",
+            "index": 0,
+            "tokenId": "110326140308131470210962612275961892672935415739293528117141282304716649464429"
+          },
+          {
+            "name": "No",
+            "price": "0.999",
+            "chance": "0.999",
+            "index": 1,
+            "tokenId": "79260529272874997674294037491233653671926270382177454714949956170478796925049"
+          }
+        ]
+      },
+      {
+        "marketId": 6152446,
+        "externalId": "633288",
+        "title": "CAN 1 - 1 MAR",
+        "question": "Exact Score: Canada 1 - 1 Morocco?",
+        "description": "In the upcoming FIFA World Cup game between Canada and Morocco, scheduled for July 4, 2026 at 1:00 PM ET: This market will resolve based on the final score of the Canada vs. Morocco match originally scheduled for July 4, 2026 at 1:00 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x891df5529e332dd2eb961006231667b6b778a52a90b1bdd26f6b69bf2052ab87",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782974524385_so3w1mwejnz5pka2njyad94sqetr793d_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782974524385_so3w1mwejnz5pka2njyad94sqetr793d_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782974524385_so3w1mwejnz5pka2njyad94sqetr793d_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782974524385_so3w1mwejnz5pka2njyad94sqetr793d_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "370424.26",
+        "liquidity": "56045.41",
+        "decimalPrecision": 3,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.001",
+            "chance": "0.001",
+            "index": 0,
+            "tokenId": "85986666022400312853362366664724663430807726369886332098058016231329789881860"
+          },
+          {
+            "name": "No",
+            "price": "0.999",
+            "chance": "0.999",
+            "index": 1,
+            "tokenId": "75258135687717602959572226692381648595330222585414857424911017287758748481804"
+          }
+        ]
+      },
+      {
+        "marketId": 6152447,
+        "externalId": "633289",
+        "title": "CAN 2 - 0 MAR",
+        "question": "Exact Score: Canada 2 - 0 Morocco?",
+        "description": "In the upcoming FIFA World Cup game between Canada and Morocco, scheduled for July 4, 2026 at 1:00 PM ET: This market will resolve based on the final score of the Canada vs. Morocco match originally scheduled for July 4, 2026 at 1:00 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xdca37f7a8513fbfa65f7c93b0132cbb9bbc485e97aea1f51a58bb1ade897ed73",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782974524483_8jfe14n7s9txp6krdgcod925t1pu48kg_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782974524483_8jfe14n7s9txp6krdgcod925t1pu48kg_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782974524483_8jfe14n7s9txp6krdgcod925t1pu48kg_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782974524483_8jfe14n7s9txp6krdgcod925t1pu48kg_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "54010.18",
+        "liquidity": "52134.51",
+        "decimalPrecision": 3,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.001",
+            "chance": "0.001",
+            "index": 0,
+            "tokenId": "32902445999871161325028354618600447285745511419824809778949507092609325639667"
+          },
+          {
+            "name": "No",
+            "price": "0.999",
+            "chance": "0.999",
+            "index": 1,
+            "tokenId": "39230823884421471081959149952358806293100246275881769196295958737781540128524"
+          }
+        ]
+      },
+      {
+        "marketId": 6152450,
+        "externalId": "633292",
+        "title": "CAN 2 - 1 MAR",
+        "question": "Exact Score: Canada 2 - 1 Morocco?",
+        "description": "In the upcoming FIFA World Cup game between Canada and Morocco, scheduled for July 4, 2026 at 1:00 PM ET: This market will resolve based on the final score of the Canada vs. Morocco match originally scheduled for July 4, 2026 at 1:00 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x3337a670bdbe125b44bfc0bd6e5611aadef7286829d420a59d4bfb5c4ea10921",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782974524800_dhn2l6jl3rfnxerviygqrq5tfivnkirj_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782974524800_dhn2l6jl3rfnxerviygqrq5tfivnkirj_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782974524800_dhn2l6jl3rfnxerviygqrq5tfivnkirj_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782974524800_dhn2l6jl3rfnxerviygqrq5tfivnkirj_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "123114.06",
+        "liquidity": "55593.97",
+        "decimalPrecision": 3,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.001",
+            "chance": "0.001",
+            "index": 0,
+            "tokenId": "33483476371012276409232370095275244477108405217640405045455936850180794748532"
+          },
+          {
+            "name": "No",
+            "price": "0.999",
+            "chance": "0.999",
+            "index": 1,
+            "tokenId": "18615480231531823019647032875276233721191880133265667728645523194084742244987"
+          }
+        ]
+      },
+      {
+        "marketId": 6152451,
+        "externalId": "633293",
+        "title": "CAN 3 - 0 MAR",
+        "question": "Exact Score: Canada 3 - 0 Morocco?",
+        "description": "In the upcoming FIFA World Cup game between Canada and Morocco, scheduled for July 4, 2026 at 1:00 PM ET: This market will resolve based on the final score of the Canada vs. Morocco match originally scheduled for July 4, 2026 at 1:00 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x0c862cc4c12a209a622db93cec09e6191d0491f92874d89cc9c60e223b325cec",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782974524907_l0uzkt2bksi64r8trnjjy4am4gz3yga3_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782974524907_l0uzkt2bksi64r8trnjjy4am4gz3yga3_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782974524907_l0uzkt2bksi64r8trnjjy4am4gz3yga3_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782974524907_l0uzkt2bksi64r8trnjjy4am4gz3yga3_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "42677.6",
+        "liquidity": "56009.08",
+        "decimalPrecision": 3,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.001",
+            "chance": "0.001",
+            "index": 0,
+            "tokenId": "44299422775760370143534855058653547129109577672384908714249125697326116296603"
+          },
+          {
+            "name": "No",
+            "price": "0.999",
+            "chance": "0.999",
+            "index": 1,
+            "tokenId": "76547711375914652595215897473386126595240815546568004096393020638004296171867"
+          }
+        ]
+      },
+      {
+        "marketId": 6152454,
+        "externalId": "633296",
+        "title": "CAN 3 - 1 MAR",
+        "question": "Exact Score: Canada 3 - 1 Morocco?",
+        "description": "In the upcoming FIFA World Cup game between Canada and Morocco, scheduled for July 4, 2026 at 1:00 PM ET: This market will resolve based on the final score of the Canada vs. Morocco match originally scheduled for July 4, 2026 at 1:00 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x24e438e6aa0d18ad798a4f8343a28819269b325352320e426ec7097b8615dc0b",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782974525207_9egkto0uaodh82lxkxcg1v56gtz05d98_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782974525207_9egkto0uaodh82lxkxcg1v56gtz05d98_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782974525207_9egkto0uaodh82lxkxcg1v56gtz05d98_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782974525207_9egkto0uaodh82lxkxcg1v56gtz05d98_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "42631.66",
+        "liquidity": "56024.86",
+        "decimalPrecision": 3,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.001",
+            "chance": "0.001",
+            "index": 0,
+            "tokenId": "69636142491106188567887717444506720723455922002218885675858413309392305475507"
+          },
+          {
+            "name": "No",
+            "price": "0.999",
+            "chance": "0.999",
+            "index": 1,
+            "tokenId": "41435975972434920213513274004533394846679716087671018233396395319833250201422"
+          }
+        ]
+      },
+      {
+        "marketId": 6152457,
+        "externalId": "633299",
+        "title": "CAN 3 - 3 MAR",
+        "question": "Exact Score: Canada 3 - 3 Morocco?",
+        "description": "In the upcoming FIFA World Cup game between Canada and Morocco, scheduled for July 4, 2026 at 1:00 PM ET: This market will resolve based on the final score of the Canada vs. Morocco match originally scheduled for July 4, 2026 at 1:00 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xc3d76830c82c6011b59c6a34ac9653be8a84b7919940c85f245f2a6e695710ea",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782974525509_d4vrivdhf5gm2qzzj06djwl7t9qo8dx1_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782974525509_d4vrivdhf5gm2qzzj06djwl7t9qo8dx1_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782974525509_d4vrivdhf5gm2qzzj06djwl7t9qo8dx1_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782974525509_d4vrivdhf5gm2qzzj06djwl7t9qo8dx1_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "47133.75",
+        "liquidity": "56927.92",
+        "decimalPrecision": 3,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.001",
+            "chance": "0.001",
+            "index": 0,
+            "tokenId": "37284883724689925102296968692986839357982295144965190942353053362278510697294"
+          },
+          {
+            "name": "No",
+            "price": "0.999",
+            "chance": "0.999",
+            "index": 1,
+            "tokenId": "55714333296228782682005863989228490909238242519326928186756146270105570124637"
+          }
+        ]
+      }
+    ],
+    "tradeVolume": "2554051.95",
+    "liquidity": "946514.51",
+    "publishedAt": 1782814976580,
+    "startDate": 1783184400000,
+    "endDate": 1783195200000,
+    "status": "REGISTERED"
+  },
+  {
+    "marketTopicId": 4367950,
+    "vendor": "PREDICT_FUN",
+    "chainId": "56",
+    "slug": "fifwc-can-mar-2026-07-04-total-corners",
+    "title": "Canada vs. Morocco - Total Corners",
+    "question": "Canada vs. Morocco: O/U 8.5 Total Corners",
+    "imageUrl": "https://static.predict.fun/fifwc",
+    "thumbnailPaths": [
+      {
+        "size": "800x800",
+        "path": "file-center/web3-prediction/S3/topic/1783063102394_1p0rhl3cpn7io2l28dinyoi4h8zaeefu_NEF_q80_800x800"
+      },
+      {
+        "size": "400x400",
+        "path": "file-center/web3-prediction/S3/topic/1783063102394_1p0rhl3cpn7io2l28dinyoi4h8zaeefu_NEF_q80_400x400"
+      },
+      {
+        "size": "96x96",
+        "path": "file-center/web3-prediction/S3/topic/1783063102394_1p0rhl3cpn7io2l28dinyoi4h8zaeefu_NEF_q80_96x96"
+      },
+      {
+        "size": "64x64",
+        "path": "file-center/web3-prediction/S3/topic/1783063102394_1p0rhl3cpn7io2l28dinyoi4h8zaeefu_NEF_q80_64x64"
+      }
+    ],
+    "topicType": "GROUPED",
+    "variantData": {
+      "type": "SPORTS_FIFA_WORLD_CUP"
+    },
+    "participantCount": 2703,
+    "collateral": "USDT",
+    "feeRateBps": 200,
+    "slippageBps": 1000,
+    "isYieldBearing": false,
+    "exchangeContractAddress": "0x365fb81bd4A24D6303cd2F19c349dE6894D8d58A",
+    "markets": [
+      {
+        "marketId": 6386812,
+        "externalId": "648890",
+        "title": "Total Corners: O/U 8.5",
+        "question": "Canada vs. Morocco: O/U 8.5 Total Corners",
+        "description": "In the upcoming FIFA World Cup game between Canada and Morocco, scheduled for July 4 at 1:00 PM ET: This market will resolve to \"Over\" if there are 9 or more total corners taken in this game (combining corners for both teams). If the total number of corners is fewer than 9, this market will resolve to \"Under\". Markets on number of corners refers to number of corners taken and not corners awarded. If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50. This market refers only to corners taken within the first 90 minutes of regular play plus stoppage time. Corners awarded but not taken will not count. Corners awarded during extra time or penalty shootouts do not count. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 24 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x31eaf12e0db5048357e7dc0fb90e5a3fffc8c3358b26b4678a5693c00de26faa",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1783063102380_ewwsz6gle4vaspxi1wj6h21w1wijl0pf_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1783063102380_ewwsz6gle4vaspxi1wj6h21w1wijl0pf_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1783063102380_ewwsz6gle4vaspxi1wj6h21w1wijl0pf_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1783063102380_ewwsz6gle4vaspxi1wj6h21w1wijl0pf_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "224469.68",
+        "liquidity": "106728.69",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Over 8.5",
+            "price": "0.99",
+            "chance": "0.99",
+            "index": 0,
+            "tokenId": "54506591497640551036983206105152077245113291471323556447917871319518735669341"
+          },
+          {
+            "name": "Under 8.5",
+            "price": "0.01",
+            "chance": "0.01",
+            "index": 1,
+            "tokenId": "96482336440499097683615983689656050514182160255951546106327859314585937282217"
+          }
+        ]
+      }
+    ],
+    "tradeVolume": "224469.69",
+    "liquidity": "106728.69",
+    "publishedAt": 1783063101192,
+    "startDate": 1783184400000,
+    "endDate": 1783195200000,
+    "status": "REGISTERED"
+  },
+  {
+    "marketTopicId": 4247196,
+    "vendor": "PREDICT_FUN",
+    "chainId": "56",
+    "slug": "fifwc-can-mar-2026-07-04",
+    "title": "Canada vs. Morocco",
+    "question": "Will Canada win on 2026-07-04?",
+    "imageUrl": "https://static.predict.fun/fifwc",
+    "thumbnailPaths": [
+      {
+        "size": "800x800",
+        "path": "file-center/web3-prediction/S3/topic/1782974531905_7bjzaxlb68zqvhvjcjzgtfexf12jzt8g_NEF_q80_800x800"
+      },
+      {
+        "size": "400x400",
+        "path": "file-center/web3-prediction/S3/topic/1782974531905_7bjzaxlb68zqvhvjcjzgtfexf12jzt8g_NEF_q80_400x400"
+      },
+      {
+        "size": "96x96",
+        "path": "file-center/web3-prediction/S3/topic/1782974531905_7bjzaxlb68zqvhvjcjzgtfexf12jzt8g_NEF_q80_96x96"
+      },
+      {
+        "size": "64x64",
+        "path": "file-center/web3-prediction/S3/topic/1782974531905_7bjzaxlb68zqvhvjcjzgtfexf12jzt8g_NEF_q80_64x64"
+      }
+    ],
+    "topicType": "GROUPED",
+    "variantData": {
+      "type": "SPORTS_FIFA_WORLD_CUP"
+    },
+    "participantCount": 12413,
+    "collateral": "USDT",
+    "feeRateBps": 200,
+    "slippageBps": 1000,
+    "isYieldBearing": true,
+    "exchangeContractAddress": "0x8A289d458f5a134bA40015085A8F50Ffb681B41d",
+    "markets": [
+      {
+        "marketId": 6152414,
+        "externalId": "633043",
+        "title": "MAR",
+        "question": "Will Morocco win on 2026-07-04?",
+        "description": "In the upcoming game, scheduled for July 4, 2026\nIf Morocco wins, this market will resolve to \"Yes\".\nOtherwise, this market will resolve to \"No\".\nIf the game is postponed, this market will remain open until the game has been completed.\nIf the game is canceled entirely, with no make-up game, this market will resolve \"No\".\nThis market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x849ac9f216b3545588f2eb79ab6bdb34913e4371b9bd4ae1df7ef3ee6d458a21",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782974529818_g6vdddycs5eevow6998tlltvsxhe2pbh_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782974529818_g6vdddycs5eevow6998tlltvsxhe2pbh_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782974529818_g6vdddycs5eevow6998tlltvsxhe2pbh_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782974529818_g6vdddycs5eevow6998tlltvsxhe2pbh_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "1641954.92",
+        "liquidity": "27052.81",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.99",
+            "chance": "0.985",
+            "index": 0,
+            "tokenId": "66737743003098457124943319705698975162516810418481526260875833044428824243499"
+          },
+          {
+            "name": "No",
+            "price": "0.01",
+            "chance": "0.015",
+            "index": 1,
+            "tokenId": "37309039482353963701520155184032365156495247688497244436066283045584333487303"
+          }
+        ]
+      },
+      {
+        "marketId": 6152418,
+        "externalId": "633041",
+        "title": "CAN",
+        "question": "Will Canada win on 2026-07-04?",
+        "description": "In the upcoming game, scheduled for July 4, 2026\nIf Canada wins, this market will resolve to \"Yes\".\nOtherwise, this market will resolve to \"No\".\nIf the game is postponed, this market will remain open until the game has been completed.\nIf the game is canceled entirely, with no make-up game, this market will resolve \"No\".\nThis market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xcaf2c24e26d263ec38d7bd465d7becc6d9f5cd55024216449b0e4fd599ed1ee4",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782974529583_ibjwljlqaflg9cyy0p2ddb47i116ahdd_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782974529583_ibjwljlqaflg9cyy0p2ddb47i116ahdd_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782974529583_ibjwljlqaflg9cyy0p2ddb47i116ahdd_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782974529583_ibjwljlqaflg9cyy0p2ddb47i116ahdd_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "469374.62",
+        "liquidity": "36899.42",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.01",
+            "chance": "0.01",
+            "index": 0,
+            "tokenId": "19030967245081084338449781229309424087129751463321904575848010732142184176557"
+          },
+          {
+            "name": "No",
+            "price": "0.99",
+            "chance": "0.99",
+            "index": 1,
+            "tokenId": "30856622385213900170796312093025887771118278906327557214810410883086475991299"
+          }
+        ]
+      },
+      {
+        "marketId": 6152432,
+        "externalId": "633042",
+        "title": "Draw",
+        "question": "Will Canada vs. Morocco end in a draw?",
+        "description": "In the upcoming game, scheduled for July 4, 2026\nIf the game ends in a draw, this market will resolve to \"Yes\".\nOtherwise, this market will resolve to \"No\".\nIf the game is postponed, this market will remain open until the game has been completed.\nIf the game is canceled entirely, with no make-up game, this market will resolve to \"Yes\".\nThis market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xbd3ffe2ce04ec618a0df2eb3d3ea2c1376acb013448c51e83de7a82c0cbb0e4b",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782974529696_kmx3pfydyj83dh92wz298hhww2qa0gvm_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782974529696_kmx3pfydyj83dh92wz298hhww2qa0gvm_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782974529696_kmx3pfydyj83dh92wz298hhww2qa0gvm_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782974529696_kmx3pfydyj83dh92wz298hhww2qa0gvm_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "321219.06",
+        "liquidity": "40535.29",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.01",
+            "chance": "0.01",
+            "index": 0,
+            "tokenId": "91367817585642180905890478377170546178228185224881958818138305958869616199878"
+          },
+          {
+            "name": "No",
+            "price": "0.99",
+            "chance": "0.99",
+            "index": 1,
+            "tokenId": "45126198151749377031210276290809408543155588474114325642089511802549673842244"
+          }
+        ]
+      }
+    ],
+    "tradeVolume": "2432844.26",
+    "liquidity": "104687.02",
+    "publishedAt": 1782814443890,
+    "startDate": 1783184400000,
+    "endDate": 1783195200000,
+    "status": "REGISTERED"
+  },
+  {
+    "marketTopicId": 4247240,
+    "vendor": "PREDICT_FUN",
+    "chainId": "56",
+    "slug": "fifwc-can-mar-2026-07-04-more-markets",
+    "title": "Canada vs. Morocco - More Markets",
+    "question": "Spread: Canada (-1.5)",
+    "imageUrl": "https://static.predict.fun/fifwc",
+    "thumbnailPaths": [
+      {
+        "size": "800x800",
+        "path": "file-center/web3-prediction/S3/topic/1782974521447_3yg53schjes9lvkydgchq4dm723tufiy_NEF_q80_800x800"
+      },
+      {
+        "size": "400x400",
+        "path": "file-center/web3-prediction/S3/topic/1782974521447_3yg53schjes9lvkydgchq4dm723tufiy_NEF_q80_400x400"
+      },
+      {
+        "size": "96x96",
+        "path": "file-center/web3-prediction/S3/topic/1782974521447_3yg53schjes9lvkydgchq4dm723tufiy_NEF_q80_96x96"
+      },
+      {
+        "size": "64x64",
+        "path": "file-center/web3-prediction/S3/topic/1782974521447_3yg53schjes9lvkydgchq4dm723tufiy_NEF_q80_64x64"
+      }
+    ],
+    "topicType": "GROUPED",
+    "variantData": {
+      "type": "SPORTS_FIFA_WORLD_CUP"
+    },
+    "participantCount": 7978,
+    "collateral": "USDT",
+    "feeRateBps": 200,
+    "slippageBps": 1000,
+    "isYieldBearing": true,
+    "exchangeContractAddress": "0x8A289d458f5a134bA40015085A8F50Ffb681B41d",
+    "markets": [
+      {
+        "marketId": 6152495,
+        "externalId": "633379",
+        "title": "O/U 0.5",
+        "question": "Canada vs. Morocco: O/U 0.5",
+        "description": "In the upcoming FIFA World Cup game between Canada and Morocco, scheduled for July 4 at 1:00 PM ET:\n\nThis market will resolve to \"Over\" if Canada and Morocco combine to score 1 or more goals in this game.\n\nIf the combined total is less than 1, this market will resolve to \"Under\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nIf the game is started but not completed, this market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x3ae60ec4f295b68fc1d21bc82f7684fa26e7164a1b63a11f428b96b2a518ac38",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782974518877_tsn4te2bm6nuj4shq6ltw92zpc48utrj_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782974518877_tsn4te2bm6nuj4shq6ltw92zpc48utrj_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782974518877_tsn4te2bm6nuj4shq6ltw92zpc48utrj_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782974518877_tsn4te2bm6nuj4shq6ltw92zpc48utrj_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "107955.72",
+        "liquidity": "154978.42",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Over",
+            "price": "0.99",
+            "chance": "0.99",
+            "index": 0,
+            "tokenId": "109221778344020416873147247204145672263206518686469612614504893679157280074714"
+          },
+          {
+            "name": "Under",
+            "price": "0.01",
+            "chance": "0.01",
+            "index": 1,
+            "tokenId": "90959701406880765036942671258975308215409021654714580448569295998985249063810"
+          }
+        ]
+      },
+      {
+        "marketId": 6152496,
+        "externalId": "633380",
+        "title": "O/U 1.5",
+        "question": "Canada vs. Morocco: O/U 1.5",
+        "description": "In the upcoming FIFA World Cup game between Canada and Morocco, scheduled for July 4 at 1:00 PM ET:\n\nThis market will resolve to \"Over\" if Canada and Morocco combine to score 2 or more goals in this game.\n\nIf the combined total is less than 2, this market will resolve to \"Under\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nIf the game is started but not completed, this market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x778c40f3a9c9eefe794eb4b110b7c0a913a5017578f34685528f387ca7e5fac3",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782974518985_oc711p03dnodu98fvy1acs7fzf7i5dha_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782974518985_oc711p03dnodu98fvy1acs7fzf7i5dha_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782974518985_oc711p03dnodu98fvy1acs7fzf7i5dha_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782974518985_oc711p03dnodu98fvy1acs7fzf7i5dha_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "152605.12",
+        "liquidity": "122219.42",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Over",
+            "price": "0.99",
+            "chance": "0.99",
+            "index": 0,
+            "tokenId": "41511359746934517072177062579754468300550164161137008092359959311731909362545"
+          },
+          {
+            "name": "Under",
+            "price": "0.01",
+            "chance": "0.01",
+            "index": 1,
+            "tokenId": "68552719901877249793820961665394563950893215728170190115317218201165910030493"
+          }
+        ]
+      },
+      {
+        "marketId": 6152482,
+        "externalId": "633366",
+        "title": "Morocco (-1.5)",
+        "question": "Spread: Morocco (-1.5)",
+        "description": "In the upcoming FIFA World Cup game, scheduled for July 4 at 1:00 PM ET:\n\nThis market will resolve to \"Morocco\" if Morocco win the game by 2 or more goals.\n\nOtherwise, this market will resolve to \"Canada\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x8af6a08188ca9456c5cca2091f8884132f4866f80a2ff7fffcc9822ce3dd154c",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782974517527_6zkoo08ptsek02gcws3s2m1n3bs2i1x4_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782974517527_6zkoo08ptsek02gcws3s2m1n3bs2i1x4_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782974517527_6zkoo08ptsek02gcws3s2m1n3bs2i1x4_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782974517527_6zkoo08ptsek02gcws3s2m1n3bs2i1x4_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "77744.01",
+        "liquidity": "7732.09",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "MAR",
+            "price": "0.88",
+            "chance": "0.87",
+            "index": 0,
+            "tokenId": "40737777800593252232081028952393907062094038253527419091556673510488543013540"
+          },
+          {
+            "name": "CAN",
+            "price": "0.12",
+            "chance": "0.13",
+            "index": 1,
+            "tokenId": "53842640327825295127988456331575189506450153644781036608884128457333153029688"
+          }
+        ]
+      },
+      {
+        "marketId": 6152497,
+        "externalId": "633381",
+        "title": "O/U 2.5",
+        "question": "Canada vs. Morocco: O/U 2.5",
+        "description": "In the upcoming FIFA World Cup game between Canada and Morocco, scheduled for July 4 at 1:00 PM ET:\n\nThis market will resolve to \"Over\" if Canada and Morocco combine to score 3 or more goals in this game.\n\nIf the combined total is less than 3, this market will resolve to \"Under\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nIf the game is started but not completed, this market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xadbe5aaf776898234fc5cc231fee9276d54a7cd6ce8f3108166c07d91759963b",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782974519091_7n97c7e2bz9711ie19zk1hm9f0tjuvtc_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782974519091_7n97c7e2bz9711ie19zk1hm9f0tjuvtc_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782974519091_7n97c7e2bz9711ie19zk1hm9f0tjuvtc_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782974519091_7n97c7e2bz9711ie19zk1hm9f0tjuvtc_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "235391.39",
+        "liquidity": "38792.15",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Over",
+            "price": "0.28",
+            "chance": "0.275",
+            "index": 0,
+            "tokenId": "110116695629842104550656423717991986062217563336972732764098723305351010207915"
+          },
+          {
+            "name": "Under",
+            "price": "0.72",
+            "chance": "0.725",
+            "index": 1,
+            "tokenId": "95462181882773270622109245624157541381837732384699510351250228224000887507760"
+          }
+        ]
+      },
+      {
+        "marketId": 6152484,
+        "externalId": "633368",
+        "title": "Morocco (-2.5)",
+        "question": "Spread: Morocco (-2.5)",
+        "description": "In the upcoming FIFA World Cup game, scheduled for July 4 at 1:00 PM ET:\n\nThis market will resolve to \"Morocco\" if Morocco win the game by 3 or more goals.\n\nOtherwise, this market will resolve to \"Canada\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x3db8225863f8946a15d4a604130967bb9f1257b09e879c4590dba6b02f6bbe24",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782974517742_pzwi6pbmp4en7keorbin4b83aqnetnmg_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782974517742_pzwi6pbmp4en7keorbin4b83aqnetnmg_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782974517742_pzwi6pbmp4en7keorbin4b83aqnetnmg_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782974517742_pzwi6pbmp4en7keorbin4b83aqnetnmg_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "11502.73",
+        "liquidity": "1357.3",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "MAR",
+            "price": "0.14",
+            "chance": "0.13",
+            "index": 0,
+            "tokenId": "31513061882815038985258912432952570429033725839475810712317785825515512718351"
+          },
+          {
+            "name": "CAN",
+            "price": "0.86",
+            "chance": "0.87",
+            "index": 1,
+            "tokenId": "84345332392778239921971303485638189706956663503129675821086942663160362900215"
+          }
+        ]
+      },
+      {
+        "marketId": 6160197,
+        "externalId": "633384",
+        "title": "Both Teams to Score",
+        "question": "Canada vs. Morocco: Both Teams to Score",
+        "description": "In the upcoming FIFA World Cup game between Canada and Morocco, scheduled for July 4 at 1:00 PM ET:\n\nThis market will resolve to \"Yes\" if both Canada and Morocco each score at least one goal during the game.\n\nThis market will resolve to \"No\" if either team fails to score (i.e., if one or both teams finish with zero goals).\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nIf the game is started but not completed, this market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x50901dd95ebe52aee0e22155a27a0b8971b52fcbcb3e015b64a15b8d40a59250",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782834530789_aj0yqz4vp0phoyxr4437cz062duospnf_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782834530789_aj0yqz4vp0phoyxr4437cz062duospnf_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782834530789_aj0yqz4vp0phoyxr4437cz062duospnf_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782834530789_aj0yqz4vp0phoyxr4437cz062duospnf_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "235804.12",
+        "liquidity": "31306.19",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.13",
+            "chance": "0.125",
+            "index": 0,
+            "tokenId": "65882304368872459274908518960348932037694923343903833059760556650729141601470"
+          },
+          {
+            "name": "No",
+            "price": "0.87",
+            "chance": "0.875",
+            "index": 1,
+            "tokenId": "8350899626283531500025103859998851061063815986904022097980120500120892337999"
+          }
+        ]
+      },
+      {
+        "marketId": 6152486,
+        "externalId": "633370",
+        "title": "Morocco (-3.5)",
+        "question": "Spread: Morocco (-3.5)",
+        "description": "In the upcoming FIFA World Cup game, scheduled for July 4 at 1:00 PM ET:\n\nThis market will resolve to \"Morocco\" if Morocco win the game by 4 or more goals.\n\nOtherwise, this market will resolve to \"Canada\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xc3fff94f9555ff9579bb8fcd27406b06c4e4d2a0f6729ce51ceb37f48c7fd12d",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782974517958_jrnunfhwq9d864gs4nf747y6zgtso3de_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782974517958_jrnunfhwq9d864gs4nf747y6zgtso3de_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782974517958_jrnunfhwq9d864gs4nf747y6zgtso3de_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782974517958_jrnunfhwq9d864gs4nf747y6zgtso3de_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "3781.8",
+        "liquidity": "995.36",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "MAR",
+            "price": "0.03",
+            "chance": "0.03",
+            "index": 0,
+            "tokenId": "34163078186815772100201533717854186952113072892814280719533491562180655634107"
+          },
+          {
+            "name": "CAN",
+            "price": "0.97",
+            "chance": "0.97",
+            "index": 1,
+            "tokenId": "22571046145437968712139380415774494799206058374512743717462171349767762495040"
+          }
+        ]
+      },
+      {
+        "marketId": 6152487,
+        "externalId": "633371",
+        "title": "Canada (-4.5)",
+        "question": "Spread: Canada (-4.5)",
+        "description": "In the upcoming FIFA World Cup game, scheduled for July 4 at 1:00 PM ET:\n\nThis market will resolve to \"Canada\" if Canada win the game by 5 or more goals.\n\nOtherwise, this market will resolve to \"Morocco\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xf0c418bcdaab53ae08b24f7067d32a7a65bef9442f48c59bd7dd4276cb24f4bb",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782974518058_g7w84y5w4g3hrw8g47j8b96p400t5mvn_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782974518058_g7w84y5w4g3hrw8g47j8b96p400t5mvn_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782974518058_g7w84y5w4g3hrw8g47j8b96p400t5mvn_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782974518058_g7w84y5w4g3hrw8g47j8b96p400t5mvn_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "0",
+        "liquidity": "18.77",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "CAN",
+            "price": "0.02",
+            "chance": "0.02",
+            "index": 0,
+            "tokenId": "62595191645406369674626930211728082390018690145057638944833903668801801878641"
+          },
+          {
+            "name": "MAR",
+            "price": "0.98",
+            "chance": "0.98",
+            "index": 1,
+            "tokenId": "70837899969420817968066095566233621063211239320840300834771642950418325110765"
+          }
+        ]
+      },
+      {
+        "marketId": 6152489,
+        "externalId": "633373",
+        "title": "Canada (-5.5)",
+        "question": "Spread: Canada (-5.5)",
+        "description": "In the upcoming FIFA World Cup game, scheduled for July 4 at 1:00 PM ET:\n\nThis market will resolve to \"Canada\" if Canada win the game by 6 or more goals.\n\nOtherwise, this market will resolve to \"Morocco\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x0a6409a8a1b9262fbac7b568ef1add18764adc09b39d239332e349e8fc30f64f",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782974518260_j4c6jr7815vxhz4qsdxaaldehnngtt6o_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782974518260_j4c6jr7815vxhz4qsdxaaldehnngtt6o_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782974518260_j4c6jr7815vxhz4qsdxaaldehnngtt6o_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782974518260_j4c6jr7815vxhz4qsdxaaldehnngtt6o_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "0",
+        "liquidity": "40.46",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "CAN",
+            "price": "0.02",
+            "chance": "0.02",
+            "index": 0,
+            "tokenId": "109613709434558587797765680894446617257873973309542096418427280219550830297835"
+          },
+          {
+            "name": "MAR",
+            "price": "0.98",
+            "chance": "0.98",
+            "index": 1,
+            "tokenId": "20472672079409557496746997952464978676932968369739482449536690671260496313867"
+          }
+        ]
+      },
+      {
+        "marketId": 6152490,
+        "externalId": "633374",
+        "title": "Morocco (-5.5)",
+        "question": "Spread: Morocco (-5.5)",
+        "description": "In the upcoming FIFA World Cup game, scheduled for July 4 at 1:00 PM ET:\n\nThis market will resolve to \"Morocco\" if Morocco win the game by 6 or more goals.\n\nOtherwise, this market will resolve to \"Canada\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xc0d1379819ec0e6bfc64463a828610c30c77a0740212d06b526d72593291a254",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782974518356_3c8jlww6b9c5e6pp3xxhwqf0l880ppbt_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782974518356_3c8jlww6b9c5e6pp3xxhwqf0l880ppbt_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782974518356_3c8jlww6b9c5e6pp3xxhwqf0l880ppbt_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782974518356_3c8jlww6b9c5e6pp3xxhwqf0l880ppbt_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "250",
+        "liquidity": "1030.87",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "MAR",
+            "price": "0.02",
+            "chance": "0.02",
+            "index": 0,
+            "tokenId": "11103748309966808097361316582330885418140903950825963058574354138241193977706"
+          },
+          {
+            "name": "CAN",
+            "price": "0.98",
+            "chance": "0.98",
+            "index": 1,
+            "tokenId": "109530614567134849625812123079279880596716799481431176342466159244224318724313"
+          }
+        ]
+      },
+      {
+        "marketId": 6152491,
+        "externalId": "633375",
+        "title": "O/U 3.5",
+        "question": "Canada vs. Morocco: O/U 3.5",
+        "description": "In the upcoming FIFA World Cup game between Canada and Morocco, scheduled for July 4 at 1:00 PM ET:\n\nThis market will resolve to \"Over\" if Canada and Morocco combine to score 4 or more goals in this game.\n\nIf the combined total is less than 4, this market will resolve to \"Under\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nIf the game is started but not completed, this market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x58d827e03e9f770f2eb39d2bb9a3ad9364230772aaf25af715ea695d0d4c0c99",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782974518471_ma1k3izin2i1sxbbdfjgp2xp8qxc2wzn_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782974518471_ma1k3izin2i1sxbbdfjgp2xp8qxc2wzn_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782974518471_ma1k3izin2i1sxbbdfjgp2xp8qxc2wzn_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782974518471_ma1k3izin2i1sxbbdfjgp2xp8qxc2wzn_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "66806.05",
+        "liquidity": "1980.96",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Over",
+            "price": "0.03",
+            "chance": "0.02",
+            "index": 0,
+            "tokenId": "29982052099590612353789685480864781521792941687831306213852967925231663623921"
+          },
+          {
+            "name": "Under",
+            "price": "0.97",
+            "chance": "0.98",
+            "index": 1,
+            "tokenId": "54546343677082351088850054095943984888937201251162930096912774209499630729209"
+          }
+        ]
+      },
+      {
+        "marketId": 6152481,
+        "externalId": "633365",
+        "title": "Canada (-1.5)",
+        "question": "Spread: Canada (-1.5)",
+        "description": "In the upcoming FIFA World Cup game, scheduled for July 4 at 1:00 PM ET:\n\nThis market will resolve to \"Canada\" if Canada win the game by 2 or more goals.\n\nOtherwise, this market will resolve to \"Morocco\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xe82acb509fbd8ded8429da014ed7c8b883be790630de9bc674dc8b162f864b38",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782974517427_7episrw2wl7jac50fzixt3h3c4di9qp2_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782974517427_7episrw2wl7jac50fzixt3h3c4di9qp2_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782974517427_7episrw2wl7jac50fzixt3h3c4di9qp2_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782974517427_7episrw2wl7jac50fzixt3h3c4di9qp2_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "9178.14",
+        "liquidity": "1113.53",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "CAN",
+            "price": "0.01",
+            "chance": "0.01",
+            "index": 0,
+            "tokenId": "59436918438434959714040584120234652944002576799953067300587601823049241725668"
+          },
+          {
+            "name": "MAR",
+            "price": "0.99",
+            "chance": "0.99",
+            "index": 1,
+            "tokenId": "54519023023138688381997065092916996469488776453743799758018127461544576839466"
+          }
+        ]
+      },
+      {
+        "marketId": 6152483,
+        "externalId": "633367",
+        "title": "Canada (-2.5)",
+        "question": "Spread: Canada (-2.5)",
+        "description": "In the upcoming FIFA World Cup game, scheduled for July 4 at 1:00 PM ET:\n\nThis market will resolve to \"Canada\" if Canada win the game by 3 or more goals.\n\nOtherwise, this market will resolve to \"Morocco\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xed3df782e003123580501a0faac11cbf3de9285109e48d1ac396184817e1c1a7",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782974517634_bzmku671yts8t56xnillv2rzdtxqasju_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782974517634_bzmku671yts8t56xnillv2rzdtxqasju_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782974517634_bzmku671yts8t56xnillv2rzdtxqasju_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782974517634_bzmku671yts8t56xnillv2rzdtxqasju_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "10060.26",
+        "liquidity": "1109.52",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "CAN",
+            "price": "0.01",
+            "chance": "0.01",
+            "index": 0,
+            "tokenId": "43786128968960308476465687278092531311468343229464080714841025059146267050565"
+          },
+          {
+            "name": "MAR",
+            "price": "0.99",
+            "chance": "0.99",
+            "index": 1,
+            "tokenId": "42270297952353972918207256944854642397348710350216206236129904558196022729888"
+          }
+        ]
+      },
+      {
+        "marketId": 6152485,
+        "externalId": "633369",
+        "title": "Canada (-3.5)",
+        "question": "Spread: Canada (-3.5)",
+        "description": "In the upcoming FIFA World Cup game, scheduled for July 4 at 1:00 PM ET:\n\nThis market will resolve to \"Canada\" if Canada win the game by 4 or more goals.\n\nOtherwise, this market will resolve to \"Morocco\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xb2bd7d66a5fef7d9b77d0fb13340deeae29d9edce0ebf27849795a94470f60a6",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782974517849_72m434swx2i9r61xnxcj141l52ib7kbk_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782974517849_72m434swx2i9r61xnxcj141l52ib7kbk_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782974517849_72m434swx2i9r61xnxcj141l52ib7kbk_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782974517849_72m434swx2i9r61xnxcj141l52ib7kbk_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "323.2",
+        "liquidity": "23.23",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "CAN",
+            "price": "0.01",
+            "chance": "0.01",
+            "index": 0,
+            "tokenId": "97166064736256256136581768174040740102882598025351877716471303693298867379296"
+          },
+          {
+            "name": "MAR",
+            "price": "0.99",
+            "chance": "0.99",
+            "index": 1,
+            "tokenId": "34508410703734926283805621255049680633770206922590431232145464907883890473451"
+          }
+        ]
+      },
+      {
+        "marketId": 6152488,
+        "externalId": "633372",
+        "title": "Morocco (-4.5)",
+        "question": "Spread: Morocco (-4.5)",
+        "description": "In the upcoming FIFA World Cup game, scheduled for July 4 at 1:00 PM ET:\n\nThis market will resolve to \"Morocco\" if Morocco win the game by 5 or more goals.\n\nOtherwise, this market will resolve to \"Canada\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x4212d971c3864352187b2079ef6cc268cbef7b89e4f9e7dc3ea7b0a30af47d63",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782974518162_5ssyz41aq4po4u2gea5pckissx23tnrm_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782974518162_5ssyz41aq4po4u2gea5pckissx23tnrm_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782974518162_5ssyz41aq4po4u2gea5pckissx23tnrm_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782974518162_5ssyz41aq4po4u2gea5pckissx23tnrm_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "2344.25",
+        "liquidity": "1013.45",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "MAR",
+            "price": "0.01",
+            "chance": "0.01",
+            "index": 0,
+            "tokenId": "82604929567061824560108975676030319257264426184549671047163430180295217117543"
+          },
+          {
+            "name": "CAN",
+            "price": "0.99",
+            "chance": "0.99",
+            "index": 1,
+            "tokenId": "17837534259619799715297421206885520810306398399787856619130613081996873814595"
+          }
+        ]
+      },
+      {
+        "marketId": 6152492,
+        "externalId": "633376",
+        "title": "O/U 4.5",
+        "question": "Canada vs. Morocco: O/U 4.5",
+        "description": "In the upcoming FIFA World Cup game between Canada and Morocco, scheduled for July 4 at 1:00 PM ET:\n\nThis market will resolve to \"Over\" if Canada and Morocco combine to score 5 or more goals in this game.\n\nIf the combined total is less than 5, this market will resolve to \"Under\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nIf the game is started but not completed, this market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x46f75edc3371d14cbdfc0a76d11854bd970affd2dcd554bbb04c88a0424c87e9",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782974518575_xikznumsl63n6jz183lfc1a9rvs7sghl_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782974518575_xikznumsl63n6jz183lfc1a9rvs7sghl_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782974518575_xikznumsl63n6jz183lfc1a9rvs7sghl_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782974518575_xikznumsl63n6jz183lfc1a9rvs7sghl_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "55833.14",
+        "liquidity": "1238.96",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Over",
+            "price": "0.01",
+            "chance": "0.01",
+            "index": 0,
+            "tokenId": "24863741893450445770745485958295530646519030141126166269539076767128577940878"
+          },
+          {
+            "name": "Under",
+            "price": "0.99",
+            "chance": "0.99",
+            "index": 1,
+            "tokenId": "35529471152811079892964794511822877719374371187457671650854786294407591652817"
+          }
+        ]
+      },
+      {
+        "marketId": 6152493,
+        "externalId": "633377",
+        "title": "O/U 6.5",
+        "question": "Canada vs. Morocco: O/U 6.5",
+        "description": "In the upcoming FIFA World Cup game between Canada and Morocco, scheduled for July 4 at 1:00 PM ET:\n\nThis market will resolve to \"Over\" if Canada and Morocco combine to score 7 or more goals in this game.\n\nIf the combined total is less than 7, this market will resolve to \"Under\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nIf the game is started but not completed, this market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xfd358a1abb862633fff3abffa4d7a9f3262746e3323edb7f3112586ba7b4b00a",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782974518680_o70epwfrqfvpmeuh33g0p1liqo63r8ok_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782974518680_o70epwfrqfvpmeuh33g0p1liqo63r8ok_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782974518680_o70epwfrqfvpmeuh33g0p1liqo63r8ok_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782974518680_o70epwfrqfvpmeuh33g0p1liqo63r8ok_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "18723.77",
+        "liquidity": "57.36",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Over",
+            "price": "0.01",
+            "chance": "0.01",
+            "index": 0,
+            "tokenId": "87197262070468056574960555895895802952716275946365043552130136985528758345230"
+          },
+          {
+            "name": "Under",
+            "price": "0.99",
+            "chance": "0.99",
+            "index": 1,
+            "tokenId": "72658775793005228728315679633072957721490340366074390111757833136349563544091"
+          }
+        ]
+      },
+      {
+        "marketId": 6152494,
+        "externalId": "633378",
+        "title": "O/U 8.5",
+        "question": "Canada vs. Morocco: O/U 8.5",
+        "description": "In the upcoming FIFA World Cup game between Canada and Morocco, scheduled for July 4 at 1:00 PM ET:\n\nThis market will resolve to \"Over\" if Canada and Morocco combine to score 9 or more goals in this game.\n\nIf the combined total is less than 9, this market will resolve to \"Under\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nIf the game is started but not completed, this market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x9f318d69a11b66f73dd19ee9b99a7398ff34fe10a7d2851351af6176db59fbee",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782974518778_0afqw2whghmhlpwnrr1v96nuyjsb0euq_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782974518778_0afqw2whghmhlpwnrr1v96nuyjsb0euq_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782974518778_0afqw2whghmhlpwnrr1v96nuyjsb0euq_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782974518778_0afqw2whghmhlpwnrr1v96nuyjsb0euq_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "0",
+        "liquidity": "1014.11",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Over",
+            "price": "0.01",
+            "chance": "0.01",
+            "index": 0,
+            "tokenId": "81615453061898657145641353324086861019052829348743844924634124183212125040138"
+          },
+          {
+            "name": "Under",
+            "price": "0.99",
+            "chance": "0.99",
+            "index": 1,
+            "tokenId": "23234230817467837610852534111996703209123234451984500249932898170693034935272"
+          }
+        ]
+      },
+      {
+        "marketId": 6152498,
+        "externalId": "633382",
+        "title": "O/U 5.5",
+        "question": "Canada vs. Morocco: O/U 5.5",
+        "description": "In the upcoming FIFA World Cup game between Canada and Morocco, scheduled for July 4 at 1:00 PM ET:\n\nThis market will resolve to \"Over\" if Canada and Morocco combine to score 6 or more goals in this game.\n\nIf the combined total is less than 6, this market will resolve to \"Under\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nIf the game is started but not completed, this market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x89f0832e7b7db6bb5254c8469cdc40fec3cc6a4b333ef8996ca401554720c425",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782974519195_5ipwugxae6p5dprywaw7chmtea9qmbje_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782974519195_5ipwugxae6p5dprywaw7chmtea9qmbje_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782974519195_5ipwugxae6p5dprywaw7chmtea9qmbje_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782974519195_5ipwugxae6p5dprywaw7chmtea9qmbje_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "22986.41",
+        "liquidity": "1125.06",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Over",
+            "price": "0.01",
+            "chance": "0.01",
+            "index": 0,
+            "tokenId": "105478912725458776508054277352911003256845359654727314161913998406437066328286"
+          },
+          {
+            "name": "Under",
+            "price": "0.99",
+            "chance": "0.99",
+            "index": 1,
+            "tokenId": "102505673341153469150875195522192085166206889221639649958232062968145189061160"
+          }
+        ]
+      },
+      {
+        "marketId": 6152499,
+        "externalId": "633383",
+        "title": "O/U 7.5",
+        "question": "Canada vs. Morocco: O/U 7.5",
+        "description": "In the upcoming FIFA World Cup game between Canada and Morocco, scheduled for July 4 at 1:00 PM ET:\n\nThis market will resolve to \"Over\" if Canada and Morocco combine to score 8 or more goals in this game.\n\nIf the combined total is less than 8, this market will resolve to \"Under\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nIf the game is started but not completed, this market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x33a1a9a77f4e02ebdb35d4ba35d6e5b4d3f3b9f73f1feab11a183fc38976e134",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782974519299_nj6godr8hiidn0n0nmy6lyskvr1sh8yf_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782974519299_nj6godr8hiidn0n0nmy6lyskvr1sh8yf_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782974519299_nj6godr8hiidn0n0nmy6lyskvr1sh8yf_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782974519299_nj6godr8hiidn0n0nmy6lyskvr1sh8yf_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "1798",
+        "liquidity": "1204.3",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Over",
+            "price": "0.01",
+            "chance": "0.01",
+            "index": 0,
+            "tokenId": "53039288895932651067630736491865060735705484617323223868179604403239840936341"
+          },
+          {
+            "name": "Under",
+            "price": "0.99",
+            "chance": "0.99",
+            "index": 1,
+            "tokenId": "24312503593114120851772335158468954346797998589977298232685975443801998343547"
+          }
+        ]
+      },
+      {
+        "marketId": 6160179,
+        "externalId": "633385",
+        "title": "Team to Advance",
+        "question": "Canada vs. Morocco: Team to Advance",
+        "description": "In the upcoming FIFA World Cup game between Canada and Morocco, scheduled for July 4 at 1:00 PM ET: This market will resolve to \"Canada\" if Canada is the team that officially advances from this match to the next round of the FIFA World Cup, or is crowned winner of the competition if this match is the final. This market will resolve to \"Morocco\" if Morocco is the team that officially advances from this match to the next round of the FIFA World Cup, or is crowned winner of the competition if this match is the final. This includes advancement after regulation, extra time, a penalty shoot-out, or an official ruling by the competition organizer such as forfeit, abandonment, or disqualification. If the game is postponed, this market will remain open until the game has been completed or a team is officially declared to advance. If the game is canceled entirely and no team advances from this match, this market will resolve 50-50. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 24 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x512cf5460128a6fc952bd963c1f7262773079c274256bf0045765763e7da3e21",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782834492904_479zpjhcaxn7ugo7sc8wxvvz3nnbpxoa_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782834492904_479zpjhcaxn7ugo7sc8wxvvz3nnbpxoa_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782834492904_479zpjhcaxn7ugo7sc8wxvvz3nnbpxoa_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782834492904_479zpjhcaxn7ugo7sc8wxvvz3nnbpxoa_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "847243.17",
+        "liquidity": "2971.3",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "CAN",
+            "price": "0.01",
+            "chance": "0.01",
+            "index": 0,
+            "tokenId": "74879776275494386869407012436913054077044627847887476374194334884299794562447"
+          },
+          {
+            "name": "MAR",
+            "price": "0.99",
+            "chance": "0.99",
+            "index": 1,
+            "tokenId": "3309950207753820245398515789177413790129690639230368502751721075214570391815"
+          }
+        ]
+      }
+    ],
+    "tradeVolume": "1983134.24",
+    "liquidity": "612536.31",
+    "publishedAt": 1782816526505,
+    "startDate": 1783184400000,
+    "endDate": 1783195200000,
+    "status": "REGISTERED"
+  },
+  {
+    "marketTopicId": 4247216,
+    "vendor": "PREDICT_FUN",
+    "chainId": "56",
+    "slug": "fifwc-can-mar-2026-07-04-halftime-result",
+    "title": "Canada vs. Morocco - Halftime Result",
+    "question": "Canada leading at halftime?",
+    "imageUrl": "https://static.predict.fun/fifwc",
+    "thumbnailPaths": [
+      {
+        "size": "800x800",
+        "path": "file-center/web3-prediction/S3/topic/1782974527986_605koojer4eys31swgz6rk9zzm9cmmm7_NEF_q80_800x800"
+      },
+      {
+        "size": "400x400",
+        "path": "file-center/web3-prediction/S3/topic/1782974527986_605koojer4eys31swgz6rk9zzm9cmmm7_NEF_q80_400x400"
+      },
+      {
+        "size": "96x96",
+        "path": "file-center/web3-prediction/S3/topic/1782974527986_605koojer4eys31swgz6rk9zzm9cmmm7_NEF_q80_96x96"
+      },
+      {
+        "size": "64x64",
+        "path": "file-center/web3-prediction/S3/topic/1782974527986_605koojer4eys31swgz6rk9zzm9cmmm7_NEF_q80_64x64"
+      }
+    ],
+    "topicType": "GROUPED",
+    "variantData": {
+      "type": "SPORTS_FIFA_WORLD_CUP"
+    },
+    "participantCount": 3116,
+    "collateral": "USDT",
+    "feeRateBps": 200,
+    "slippageBps": 1000,
+    "isYieldBearing": true,
+    "exchangeContractAddress": "0x8A289d458f5a134bA40015085A8F50Ffb681B41d",
+    "markets": [
+      {
+        "marketId": 6152440,
+        "externalId": "633122",
+        "title": "Draw",
+        "question": "Canada vs. Morocco: Draw at halftime?",
+        "description": "In the upcoming game, scheduled for July 4, 2026 If the game ends in a draw within the first 45 minutes of regular play plus stoppage time, this market will resolve to \"Yes\". Otherwise, this market will resolve to \"No\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve to \"Yes\". This market refers only to the outcome within the first 45 minutes of regular play plus stoppage time.The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 24 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x0e934fd37f87dbd517f81b6e097aa71f13a3d614583243b03284c371d14fb9d8",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782974525813_fldqixwp97bwi90eo2kpqx3we8q17ssi_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782974525813_fldqixwp97bwi90eo2kpqx3we8q17ssi_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782974525813_fldqixwp97bwi90eo2kpqx3we8q17ssi_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782974525813_fldqixwp97bwi90eo2kpqx3we8q17ssi_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "77851.03",
+        "liquidity": "25764.01",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.99",
+            "chance": "0.99",
+            "index": 0,
+            "tokenId": "37154642194154787839884400694396842809355008044984208825752789941783563323205"
+          },
+          {
+            "name": "No",
+            "price": "0.01",
+            "chance": "0.01",
+            "index": 1,
+            "tokenId": "1450632395824865523098207680560109954258965085387990339929946276707207870578"
+          }
+        ]
+      },
+      {
+        "marketId": 6152439,
+        "externalId": "633121",
+        "title": "CAN",
+        "question": "Canada leading at halftime?",
+        "description": "In the upcoming game, scheduled for July 4, 2026 If Canada wins within the first 45 minutes of regular play plus stoppage time, this market will resolve to \"Yes\". Otherwise, this market will resolve to \"No\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve \"No\". This market refers only to the outcome within the first 45 minutes of regular play plus stoppage time.The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 24 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x7f1f1b8c1317247f02bd982a92eba6e06cca318338999be296e85f945bd0007e",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782974525714_ltz5fguhgzhpqv5sf6xbakvcrzgo1kk7_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782974525714_ltz5fguhgzhpqv5sf6xbakvcrzgo1kk7_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782974525714_ltz5fguhgzhpqv5sf6xbakvcrzgo1kk7_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782974525714_ltz5fguhgzhpqv5sf6xbakvcrzgo1kk7_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "65651.24",
+        "liquidity": "269.78",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.01",
+            "chance": "0.01",
+            "index": 0,
+            "tokenId": "4736890510587418141093983890004955635729623904677793351936062179989141572217"
+          },
+          {
+            "name": "No",
+            "price": "0.99",
+            "chance": "0.99",
+            "index": 1,
+            "tokenId": "11448034862562453093175527743013796377944318101029414789380483263565627118373"
+          }
+        ]
+      },
+      {
+        "marketId": 6152441,
+        "externalId": "633123",
+        "title": "MAR",
+        "question": "Morocco leading at halftime?",
+        "description": "In the upcoming game, scheduled for July 4, 2026 If Morocco wins within the first 45 minutes of regular play plus stoppage time, this market will resolve to \"Yes\". Otherwise, this market will resolve to \"No\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve \"No\". This market refers only to the outcome within the first 45 minutes of regular play plus stoppage time.The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 24 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x2b6f46e500345ef2fd18524d85afbc5fe22d94c886a89eb0a1e04d3c2ee2f914",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782974525917_mbd2b4wssz8ggylmas4vigloe1p0dqxm_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782974525917_mbd2b4wssz8ggylmas4vigloe1p0dqxm_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782974525917_mbd2b4wssz8ggylmas4vigloe1p0dqxm_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782974525917_mbd2b4wssz8ggylmas4vigloe1p0dqxm_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "100354.47",
+        "liquidity": "532.26",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.01",
+            "chance": "0.01",
+            "index": 0,
+            "tokenId": "44322645346400444916527816887753552049488739228429620034358035856518522444735"
+          },
+          {
+            "name": "No",
+            "price": "0.99",
+            "chance": "0.99",
+            "index": 1,
+            "tokenId": "15541380159877348512875019489612399220924600850116450316385410689662531686683"
+          }
+        ]
+      }
+    ],
+    "tradeVolume": "243856.75",
+    "liquidity": "26566.05",
+    "publishedAt": 1782814976580,
+    "startDate": 1783184400000,
+    "endDate": 1783195200000,
+    "status": "REGISTERED"
+  },
+  {
+    "marketTopicId": 4368611,
+    "vendor": "PREDICT_FUN",
+    "chainId": "56",
+    "slug": "fifwc-can-mar-2026-07-04-player-props",
+    "title": "Canada vs. Morocco - Player Props",
+    "question": "Jonathan David: 1+ goals",
+    "imageUrl": "https://static.predict.fun/fifwc-can-mar-2026-07-04-player-props",
+    "thumbnailPaths": [
+      {
+        "size": "800x800",
+        "path": "file-center/web3-prediction/S3/topic/1783076642250_1ee8rvz60w0hc0c2zjbyclsjp5ixg954_NEF_q80_800x800"
+      },
+      {
+        "size": "400x400",
+        "path": "file-center/web3-prediction/S3/topic/1783076642250_1ee8rvz60w0hc0c2zjbyclsjp5ixg954_NEF_q80_400x400"
+      },
+      {
+        "size": "96x96",
+        "path": "file-center/web3-prediction/S3/topic/1783076642250_1ee8rvz60w0hc0c2zjbyclsjp5ixg954_NEF_q80_96x96"
+      },
+      {
+        "size": "64x64",
+        "path": "file-center/web3-prediction/S3/topic/1783076642250_1ee8rvz60w0hc0c2zjbyclsjp5ixg954_NEF_q80_64x64"
+      }
+    ],
+    "topicType": "GROUPED",
+    "participantCount": 1819,
+    "collateral": "USDT",
+    "feeRateBps": 200,
+    "slippageBps": 1000,
+    "isYieldBearing": false,
+    "exchangeContractAddress": "0x365fb81bd4A24D6303cd2F19c349dE6894D8d58A",
+    "markets": [
+      {
+        "marketId": 6392130,
+        "externalId": "667026",
+        "title": "Jonathan David Total Goals",
+        "question": "Jonathan David: 1+ goals",
+        "description": "In the upcoming FIFA World Cup game between Canada and Morocco, scheduled for July 4 at 1:00 PM ET: This market will resolve to \"Yes\" if Jonathan David records 1+ goals in the official box score within the first 90 minutes of regular play plus stoppage time. Otherwise, this market will resolve to \"No\". Own goals do not count. If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve \"50-50\". If the player is listed as inactive or otherwise does not play, the market will resolve \"No\". The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 24 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x2b5306978bdbfff22ea0cf4fb21a8290fade979cd8b6fed802ccfbae33f30bac",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1783076641995_1qv8zslbjz9fuaxky5mrhr82plkubl23_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1783076641995_1qv8zslbjz9fuaxky5mrhr82plkubl23_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1783076641995_1qv8zslbjz9fuaxky5mrhr82plkubl23_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1783076641995_1qv8zslbjz9fuaxky5mrhr82plkubl23_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "34893.57",
+        "liquidity": "10151.32",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Over 0.5",
+            "price": "0.1",
+            "chance": "0.08",
+            "index": 0,
+            "tokenId": "47892672153562338633408417101659149612596172766484180967235791852996122929910"
+          },
+          {
+            "name": "Under 0.5",
+            "price": "0.9",
+            "chance": "0.92",
+            "index": 1,
+            "tokenId": "63035546947990629305866639514526760610944047226138603819663521633695813345139"
+          }
+        ]
+      },
+      {
+        "marketId": 6392131,
+        "externalId": "667030",
+        "title": "Ismael Saibari Total Goals",
+        "question": "Ismael Saibari: 1+ Goals",
+        "description": "In the upcoming FIFA World Cup game between Canada and Morocco, scheduled for July 4 at 1:00 PM ET: This market will resolve to \"Yes\" if Ismael Saibari records 1+ goals in the official box score within the first 90 minutes of regular play plus stoppage time. Otherwise, this market will resolve to \"No\". Own goals do not count. If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve \"50-50\". If the player is listed as inactive or otherwise does not play, the market will resolve \"No\". The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 24 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xa75dc6081fecf5ebf1aea0acff77e73372614472a9e6eaead1300d182187f77e",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1783076642125_bkfk8v6yeingfugzqy2ulu0m5f897wmo_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1783076642125_bkfk8v6yeingfugzqy2ulu0m5f897wmo_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1783076642125_bkfk8v6yeingfugzqy2ulu0m5f897wmo_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1783076642125_bkfk8v6yeingfugzqy2ulu0m5f897wmo_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "54528.35",
+        "liquidity": "9978.36",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Over 0.5",
+            "price": "0.01",
+            "chance": "0.01",
+            "index": 0,
+            "tokenId": "77217250234780681476481658988477071167486561239795371380987741589759098049101"
+          },
+          {
+            "name": "Under 0.5",
+            "price": "0.99",
+            "chance": "0.99",
+            "index": 1,
+            "tokenId": "71470047068345519423148724016196491910520151202323946205199441810439144343729"
+          }
+        ]
+      }
+    ],
+    "tradeVolume": "89421.94",
+    "liquidity": "20129.69",
+    "publishedAt": 1783073788407,
+    "startDate": 1783184400000,
+    "endDate": 1783195200000,
+    "status": "REGISTERED"
+  },
+  {
+    "marketTopicId": 4247197,
+    "vendor": "PREDICT_FUN",
+    "chainId": "56",
+    "slug": "fifwc-can-mar-2026-07-04-first-to-score",
+    "title": "Canada vs. Morocco - First Team to Score",
+    "question": "Canada to score first vs. Morocco?",
+    "imageUrl": "https://static.predict.fun/fifwc",
+    "thumbnailPaths": [
+      {
+        "size": "800x800",
+        "path": "file-center/web3-prediction/S3/topic/1782974531797_bh1v3uz58zxpvhte623m6vy8yi80xl85_NEF_q80_800x800"
+      },
+      {
+        "size": "400x400",
+        "path": "file-center/web3-prediction/S3/topic/1782974531797_bh1v3uz58zxpvhte623m6vy8yi80xl85_NEF_q80_400x400"
+      },
+      {
+        "size": "96x96",
+        "path": "file-center/web3-prediction/S3/topic/1782974531797_bh1v3uz58zxpvhte623m6vy8yi80xl85_NEF_q80_96x96"
+      },
+      {
+        "size": "64x64",
+        "path": "file-center/web3-prediction/S3/topic/1782974531797_bh1v3uz58zxpvhte623m6vy8yi80xl85_NEF_q80_64x64"
+      }
+    ],
+    "topicType": "GROUPED",
+    "variantData": {
+      "type": "SPORTS_FIFA_WORLD_CUP"
+    },
+    "participantCount": 2308,
+    "collateral": "USDT",
+    "feeRateBps": 200,
+    "slippageBps": 1000,
+    "isYieldBearing": true,
+    "exchangeContractAddress": "0x8A289d458f5a134bA40015085A8F50Ffb681B41d",
+    "markets": [
+      {
+        "marketId": 6152431,
+        "externalId": "633241",
+        "title": "MAR",
+        "question": "Morocco to score first vs. Canada?",
+        "description": "In the upcoming match between Canada and Morocco, scheduled for July 4, 2026 at 1:00 PM ET: This market will resolve to \"Canada\" if Canada are the first to score within the first 90 minutes of regular play plus stoppage time. This market will resolve to \"Morocco\" if Morocco are the first to score within the first 90 minutes of regular play plus stoppage time. If neither team scores within the first 90 minutes of regular play plus stoppage time, this market will resolve \"Neither\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve to \"Neither\". This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time. Extra time and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x28a7af824c82b8faf2a136412798dc3029a805834af1291c7bed9ae582da38ec",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782974529365_skqhds6hcv3mbmwkqp3zxmkpm9oakk3y_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782974529365_skqhds6hcv3mbmwkqp3zxmkpm9oakk3y_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782974529365_skqhds6hcv3mbmwkqp3zxmkpm9oakk3y_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782974529365_skqhds6hcv3mbmwkqp3zxmkpm9oakk3y_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "45831.99",
+        "liquidity": "135532.45",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.99",
+            "chance": "0.99",
+            "index": 0,
+            "tokenId": "29248160720832085624562920001141041151579609342009817994276079243054651188313"
+          },
+          {
+            "name": "No",
+            "price": "0.01",
+            "chance": "0.01",
+            "index": 1,
+            "tokenId": "58469208112630729764506539401464601400846252480018548408232784623517368737499"
+          }
+        ]
+      },
+      {
+        "marketId": 6152415,
+        "externalId": "633240",
+        "title": "CAN",
+        "question": "Canada to score first vs. Morocco?",
+        "description": "In the upcoming match between Canada and Morocco, scheduled for July 4, 2026 at 1:00 PM ET: This market will resolve to \"Canada\" if Canada are the first to score within the first 90 minutes of regular play plus stoppage time. This market will resolve to \"Morocco\" if Morocco are the first to score within the first 90 minutes of regular play plus stoppage time. If neither team scores within the first 90 minutes of regular play plus stoppage time, this market will resolve \"Neither\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve to \"Neither\". This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time. Extra time and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x9027009c88b88b4cc6b3ffb620a2388719d12db428214451f302e49b1fc712b2",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782974529262_908l2rxgtipmg7293e5m3vbizogxah7g_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782974529262_908l2rxgtipmg7293e5m3vbizogxah7g_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782974529262_908l2rxgtipmg7293e5m3vbizogxah7g_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782974529262_908l2rxgtipmg7293e5m3vbizogxah7g_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "28555.03",
+        "liquidity": "2290.43",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.01",
+            "chance": "0.01",
+            "index": 0,
+            "tokenId": "14340105354071981625630848245470028368157914560307956231001758786446927737264"
+          },
+          {
+            "name": "No",
+            "price": "0.99",
+            "chance": "0.99",
+            "index": 1,
+            "tokenId": "69118319501374407855374515379955721437197462100858728554423359964623980273328"
+          }
+        ]
+      },
+      {
+        "marketId": 6152416,
+        "externalId": "633242",
+        "title": "Neither",
+        "question": "Canada vs. Morocco: Neither team to score first?",
+        "description": "In the upcoming match between Canada and Morocco, scheduled for July 4, 2026 at 1:00 PM ET: This market will resolve to \"Canada\" if Canada are the first to score within the first 90 minutes of regular play plus stoppage time. This market will resolve to \"Morocco\" if Morocco are the first to score within the first 90 minutes of regular play plus stoppage time. If neither team scores within the first 90 minutes of regular play plus stoppage time, this market will resolve \"Neither\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve to \"Neither\". This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time. Extra time and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xd9191374585727e160aec659eb9f537be4efa3d7cc54991870d46db9dbfde7c4",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782974529473_zaka4msvdkuop6buhyld7s1vd4y34lv3_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782974529473_zaka4msvdkuop6buhyld7s1vd4y34lv3_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782974529473_zaka4msvdkuop6buhyld7s1vd4y34lv3_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782974529473_zaka4msvdkuop6buhyld7s1vd4y34lv3_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "13713.72",
+        "liquidity": "2332.66",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.01",
+            "chance": "0.01",
+            "index": 0,
+            "tokenId": "45638585867535813643289714118707796519519755672736910544961781854891396125593"
+          },
+          {
+            "name": "No",
+            "price": "0.99",
+            "chance": "0.99",
+            "index": 1,
+            "tokenId": "97018329348087194450684961904002537872999314204064994405813596023718305328727"
+          }
+        ]
+      }
+    ],
+    "tradeVolume": "88100.76",
+    "liquidity": "140155.54",
+    "publishedAt": 1782814445308,
+    "startDate": 1783184400000,
+    "endDate": 1783195200000,
+    "status": "REGISTERED"
+  }
+]

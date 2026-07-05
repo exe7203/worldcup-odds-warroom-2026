@@ -1,0 +1,2664 @@
+[
+  {
+    "marketTopicId": 4251641,
+    "vendor": "PREDICT_FUN",
+    "chainId": "56",
+    "slug": "fifwc-bra-nor-2026-07-05-exact-score",
+    "title": "Brazil vs. Norway - Exact Score",
+    "question": "Exact Score: Brazil 0 - 0 Norway?",
+    "imageUrl": "https://static.predict.fun/fifwc",
+    "thumbnailPaths": [
+      {
+        "size": "800x800",
+        "path": "file-center/web3-prediction/S3/topic/1782974248458_mw4ydh5pmg7waz4gj2t2g7qtqmrbajnd_NEF_q80_800x800"
+      },
+      {
+        "size": "400x400",
+        "path": "file-center/web3-prediction/S3/topic/1782974248458_mw4ydh5pmg7waz4gj2t2g7qtqmrbajnd_NEF_q80_400x400"
+      },
+      {
+        "size": "96x96",
+        "path": "file-center/web3-prediction/S3/topic/1782974248458_mw4ydh5pmg7waz4gj2t2g7qtqmrbajnd_NEF_q80_96x96"
+      },
+      {
+        "size": "64x64",
+        "path": "file-center/web3-prediction/S3/topic/1782974248458_mw4ydh5pmg7waz4gj2t2g7qtqmrbajnd_NEF_q80_64x64"
+      }
+    ],
+    "topicType": "GROUPED",
+    "variantData": {
+      "type": "SPORTS_FIFA_WORLD_CUP"
+    },
+    "participantCount": 4351,
+    "collateral": "USDT",
+    "feeRateBps": 200,
+    "slippageBps": 1000,
+    "isYieldBearing": true,
+    "exchangeContractAddress": "0x8A289d458f5a134bA40015085A8F50Ffb681B41d",
+    "markets": [
+      {
+        "marketId": 6187862,
+        "externalId": "644837",
+        "title": "BRA 1 - 1 NOR",
+        "question": "Exact Score: Brazil 1 - 1 Norway?",
+        "description": "In the upcoming FIFA World Cup game between Brazil and Norway, scheduled for July 5, 2026 at 4:00 PM ET: This market will resolve based on the final score of the Brazil vs. Norway match originally scheduled for July 5, 2026 at 4:00 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x05b62d7515d8b7c59f6b4d1008e3d708f8cc48da57dd9d8bd5c9733c1ea9d6ef",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782974244603_3ynfvtt7ywx1tfs6qmipbdob4bzt4hfo_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782974244603_3ynfvtt7ywx1tfs6qmipbdob4bzt4hfo_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782974244603_3ynfvtt7ywx1tfs6qmipbdob4bzt4hfo_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782974244603_3ynfvtt7ywx1tfs6qmipbdob4bzt4hfo_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "187262.4",
+        "liquidity": "511140.34",
+        "decimalPrecision": 3,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.134",
+            "chance": "0.1335",
+            "index": 0,
+            "tokenId": "83543586398147326839003248201154427791985769803989866572753208045616690351769"
+          },
+          {
+            "name": "No",
+            "price": "0.866",
+            "chance": "0.8665",
+            "index": 1,
+            "tokenId": "86468065571181972317894611699794060816234640750638219749392676209177850722043"
+          }
+        ]
+      },
+      {
+        "marketId": 6187853,
+        "externalId": "644841",
+        "title": "BRA 2 - 1 NOR",
+        "question": "Exact Score: Brazil 2 - 1 Norway?",
+        "description": "In the upcoming FIFA World Cup game between Brazil and Norway, scheduled for July 5, 2026 at 4:00 PM ET: This market will resolve based on the final score of the Brazil vs. Norway match originally scheduled for July 5, 2026 at 4:00 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xab20206bbcf99dc3fadecf40e75aa6c8c0b27e13510cd89fd66450392a25ca48",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782974245075_n0qvowibrpfoqd6ox4nfw2hek13xmo67_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782974245075_n0qvowibrpfoqd6ox4nfw2hek13xmo67_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782974245075_n0qvowibrpfoqd6ox4nfw2hek13xmo67_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782974245075_n0qvowibrpfoqd6ox4nfw2hek13xmo67_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "273961.43",
+        "liquidity": "644084.79",
+        "decimalPrecision": 3,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.124",
+            "chance": "0.1235",
+            "index": 0,
+            "tokenId": "72816043186869617043870503249637096293672086088862696847247559541638663861951"
+          },
+          {
+            "name": "No",
+            "price": "0.876",
+            "chance": "0.8765",
+            "index": 1,
+            "tokenId": "16004424650426252906333195521922057531894235487138233071332610839433327811844"
+          }
+        ]
+      },
+      {
+        "marketId": 6187850,
+        "externalId": "644838",
+        "title": "BRA 2 - 0 NOR",
+        "question": "Exact Score: Brazil 2 - 0 Norway?",
+        "description": "In the upcoming FIFA World Cup game between Brazil and Norway, scheduled for July 5, 2026 at 4:00 PM ET: This market will resolve based on the final score of the Brazil vs. Norway match originally scheduled for July 5, 2026 at 4:00 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x9e52805d907cb82e3e93c24a5c9b2117d18843871440f998508a07af65d9acfe",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782974244765_d0kh5x8md24v119on8d3lsi3bxzlrukv_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782974244765_d0kh5x8md24v119on8d3lsi3bxzlrukv_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782974244765_d0kh5x8md24v119on8d3lsi3bxzlrukv_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782974244765_d0kh5x8md24v119on8d3lsi3bxzlrukv_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "112706.49",
+        "liquidity": "580657.98",
+        "decimalPrecision": 3,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.099",
+            "chance": "0.0985",
+            "index": 0,
+            "tokenId": "29414465453824227213270476364987780409442079091526035691629161921276064272448"
+          },
+          {
+            "name": "No",
+            "price": "0.901",
+            "chance": "0.9015",
+            "index": 1,
+            "tokenId": "67729118682258292261866232834505939448881235411292420778597874925729122328851"
+          }
+        ]
+      },
+      {
+        "marketId": 6187864,
+        "externalId": "644835",
+        "title": "BRA 1 - 0 NOR",
+        "question": "Exact Score: Brazil 1 - 0 Norway?",
+        "description": "In the upcoming FIFA World Cup game between Brazil and Norway, scheduled for July 5, 2026 at 4:00 PM ET: This market will resolve based on the final score of the Brazil vs. Norway match originally scheduled for July 5, 2026 at 4:00 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x77b906ce1ba1082cdb6070f5e88348cbcc05af48250e1bfd98a8d7f4fb2df0b9",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782974244386_bowwgz0jbmobz0pqqb03i8ofaiqdw7t1_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782974244386_bowwgz0jbmobz0pqqb03i8ofaiqdw7t1_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782974244386_bowwgz0jbmobz0pqqb03i8ofaiqdw7t1_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782974244386_bowwgz0jbmobz0pqqb03i8ofaiqdw7t1_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "60550.75",
+        "liquidity": "579193.54",
+        "decimalPrecision": 3,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.098",
+            "chance": "0.0975",
+            "index": 0,
+            "tokenId": "30085795628818639393863777288665670810568309211953941596394572212791318406199"
+          },
+          {
+            "name": "No",
+            "price": "0.902",
+            "chance": "0.9025",
+            "index": 1,
+            "tokenId": "68477352106394491050338167572224136987212951427159321618473491560597389589457"
+          }
+        ]
+      },
+      {
+        "marketId": 6187857,
+        "externalId": "644849",
+        "title": "Any Other Score",
+        "question": "Exact Score: Any Other Score?",
+        "description": "In the upcoming FIFA World Cup game between Brazil and Norway, scheduled for July 5, 2026 at 4:00 PM ET: This market will resolve based on the final score of the Brazil vs. Norway match originally scheduled for July 5, 2026 at 4:00 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xcca6aca0c998b3bf3164e2f316c1f22b3250b5acbfab3b3af3c0af1e61194ed5",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782974245922_1szs3feljz5ikn455fmdw0vkzssaun2t_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782974245922_1szs3feljz5ikn455fmdw0vkzssaun2t_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782974245922_1szs3feljz5ikn455fmdw0vkzssaun2t_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782974245922_1szs3feljz5ikn455fmdw0vkzssaun2t_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "48020.63",
+        "liquidity": "458416.4",
+        "decimalPrecision": 3,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.097",
+            "chance": "0.096",
+            "index": 0,
+            "tokenId": "57979318179055059314698678594370602352534199469092939303522795549467739784580"
+          },
+          {
+            "name": "No",
+            "price": "0.903",
+            "chance": "0.904",
+            "index": 1,
+            "tokenId": "65007337647982119138072237414724693152023036865244191332345042402686209734331"
+          }
+        ]
+      },
+      {
+        "marketId": 6187860,
+        "externalId": "644844",
+        "title": "BRA 2 - 2 NOR",
+        "question": "Exact Score: Brazil 2 - 2 Norway?",
+        "description": "In the upcoming FIFA World Cup game between Brazil and Norway, scheduled for July 5, 2026 at 4:00 PM ET: This market will resolve based on the final score of the Brazil vs. Norway match originally scheduled for July 5, 2026 at 4:00 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x41badb05143d4878e1cbe9673e9fd64d6ae83c687c83513013e52a3ba5a49b5c",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782974245398_8tkwc6120ccmv8hri28z5f3yctjikyhs_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782974245398_8tkwc6120ccmv8hri28z5f3yctjikyhs_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782974245398_8tkwc6120ccmv8hri28z5f3yctjikyhs_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782974245398_8tkwc6120ccmv8hri28z5f3yctjikyhs_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "173541.25",
+        "liquidity": "569058.05",
+        "decimalPrecision": 3,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.074",
+            "chance": "0.0735",
+            "index": 0,
+            "tokenId": "106240202560950972623013516213768117107975476289603264559261395710900770810932"
+          },
+          {
+            "name": "No",
+            "price": "0.926",
+            "chance": "0.9265",
+            "index": 1,
+            "tokenId": "48636565624362297201360698156280899543065816751306052494124621765006068507170"
+          }
+        ]
+      },
+      {
+        "marketId": 6187861,
+        "externalId": "644845",
+        "title": "BRA 3 - 1 NOR",
+        "question": "Exact Score: Brazil 3 - 1 Norway?",
+        "description": "In the upcoming FIFA World Cup game between Brazil and Norway, scheduled for July 5, 2026 at 4:00 PM ET: This market will resolve based on the final score of the Brazil vs. Norway match originally scheduled for July 5, 2026 at 4:00 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xe440d152abccc4a9459a1c60549ae7eda19b44bea73f934f895e624dcd3baf93",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782974245503_vq7gx6nur5bs8lkkt5r9e7b5y2eyjm6m_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782974245503_vq7gx6nur5bs8lkkt5r9e7b5y2eyjm6m_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782974245503_vq7gx6nur5bs8lkkt5r9e7b5y2eyjm6m_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782974245503_vq7gx6nur5bs8lkkt5r9e7b5y2eyjm6m_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "242849.34",
+        "liquidity": "532560.52",
+        "decimalPrecision": 3,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.073",
+            "chance": "0.072",
+            "index": 0,
+            "tokenId": "110922287317137158924886306799625826223399584156359787471102731896198145496487"
+          },
+          {
+            "name": "No",
+            "price": "0.927",
+            "chance": "0.928",
+            "index": 1,
+            "tokenId": "50515128088267814067035014303169739428434274959582094228260384126092016461590"
+          }
+        ]
+      },
+      {
+        "marketId": 6187852,
+        "externalId": "644840",
+        "title": "BRA 1 - 2 NOR",
+        "question": "Exact Score: Brazil 1 - 2 Norway?",
+        "description": "In the upcoming FIFA World Cup game between Brazil and Norway, scheduled for July 5, 2026 at 4:00 PM ET: This market will resolve based on the final score of the Brazil vs. Norway match originally scheduled for July 5, 2026 at 4:00 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x26a0099f4441f5c41bab3c2e5d82a256550d2e3934d2cf82ffe6c0de455a58b6",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782974244967_m9o8o54l7rtx21wnr096vabjqrhkbtli_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782974244967_m9o8o54l7rtx21wnr096vabjqrhkbtli_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782974244967_m9o8o54l7rtx21wnr096vabjqrhkbtli_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782974244967_m9o8o54l7rtx21wnr096vabjqrhkbtli_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "79698.43",
+        "liquidity": "546361.22",
+        "decimalPrecision": 3,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.069",
+            "chance": "0.0685",
+            "index": 0,
+            "tokenId": "110830846215528268680989231537555632045750966743960721259406622347063574158419"
+          },
+          {
+            "name": "No",
+            "price": "0.931",
+            "chance": "0.9315",
+            "index": 1,
+            "tokenId": "114639424239419171807021956176750528306693959964723941177529076184061772553162"
+          }
+        ]
+      },
+      {
+        "marketId": 6187863,
+        "externalId": "644833",
+        "title": "BRA 0 - 0 NOR",
+        "question": "Exact Score: Brazil 0 - 0 Norway?",
+        "description": "In the upcoming FIFA World Cup game between Brazil and Norway, scheduled for July 5, 2026 at 4:00 PM ET: This market will resolve based on the final score of the Brazil vs. Norway match originally scheduled for July 5, 2026 at 4:00 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x57842f2cd9be28eea85fefcb418bd9365e29e338eeb2e6408e4ebc89ab7c4402",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782974244175_d835bv6ssr51c7qoeuw1xj8d0ynnq4aq_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782974244175_d835bv6ssr51c7qoeuw1xj8d0ynnq4aq_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782974244175_d835bv6ssr51c7qoeuw1xj8d0ynnq4aq_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782974244175_d835bv6ssr51c7qoeuw1xj8d0ynnq4aq_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "43013.72",
+        "liquidity": "517376.54",
+        "decimalPrecision": 3,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.048",
+            "chance": "0.047",
+            "index": 0,
+            "tokenId": "85023040993942365349164286631763537269258641155150510413699084716334614086756"
+          },
+          {
+            "name": "No",
+            "price": "0.952",
+            "chance": "0.953",
+            "index": 1,
+            "tokenId": "49743799561874166109161818784856522069192117187253131576652471849270788050413"
+          }
+        ]
+      },
+      {
+        "marketId": 6187874,
+        "externalId": "644834",
+        "title": "BRA 0 - 1 NOR",
+        "question": "Exact Score: Brazil 0 - 1 Norway?",
+        "description": "In the upcoming FIFA World Cup game between Brazil and Norway, scheduled for July 5, 2026 at 4:00 PM ET: This market will resolve based on the final score of the Brazil vs. Norway match originally scheduled for July 5, 2026 at 4:00 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x78c6aba8f92ff491b882c5b2d3d8ee8c6c3aba33afa313e051156c59d539894c",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782974244283_z17bdqer0wm1zjqf9ewui3nponjngnai_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782974244283_z17bdqer0wm1zjqf9ewui3nponjngnai_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782974244283_z17bdqer0wm1zjqf9ewui3nponjngnai_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782974244283_z17bdqer0wm1zjqf9ewui3nponjngnai_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "26776.59",
+        "liquidity": "522785.2",
+        "decimalPrecision": 3,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.044",
+            "chance": "0.0435",
+            "index": 0,
+            "tokenId": "89333900302861785321010007015577596951365149712948922654543613016335974365861"
+          },
+          {
+            "name": "No",
+            "price": "0.956",
+            "chance": "0.9565",
+            "index": 1,
+            "tokenId": "103570625088882156806189594790662934641991028815057191288982083648818476658207"
+          }
+        ]
+      },
+      {
+        "marketId": 6187858,
+        "externalId": "644847",
+        "title": "BRA 3 - 2 NOR",
+        "question": "Exact Score: Brazil 3 - 2 Norway?",
+        "description": "In the upcoming FIFA World Cup game between Brazil and Norway, scheduled for July 5, 2026 at 4:00 PM ET: This market will resolve based on the final score of the Brazil vs. Norway match originally scheduled for July 5, 2026 at 4:00 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x084924d5c4ad1652a2dd3f8afbc44874320ff94c971d67b635ba183efd7de1cd",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782974245718_jqxgjsp1plzhwj2x3cpjzaaedxmzgx23_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782974245718_jqxgjsp1plzhwj2x3cpjzaaedxmzgx23_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782974245718_jqxgjsp1plzhwj2x3cpjzaaedxmzgx23_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782974245718_jqxgjsp1plzhwj2x3cpjzaaedxmzgx23_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "188783.26",
+        "liquidity": "585232.85",
+        "decimalPrecision": 3,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.043",
+            "chance": "0.0425",
+            "index": 0,
+            "tokenId": "58135424816836597524103506667120267561573686405854984827213798247382502147204"
+          },
+          {
+            "name": "No",
+            "price": "0.957",
+            "chance": "0.9575",
+            "index": 1,
+            "tokenId": "8501976217394544076873169880723617582151622842667245469686620425136052933698"
+          }
+        ]
+      },
+      {
+        "marketId": 6187854,
+        "externalId": "644842",
+        "title": "BRA 3 - 0 NOR",
+        "question": "Exact Score: Brazil 3 - 0 Norway?",
+        "description": "In the upcoming FIFA World Cup game between Brazil and Norway, scheduled for July 5, 2026 at 4:00 PM ET: This market will resolve based on the final score of the Brazil vs. Norway match originally scheduled for July 5, 2026 at 4:00 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xf19f529e929fbe819e9b1815afce5024cff60407990c315b5c9b6470addb6219",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782974245183_ln11jmp5c1ewgea9eveyqoev52taxshp_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782974245183_ln11jmp5c1ewgea9eveyqoev52taxshp_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782974245183_ln11jmp5c1ewgea9eveyqoev52taxshp_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782974245183_ln11jmp5c1ewgea9eveyqoev52taxshp_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "71606.98",
+        "liquidity": "516092.1",
+        "decimalPrecision": 3,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.038",
+            "chance": "0.0375",
+            "index": 0,
+            "tokenId": "46210339734227366733526813019420002525435812424193389579135224336270721347863"
+          },
+          {
+            "name": "No",
+            "price": "0.962",
+            "chance": "0.9625",
+            "index": 1,
+            "tokenId": "421595367323552314658303061076890049861790679220136616242165294682350120107"
+          }
+        ]
+      },
+      {
+        "marketId": 6187856,
+        "externalId": "644846",
+        "title": "BRA 2 - 3 NOR",
+        "question": "Exact Score: Brazil 2 - 3 Norway?",
+        "description": "In the upcoming FIFA World Cup game between Brazil and Norway, scheduled for July 5, 2026 at 4:00 PM ET: This market will resolve based on the final score of the Brazil vs. Norway match originally scheduled for July 5, 2026 at 4:00 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x6bb7d278edc83bf462d8a2025351e69c613dbaf277d5c854e3c8bd1f02beb29b",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782974245609_lox4v3qwowawmijuo3rjsaf1u1255aze_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782974245609_lox4v3qwowawmijuo3rjsaf1u1255aze_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782974245609_lox4v3qwowawmijuo3rjsaf1u1255aze_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782974245609_lox4v3qwowawmijuo3rjsaf1u1255aze_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "57458.66",
+        "liquidity": "501403.61",
+        "decimalPrecision": 3,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.027",
+            "chance": "0.0265",
+            "index": 0,
+            "tokenId": "72421910706472597954388752083108509937010071868852598943363371028382229955049"
+          },
+          {
+            "name": "No",
+            "price": "0.973",
+            "chance": "0.9735",
+            "index": 1,
+            "tokenId": "6458578128149826136429928520781483037878974085015220800256857887962317236039"
+          }
+        ]
+      },
+      {
+        "marketId": 6187868,
+        "externalId": "644836",
+        "title": "BRA 0 - 2 NOR",
+        "question": "Exact Score: Brazil 0 - 2 Norway?",
+        "description": "In the upcoming FIFA World Cup game between Brazil and Norway, scheduled for July 5, 2026 at 4:00 PM ET: This market will resolve based on the final score of the Brazil vs. Norway match originally scheduled for July 5, 2026 at 4:00 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x322e71ca67caff7ad41276c7667c50c3b5e2ac1906ab2d5cc665b8dbcf4a6d0c",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782974244495_hvlhs34mlgoz6ad7uhy4xt1nus23skxn_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782974244495_hvlhs34mlgoz6ad7uhy4xt1nus23skxn_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782974244495_hvlhs34mlgoz6ad7uhy4xt1nus23skxn_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782974244495_hvlhs34mlgoz6ad7uhy4xt1nus23skxn_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "34453.01",
+        "liquidity": "460184.41",
+        "decimalPrecision": 3,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.024",
+            "chance": "0.0235",
+            "index": 0,
+            "tokenId": "53613852135324845726984265716988211835692901481425561775748086671322937094381"
+          },
+          {
+            "name": "No",
+            "price": "0.976",
+            "chance": "0.9765",
+            "index": 1,
+            "tokenId": "26572448114963594803472475694013486441491887899857032176600427474913878029025"
+          }
+        ]
+      },
+      {
+        "marketId": 6187859,
+        "externalId": "644848",
+        "title": "BRA 3 - 3 NOR",
+        "question": "Exact Score: Brazil 3 - 3 Norway?",
+        "description": "In the upcoming FIFA World Cup game between Brazil and Norway, scheduled for July 5, 2026 at 4:00 PM ET: This market will resolve based on the final score of the Brazil vs. Norway match originally scheduled for July 5, 2026 at 4:00 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xae275f40b58df312f314239cd0f8e2de3921af02c5c39d3439edaef80cc7ce47",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782974245818_o3xukfvv6z3g4yn4ziecl9uor0bt0qzs_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782974245818_o3xukfvv6z3g4yn4ziecl9uor0bt0qzs_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782974245818_o3xukfvv6z3g4yn4ziecl9uor0bt0qzs_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782974245818_o3xukfvv6z3g4yn4ziecl9uor0bt0qzs_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "77658.8",
+        "liquidity": "460494.36",
+        "decimalPrecision": 3,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.021",
+            "chance": "0.0205",
+            "index": 0,
+            "tokenId": "55725396653514876168587314032036811503689394906522743684655797422445795919228"
+          },
+          {
+            "name": "No",
+            "price": "0.979",
+            "chance": "0.9795",
+            "index": 1,
+            "tokenId": "63320794890995912313123543930048687794248256528108192849088690619539566379393"
+          }
+        ]
+      },
+      {
+        "marketId": 6187855,
+        "externalId": "644843",
+        "title": "BRA 1 - 3 NOR",
+        "question": "Exact Score: Brazil 1 - 3 Norway?",
+        "description": "In the upcoming FIFA World Cup game between Brazil and Norway, scheduled for July 5, 2026 at 4:00 PM ET: This market will resolve based on the final score of the Brazil vs. Norway match originally scheduled for July 5, 2026 at 4:00 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xdd14ede11eec8310ce515a3fa1e62b9c8daf50108f9b51b54edcd87c2f952201",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782974245294_suvcj17ivsr21sc8g8me8z2s7uzc4sxr_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782974245294_suvcj17ivsr21sc8g8me8z2s7uzc4sxr_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782974245294_suvcj17ivsr21sc8g8me8z2s7uzc4sxr_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782974245294_suvcj17ivsr21sc8g8me8z2s7uzc4sxr_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "34169.8",
+        "liquidity": "503939.68",
+        "decimalPrecision": 3,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.019",
+            "chance": "0.0185",
+            "index": 0,
+            "tokenId": "46709485147638535274081301488535961622987685113358526783407101458433684764228"
+          },
+          {
+            "name": "No",
+            "price": "0.981",
+            "chance": "0.9815",
+            "index": 1,
+            "tokenId": "67642624266223449368794228387948183052282832638066143119104690454837656550097"
+          }
+        ]
+      },
+      {
+        "marketId": 6187851,
+        "externalId": "644839",
+        "title": "BRA 0 - 3 NOR",
+        "question": "Exact Score: Brazil 0 - 3 Norway?",
+        "description": "In the upcoming FIFA World Cup game between Brazil and Norway, scheduled for July 5, 2026 at 4:00 PM ET: This market will resolve based on the final score of the Brazil vs. Norway match originally scheduled for July 5, 2026 at 4:00 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xeee3e83b2ce99d66116da018bc1cdd5a55a51746e61ddaff6f281a975342e9e3",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782974244868_ubbmhjkbwb3paol3055sz3np7hqxjtpd_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782974244868_ubbmhjkbwb3paol3055sz3np7hqxjtpd_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782974244868_ubbmhjkbwb3paol3055sz3np7hqxjtpd_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782974244868_ubbmhjkbwb3paol3055sz3np7hqxjtpd_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "14431.78",
+        "liquidity": "363769.84",
+        "decimalPrecision": 3,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.007",
+            "chance": "0.0065",
+            "index": 0,
+            "tokenId": "103473547987737106502590058567795305958879197282717870172415643761038405338498"
+          },
+          {
+            "name": "No",
+            "price": "0.993",
+            "chance": "0.9935",
+            "index": 1,
+            "tokenId": "55834701440610303418991201423635550411798519457391268710491666729548052265681"
+          }
+        ]
+      }
+    ],
+    "tradeVolume": "1729811.93",
+    "liquidity": "8835956.59",
+    "publishedAt": 1782900945888,
+    "startDate": 1783281600000,
+    "endDate": 1783292400000,
+    "status": "REGISTERED"
+  },
+  {
+    "marketTopicId": 4368155,
+    "vendor": "PREDICT_FUN",
+    "chainId": "56",
+    "slug": "fifwc-bra-nor-2026-07-05-total-corners",
+    "title": "Brazil vs. Norway - Total Corners",
+    "question": "Brazil vs. Norway: O/U 9.5 Total Corners",
+    "imageUrl": "https://static.predict.fun/fifwc",
+    "thumbnailPaths": [
+      {
+        "size": "800x800",
+        "path": "file-center/web3-prediction/S3/topic/1783067467626_qeaw2ttocza39gr4f3cfibuu2pk463z3_NEF_q80_800x800"
+      },
+      {
+        "size": "400x400",
+        "path": "file-center/web3-prediction/S3/topic/1783067467626_qeaw2ttocza39gr4f3cfibuu2pk463z3_NEF_q80_400x400"
+      },
+      {
+        "size": "96x96",
+        "path": "file-center/web3-prediction/S3/topic/1783067467626_qeaw2ttocza39gr4f3cfibuu2pk463z3_NEF_q80_96x96"
+      },
+      {
+        "size": "64x64",
+        "path": "file-center/web3-prediction/S3/topic/1783067467626_qeaw2ttocza39gr4f3cfibuu2pk463z3_NEF_q80_64x64"
+      }
+    ],
+    "topicType": "GROUPED",
+    "variantData": {
+      "type": "SPORTS_FIFA_WORLD_CUP"
+    },
+    "participantCount": 1952,
+    "collateral": "USDT",
+    "feeRateBps": 200,
+    "slippageBps": 1000,
+    "isYieldBearing": false,
+    "exchangeContractAddress": "0x365fb81bd4A24D6303cd2F19c349dE6894D8d58A",
+    "markets": [
+      {
+        "marketId": 6388140,
+        "externalId": "661344",
+        "title": "Total Corners: O/U 9.5",
+        "question": "Brazil vs. Norway: O/U 9.5 Total Corners",
+        "description": "In the upcoming FIFA World Cup game between Brazil and Norway, scheduled for July 5 at 4:00 PM ET: This market will resolve to \"Over\" if there are 10 or more total corners taken in this game (combining corners for both teams). If the total number of corners is fewer than 10, this market will resolve to \"Under\". Markets on number of corners refers to number of corners taken and not corners awarded. If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50. This market refers only to corners taken within the first 90 minutes of regular play plus stoppage time. Corners awarded but not taken will not count. Corners awarded during extra time or penalty shootouts do not count. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 24 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xc57c156d94e548d2328d26a315662ebe70a1dc672faa33d67f5b955050f83e51",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1783067467615_cg0f4b12f7unc4pllm5yb5us1qhwkmvm_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1783067467615_cg0f4b12f7unc4pllm5yb5us1qhwkmvm_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1783067467615_cg0f4b12f7unc4pllm5yb5us1qhwkmvm_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1783067467615_cg0f4b12f7unc4pllm5yb5us1qhwkmvm_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "141347.17",
+        "liquidity": "715043.14",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Over 9.5",
+            "price": "0.54",
+            "chance": "0.535",
+            "index": 0,
+            "tokenId": "48037057107539116681773925053198218479213856203017147193592511970335974894763"
+          },
+          {
+            "name": "Under 9.5",
+            "price": "0.46",
+            "chance": "0.465",
+            "index": 1,
+            "tokenId": "42835152423483301974564685134049709154054419496858527701080387749254552745702"
+          }
+        ]
+      }
+    ],
+    "tradeVolume": "141347.18",
+    "liquidity": "715043.14",
+    "publishedAt": 1783067465884,
+    "startDate": 1783281600000,
+    "endDate": 1783292400000,
+    "status": "REGISTERED"
+  },
+  {
+    "marketTopicId": 4251678,
+    "vendor": "PREDICT_FUN",
+    "chainId": "56",
+    "slug": "fifwc-bra-nor-2026-07-05-more-markets",
+    "title": "Brazil vs. Norway - More Markets",
+    "question": "Spread: Brazil (-1.5)",
+    "imageUrl": "https://static.predict.fun/fifwc",
+    "thumbnailPaths": [
+      {
+        "size": "800x800",
+        "path": "file-center/web3-prediction/S3/topic/1782974235361_736emq3me15uco8jl0vrln5bh5zyffrm_NEF_q80_800x800"
+      },
+      {
+        "size": "400x400",
+        "path": "file-center/web3-prediction/S3/topic/1782974235361_736emq3me15uco8jl0vrln5bh5zyffrm_NEF_q80_400x400"
+      },
+      {
+        "size": "96x96",
+        "path": "file-center/web3-prediction/S3/topic/1782974235361_736emq3me15uco8jl0vrln5bh5zyffrm_NEF_q80_96x96"
+      },
+      {
+        "size": "64x64",
+        "path": "file-center/web3-prediction/S3/topic/1782974235361_736emq3me15uco8jl0vrln5bh5zyffrm_NEF_q80_64x64"
+      }
+    ],
+    "topicType": "GROUPED",
+    "variantData": {
+      "type": "SPORTS_FIFA_WORLD_CUP"
+    },
+    "participantCount": 6134,
+    "collateral": "USDT",
+    "feeRateBps": 200,
+    "slippageBps": 1000,
+    "isYieldBearing": true,
+    "exchangeContractAddress": "0x8A289d458f5a134bA40015085A8F50Ffb681B41d",
+    "markets": [
+      {
+        "marketId": 6187950,
+        "externalId": "645001",
+        "title": "O/U 0.5",
+        "question": "Brazil vs. Norway: O/U 0.5",
+        "description": "In the upcoming FIFA World Cup game between Brazil and Norway, scheduled for July 5 at 4:00 PM ET:\n\nThis market will resolve to \"Over\" if Brazil and Norway combine to score 1 or more goals in this game.\n\nIf the combined total is less than 1, this market will resolve to \"Under\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nIf the game is started but not completed, this market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x7d082e666cb05465826ff6ddb99bfca3f3eb280b08d15a0b240fbeac91ce4612",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782974230798_1i9crfmpnefnxrmmbr0aa1v6jep265ku_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782974230798_1i9crfmpnefnxrmmbr0aa1v6jep265ku_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782974230798_1i9crfmpnefnxrmmbr0aa1v6jep265ku_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782974230798_1i9crfmpnefnxrmmbr0aa1v6jep265ku_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "22870.23",
+        "liquidity": "14809531.24",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Over",
+            "price": "0.96",
+            "chance": "0.955",
+            "index": 0,
+            "tokenId": "114524702916702183572124566915417389371910350314252610909277805169839066989094"
+          },
+          {
+            "name": "Under",
+            "price": "0.04",
+            "chance": "0.045",
+            "index": 1,
+            "tokenId": "60120391979092247015180474416888709769475805368901529502976364318788689269475"
+          }
+        ]
+      },
+      {
+        "marketId": 6187951,
+        "externalId": "645002",
+        "title": "O/U 1.5",
+        "question": "Brazil vs. Norway: O/U 1.5",
+        "description": "In the upcoming FIFA World Cup game between Brazil and Norway, scheduled for July 5 at 4:00 PM ET:\n\nThis market will resolve to \"Over\" if Brazil and Norway combine to score 2 or more goals in this game.\n\nIf the combined total is less than 2, this market will resolve to \"Under\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nIf the game is started but not completed, this market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x8595bcc1f2d1c62066edd74d20b7c9a3b6a80317f5cee24e2a32e2467b957f02",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782974230896_osklr935ybn6thql8eeukyiy3s3tbqfb_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782974230896_osklr935ybn6thql8eeukyiy3s3tbqfb_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782974230896_osklr935ybn6thql8eeukyiy3s3tbqfb_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782974230896_osklr935ybn6thql8eeukyiy3s3tbqfb_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "28701.14",
+        "liquidity": "3778312.86",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Over",
+            "price": "0.83",
+            "chance": "0.825",
+            "index": 0,
+            "tokenId": "86382686933370418808349174126913003003498073836700075106186759600611297482354"
+          },
+          {
+            "name": "Under",
+            "price": "0.17",
+            "chance": "0.175",
+            "index": 1,
+            "tokenId": "93338838781529925475462131200384992970854297659606710531685201514923205528049"
+          }
+        ]
+      },
+      {
+        "marketId": 6187971,
+        "externalId": "645011",
+        "title": "Team to Advance",
+        "question": "Brazil vs. Norway: Team to Advance",
+        "description": "In the upcoming FIFA World Cup game between Brazil and Norway, scheduled for July 5 at 4:00 PM ET: This market will resolve to \"Brazil\" if Brazil is the team that officially advances from this match to the next round of the FIFA World Cup, or is crowned winner of the competition if this match is the final. This market will resolve to \"Norway\" if Norway is the team that officially advances from this match to the next round of the FIFA World Cup, or is crowned winner of the competition if this match is the final. This includes advancement after regulation, extra time, a penalty shoot-out, or an official ruling by the competition organizer such as forfeit, abandonment, or disqualification. If the game is postponed, this market will remain open until the game has been completed or a team is officially declared to advance. If the game is canceled entirely and no team advances from this match, this market will resolve 50-50. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 24 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xcee440acde26bb89f42b8ac46fc917b1817137357b1c5f0928383e0ece9ec7f7",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782903126772_4zyxo8t17mcg2wzfigx9ul877nm5wwfg_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782903126772_4zyxo8t17mcg2wzfigx9ul877nm5wwfg_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782903126772_4zyxo8t17mcg2wzfigx9ul877nm5wwfg_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782903126772_4zyxo8t17mcg2wzfigx9ul877nm5wwfg_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "823359.62",
+        "liquidity": "2870527.77",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "BRA",
+            "price": "0.7",
+            "chance": "0.695",
+            "index": 0,
+            "tokenId": "73779254498174765035054781128194920594557487185452037528126793091430459113328"
+          },
+          {
+            "name": "NOR",
+            "price": "0.3",
+            "chance": "0.305",
+            "index": 1,
+            "tokenId": "37480971000667559161450956327029025611405786160120926933986775576407071243379"
+          }
+        ]
+      },
+      {
+        "marketId": 6187970,
+        "externalId": "645010",
+        "title": "Both Teams to Score",
+        "question": "Brazil vs. Norway: Both Teams to Score",
+        "description": "In the upcoming FIFA World Cup game between Brazil and Norway, scheduled for July 5 at 4:00 PM ET:\n\nThis market will resolve to \"Yes\" if both Brazil and Norway each score at least one goal during the game.\n\nThis market will resolve to \"No\" if either team fails to score (i.e., if one or both teams finish with zero goals).\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nIf the game is started but not completed, this market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x3300ae7fd158bf658a13b1918f4f57463699ffcb0e9b16d0f574541912a42e21",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782903125825_kzfs93x6c68d47p8x72nf6wpaje35zvt_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782903125825_kzfs93x6c68d47p8x72nf6wpaje35zvt_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782903125825_kzfs93x6c68d47p8x72nf6wpaje35zvt_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782903125825_kzfs93x6c68d47p8x72nf6wpaje35zvt_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "238277.99",
+        "liquidity": "1757892.19",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.62",
+            "chance": "0.615",
+            "index": 0,
+            "tokenId": "112402942670345909487098977376948017749188571993784877295370532341142938835372"
+          },
+          {
+            "name": "No",
+            "price": "0.38",
+            "chance": "0.385",
+            "index": 1,
+            "tokenId": "85011408469897279606418643620258014826068978436800574512596063464648389308031"
+          }
+        ]
+      },
+      {
+        "marketId": 6187952,
+        "externalId": "645003",
+        "title": "O/U 2.5",
+        "question": "Brazil vs. Norway: O/U 2.5",
+        "description": "In the upcoming FIFA World Cup game between Brazil and Norway, scheduled for July 5 at 4:00 PM ET:\n\nThis market will resolve to \"Over\" if Brazil and Norway combine to score 3 or more goals in this game.\n\nIf the combined total is less than 3, this market will resolve to \"Under\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nIf the game is started but not completed, this market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x3762672f3a4bb747e1480277a69ee80d4bd4757d0fe5c54a48b9ec4d24921f30",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782974230994_di8cvlctrqarb5u719pwhl0rba6cvs2y_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782974230994_di8cvlctrqarb5u719pwhl0rba6cvs2y_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782974230994_di8cvlctrqarb5u719pwhl0rba6cvs2y_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782974230994_di8cvlctrqarb5u719pwhl0rba6cvs2y_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "147759.83",
+        "liquidity": "1244242.8",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Over",
+            "price": "0.59",
+            "chance": "0.585",
+            "index": 0,
+            "tokenId": "77458595392798179940876247306043631432831323450807409464546315312508174048008"
+          },
+          {
+            "name": "Under",
+            "price": "0.41",
+            "chance": "0.415",
+            "index": 1,
+            "tokenId": "74422158329833944562802917725399362417459803471274101384523605009512950032721"
+          }
+        ]
+      },
+      {
+        "marketId": 6187953,
+        "externalId": "645004",
+        "title": "O/U 3.5",
+        "question": "Brazil vs. Norway: O/U 3.5",
+        "description": "In the upcoming FIFA World Cup game between Brazil and Norway, scheduled for July 5 at 4:00 PM ET:\n\nThis market will resolve to \"Over\" if Brazil and Norway combine to score 4 or more goals in this game.\n\nIf the combined total is less than 4, this market will resolve to \"Under\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nIf the game is started but not completed, this market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x4700f6f4de31c56e71e79434dbff2174bdd087646e03ec26289a7eeaa78b0826",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782974231097_7mgbyabmfgayxthvya5me6thh8rt2jir_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782974231097_7mgbyabmfgayxthvya5me6thh8rt2jir_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782974231097_7mgbyabmfgayxthvya5me6thh8rt2jir_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782974231097_7mgbyabmfgayxthvya5me6thh8rt2jir_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "45213.33",
+        "liquidity": "541756.29",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Over",
+            "price": "0.35",
+            "chance": "0.345",
+            "index": 0,
+            "tokenId": "59814756078544927129054380630256199259754843706681503649501430624791801456157"
+          },
+          {
+            "name": "Under",
+            "price": "0.65",
+            "chance": "0.655",
+            "index": 1,
+            "tokenId": "102878494035278915787329707768664095473794031262890381665164919973808778401699"
+          }
+        ]
+      },
+      {
+        "marketId": 6187959,
+        "externalId": "644991",
+        "title": "Brazil (-1.5)",
+        "question": "Spread: Brazil (-1.5)",
+        "description": "In the upcoming FIFA World Cup game, scheduled for July 5 at 4:00 PM ET:\n\nThis market will resolve to \"Brazil\" if Brazil win the game by 2 or more goals.\n\nOtherwise, this market will resolve to \"Norway\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xf1733ef8197030f0c739abbdd51c0107ff014030e21c368451b0c5ebd7ba5c9f",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782974229817_0fbyisvqeeboasy0rw2ukcz6dg6dc1li_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782974229817_0fbyisvqeeboasy0rw2ukcz6dg6dc1li_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782974229817_0fbyisvqeeboasy0rw2ukcz6dg6dc1li_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782974229817_0fbyisvqeeboasy0rw2ukcz6dg6dc1li_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "52949.9",
+        "liquidity": "611494.55",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "BRA",
+            "price": "0.3",
+            "chance": "0.295",
+            "index": 0,
+            "tokenId": "62109601894107062092462677669812665595346780769801412765379526364029759546456"
+          },
+          {
+            "name": "NOR",
+            "price": "0.7",
+            "chance": "0.705",
+            "index": 1,
+            "tokenId": "27980196482160040350790248064150323686693044620095922516474341441912191086831"
+          }
+        ]
+      },
+      {
+        "marketId": 6187954,
+        "externalId": "645005",
+        "title": "O/U 4.5",
+        "question": "Brazil vs. Norway: O/U 4.5",
+        "description": "In the upcoming FIFA World Cup game between Brazil and Norway, scheduled for July 5 at 4:00 PM ET:\n\nThis market will resolve to \"Over\" if Brazil and Norway combine to score 5 or more goals in this game.\n\nIf the combined total is less than 5, this market will resolve to \"Under\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nIf the game is started but not completed, this market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x073858081231628288bad6cc1dfb155ab0453d211cc14c421aa8f69ab44c3141",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782974231190_x6sgxta1xzf3he91g87qilepikamutel_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782974231190_x6sgxta1xzf3he91g87qilepikamutel_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782974231190_x6sgxta1xzf3he91g87qilepikamutel_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782974231190_x6sgxta1xzf3he91g87qilepikamutel_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "53380.19",
+        "liquidity": "658625.58",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Over",
+            "price": "0.18",
+            "chance": "0.175",
+            "index": 0,
+            "tokenId": "11805715822163227489830691422330159975037062392572485798831893140603157633741"
+          },
+          {
+            "name": "Under",
+            "price": "0.82",
+            "chance": "0.825",
+            "index": 1,
+            "tokenId": "42228424296526884930949198197176142669786972557764096447765619947345458893373"
+          }
+        ]
+      },
+      {
+        "marketId": 6187962,
+        "externalId": "644993",
+        "title": "Brazil (-2.5)",
+        "question": "Spread: Brazil (-2.5)",
+        "description": "In the upcoming FIFA World Cup game, scheduled for July 5 at 4:00 PM ET:\n\nThis market will resolve to \"Brazil\" if Brazil win the game by 3 or more goals.\n\nOtherwise, this market will resolve to \"Norway\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x7a63666445ebd5d1bac7272f2cab9ca8630e2f646d1df6520db0f8b36d370b48",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782974230022_5ss346srfc4s26ehnxssjnmaj8we4dcr_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782974230022_5ss346srfc4s26ehnxssjnmaj8we4dcr_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782974230022_5ss346srfc4s26ehnxssjnmaj8we4dcr_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782974230022_5ss346srfc4s26ehnxssjnmaj8we4dcr_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "17040",
+        "liquidity": "313754.33",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "BRA",
+            "price": "0.13",
+            "chance": "0.125",
+            "index": 0,
+            "tokenId": "106266149622174784186067180831704374452887366412802761454506657909846794597268"
+          },
+          {
+            "name": "NOR",
+            "price": "0.87",
+            "chance": "0.875",
+            "index": 1,
+            "tokenId": "30441900832438205044820490924470144768138095599660129101938754624161221020836"
+          }
+        ]
+      },
+      {
+        "marketId": 6187955,
+        "externalId": "645006",
+        "title": "O/U 5.5",
+        "question": "Brazil vs. Norway: O/U 5.5",
+        "description": "In the upcoming FIFA World Cup game between Brazil and Norway, scheduled for July 5 at 4:00 PM ET:\n\nThis market will resolve to \"Over\" if Brazil and Norway combine to score 6 or more goals in this game.\n\nIf the combined total is less than 6, this market will resolve to \"Under\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nIf the game is started but not completed, this market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x3a474db5c99f2bfba4fd6bb31d7d837209a40ca6c13ca9cf9f2f7f95188da801",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782974231288_4fz16e7gqt8gw37fkq5xmgwcornz4w6q_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782974231288_4fz16e7gqt8gw37fkq5xmgwcornz4w6q_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782974231288_4fz16e7gqt8gw37fkq5xmgwcornz4w6q_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782974231288_4fz16e7gqt8gw37fkq5xmgwcornz4w6q_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "18101.45",
+        "liquidity": "575127.85",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Over",
+            "price": "0.07",
+            "chance": "0.065",
+            "index": 0,
+            "tokenId": "57201344766151526352278457977460381502969814069346054568454882345547300131667"
+          },
+          {
+            "name": "Under",
+            "price": "0.93",
+            "chance": "0.935",
+            "index": 1,
+            "tokenId": "93751265995600811624868611615261678350429782236286419629898391455650295096168"
+          }
+        ]
+      },
+      {
+        "marketId": 6187961,
+        "externalId": "644992",
+        "title": "Norway (-1.5)",
+        "question": "Spread: Norway (-1.5)",
+        "description": "In the upcoming FIFA World Cup game, scheduled for July 5 at 4:00 PM ET:\n\nThis market will resolve to \"Norway\" if Norway win the game by 2 or more goals.\n\nOtherwise, this market will resolve to \"Brazil\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x26017d74c385e0d286190f4124a6e32d39ff4bf72ffaababedfb1753b676e930",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782974229911_hl8xipmj9kc07ul2oexyypjtkoakvkv6_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782974229911_hl8xipmj9kc07ul2oexyypjtkoakvkv6_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782974229911_hl8xipmj9kc07ul2oexyypjtkoakvkv6_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782974229911_hl8xipmj9kc07ul2oexyypjtkoakvkv6_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "5655.11",
+        "liquidity": "475286.45",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "NOR",
+            "price": "0.07",
+            "chance": "0.065",
+            "index": 0,
+            "tokenId": "48921044376239748754659611289828905581883369489616718195538978318715441847944"
+          },
+          {
+            "name": "BRA",
+            "price": "0.93",
+            "chance": "0.935",
+            "index": 1,
+            "tokenId": "74690265283570957185518306199625610389895540371176071257960123291218389417272"
+          }
+        ]
+      },
+      {
+        "marketId": 6187969,
+        "externalId": "644995",
+        "title": "Brazil (-3.5)",
+        "question": "Spread: Brazil (-3.5)",
+        "description": "In the upcoming FIFA World Cup game, scheduled for July 5 at 4:00 PM ET:\n\nThis market will resolve to \"Brazil\" if Brazil win the game by 4 or more goals.\n\nOtherwise, this market will resolve to \"Norway\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x6fc3f8f98115de4b3647979e4364ec2ba4927ebd66789358146d72bd22123884",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782974230217_9hn4iz47q2ulu8h14ckp75d5ss8qua5l_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782974230217_9hn4iz47q2ulu8h14ckp75d5ss8qua5l_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782974230217_9hn4iz47q2ulu8h14ckp75d5ss8qua5l_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782974230217_9hn4iz47q2ulu8h14ckp75d5ss8qua5l_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "3141.38",
+        "liquidity": "441837.01",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "BRA",
+            "price": "0.04",
+            "chance": "0.035",
+            "index": 0,
+            "tokenId": "83717170567738874812530558470036952910342235322508488034215037617131809966061"
+          },
+          {
+            "name": "NOR",
+            "price": "0.96",
+            "chance": "0.965",
+            "index": 1,
+            "tokenId": "14197407904571907893973598310205328294352266187371294972794475174472749056959"
+          }
+        ]
+      },
+      {
+        "marketId": 6187956,
+        "externalId": "645007",
+        "title": "O/U 6.5",
+        "question": "Brazil vs. Norway: O/U 6.5",
+        "description": "In the upcoming FIFA World Cup game between Brazil and Norway, scheduled for July 5 at 4:00 PM ET:\n\nThis market will resolve to \"Over\" if Brazil and Norway combine to score 7 or more goals in this game.\n\nIf the combined total is less than 7, this market will resolve to \"Under\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nIf the game is started but not completed, this market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x0ed50974897f1d55d36caca830972db953dc3a50543d8b8265b5e6f15ec4cb75",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782974231386_f6tneirmoe7jn4b4pa78wwd732eb58yw_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782974231386_f6tneirmoe7jn4b4pa78wwd732eb58yw_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782974231386_f6tneirmoe7jn4b4pa78wwd732eb58yw_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782974231386_f6tneirmoe7jn4b4pa78wwd732eb58yw_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "18378.71",
+        "liquidity": "122327.43",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Over",
+            "price": "0.03",
+            "chance": "0.025",
+            "index": 0,
+            "tokenId": "12003954468103767807128245767788518355298751741781232175596698656993115038113"
+          },
+          {
+            "name": "Under",
+            "price": "0.97",
+            "chance": "0.975",
+            "index": 1,
+            "tokenId": "32127157823369304720965435113538585206801584298836653052298024335184403825997"
+          }
+        ]
+      },
+      {
+        "marketId": 6187966,
+        "externalId": "644994",
+        "title": "Norway (-2.5)",
+        "question": "Spread: Norway (-2.5)",
+        "description": "In the upcoming FIFA World Cup game, scheduled for July 5 at 4:00 PM ET:\n\nThis market will resolve to \"Norway\" if Norway win the game by 3 or more goals.\n\nOtherwise, this market will resolve to \"Brazil\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x7529383e41a008dbcb3632597146cc438f63bcca012808894e9a43495c9d0ba1",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782974230118_d3xy6x36p747xpskga2pyrnxqxuxin8g_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782974230118_d3xy6x36p747xpskga2pyrnxqxuxin8g_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782974230118_d3xy6x36p747xpskga2pyrnxqxuxin8g_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782974230118_d3xy6x36p747xpskga2pyrnxqxuxin8g_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "1863.6",
+        "liquidity": "19310.04",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "NOR",
+            "price": "0.02",
+            "chance": "0.015",
+            "index": 0,
+            "tokenId": "69954982753424167925894902693794540294853459380018849280858638902917367498040"
+          },
+          {
+            "name": "BRA",
+            "price": "0.98",
+            "chance": "0.985",
+            "index": 1,
+            "tokenId": "11473592373333128988367196085006207425922212268354781799023441615879903705121"
+          }
+        ]
+      },
+      {
+        "marketId": 6187957,
+        "externalId": "645008",
+        "title": "O/U 7.5",
+        "question": "Brazil vs. Norway: O/U 7.5",
+        "description": "In the upcoming FIFA World Cup game between Brazil and Norway, scheduled for July 5 at 4:00 PM ET:\n\nThis market will resolve to \"Over\" if Brazil and Norway combine to score 8 or more goals in this game.\n\nIf the combined total is less than 8, this market will resolve to \"Under\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nIf the game is started but not completed, this market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x8bfdff68d5eb88d328cfa69db2c81f7ef50f5d41bbf60c9e574956a922995633",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782974231485_a22cxprdf4japb4fdxkp7znwtn7srdw9_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782974231485_a22cxprdf4japb4fdxkp7znwtn7srdw9_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782974231485_a22cxprdf4japb4fdxkp7znwtn7srdw9_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782974231485_a22cxprdf4japb4fdxkp7znwtn7srdw9_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "2606.78",
+        "liquidity": "8025.21",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Over",
+            "price": "0.01",
+            "chance": "0.01",
+            "index": 0,
+            "tokenId": "90050505192757423410822177731398527400345358239081256603747476326153672060602"
+          },
+          {
+            "name": "Under",
+            "price": "0.99",
+            "chance": "0.99",
+            "index": 1,
+            "tokenId": "29265625976353698195454965287330282741553680078231794547586630523396468949085"
+          }
+        ]
+      },
+      {
+        "marketId": 6187958,
+        "externalId": "644998",
+        "title": "Norway (-4.5)",
+        "question": "Spread: Norway (-4.5)",
+        "description": "In the upcoming FIFA World Cup game, scheduled for July 5 at 4:00 PM ET:\n\nThis market will resolve to \"Norway\" if Norway win the game by 5 or more goals.\n\nOtherwise, this market will resolve to \"Brazil\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x6e8ff7da6e158eeff91de3122e843065d96aed7b7c34b09c5da75c189a8c93b3",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782974230507_kscpt83q35yu8ltxz1gy5u45brnkajzy_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782974230507_kscpt83q35yu8ltxz1gy5u45brnkajzy_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782974230507_kscpt83q35yu8ltxz1gy5u45brnkajzy_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782974230507_kscpt83q35yu8ltxz1gy5u45brnkajzy_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "759.2",
+        "liquidity": "7892.11",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "NOR",
+            "price": "0.01",
+            "chance": "0.01",
+            "index": 0,
+            "tokenId": "88921880208728355420249295651130836297086843539463825907063234914979500491588"
+          },
+          {
+            "name": "BRA",
+            "price": "0.99",
+            "chance": "0.99",
+            "index": 1,
+            "tokenId": "19509384468188707856478603941632677721295437532314355990889342515782338877633"
+          }
+        ]
+      },
+      {
+        "marketId": 6187963,
+        "externalId": "644997",
+        "title": "Brazil (-4.5)",
+        "question": "Spread: Brazil (-4.5)",
+        "description": "In the upcoming FIFA World Cup game, scheduled for July 5 at 4:00 PM ET:\n\nThis market will resolve to \"Brazil\" if Brazil win the game by 5 or more goals.\n\nOtherwise, this market will resolve to \"Norway\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x43279878d14b279319725762ba0ebc11b0da10e63b45d8668d377967439627c4",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782974230407_w75zm3cecuh8cwvtk9ruecl3y26xcvwq_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782974230407_w75zm3cecuh8cwvtk9ruecl3y26xcvwq_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782974230407_w75zm3cecuh8cwvtk9ruecl3y26xcvwq_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782974230407_w75zm3cecuh8cwvtk9ruecl3y26xcvwq_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "9188.95",
+        "liquidity": "17749.53",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "BRA",
+            "price": "0.01",
+            "chance": "0.01",
+            "index": 0,
+            "tokenId": "79850130857214693973206236091689144517536701314027028686009472957387494311392"
+          },
+          {
+            "name": "NOR",
+            "price": "0.99",
+            "chance": "0.99",
+            "index": 1,
+            "tokenId": "97122821491265689868795655507644800951324037215035400072925971402663197984642"
+          }
+        ]
+      },
+      {
+        "marketId": 6187964,
+        "externalId": "645000",
+        "title": "Norway (-5.5)",
+        "question": "Spread: Norway (-5.5)",
+        "description": "In the upcoming FIFA World Cup game, scheduled for July 5 at 4:00 PM ET:\n\nThis market will resolve to \"Norway\" if Norway win the game by 6 or more goals.\n\nOtherwise, this market will resolve to \"Brazil\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x3218c29636bc563fabacba3e166fd852e06cc35549cb2e2a53175a93e8a11874",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782974230699_9pw8l801oei3jkprluxa5x04jk0vmwql_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782974230699_9pw8l801oei3jkprluxa5x04jk0vmwql_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782974230699_9pw8l801oei3jkprluxa5x04jk0vmwql_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782974230699_9pw8l801oei3jkprluxa5x04jk0vmwql_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "1000",
+        "liquidity": "3897.49",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "NOR",
+            "price": "0.01",
+            "chance": "0.01",
+            "index": 0,
+            "tokenId": "69014316711652747349077231529223880623685243171573572554278318140447650622357"
+          },
+          {
+            "name": "BRA",
+            "price": "0.99",
+            "chance": "0.99",
+            "index": 1,
+            "tokenId": "72894590244143386434356736291964193174762008837036981589757738624900800556412"
+          }
+        ]
+      },
+      {
+        "marketId": 6187965,
+        "externalId": "644999",
+        "title": "Brazil (-5.5)",
+        "question": "Spread: Brazil (-5.5)",
+        "description": "In the upcoming FIFA World Cup game, scheduled for July 5 at 4:00 PM ET:\n\nThis market will resolve to \"Brazil\" if Brazil win the game by 6 or more goals.\n\nOtherwise, this market will resolve to \"Norway\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x4758220ba91e70fdb4a24bee0021e51c634e440796fea0c384d7e752d4614926",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782974230603_ihia88ztnmb4dxnchocub58px48yz724_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782974230603_ihia88ztnmb4dxnchocub58px48yz724_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782974230603_ihia88ztnmb4dxnchocub58px48yz724_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782974230603_ihia88ztnmb4dxnchocub58px48yz724_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "345",
+        "liquidity": "10702.52",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "BRA",
+            "price": "0.01",
+            "chance": "0.01",
+            "index": 0,
+            "tokenId": "46606484902655895000830346467357397667024252851726613865555041672469062502398"
+          },
+          {
+            "name": "NOR",
+            "price": "0.99",
+            "chance": "0.99",
+            "index": 1,
+            "tokenId": "100925336823651301853796732964900508563654222032217987382471935634432565867895"
+          }
+        ]
+      },
+      {
+        "marketId": 6187967,
+        "externalId": "644996",
+        "title": "Norway (-3.5)",
+        "question": "Spread: Norway (-3.5)",
+        "description": "In the upcoming FIFA World Cup game, scheduled for July 5 at 4:00 PM ET:\n\nThis market will resolve to \"Norway\" if Norway win the game by 4 or more goals.\n\nOtherwise, this market will resolve to \"Brazil\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x041f0677cf8724a760cd39b243a46d6a4119710c60ea3f0a58cc538784523d59",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782974230311_q4z75zokpoa8x2o0jkvtsa0h1hwh3yi4_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782974230311_q4z75zokpoa8x2o0jkvtsa0h1hwh3yi4_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782974230311_q4z75zokpoa8x2o0jkvtsa0h1hwh3yi4_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782974230311_q4z75zokpoa8x2o0jkvtsa0h1hwh3yi4_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "1052",
+        "liquidity": "8010",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "NOR",
+            "price": "0.01",
+            "chance": "0.01",
+            "index": 0,
+            "tokenId": "57600819776926315459066899646805709644415722134851003778579863013805607179800"
+          },
+          {
+            "name": "BRA",
+            "price": "0.99",
+            "chance": "0.99",
+            "index": 1,
+            "tokenId": "20396196475516071911463936882412823436130729695472358010984695776141646768007"
+          }
+        ]
+      },
+      {
+        "marketId": 6187968,
+        "externalId": "645009",
+        "title": "O/U 8.5",
+        "question": "Brazil vs. Norway: O/U 8.5",
+        "description": "In the upcoming FIFA World Cup game between Brazil and Norway, scheduled for July 5 at 4:00 PM ET:\n\nThis market will resolve to \"Over\" if Brazil and Norway combine to score 9 or more goals in this game.\n\nIf the combined total is less than 9, this market will resolve to \"Under\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nIf the game is started but not completed, this market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xf43c4c5d854835835065877e3d14e441f7b700c9bd33daf09306121b293b8379",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782974231578_c9rga339qsvz7qox7mmpwh7obluc7wkj_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782974231578_c9rga339qsvz7qox7mmpwh7obluc7wkj_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782974231578_c9rga339qsvz7qox7mmpwh7obluc7wkj_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782974231578_c9rga339qsvz7qox7mmpwh7obluc7wkj_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "5.16",
+        "liquidity": "4225.98",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Over",
+            "price": "0.01",
+            "chance": "0.01",
+            "index": 0,
+            "tokenId": "46947484088808899444748973754102342650984266884345169270250975615343663977613"
+          },
+          {
+            "name": "Under",
+            "price": "0.99",
+            "chance": "0.99",
+            "index": 1,
+            "tokenId": "15681427151024285784907709051843334862976726422057684799766532651692916400153"
+          }
+        ]
+      }
+    ],
+    "tradeVolume": "1494365.71",
+    "liquidity": "35728272.25",
+    "publishedAt": 1782903086061,
+    "startDate": 1783281600000,
+    "endDate": 1783292400000,
+    "status": "REGISTERED"
+  },
+  {
+    "marketTopicId": 4251654,
+    "vendor": "PREDICT_FUN",
+    "chainId": "56",
+    "slug": "fifwc-bra-nor-2026-07-05",
+    "title": "Brazil vs. Norway",
+    "question": "Will Brazil win on 2026-07-05?",
+    "imageUrl": "https://static.predict.fun/fifwc",
+    "thumbnailPaths": [
+      {
+        "size": "800x800",
+        "path": "file-center/web3-prediction/S3/topic/1782974242295_mjvf8vmwcad92ve5fg1o3r8iqz3g5hyw_NEF_q80_800x800"
+      },
+      {
+        "size": "400x400",
+        "path": "file-center/web3-prediction/S3/topic/1782974242295_mjvf8vmwcad92ve5fg1o3r8iqz3g5hyw_NEF_q80_400x400"
+      },
+      {
+        "size": "96x96",
+        "path": "file-center/web3-prediction/S3/topic/1782974242295_mjvf8vmwcad92ve5fg1o3r8iqz3g5hyw_NEF_q80_96x96"
+      },
+      {
+        "size": "64x64",
+        "path": "file-center/web3-prediction/S3/topic/1782974242295_mjvf8vmwcad92ve5fg1o3r8iqz3g5hyw_NEF_q80_64x64"
+      }
+    ],
+    "topicType": "GROUPED",
+    "variantData": {
+      "type": "SPORTS_FIFA_WORLD_CUP"
+    },
+    "participantCount": 9324,
+    "collateral": "USDT",
+    "feeRateBps": 200,
+    "slippageBps": 1000,
+    "isYieldBearing": true,
+    "exchangeContractAddress": "0x8A289d458f5a134bA40015085A8F50Ffb681B41d",
+    "markets": [
+      {
+        "marketId": 6187909,
+        "externalId": "644867",
+        "title": "BRA",
+        "question": "Will Brazil win on 2026-07-05?",
+        "description": "In the upcoming game, scheduled for July 5, 2026\nIf Brazil wins, this market will resolve to \"Yes\".\nOtherwise, this market will resolve to \"No\".\nIf the game is postponed, this market will remain open until the game has been completed.\nIf the game is canceled entirely, with no make-up game, this market will resolve \"No\".\nThis market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xf89d485e42ab46d42150c280f5068d6b5d19b3789e19a55fdea47344d7272ae5",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782974239973_23clif48kvm4icawlz3hbd6yk5sjuh93_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782974239973_23clif48kvm4icawlz3hbd6yk5sjuh93_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782974239973_23clif48kvm4icawlz3hbd6yk5sjuh93_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782974239973_23clif48kvm4icawlz3hbd6yk5sjuh93_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "488892.17",
+        "liquidity": "2027957.24",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.55",
+            "chance": "0.545",
+            "index": 0,
+            "tokenId": "98170278138665665648162879384113752761941601902587348665163274080974952178455"
+          },
+          {
+            "name": "No",
+            "price": "0.45",
+            "chance": "0.455",
+            "index": 1,
+            "tokenId": "13531810065629138961085888994941419928054406633199966618930307592804948824220"
+          }
+        ]
+      },
+      {
+        "marketId": 6187911,
+        "externalId": "644868",
+        "title": "Draw",
+        "question": "Will Brazil vs. Norway end in a draw?",
+        "description": "In the upcoming game, scheduled for July 5, 2026\nIf the game ends in a draw, this market will resolve to \"Yes\".\nOtherwise, this market will resolve to \"No\".\nIf the game is postponed, this market will remain open until the game has been completed.\nIf the game is canceled entirely, with no make-up game, this market will resolve to \"Yes\".\nThis market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x002eb31950175fd479ef91633e27987395609add22c38b7a1232b64cd3413fe0",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782974240078_jspvd4xw7l6mor0vmb795te1ldcvrxxr_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782974240078_jspvd4xw7l6mor0vmb795te1ldcvrxxr_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782974240078_jspvd4xw7l6mor0vmb795te1ldcvrxxr_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782974240078_jspvd4xw7l6mor0vmb795te1ldcvrxxr_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "76849.5",
+        "liquidity": "1179599.31",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.27",
+            "chance": "0.265",
+            "index": 0,
+            "tokenId": "16041135181321821239276179675260286393977517151156328828886627349834994526443"
+          },
+          {
+            "name": "No",
+            "price": "0.73",
+            "chance": "0.735",
+            "index": 1,
+            "tokenId": "8732114338878799559905669935939741027501363290758148119899804818512101493937"
+          }
+        ]
+      },
+      {
+        "marketId": 6187910,
+        "externalId": "644869",
+        "title": "NOR",
+        "question": "Will Norway win on 2026-07-05?",
+        "description": "In the upcoming game, scheduled for July 5, 2026\nIf Norway wins, this market will resolve to \"Yes\".\nOtherwise, this market will resolve to \"No\".\nIf the game is postponed, this market will remain open until the game has been completed.\nIf the game is canceled entirely, with no make-up game, this market will resolve \"No\".\nThis market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xe394b362e28b021b20121a02f63783ac44212223149a08def292b0d2b4a5cd6e",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782974240193_grhhc90gea6bke1lxzkcpo0zpodnuqgb_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782974240193_grhhc90gea6bke1lxzkcpo0zpodnuqgb_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782974240193_grhhc90gea6bke1lxzkcpo0zpodnuqgb_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782974240193_grhhc90gea6bke1lxzkcpo0zpodnuqgb_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "121829.27",
+        "liquidity": "1062860.68",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.21",
+            "chance": "0.205",
+            "index": 0,
+            "tokenId": "9896771103685741142600382916327051102221711573119735089559647130536438972275"
+          },
+          {
+            "name": "No",
+            "price": "0.79",
+            "chance": "0.795",
+            "index": 1,
+            "tokenId": "62749454606985755456147881797942250023734375048819232579546904955608345147678"
+          }
+        ]
+      }
+    ],
+    "tradeVolume": "687607.99",
+    "liquidity": "4278518.67",
+    "publishedAt": 1782901601065,
+    "startDate": 1783281600000,
+    "endDate": 1783292400000,
+    "status": "REGISTERED"
+  },
+  {
+    "marketTopicId": 4251639,
+    "vendor": "PREDICT_FUN",
+    "chainId": "56",
+    "slug": "fifwc-bra-nor-2026-07-05-first-to-score",
+    "title": "Brazil vs. Norway - First Team to Score",
+    "question": "Brazil to score first vs. Norway?",
+    "imageUrl": "https://static.predict.fun/fifwc",
+    "thumbnailPaths": [
+      {
+        "size": "800x800",
+        "path": "file-center/web3-prediction/S3/topic/1782974248671_mw08rr3zisykulrcoga3ssnnarc76g9v_NEF_q80_800x800"
+      },
+      {
+        "size": "400x400",
+        "path": "file-center/web3-prediction/S3/topic/1782974248671_mw08rr3zisykulrcoga3ssnnarc76g9v_NEF_q80_400x400"
+      },
+      {
+        "size": "96x96",
+        "path": "file-center/web3-prediction/S3/topic/1782974248671_mw08rr3zisykulrcoga3ssnnarc76g9v_NEF_q80_96x96"
+      },
+      {
+        "size": "64x64",
+        "path": "file-center/web3-prediction/S3/topic/1782974248671_mw08rr3zisykulrcoga3ssnnarc76g9v_NEF_q80_64x64"
+      }
+    ],
+    "topicType": "GROUPED",
+    "variantData": {
+      "type": "SPORTS_FIFA_WORLD_CUP"
+    },
+    "participantCount": 1557,
+    "collateral": "USDT",
+    "feeRateBps": 200,
+    "slippageBps": 1000,
+    "isYieldBearing": true,
+    "exchangeContractAddress": "0x8A289d458f5a134bA40015085A8F50Ffb681B41d",
+    "markets": [
+      {
+        "marketId": 6187845,
+        "externalId": "644826",
+        "title": "BRA",
+        "question": "Brazil to score first vs. Norway?",
+        "description": "In the upcoming match between Brazil and Norway, scheduled for July 5, 2026 at 4:00 PM ET: This market will resolve to \"Brazil\" if Brazil are the first to score within the first 90 minutes of regular play plus stoppage time. This market will resolve to \"Norway\" if Norway are the first to score within the first 90 minutes of regular play plus stoppage time. If neither team scores within the first 90 minutes of regular play plus stoppage time, this market will resolve \"Neither\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve to \"Neither\". This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time. Extra time and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xa30c80e9be5f3c41519ec6f7e109ae8df2f444c549a39a6e3beb8702f0d53e9d",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782974246336_lt817vjw3ultyol55llyl1eud8knt896_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782974246336_lt817vjw3ultyol55llyl1eud8knt896_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782974246336_lt817vjw3ultyol55llyl1eud8knt896_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782974246336_lt817vjw3ultyol55llyl1eud8knt896_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "55979.09",
+        "liquidity": "1231806.79",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.63",
+            "chance": "0.625",
+            "index": 0,
+            "tokenId": "84997746875231748358336852110887293849759153936482692308981645058719346892603"
+          },
+          {
+            "name": "No",
+            "price": "0.37",
+            "chance": "0.375",
+            "index": 1,
+            "tokenId": "29309027734477177388660511965163710962007694742409802689729560412715034340045"
+          }
+        ]
+      },
+      {
+        "marketId": 6187846,
+        "externalId": "644827",
+        "title": "NOR",
+        "question": "Norway to score first vs. Brazil?",
+        "description": "In the upcoming match between Brazil and Norway, scheduled for July 5, 2026 at 4:00 PM ET: This market will resolve to \"Brazil\" if Brazil are the first to score within the first 90 minutes of regular play plus stoppage time. This market will resolve to \"Norway\" if Norway are the first to score within the first 90 minutes of regular play plus stoppage time. If neither team scores within the first 90 minutes of regular play plus stoppage time, this market will resolve \"Neither\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve to \"Neither\". This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time. Extra time and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xc721c3eec8f3f05f26891439aa35470c98c93f76e6d8f04fcc71b56166ac3faf",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782974246437_24xu5wgnvyrh7st9644e09vlm7ixn52n_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782974246437_24xu5wgnvyrh7st9644e09vlm7ixn52n_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782974246437_24xu5wgnvyrh7st9644e09vlm7ixn52n_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782974246437_24xu5wgnvyrh7st9644e09vlm7ixn52n_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "16861.93",
+        "liquidity": "624072.47",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.36",
+            "chance": "0.355",
+            "index": 0,
+            "tokenId": "50526994637925021053323490488820718654607422640613113155867552818720744318339"
+          },
+          {
+            "name": "No",
+            "price": "0.64",
+            "chance": "0.645",
+            "index": 1,
+            "tokenId": "79509560747266760438622759423429324315289667746402194548606337330674586450007"
+          }
+        ]
+      },
+      {
+        "marketId": 6187847,
+        "externalId": "644828",
+        "title": "Neither",
+        "question": "Brazil vs. Norway: Neither team to score first?",
+        "description": "In the upcoming match between Brazil and Norway, scheduled for July 5, 2026 at 4:00 PM ET: This market will resolve to \"Brazil\" if Brazil are the first to score within the first 90 minutes of regular play plus stoppage time. This market will resolve to \"Norway\" if Norway are the first to score within the first 90 minutes of regular play plus stoppage time. If neither team scores within the first 90 minutes of regular play plus stoppage time, this market will resolve \"Neither\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve to \"Neither\". This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time. Extra time and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x8f77bdef9a6c0ba8ab64e5d21d9190af367230362c7f72c46b4f84cae75599dc",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782974246540_yfs771bpf7vgn0za00zzbtejo02xh2zf_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782974246540_yfs771bpf7vgn0za00zzbtejo02xh2zf_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782974246540_yfs771bpf7vgn0za00zzbtejo02xh2zf_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782974246540_yfs771bpf7vgn0za00zzbtejo02xh2zf_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "7970.76",
+        "liquidity": "441229.78",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.06",
+            "chance": "0.05",
+            "index": 0,
+            "tokenId": "87043931430283104574707409277890161786878661477666874973286699045489211599043"
+          },
+          {
+            "name": "No",
+            "price": "0.94",
+            "chance": "0.95",
+            "index": 1,
+            "tokenId": "6623300397593846932647906324942078894924516300969266308946174804613139947935"
+          }
+        ]
+      }
+    ],
+    "tradeVolume": "80811.8",
+    "liquidity": "2293622.74",
+    "publishedAt": 1782900941375,
+    "startDate": 1783281600000,
+    "endDate": 1783292400000,
+    "status": "REGISTERED"
+  },
+  {
+    "marketTopicId": 4368469,
+    "vendor": "PREDICT_FUN",
+    "chainId": "56",
+    "slug": "fifwc-bra-nor-2026-07-05-player-props",
+    "title": "Brazil vs. Norway - Player Props",
+    "question": "Vinicius Jr.: 1+ goals",
+    "imageUrl": "https://static.predict.fun/fifwc-bra-nor-2026-07-05-player-props",
+    "thumbnailPaths": [
+      {
+        "size": "800x800",
+        "path": "file-center/web3-prediction/S3/topic/1783074479472_kl84rkz31ovbfw6kdgd6injjxkm53zfm_NEF_q80_800x800"
+      },
+      {
+        "size": "400x400",
+        "path": "file-center/web3-prediction/S3/topic/1783074479472_kl84rkz31ovbfw6kdgd6injjxkm53zfm_NEF_q80_400x400"
+      },
+      {
+        "size": "96x96",
+        "path": "file-center/web3-prediction/S3/topic/1783074479472_kl84rkz31ovbfw6kdgd6injjxkm53zfm_NEF_q80_96x96"
+      },
+      {
+        "size": "64x64",
+        "path": "file-center/web3-prediction/S3/topic/1783074479472_kl84rkz31ovbfw6kdgd6injjxkm53zfm_NEF_q80_64x64"
+      }
+    ],
+    "topicType": "GROUPED",
+    "participantCount": 1457,
+    "collateral": "USDT",
+    "feeRateBps": 200,
+    "slippageBps": 1000,
+    "isYieldBearing": false,
+    "exchangeContractAddress": "0x365fb81bd4A24D6303cd2F19c349dE6894D8d58A",
+    "markets": [
+      {
+        "marketId": 6390805,
+        "externalId": "667118",
+        "title": "Erling Haaland Total Goals",
+        "question": "Erling Haaland: 1+ goals",
+        "description": "In the upcoming FIFA World Cup game between Brazil and Norway, scheduled for July 5 at 4:00 PM ET: This market will resolve to \"Yes\" if Erling Haaland records 1+ goals in the official box score within the first 90 minutes of regular play plus stoppage time. Otherwise, this market will resolve to \"No\". Own goals do not count. If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve \"50-50\". If the player is listed as inactive or otherwise does not play, the market will resolve \"No\". The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 24 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x5704a10081427621967aa33bbb863ca44c5b73f3632661464f78941b40889eb9",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1783074479474_0dpz3llzrshgxjd93cwnvpffbcgrv2p7_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1783074479474_0dpz3llzrshgxjd93cwnvpffbcgrv2p7_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1783074479474_0dpz3llzrshgxjd93cwnvpffbcgrv2p7_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1783074479474_0dpz3llzrshgxjd93cwnvpffbcgrv2p7_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "31789.37",
+        "liquidity": "557028.18",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Over 0.5",
+            "price": "0.44",
+            "chance": "0.435",
+            "index": 0,
+            "tokenId": "26594921193773018456910978060337072098186371959953142255416234893959398277716"
+          },
+          {
+            "name": "Under 0.5",
+            "price": "0.56",
+            "chance": "0.565",
+            "index": 1,
+            "tokenId": "2711082073244369135910844727350893045695835885781755280603410197634420436799"
+          }
+        ]
+      },
+      {
+        "marketId": 6390804,
+        "externalId": "667117",
+        "title": "Vinicius Jr. Total Goals",
+        "question": "Vinicius Jr.: 1+ goals",
+        "description": "In the upcoming FIFA World Cup game between Brazil and Norway, scheduled for July 5 at 4:00 PM ET: This market will resolve to \"Yes\" if Vinicius Jr. records 1+ goals in the official box score within the first 90 minutes of regular play plus stoppage time. Otherwise, this market will resolve to \"No\". Own goals do not count. If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve \"50-50\". If the player is listed as inactive or otherwise does not play, the market will resolve \"No\". The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 24 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x38af14a4f60cc59181b4f2c8175e68c53affbdd4696a10e6ca11fb9b48005cb3",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1783074479532_353vlq5v4w0egsq0s4bfnm84wke35cns_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1783074479532_353vlq5v4w0egsq0s4bfnm84wke35cns_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1783074479532_353vlq5v4w0egsq0s4bfnm84wke35cns_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1783074479532_353vlq5v4w0egsq0s4bfnm84wke35cns_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "32642.47",
+        "liquidity": "616648.06",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Over 0.5",
+            "price": "0.42",
+            "chance": "0.415",
+            "index": 0,
+            "tokenId": "33203765178106694229706839221834784888303264264994088357511827642782551364221"
+          },
+          {
+            "name": "Under 0.5",
+            "price": "0.58",
+            "chance": "0.585",
+            "index": 1,
+            "tokenId": "74953165068040886696385702697511913015243564857326977015061987162614769349693"
+          }
+        ]
+      }
+    ],
+    "tradeVolume": "64431.86",
+    "liquidity": "1171337.19",
+    "publishedAt": 1783074478186,
+    "startDate": 1783281600000,
+    "endDate": 1783292400000,
+    "status": "REGISTERED"
+  },
+  {
+    "marketTopicId": 4251643,
+    "vendor": "PREDICT_FUN",
+    "chainId": "56",
+    "slug": "fifwc-bra-nor-2026-07-05-halftime-result",
+    "title": "Brazil vs. Norway - Halftime Result",
+    "question": "Brazil leading at halftime?",
+    "imageUrl": "https://static.predict.fun/fifwc",
+    "thumbnailPaths": [
+      {
+        "size": "800x800",
+        "path": "file-center/web3-prediction/S3/topic/1782974248259_t48kikk4sw3tytkd5uvsr4751zxbxr84_NEF_q80_800x800"
+      },
+      {
+        "size": "400x400",
+        "path": "file-center/web3-prediction/S3/topic/1782974248259_t48kikk4sw3tytkd5uvsr4751zxbxr84_NEF_q80_400x400"
+      },
+      {
+        "size": "96x96",
+        "path": "file-center/web3-prediction/S3/topic/1782974248259_t48kikk4sw3tytkd5uvsr4751zxbxr84_NEF_q80_96x96"
+      },
+      {
+        "size": "64x64",
+        "path": "file-center/web3-prediction/S3/topic/1782974248259_t48kikk4sw3tytkd5uvsr4751zxbxr84_NEF_q80_64x64"
+      }
+    ],
+    "topicType": "GROUPED",
+    "variantData": {
+      "type": "SPORTS_FIFA_WORLD_CUP"
+    },
+    "participantCount": 1857,
+    "collateral": "USDT",
+    "feeRateBps": 200,
+    "slippageBps": 1000,
+    "isYieldBearing": true,
+    "exchangeContractAddress": "0x8A289d458f5a134bA40015085A8F50Ffb681B41d",
+    "markets": [
+      {
+        "marketId": 6187870,
+        "externalId": "644861",
+        "title": "Draw",
+        "question": "Brazil vs. Norway: Draw at halftime?",
+        "description": "In the upcoming game, scheduled for July 5, 2026 If the game ends in a draw within the first 45 minutes of regular play plus stoppage time, this market will resolve to \"Yes\". Otherwise, this market will resolve to \"No\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve to \"Yes\". This market refers only to the outcome within the first 45 minutes of regular play plus stoppage time.The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 24 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x40f948413d9f193195fbac3536c59c7da12c946ac230bc8027755d383a6d5d99",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782974243748_rkf2jau2xne5wht7xn0ux4mij9z7juqp_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782974243748_rkf2jau2xne5wht7xn0ux4mij9z7juqp_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782974243748_rkf2jau2xne5wht7xn0ux4mij9z7juqp_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782974243748_rkf2jau2xne5wht7xn0ux4mij9z7juqp_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "17309.69",
+        "liquidity": "954143.5",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.42",
+            "chance": "0.415",
+            "index": 0,
+            "tokenId": "33585246361641730780028389413345863153674356554045802784715726498401414030275"
+          },
+          {
+            "name": "No",
+            "price": "0.58",
+            "chance": "0.585",
+            "index": 1,
+            "tokenId": "40920019320496367465324798095717820216813167936432823465174638889414585752587"
+          }
+        ]
+      },
+      {
+        "marketId": 6187875,
+        "externalId": "644859",
+        "title": "BRA",
+        "question": "Brazil leading at halftime?",
+        "description": "In the upcoming game, scheduled for July 5, 2026 If Brazil wins within the first 45 minutes of regular play plus stoppage time, this market will resolve to \"Yes\". Otherwise, this market will resolve to \"No\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve \"No\". This market refers only to the outcome within the first 45 minutes of regular play plus stoppage time.The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 24 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x7afea3a30226a69bb6f055c43aac27d5f47710f8d2be2940a09af23b3a718765",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782974243539_5iyyenaj4guahn0givaisuztoyawdh1k_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782974243539_5iyyenaj4guahn0givaisuztoyawdh1k_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782974243539_5iyyenaj4guahn0givaisuztoyawdh1k_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782974243539_5iyyenaj4guahn0givaisuztoyawdh1k_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "22589.34",
+        "liquidity": "928885.12",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.42",
+            "chance": "0.415",
+            "index": 0,
+            "tokenId": "84062384795108395788086353505085893324980929512083134895113811814427752908844"
+          },
+          {
+            "name": "No",
+            "price": "0.58",
+            "chance": "0.585",
+            "index": 1,
+            "tokenId": "42030648736860730663147691662566700958462714835998348426942688070954977379082"
+          }
+        ]
+      },
+      {
+        "marketId": 6187869,
+        "externalId": "644860",
+        "title": "NOR",
+        "question": "Norway leading at halftime?",
+        "description": "In the upcoming game, scheduled for July 5, 2026 If Norway wins within the first 45 minutes of regular play plus stoppage time, this market will resolve to \"Yes\". Otherwise, this market will resolve to \"No\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve \"No\". This market refers only to the outcome within the first 45 minutes of regular play plus stoppage time.The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 24 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x7a037b06ffa0fc1261b127b4ad4275eb3b360d33fba2aa4a025f419783bb58d4",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782974243641_dzfy0slkml96aowx8qasxsv4nunlji6j_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782974243641_dzfy0slkml96aowx8qasxsv4nunlji6j_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782974243641_dzfy0slkml96aowx8qasxsv4nunlji6j_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782974243641_dzfy0slkml96aowx8qasxsv4nunlji6j_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "11000.42",
+        "liquidity": "677933.31",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.2",
+            "chance": "0.195",
+            "index": 0,
+            "tokenId": "107752703306404685839800168465492550102414219463382641105437932924460910643576"
+          },
+          {
+            "name": "No",
+            "price": "0.8",
+            "chance": "0.805",
+            "index": 1,
+            "tokenId": "42078678401794352009142876883317656258578536617846470737027979339488520466881"
+          }
+        ]
+      }
+    ],
+    "tradeVolume": "50923.26",
+    "liquidity": "2540306.86",
+    "publishedAt": 1782900964806,
+    "startDate": 1783281600000,
+    "endDate": 1783292400000,
+    "status": "REGISTERED"
+  }
+]

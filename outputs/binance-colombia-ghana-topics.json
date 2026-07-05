@@ -1,0 +1,2667 @@
+[
+  {
+    "marketTopicId": 4237855,
+    "vendor": "PREDICT_FUN",
+    "chainId": "56",
+    "slug": "fifwc-col-gha-2026-07-03-exact-score",
+    "title": "Colombia vs. Ghana - Exact Score",
+    "question": "Exact Score: Colombia 0 - 0 Ghana?",
+    "imageUrl": "https://static.predict.fun/fifwc",
+    "thumbnailPaths": [
+      {
+        "size": "800x800",
+        "path": "file-center/web3-prediction/S3/topic/1782975168864_t716dg5htgis76k2tybcyo8p17g1mb6x_NEF_q80_800x800"
+      },
+      {
+        "size": "400x400",
+        "path": "file-center/web3-prediction/S3/topic/1782975168864_t716dg5htgis76k2tybcyo8p17g1mb6x_NEF_q80_400x400"
+      },
+      {
+        "size": "96x96",
+        "path": "file-center/web3-prediction/S3/topic/1782975168864_t716dg5htgis76k2tybcyo8p17g1mb6x_NEF_q80_96x96"
+      },
+      {
+        "size": "64x64",
+        "path": "file-center/web3-prediction/S3/topic/1782975168864_t716dg5htgis76k2tybcyo8p17g1mb6x_NEF_q80_64x64"
+      }
+    ],
+    "topicType": "GROUPED",
+    "variantData": {
+      "type": "SPORTS_FIFA_WORLD_CUP"
+    },
+    "participantCount": 645,
+    "collateral": "USDT",
+    "feeRateBps": 200,
+    "slippageBps": 1000,
+    "isYieldBearing": true,
+    "exchangeContractAddress": "0x8A289d458f5a134bA40015085A8F50Ffb681B41d",
+    "markets": [
+      {
+        "marketId": 6072684,
+        "externalId": "615350",
+        "title": "COL 2 - 0 GHA",
+        "question": "Exact Score: Colombia 2 - 0 Ghana?",
+        "description": "In the upcoming FIFA World Cup game between Colombia and Ghana, scheduled for July 3, 2026 at 9:30 PM ET: This market will resolve based on the final score of the Colombia vs. Ghana match originally scheduled for July 3, 2026 at 9:30 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xa1bb217e982328857ef81a5587901fb0dd0bbde7bb3ce93c87f979109b65caa6",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782975165742_hr52juber6vdnav5mveiugru1g8st1ad_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782975165742_hr52juber6vdnav5mveiugru1g8st1ad_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782975165742_hr52juber6vdnav5mveiugru1g8st1ad_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782975165742_hr52juber6vdnav5mveiugru1g8st1ad_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "18310.02",
+        "liquidity": "223416.83",
+        "decimalPrecision": 3,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.165",
+            "chance": "0.164",
+            "index": 0,
+            "tokenId": "98759283597650002405056656627604947568350611275285887241876780000633007088888"
+          },
+          {
+            "name": "No",
+            "price": "0.835",
+            "chance": "0.836",
+            "index": 1,
+            "tokenId": "50115368986352879808021860132562132173263184227497930187624056606469957445023"
+          }
+        ]
+      },
+      {
+        "marketId": 6072681,
+        "externalId": "615347",
+        "title": "COL 1 - 0 GHA",
+        "question": "Exact Score: Colombia 1 - 0 Ghana?",
+        "description": "In the upcoming FIFA World Cup game between Colombia and Ghana, scheduled for July 3, 2026 at 9:30 PM ET: This market will resolve based on the final score of the Colombia vs. Ghana match originally scheduled for July 3, 2026 at 9:30 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xdb859794aa82ecea7de82ba7f3def2be18db8152d99599651699e7634106beb8",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782975165436_o0n0q0di98tjyxk10uowqk4uhllyb1fs_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782975165436_o0n0q0di98tjyxk10uowqk4uhllyb1fs_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782975165436_o0n0q0di98tjyxk10uowqk4uhllyb1fs_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782975165436_o0n0q0di98tjyxk10uowqk4uhllyb1fs_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "20263.16",
+        "liquidity": "566218.96",
+        "decimalPrecision": 3,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.16",
+            "chance": "0.1595",
+            "index": 0,
+            "tokenId": "21368870666012403304923843281668810249303395937963297437322268034021353060048"
+          },
+          {
+            "name": "No",
+            "price": "0.84",
+            "chance": "0.8405",
+            "index": 1,
+            "tokenId": "97810098218342276157535391533109132070247204071208982832530580476718325283225"
+          }
+        ]
+      },
+      {
+        "marketId": 6072683,
+        "externalId": "615349",
+        "title": "COL 1 - 1 GHA",
+        "question": "Exact Score: Colombia 1 - 1 Ghana?",
+        "description": "In the upcoming FIFA World Cup game between Colombia and Ghana, scheduled for July 3, 2026 at 9:30 PM ET: This market will resolve based on the final score of the Colombia vs. Ghana match originally scheduled for July 3, 2026 at 9:30 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xc1c8d44b0db56307d1d5bafa86641c31896cf5cea7cddd9a69e339fd113b4864",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782975165645_grw0x00vwrkgs34hk9r6wajf8buhzdg6_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782975165645_grw0x00vwrkgs34hk9r6wajf8buhzdg6_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782975165645_grw0x00vwrkgs34hk9r6wajf8buhzdg6_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782975165645_grw0x00vwrkgs34hk9r6wajf8buhzdg6_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "7981.11",
+        "liquidity": "527416.32",
+        "decimalPrecision": 3,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.112",
+            "chance": "0.1115",
+            "index": 0,
+            "tokenId": "90317806690784787332122437005373717848143126569041244638562032138686083233417"
+          },
+          {
+            "name": "No",
+            "price": "0.888",
+            "chance": "0.8885",
+            "index": 1,
+            "tokenId": "39485809861332849046897691505423776299495078151564261738469456292810158559486"
+          }
+        ]
+      },
+      {
+        "marketId": 6072687,
+        "externalId": "615353",
+        "title": "COL 2 - 1 GHA",
+        "question": "Exact Score: Colombia 2 - 1 Ghana?",
+        "description": "In the upcoming FIFA World Cup game between Colombia and Ghana, scheduled for July 3, 2026 at 9:30 PM ET: This market will resolve based on the final score of the Colombia vs. Ghana match originally scheduled for July 3, 2026 at 9:30 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xafc34a286917d3f7d597c423b986b4227424e8e8aeb6a570995bf1d91fed0963",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782975166042_o6tfbrdgue1ujp4xek90wo5wcne34ap0_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782975166042_o6tfbrdgue1ujp4xek90wo5wcne34ap0_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782975166042_o6tfbrdgue1ujp4xek90wo5wcne34ap0_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782975166042_o6tfbrdgue1ujp4xek90wo5wcne34ap0_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "21349.55",
+        "liquidity": "568340.41",
+        "decimalPrecision": 3,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.106",
+            "chance": "0.1055",
+            "index": 0,
+            "tokenId": "108430475289558759349972636020128414999022839445041939667695259157958145725782"
+          },
+          {
+            "name": "No",
+            "price": "0.894",
+            "chance": "0.8945",
+            "index": 1,
+            "tokenId": "13757207410903652091064162013253035788209915831673416009228134819715764144908"
+          }
+        ]
+      },
+      {
+        "marketId": 6072695,
+        "externalId": "615361",
+        "title": "Any Other Score",
+        "question": "Exact Score: Any Other Score?",
+        "description": "In the upcoming FIFA World Cup game between Colombia and Ghana, scheduled for July 3, 2026 at 9:30 PM ET: This market will resolve based on the final score of the Colombia vs. Ghana match originally scheduled for July 3, 2026 at 9:30 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x5ac9d64773581e1b4ee04ca9c6a4db4e4c40c66c9c487635b45cc17b0db84c57",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782975166841_3n8zpp63addkuijd12jhyr1v4x1e43kn_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782975166841_3n8zpp63addkuijd12jhyr1v4x1e43kn_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782975166841_3n8zpp63addkuijd12jhyr1v4x1e43kn_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782975166841_3n8zpp63addkuijd12jhyr1v4x1e43kn_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "4928.04",
+        "liquidity": "391670.94",
+        "decimalPrecision": 3,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.109",
+            "chance": "0.105",
+            "index": 0,
+            "tokenId": "89964391591573327832775649837407883350357053355140126331690629322684174380754"
+          },
+          {
+            "name": "No",
+            "price": "0.891",
+            "chance": "0.895",
+            "index": 1,
+            "tokenId": "102733880638990389707568165000989812144198590599576788475092098680443643447036"
+          }
+        ]
+      },
+      {
+        "marketId": 6072688,
+        "externalId": "615354",
+        "title": "COL 3 - 0 GHA",
+        "question": "Exact Score: Colombia 3 - 0 Ghana?",
+        "description": "In the upcoming FIFA World Cup game between Colombia and Ghana, scheduled for July 3, 2026 at 9:30 PM ET: This market will resolve based on the final score of the Colombia vs. Ghana match originally scheduled for July 3, 2026 at 9:30 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x4c6543a71f2225b4b20a8813a16fbf67227d78718d04c3ca48cd57d100f4f568",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782975166136_1fdyr06ij61ldrbpmtt7m9ew2x6kjp58_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782975166136_1fdyr06ij61ldrbpmtt7m9ew2x6kjp58_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782975166136_1fdyr06ij61ldrbpmtt7m9ew2x6kjp58_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782975166136_1fdyr06ij61ldrbpmtt7m9ew2x6kjp58_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "5832.3",
+        "liquidity": "524601.99",
+        "decimalPrecision": 3,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.088",
+            "chance": "0.0865",
+            "index": 0,
+            "tokenId": "73661683848013710723216743317991661225538636999127164841434726927614451311037"
+          },
+          {
+            "name": "No",
+            "price": "0.912",
+            "chance": "0.9135",
+            "index": 1,
+            "tokenId": "53232327126319415090773161813190560364361454302673439958083333743856985628858"
+          }
+        ]
+      },
+      {
+        "marketId": 6072679,
+        "externalId": "615345",
+        "title": "COL 0 - 0 GHA",
+        "question": "Exact Score: Colombia 0 - 0 Ghana?",
+        "description": "In the upcoming FIFA World Cup game between Colombia and Ghana, scheduled for July 3, 2026 at 9:30 PM ET: This market will resolve based on the final score of the Colombia vs. Ghana match originally scheduled for July 3, 2026 at 9:30 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x06eaab6bd7d69524471249f765ed70941519c441f1da6d1fa3ee42001e998ed5",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782975165216_yva3tz9h8rrkigw72128ixnfncuhzk60_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782975165216_yva3tz9h8rrkigw72128ixnfncuhzk60_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782975165216_yva3tz9h8rrkigw72128ixnfncuhzk60_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782975165216_yva3tz9h8rrkigw72128ixnfncuhzk60_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "1653.63",
+        "liquidity": "75053.72",
+        "decimalPrecision": 3,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.079",
+            "chance": "0.076",
+            "index": 0,
+            "tokenId": "1182091156085120096726968906332941013622732878783110085185857838733695516309"
+          },
+          {
+            "name": "No",
+            "price": "0.921",
+            "chance": "0.924",
+            "index": 1,
+            "tokenId": "105763144120017336966454250831770393239104072680588801288556278125402411487617"
+          }
+        ]
+      },
+      {
+        "marketId": 6072691,
+        "externalId": "615357",
+        "title": "COL 3 - 1 GHA",
+        "question": "Exact Score: Colombia 3 - 1 Ghana?",
+        "description": "In the upcoming FIFA World Cup game between Colombia and Ghana, scheduled for July 3, 2026 at 9:30 PM ET: This market will resolve based on the final score of the Colombia vs. Ghana match originally scheduled for July 3, 2026 at 9:30 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xcb8465b3b22137ac0a40ce2827c9b5f2461d9bdba5deaff18b0330b3c377cb94",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782975166439_t48rcigviw0ehfdo5g6rax4m6aywoumf_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782975166439_t48rcigviw0ehfdo5g6rax4m6aywoumf_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782975166439_t48rcigviw0ehfdo5g6rax4m6aywoumf_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782975166439_t48rcigviw0ehfdo5g6rax4m6aywoumf_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "11778.47",
+        "liquidity": "510109.82",
+        "decimalPrecision": 3,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.067",
+            "chance": "0.0665",
+            "index": 0,
+            "tokenId": "28784874913714707809940704876986577916928254295125890171937828235224822787782"
+          },
+          {
+            "name": "No",
+            "price": "0.933",
+            "chance": "0.9335",
+            "index": 1,
+            "tokenId": "26532883135642764430423162877756614867990467473354723006285388050294027878780"
+          }
+        ]
+      },
+      {
+        "marketId": 6072680,
+        "externalId": "615346",
+        "title": "COL 0 - 1 GHA",
+        "question": "Exact Score: Colombia 0 - 1 Ghana?",
+        "description": "In the upcoming FIFA World Cup game between Colombia and Ghana, scheduled for July 3, 2026 at 9:30 PM ET: This market will resolve based on the final score of the Colombia vs. Ghana match originally scheduled for July 3, 2026 at 9:30 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x2ea82230282294856c3a6be373126224bc5d747deaed903811f63fea1fb168a9",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782975165322_vak8b6h8ikj2pg152qgkp9c5hfxfl9ee_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782975165322_vak8b6h8ikj2pg152qgkp9c5hfxfl9ee_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782975165322_vak8b6h8ikj2pg152qgkp9c5hfxfl9ee_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782975165322_vak8b6h8ikj2pg152qgkp9c5hfxfl9ee_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "2380.19",
+        "liquidity": "490172.41",
+        "decimalPrecision": 3,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.045",
+            "chance": "0.042",
+            "index": 0,
+            "tokenId": "106490140851157327655693332233433269947749184675208803036071364924624290651866"
+          },
+          {
+            "name": "No",
+            "price": "0.955",
+            "chance": "0.958",
+            "index": 1,
+            "tokenId": "9024444607288487412734078675741270230222647986176699278129896621893650419966"
+          }
+        ]
+      },
+      {
+        "marketId": 6072690,
+        "externalId": "615356",
+        "title": "COL 2 - 2 GHA",
+        "question": "Exact Score: Colombia 2 - 2 Ghana?",
+        "description": "In the upcoming FIFA World Cup game between Colombia and Ghana, scheduled for July 3, 2026 at 9:30 PM ET: This market will resolve based on the final score of the Colombia vs. Ghana match originally scheduled for July 3, 2026 at 9:30 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x3daadfef2d5d0590997b849737b46ba4f0c2afeb90fc139f8416e974398d36ed",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782975166335_6b80lmrtly0amu0r8sc249u8n9wix5h5_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782975166335_6b80lmrtly0amu0r8sc249u8n9wix5h5_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782975166335_6b80lmrtly0amu0r8sc249u8n9wix5h5_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782975166335_6b80lmrtly0amu0r8sc249u8n9wix5h5_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "4616.12",
+        "liquidity": "577836.81",
+        "decimalPrecision": 3,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.032",
+            "chance": "0.0315",
+            "index": 0,
+            "tokenId": "23944742975271382398640936288582902915377908604033527005506201117622748232588"
+          },
+          {
+            "name": "No",
+            "price": "0.968",
+            "chance": "0.9685",
+            "index": 1,
+            "tokenId": "73933631485510133952884009955590144099087879075762060041626293709041419102439"
+          }
+        ]
+      },
+      {
+        "marketId": 6072686,
+        "externalId": "615352",
+        "title": "COL 1 - 2 GHA",
+        "question": "Exact Score: Colombia 1 - 2 Ghana?",
+        "description": "In the upcoming FIFA World Cup game between Colombia and Ghana, scheduled for July 3, 2026 at 9:30 PM ET: This market will resolve based on the final score of the Colombia vs. Ghana match originally scheduled for July 3, 2026 at 9:30 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x3195eb8bdd8d548c8bb33375ead06f6826ed6d6e5585aceaf8c5cee7a5ca5335",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782975165943_vsmwz6afqspepf5ys5k50l7q81x47uqx_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782975165943_vsmwz6afqspepf5ys5k50l7q81x47uqx_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782975165943_vsmwz6afqspepf5ys5k50l7q81x47uqx_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782975165943_vsmwz6afqspepf5ys5k50l7q81x47uqx_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "6954.93",
+        "liquidity": "570458.43",
+        "decimalPrecision": 3,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.031",
+            "chance": "0.0305",
+            "index": 0,
+            "tokenId": "64694885891160606505444114649681049712302252127852163175696753986514614555593"
+          },
+          {
+            "name": "No",
+            "price": "0.969",
+            "chance": "0.9695",
+            "index": 1,
+            "tokenId": "71731315153144199679841980728437274201118522714905873049779541867137636619848"
+          }
+        ]
+      },
+      {
+        "marketId": 6072693,
+        "externalId": "615359",
+        "title": "COL 3 - 2 GHA",
+        "question": "Exact Score: Colombia 3 - 2 Ghana?",
+        "description": "In the upcoming FIFA World Cup game between Colombia and Ghana, scheduled for July 3, 2026 at 9:30 PM ET: This market will resolve based on the final score of the Colombia vs. Ghana match originally scheduled for July 3, 2026 at 9:30 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x7dfd07ad3368c205d3ba1ec253fd6a8941c314f0df56459113ee607c13012636",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782975166640_wkrxom8l0m785lwokfubvde3nw3pgpwo_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782975166640_wkrxom8l0m785lwokfubvde3nw3pgpwo_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782975166640_wkrxom8l0m785lwokfubvde3nw3pgpwo_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782975166640_wkrxom8l0m785lwokfubvde3nw3pgpwo_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "2888.8",
+        "liquidity": "660699.93",
+        "decimalPrecision": 3,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.02",
+            "chance": "0.0185",
+            "index": 0,
+            "tokenId": "101784493506814450828410703511717414620857314014680455633356617754774737062664"
+          },
+          {
+            "name": "No",
+            "price": "0.98",
+            "chance": "0.9815",
+            "index": 1,
+            "tokenId": "48509519264736529637650471051714130891611430768961260589231256765696482033017"
+          }
+        ]
+      },
+      {
+        "marketId": 6072682,
+        "externalId": "615348",
+        "title": "COL 0 - 2 GHA",
+        "question": "Exact Score: Colombia 0 - 2 Ghana?",
+        "description": "In the upcoming FIFA World Cup game between Colombia and Ghana, scheduled for July 3, 2026 at 9:30 PM ET: This market will resolve based on the final score of the Colombia vs. Ghana match originally scheduled for July 3, 2026 at 9:30 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x1929ee38d8f4ca8aaf56d527da9712a0220646e26006685095302e00c1fedbf2",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782975165538_m1ry7pkv4paxhbgkm7ywj3w2dkrnx5xb_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782975165538_m1ry7pkv4paxhbgkm7ywj3w2dkrnx5xb_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782975165538_m1ry7pkv4paxhbgkm7ywj3w2dkrnx5xb_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782975165538_m1ry7pkv4paxhbgkm7ywj3w2dkrnx5xb_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "8159.96",
+        "liquidity": "551677.89",
+        "decimalPrecision": 3,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.017",
+            "chance": "0.0165",
+            "index": 0,
+            "tokenId": "68500771291618902629581298517840906338104096222400587804343248364121078855640"
+          },
+          {
+            "name": "No",
+            "price": "0.983",
+            "chance": "0.9835",
+            "index": 1,
+            "tokenId": "85123463965315162294102471068779255419555750804330761169796676620845066407098"
+          }
+        ]
+      },
+      {
+        "marketId": 6072692,
+        "externalId": "615358",
+        "title": "COL 2 - 3 GHA",
+        "question": "Exact Score: Colombia 2 - 3 Ghana?",
+        "description": "In the upcoming FIFA World Cup game between Colombia and Ghana, scheduled for July 3, 2026 at 9:30 PM ET: This market will resolve based on the final score of the Colombia vs. Ghana match originally scheduled for July 3, 2026 at 9:30 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x9835e24c8750ee9a97c95670b4db87f6c85a775e7b83426968411bff7229f107",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782975166538_eiyz8chq3158nlqx5goyhl5r9hdkn7j7_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782975166538_eiyz8chq3158nlqx5goyhl5r9hdkn7j7_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782975166538_eiyz8chq3158nlqx5goyhl5r9hdkn7j7_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782975166538_eiyz8chq3158nlqx5goyhl5r9hdkn7j7_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "4204.93",
+        "liquidity": "551248.01",
+        "decimalPrecision": 3,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.008",
+            "chance": "0.0075",
+            "index": 0,
+            "tokenId": "34778206725807569473620380380429681298830554778450749845825453664854483485024"
+          },
+          {
+            "name": "No",
+            "price": "0.992",
+            "chance": "0.9925",
+            "index": 1,
+            "tokenId": "91687517166003891352806009098907589042761147485604958503303514341567193188019"
+          }
+        ]
+      },
+      {
+        "marketId": 6072694,
+        "externalId": "615360",
+        "title": "COL 3 - 3 GHA",
+        "question": "Exact Score: Colombia 3 - 3 Ghana?",
+        "description": "In the upcoming FIFA World Cup game between Colombia and Ghana, scheduled for July 3, 2026 at 9:30 PM ET: This market will resolve based on the final score of the Colombia vs. Ghana match originally scheduled for July 3, 2026 at 9:30 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x2a1f2b5cd4daa276894b68b4a5a28869908e8958b3d26b3b51bcd28fb3d9a753",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782975166739_a6ww6vw6kq8yoqnqge2gqkpe31pv8wtw_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782975166739_a6ww6vw6kq8yoqnqge2gqkpe31pv8wtw_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782975166739_a6ww6vw6kq8yoqnqge2gqkpe31pv8wtw_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782975166739_a6ww6vw6kq8yoqnqge2gqkpe31pv8wtw_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "13440.88",
+        "liquidity": "545892.95",
+        "decimalPrecision": 3,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.008",
+            "chance": "0.0075",
+            "index": 0,
+            "tokenId": "4155028676125380517796833689884085288462925321185523643297074979593824339043"
+          },
+          {
+            "name": "No",
+            "price": "0.992",
+            "chance": "0.9925",
+            "index": 1,
+            "tokenId": "29745438711791842739820407724556630288073646612607778987206361268938504942677"
+          }
+        ]
+      },
+      {
+        "marketId": 6072689,
+        "externalId": "615355",
+        "title": "COL 1 - 3 GHA",
+        "question": "Exact Score: Colombia 1 - 3 Ghana?",
+        "description": "In the upcoming FIFA World Cup game between Colombia and Ghana, scheduled for July 3, 2026 at 9:30 PM ET: This market will resolve based on the final score of the Colombia vs. Ghana match originally scheduled for July 3, 2026 at 9:30 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x66b151d44fd9dca3ef55bb0ddfc627bb9bd0d2673e1e4454b4d3e56fe9e96e3b",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782975166233_l72h6lud984gx6zd6cc8br9ljz73vbhv_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782975166233_l72h6lud984gx6zd6cc8br9ljz73vbhv_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782975166233_l72h6lud984gx6zd6cc8br9ljz73vbhv_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782975166233_l72h6lud984gx6zd6cc8br9ljz73vbhv_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "1956.05",
+        "liquidity": "550227.76",
+        "decimalPrecision": 3,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.005",
+            "chance": "0.0045",
+            "index": 0,
+            "tokenId": "49609453303501826571713284126804218058135855729733771250650312329077875110828"
+          },
+          {
+            "name": "No",
+            "price": "0.995",
+            "chance": "0.9955",
+            "index": 1,
+            "tokenId": "107407454500750470357210597190175503460672568965008175738830630160843055357519"
+          }
+        ]
+      },
+      {
+        "marketId": 6072685,
+        "externalId": "615351",
+        "title": "COL 0 - 3 GHA",
+        "question": "Exact Score: Colombia 0 - 3 Ghana?",
+        "description": "In the upcoming FIFA World Cup game between Colombia and Ghana, scheduled for July 3, 2026 at 9:30 PM ET: This market will resolve based on the final score of the Colombia vs. Ghana match originally scheduled for July 3, 2026 at 9:30 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xa0945e2eec31708d5a199e521adbda7d15ea527bb38fc0941d46024098cc6848",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782975165844_vda9ir7l4tlm8nsmz9ld52xz5y7vtngd_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782975165844_vda9ir7l4tlm8nsmz9ld52xz5y7vtngd_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782975165844_vda9ir7l4tlm8nsmz9ld52xz5y7vtngd_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782975165844_vda9ir7l4tlm8nsmz9ld52xz5y7vtngd_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "1201.28",
+        "liquidity": "104875.76",
+        "decimalPrecision": 3,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.004",
+            "chance": "0.0035",
+            "index": 0,
+            "tokenId": "18152047552925271234538014515139654279559927053007522995737169481590284094189"
+          },
+          {
+            "name": "No",
+            "price": "0.996",
+            "chance": "0.9965",
+            "index": 1,
+            "tokenId": "53432990634900027264080268374202832438972213671431047249280261886481364878241"
+          }
+        ]
+      }
+    ],
+    "tradeVolume": "137960.12",
+    "liquidity": "7983772.2",
+    "publishedAt": 1782642273867,
+    "startDate": 1783128600000,
+    "endDate": 1783139400000,
+    "status": "REGISTERED"
+  },
+  {
+    "marketTopicId": 4237851,
+    "vendor": "PREDICT_FUN",
+    "chainId": "56",
+    "slug": "fifwc-col-gha-2026-07-03",
+    "title": "Colombia vs. Ghana",
+    "question": "Will Colombia win on 2026-07-03?",
+    "imageUrl": "https://static.predict.fun/fifwc",
+    "thumbnailPaths": [
+      {
+        "size": "800x800",
+        "path": "file-center/web3-prediction/S3/topic/1782975175733_mwz6ja3m2n2rpacrnvetky8qy9f53hyp_NEF_q80_800x800"
+      },
+      {
+        "size": "400x400",
+        "path": "file-center/web3-prediction/S3/topic/1782975175733_mwz6ja3m2n2rpacrnvetky8qy9f53hyp_NEF_q80_400x400"
+      },
+      {
+        "size": "96x96",
+        "path": "file-center/web3-prediction/S3/topic/1782975175733_mwz6ja3m2n2rpacrnvetky8qy9f53hyp_NEF_q80_96x96"
+      },
+      {
+        "size": "64x64",
+        "path": "file-center/web3-prediction/S3/topic/1782975175733_mwz6ja3m2n2rpacrnvetky8qy9f53hyp_NEF_q80_64x64"
+      }
+    ],
+    "topicType": "GROUPED",
+    "variantData": {
+      "type": "SPORTS_FIFA_WORLD_CUP"
+    },
+    "participantCount": 1752,
+    "collateral": "USDT",
+    "feeRateBps": 200,
+    "slippageBps": 1000,
+    "isYieldBearing": true,
+    "exchangeContractAddress": "0x8A289d458f5a134bA40015085A8F50Ffb681B41d",
+    "markets": [
+      {
+        "marketId": 6072669,
+        "externalId": "615323",
+        "title": "COL",
+        "question": "Will Colombia win on 2026-07-03?",
+        "description": "In the upcoming game, scheduled for July 3, 2026\nIf Colombia wins, this market will resolve to \"Yes\".\nOtherwise, this market will resolve to \"No\".\nIf the game is postponed, this market will remain open until the game has been completed.\nIf the game is canceled entirely, with no make-up game, this market will resolve \"No\".\nThis market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x6cf358ba6f2a317fd5ffe424d4fe0158da2494bc598fb26cda48a59ebfe08c91",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782975170757_2igv94cqquamsfctwrww0e40d0g6qwam_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782975170757_2igv94cqquamsfctwrww0e40d0g6qwam_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782975170757_2igv94cqquamsfctwrww0e40d0g6qwam_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782975170757_2igv94cqquamsfctwrww0e40d0g6qwam_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "53762.43",
+        "liquidity": "2978774.11",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.69",
+            "chance": "0.685",
+            "index": 0,
+            "tokenId": "44823500459352748931459101279990074445994805890949801178791446257584184907609"
+          },
+          {
+            "name": "No",
+            "price": "0.31",
+            "chance": "0.315",
+            "index": 1,
+            "tokenId": "92732026911928959946735504327752596418821347854770753524990506217060657918294"
+          }
+        ]
+      },
+      {
+        "marketId": 6072670,
+        "externalId": "615324",
+        "title": "Draw",
+        "question": "Will Colombia vs. Ghana end in a draw?",
+        "description": "In the upcoming game, scheduled for July 3, 2026\nIf the game ends in a draw, this market will resolve to \"Yes\".\nOtherwise, this market will resolve to \"No\".\nIf the game is postponed, this market will remain open until the game has been completed.\nIf the game is canceled entirely, with no make-up game, this market will resolve to \"Yes\".\nThis market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x954e0c962dc2e5de89739fff46b46735d7431793190b683296c46e193c22057f",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782975170907_6isb9sii05ptn2qxuf45y48z2xrm6zwa_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782975170907_6isb9sii05ptn2qxuf45y48z2xrm6zwa_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782975170907_6isb9sii05ptn2qxuf45y48z2xrm6zwa_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782975170907_6isb9sii05ptn2qxuf45y48z2xrm6zwa_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "11380.53",
+        "liquidity": "736078.71",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.22",
+            "chance": "0.215",
+            "index": 0,
+            "tokenId": "66515585665328582684193868045863133660591095595608859750352762026879635617473"
+          },
+          {
+            "name": "No",
+            "price": "0.78",
+            "chance": "0.785",
+            "index": 1,
+            "tokenId": "7537453486800180572007861765385324447877317355639778508324931714869445636483"
+          }
+        ]
+      },
+      {
+        "marketId": 6072671,
+        "externalId": "615325",
+        "title": "GHA",
+        "question": "Will Ghana win on 2026-07-03?",
+        "description": "In the upcoming game, scheduled for July 3, 2026\nIf Ghana wins, this market will resolve to \"Yes\".\nOtherwise, this market will resolve to \"No\".\nIf the game is postponed, this market will remain open until the game has been completed.\nIf the game is canceled entirely, with no make-up game, this market will resolve \"No\".\nThis market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x56125eeeab256dd8bf662e18ceecddbd14e490c3edbe14f7aec9707d59a97a2a",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782975171354_fows1npj0erbyuv5wt6pec4sn19yo4jz_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782975171354_fows1npj0erbyuv5wt6pec4sn19yo4jz_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782975171354_fows1npj0erbyuv5wt6pec4sn19yo4jz_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782975171354_fows1npj0erbyuv5wt6pec4sn19yo4jz_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "7757.03",
+        "liquidity": "528425.54",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.11",
+            "chance": "0.1",
+            "index": 0,
+            "tokenId": "58632294129174376046670733110949454380388965619607901642017691591066869762443"
+          },
+          {
+            "name": "No",
+            "price": "0.89",
+            "chance": "0.9",
+            "index": 1,
+            "tokenId": "81863648429191155854040994414760856756323636861242179926671135504686131585424"
+          }
+        ]
+      }
+    ],
+    "tradeVolume": "72945.46",
+    "liquidity": "4235760.34",
+    "publishedAt": 1782641828558,
+    "startDate": 1783128600000,
+    "endDate": 1783135800000,
+    "status": "REGISTERED"
+  },
+  {
+    "marketTopicId": 4238031,
+    "vendor": "PREDICT_FUN",
+    "chainId": "56",
+    "slug": "fifwc-col-gha-2026-07-03-more-markets",
+    "title": "Colombia vs. Ghana - More Markets",
+    "question": "Spread: Colombia (-1.5)",
+    "imageUrl": "https://static.predict.fun/fifwc",
+    "thumbnailPaths": [
+      {
+        "size": "800x800",
+        "path": "file-center/web3-prediction/S3/topic/1782975140618_z2his43ejrjn9wzyxp0ivnf9umuw1uqn_NEF_q80_800x800"
+      },
+      {
+        "size": "400x400",
+        "path": "file-center/web3-prediction/S3/topic/1782975140618_z2his43ejrjn9wzyxp0ivnf9umuw1uqn_NEF_q80_400x400"
+      },
+      {
+        "size": "96x96",
+        "path": "file-center/web3-prediction/S3/topic/1782975140618_z2his43ejrjn9wzyxp0ivnf9umuw1uqn_NEF_q80_96x96"
+      },
+      {
+        "size": "64x64",
+        "path": "file-center/web3-prediction/S3/topic/1782975140618_z2his43ejrjn9wzyxp0ivnf9umuw1uqn_NEF_q80_64x64"
+      }
+    ],
+    "topicType": "GROUPED",
+    "variantData": {
+      "type": "SPORTS_FIFA_WORLD_CUP"
+    },
+    "participantCount": 578,
+    "collateral": "USDT",
+    "feeRateBps": 200,
+    "slippageBps": 1000,
+    "isYieldBearing": true,
+    "exchangeContractAddress": "0x8A289d458f5a134bA40015085A8F50Ffb681B41d",
+    "markets": [
+      {
+        "marketId": 6074458,
+        "externalId": "615727",
+        "title": "O/U 0.5",
+        "question": "Colombia vs. Ghana: O/U 0.5",
+        "description": "In the upcoming FIFA World Cup game between Colombia and Ghana, scheduled for July 3 at 9:30 PM ET:\n\nThis market will resolve to \"Over\" if Colombia and Ghana combine to score 1 or more goals in this game.\n\nIf the combined total is less than 1, this market will resolve to \"Under\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nIf the game is started but not completed, this market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xfba284a6b7d17722006fed4327959c1c71aa61f64080c109741c862fa93a8584",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782975133580_jxism1xv3qx166kp7jxmg6md3plomr8a_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782975133580_jxism1xv3qx166kp7jxmg6md3plomr8a_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782975133580_jxism1xv3qx166kp7jxmg6md3plomr8a_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782975133580_jxism1xv3qx166kp7jxmg6md3plomr8a_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "353.54",
+        "liquidity": "2135859.92",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Over",
+            "price": "0.92",
+            "chance": "0.915",
+            "index": 0,
+            "tokenId": "94625038441730790141334555147976087605147357022452192658856983907194665364180"
+          },
+          {
+            "name": "Under",
+            "price": "0.08",
+            "chance": "0.085",
+            "index": 1,
+            "tokenId": "86750322484417913670392861891470475676596657354910586193014784605621933196102"
+          }
+        ]
+      },
+      {
+        "marketId": 6108624,
+        "externalId": "622008",
+        "title": "Team to Advance",
+        "question": "Colombia vs. Ghana: Team to Advance",
+        "description": "In the upcoming FIFA World Cup game between Colombia and Ghana, scheduled for July 3 at 9:30 PM ET: This market will resolve to \"Colombia\" if Colombia is the team that officially advances from this match to the next round of the FIFA World Cup, or is crowned winner of the competition if this match is the final. This market will resolve to \"Ghana\" if Ghana is the team that officially advances from this match to the next round of the FIFA World Cup, or is crowned winner of the competition if this match is the final. This includes advancement after regulation, extra time, a penalty shoot-out, or an official ruling by the competition organizer such as forfeit, abandonment, or disqualification. If the game is postponed, this market will remain open until the game has been completed or a team is officially declared to advance. If the game is canceled entirely and no team advances from this match, this market will resolve 50-50. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 24 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x8fa03be1c0ce0257506036c79742202ca294bc06f340c949b404a15663e5d42b",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782975134649_o7gbhpjihl4hcfzhwpjrhmb69t43rn88_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782975134649_o7gbhpjihl4hcfzhwpjrhmb69t43rn88_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782975134649_o7gbhpjihl4hcfzhwpjrhmb69t43rn88_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782975134649_o7gbhpjihl4hcfzhwpjrhmb69t43rn88_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "21577.92",
+        "liquidity": "2171245.58",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "COL",
+            "price": "0.82",
+            "chance": "0.81",
+            "index": 0,
+            "tokenId": "45178049118560407496308066041750966448536443904197420238812659863467814773965"
+          },
+          {
+            "name": "GHA",
+            "price": "0.18",
+            "chance": "0.19",
+            "index": 1,
+            "tokenId": "38099835112413201228276888522109455450519604829904727319463352676568355018773"
+          }
+        ]
+      },
+      {
+        "marketId": 6074459,
+        "externalId": "615728",
+        "title": "O/U 1.5",
+        "question": "Colombia vs. Ghana: O/U 1.5",
+        "description": "In the upcoming FIFA World Cup game between Colombia and Ghana, scheduled for July 3 at 9:30 PM ET:\n\nThis market will resolve to \"Over\" if Colombia and Ghana combine to score 2 or more goals in this game.\n\nIf the combined total is less than 2, this market will resolve to \"Under\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nIf the game is started but not completed, this market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x8f33032cabcb621c31412f40555b1b23e119202fa2f730ee789daef501de7a4f",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782975133692_lnu7trlg7zonmia695xq67x3onaekq4k_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782975133692_lnu7trlg7zonmia695xq67x3onaekq4k_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782975133692_lnu7trlg7zonmia695xq67x3onaekq4k_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782975133692_lnu7trlg7zonmia695xq67x3onaekq4k_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "1462.79",
+        "liquidity": "1198756.85",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Over",
+            "price": "0.73",
+            "chance": "0.725",
+            "index": 0,
+            "tokenId": "69779991021280881616628054697977887694378778324962430633732509093562618104131"
+          },
+          {
+            "name": "Under",
+            "price": "0.27",
+            "chance": "0.275",
+            "index": 1,
+            "tokenId": "72629591874286069456694450811541632930548747301995938394413926302918839060729"
+          }
+        ]
+      },
+      {
+        "marketId": 6074460,
+        "externalId": "615729",
+        "title": "O/U 2.5",
+        "question": "Colombia vs. Ghana: O/U 2.5",
+        "description": "In the upcoming FIFA World Cup game between Colombia and Ghana, scheduled for July 3 at 9:30 PM ET:\n\nThis market will resolve to \"Over\" if Colombia and Ghana combine to score 3 or more goals in this game.\n\nIf the combined total is less than 3, this market will resolve to \"Under\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nIf the game is started but not completed, this market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x89b787f6db8fe3d54b12ba0e2df9a5c87ad5cda1ac4e252eb84c66caac08c99e",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782975133799_x0o1om5hn7w1e8rh3pzhzj5cgyopc988_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782975133799_x0o1om5hn7w1e8rh3pzhzj5cgyopc988_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782975133799_x0o1om5hn7w1e8rh3pzhzj5cgyopc988_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782975133799_x0o1om5hn7w1e8rh3pzhzj5cgyopc988_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "19716.05",
+        "liquidity": "715417.38",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Over",
+            "price": "0.46",
+            "chance": "0.455",
+            "index": 0,
+            "tokenId": "55108308767171787160444685258052889885756876439605266292823149340741472964204"
+          },
+          {
+            "name": "Under",
+            "price": "0.54",
+            "chance": "0.545",
+            "index": 1,
+            "tokenId": "95410563051690491887225801703168278087661038728880467456972920462159474473493"
+          }
+        ]
+      },
+      {
+        "marketId": 6074448,
+        "externalId": "615717",
+        "title": "Colombia (-1.5)",
+        "question": "Spread: Colombia (-1.5)",
+        "description": "In the upcoming FIFA World Cup game, scheduled for July 3 at 9:30 PM ET:\n\nThis market will resolve to \"Colombia\" if Colombia win the game by 2 or more goals.\n\nOtherwise, this market will resolve to \"Ghana\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x42fff66d28bb996d30d1e7707ee97f6edf94fa451b74d62f13e62198b2686daa",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782975132595_c0jgvodmlapucj83nswpfqfre8d8o813_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782975132595_c0jgvodmlapucj83nswpfqfre8d8o813_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782975132595_c0jgvodmlapucj83nswpfqfre8d8o813_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782975132595_c0jgvodmlapucj83nswpfqfre8d8o813_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "17518.32",
+        "liquidity": "790068.54",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "COL",
+            "price": "0.43",
+            "chance": "0.425",
+            "index": 0,
+            "tokenId": "44998926727025927262867663008914023478026372844721868782284640830649398377861"
+          },
+          {
+            "name": "GHA",
+            "price": "0.57",
+            "chance": "0.575",
+            "index": 1,
+            "tokenId": "36514901060093672327412521778821366242661608757876379879699801325843783720947"
+          }
+        ]
+      },
+      {
+        "marketId": 6108623,
+        "externalId": "622007",
+        "title": "Both Teams to Score",
+        "question": "Colombia vs. Ghana: Both Teams to Score",
+        "description": "In the upcoming FIFA World Cup game between Colombia and Ghana, scheduled for July 3 at 9:30 PM ET:\n\nThis market will resolve to \"Yes\" if both Colombia and Ghana each score at least one goal during the game.\n\nThis market will resolve to \"No\" if either team fails to score (i.e., if one or both teams finish with zero goals).\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nIf the game is started but not completed, this market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xde36806598c7856f1a5f5f95967922fb2f728d225f5ec84388b47621734d65a2",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782975134550_y0vqmf3ue43na4alzieqkdw1hbxcybtv_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782975134550_y0vqmf3ue43na4alzieqkdw1hbxcybtv_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782975134550_y0vqmf3ue43na4alzieqkdw1hbxcybtv_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782975134550_y0vqmf3ue43na4alzieqkdw1hbxcybtv_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "8241.17",
+        "liquidity": "880685.73",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.42",
+            "chance": "0.415",
+            "index": 0,
+            "tokenId": "35691134162103553744995789757841884116844352246903881926090475930676788302183"
+          },
+          {
+            "name": "No",
+            "price": "0.58",
+            "chance": "0.585",
+            "index": 1,
+            "tokenId": "959459277823886939118637558237161562157394900411694560299147335551034775783"
+          }
+        ]
+      },
+      {
+        "marketId": 6074461,
+        "externalId": "615730",
+        "title": "O/U 3.5",
+        "question": "Colombia vs. Ghana: O/U 3.5",
+        "description": "In the upcoming FIFA World Cup game between Colombia and Ghana, scheduled for July 3 at 9:30 PM ET:\n\nThis market will resolve to \"Over\" if Colombia and Ghana combine to score 4 or more goals in this game.\n\nIf the combined total is less than 4, this market will resolve to \"Under\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nIf the game is started but not completed, this market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x298703aef67ba85e44ce2121b9a2d4550dcb4df79104131c1340fe71ade73209",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782975133930_9tg1vazwa4db2prkxn54f6yqb47s2z6f_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782975133930_9tg1vazwa4db2prkxn54f6yqb47s2z6f_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782975133930_9tg1vazwa4db2prkxn54f6yqb47s2z6f_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782975133930_9tg1vazwa4db2prkxn54f6yqb47s2z6f_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "672.52",
+        "liquidity": "376519.07",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Over",
+            "price": "0.24",
+            "chance": "0.235",
+            "index": 0,
+            "tokenId": "98957185763447234074614234351519859279834011957999588944740698616300273365940"
+          },
+          {
+            "name": "Under",
+            "price": "0.76",
+            "chance": "0.765",
+            "index": 1,
+            "tokenId": "48813998643297737993956830495435305948239890577263605780113494245168230012506"
+          }
+        ]
+      },
+      {
+        "marketId": 6074450,
+        "externalId": "615719",
+        "title": "Colombia (-2.5)",
+        "question": "Spread: Colombia (-2.5)",
+        "description": "In the upcoming FIFA World Cup game, scheduled for July 3 at 9:30 PM ET:\n\nThis market will resolve to \"Colombia\" if Colombia win the game by 3 or more goals.\n\nOtherwise, this market will resolve to \"Ghana\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x92ff8fa5b8cfe6600a06582b17a3d8116a399bb59f457b5e0ddd9d52801bba85",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782975132785_ttq1nzcya0cihmf6aft15stjfguehphh_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782975132785_ttq1nzcya0cihmf6aft15stjfguehphh_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782975132785_ttq1nzcya0cihmf6aft15stjfguehphh_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782975132785_ttq1nzcya0cihmf6aft15stjfguehphh_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "673.13",
+        "liquidity": "338725.71",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "COL",
+            "price": "0.2",
+            "chance": "0.195",
+            "index": 0,
+            "tokenId": "94111676298040881503641160697443438235863274565845887859543386614891020170074"
+          },
+          {
+            "name": "GHA",
+            "price": "0.8",
+            "chance": "0.805",
+            "index": 1,
+            "tokenId": "89334029740184598438448303383797700778308874795086390175728152768272017613319"
+          }
+        ]
+      },
+      {
+        "marketId": 6074462,
+        "externalId": "615731",
+        "title": "O/U 4.5",
+        "question": "Colombia vs. Ghana: O/U 4.5",
+        "description": "In the upcoming FIFA World Cup game between Colombia and Ghana, scheduled for July 3 at 9:30 PM ET:\n\nThis market will resolve to \"Over\" if Colombia and Ghana combine to score 5 or more goals in this game.\n\nIf the combined total is less than 5, this market will resolve to \"Under\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nIf the game is started but not completed, this market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x06ad4498826e7493004cc013d37f5f62da1b071522fe4ffe6dc293c7e069772d",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782975134030_q7t54pql2vz5sk4ozg7o4ots3gp44d6k_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782975134030_q7t54pql2vz5sk4ozg7o4ots3gp44d6k_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782975134030_q7t54pql2vz5sk4ozg7o4ots3gp44d6k_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782975134030_q7t54pql2vz5sk4ozg7o4ots3gp44d6k_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "932.22",
+        "liquidity": "177938.56",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Over",
+            "price": "0.11",
+            "chance": "0.105",
+            "index": 0,
+            "tokenId": "56758468606804544451260296402206336002747318607906660152789348179322011423819"
+          },
+          {
+            "name": "Under",
+            "price": "0.89",
+            "chance": "0.895",
+            "index": 1,
+            "tokenId": "20310549623542252870749496907505146100405406115525278409042932557056442646392"
+          }
+        ]
+      },
+      {
+        "marketId": 6074452,
+        "externalId": "615721",
+        "title": "Colombia (-3.5)",
+        "question": "Spread: Colombia (-3.5)",
+        "description": "In the upcoming FIFA World Cup game, scheduled for July 3 at 9:30 PM ET:\n\nThis market will resolve to \"Colombia\" if Colombia win the game by 4 or more goals.\n\nOtherwise, this market will resolve to \"Ghana\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xcef100fcdadffda83ff80b99007c5bfa745269ccabff15552b366f8e44c10751",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782975132979_1j5eao324skkjkgq2frid6cnapzyotw7_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782975132979_1j5eao324skkjkgq2frid6cnapzyotw7_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782975132979_1j5eao324skkjkgq2frid6cnapzyotw7_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782975132979_1j5eao324skkjkgq2frid6cnapzyotw7_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "0",
+        "liquidity": "139477.71",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "COL",
+            "price": "0.08",
+            "chance": "0.075",
+            "index": 0,
+            "tokenId": "64325971346513975048293082001186727804715015114811029118524338849668144215508"
+          },
+          {
+            "name": "GHA",
+            "price": "0.92",
+            "chance": "0.925",
+            "index": 1,
+            "tokenId": "115069049342829585556196036921325286871196452441169337413583678767626044624196"
+          }
+        ]
+      },
+      {
+        "marketId": 6074463,
+        "externalId": "615732",
+        "title": "O/U 5.5",
+        "question": "Colombia vs. Ghana: O/U 5.5",
+        "description": "In the upcoming FIFA World Cup game between Colombia and Ghana, scheduled for July 3 at 9:30 PM ET:\n\nThis market will resolve to \"Over\" if Colombia and Ghana combine to score 6 or more goals in this game.\n\nIf the combined total is less than 6, this market will resolve to \"Under\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nIf the game is started but not completed, this market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xa1ac393f55a510de6e3388a24bf3df65b3c3b17241c36ea6fa142dfa07f82bb1",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782975134134_vq145avtaaglj68fm1gu531irszd919h_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782975134134_vq145avtaaglj68fm1gu531irszd919h_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782975134134_vq145avtaaglj68fm1gu531irszd919h_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782975134134_vq145avtaaglj68fm1gu531irszd919h_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "1.03",
+        "liquidity": "221691.59",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Over",
+            "price": "0.05",
+            "chance": "0.045",
+            "index": 0,
+            "tokenId": "56974097692575079200245307916955003738483802125435147291897898988224415011740"
+          },
+          {
+            "name": "Under",
+            "price": "0.95",
+            "chance": "0.955",
+            "index": 1,
+            "tokenId": "95362819322111591285560599385922591157975583091479539958074324093652092847222"
+          }
+        ]
+      },
+      {
+        "marketId": 6074457,
+        "externalId": "615726",
+        "title": "Ghana (-5.5)",
+        "question": "Spread: Ghana (-5.5)",
+        "description": "In the upcoming FIFA World Cup game, scheduled for July 3 at 9:30 PM ET:\n\nThis market will resolve to \"Ghana\" if Ghana win the game by 6 or more goals.\n\nOtherwise, this market will resolve to \"Colombia\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x01292401e3e24d01e06d409e265b3e852c2cdd2d49f0b3dde5989d78c39f5148",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782975133481_o4wwnvqp5l201t6da1ilihmg3davkpsn_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782975133481_o4wwnvqp5l201t6da1ilihmg3davkpsn_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782975133481_o4wwnvqp5l201t6da1ilihmg3davkpsn_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782975133481_o4wwnvqp5l201t6da1ilihmg3davkpsn_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "0",
+        "liquidity": "1173.97",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "GHA",
+            "price": "0.03",
+            "chance": "0.03",
+            "index": 0,
+            "tokenId": "31026235873957068741809431243921778991187885172931731658801650174886992671982"
+          },
+          {
+            "name": "COL",
+            "price": "0.97",
+            "chance": "0.97",
+            "index": 1,
+            "tokenId": "51225310873702254606534602589147976680184225424490776729720575117605563486453"
+          }
+        ]
+      },
+      {
+        "marketId": 6074449,
+        "externalId": "615718",
+        "title": "Ghana (-1.5)",
+        "question": "Spread: Ghana (-1.5)",
+        "description": "In the upcoming FIFA World Cup game, scheduled for July 3 at 9:30 PM ET:\n\nThis market will resolve to \"Ghana\" if Ghana win the game by 2 or more goals.\n\nOtherwise, this market will resolve to \"Colombia\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x3b8571fca60cf051ebe7a0676fad6c1d3a7a960891270bf6094ab9658bfebd82",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782975132693_b5xq0uinp645wpqd3gbk4amekfk0mx5z_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782975132693_b5xq0uinp645wpqd3gbk4amekfk0mx5z_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782975132693_b5xq0uinp645wpqd3gbk4amekfk0mx5z_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782975132693_b5xq0uinp645wpqd3gbk4amekfk0mx5z_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "593.44",
+        "liquidity": "207501.68",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "GHA",
+            "price": "0.03",
+            "chance": "0.025",
+            "index": 0,
+            "tokenId": "79171726073962003254577736036408587635316561837492274364923675573929035048449"
+          },
+          {
+            "name": "COL",
+            "price": "0.97",
+            "chance": "0.975",
+            "index": 1,
+            "tokenId": "67723559022184619255300300642448484116333080495691749339126157461177393864012"
+          }
+        ]
+      },
+      {
+        "marketId": 6074454,
+        "externalId": "615723",
+        "title": "Colombia (-4.5)",
+        "question": "Spread: Colombia (-4.5)",
+        "description": "In the upcoming FIFA World Cup game, scheduled for July 3 at 9:30 PM ET:\n\nThis market will resolve to \"Colombia\" if Colombia win the game by 5 or more goals.\n\nOtherwise, this market will resolve to \"Ghana\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xf3efdbaadcf19f2ae1a76753916b58e76fb4eaa416c08a1758a59ddb7d92276e",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782975133183_5v7p85t4icpuktu5dk471klyxryjwkln_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782975133183_5v7p85t4icpuktu5dk471klyxryjwkln_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782975133183_5v7p85t4icpuktu5dk471klyxryjwkln_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782975133183_5v7p85t4icpuktu5dk471klyxryjwkln_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "0",
+        "liquidity": "21222.21",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "COL",
+            "price": "0.03",
+            "chance": "0.025",
+            "index": 0,
+            "tokenId": "21853749518908530019926852969337850023722676390775476237513473571185627186469"
+          },
+          {
+            "name": "GHA",
+            "price": "0.97",
+            "chance": "0.975",
+            "index": 1,
+            "tokenId": "105541359874231438170506553138291560039306658371720350380285866164694005538159"
+          }
+        ]
+      },
+      {
+        "marketId": 6074451,
+        "externalId": "615720",
+        "title": "Ghana (-2.5)",
+        "question": "Spread: Ghana (-2.5)",
+        "description": "In the upcoming FIFA World Cup game, scheduled for July 3 at 9:30 PM ET:\n\nThis market will resolve to \"Ghana\" if Ghana win the game by 3 or more goals.\n\nOtherwise, this market will resolve to \"Colombia\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x53dc7629056126c11b01d6dd68c4c9b3b89cf36ca14a3eff1987855b06541488",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782975132876_6g5e4sy7epzouw4twe9nykdj2ic2zvbo_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782975132876_6g5e4sy7epzouw4twe9nykdj2ic2zvbo_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782975132876_6g5e4sy7epzouw4twe9nykdj2ic2zvbo_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782975132876_6g5e4sy7epzouw4twe9nykdj2ic2zvbo_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "2625.58",
+        "liquidity": "4319.1",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "GHA",
+            "price": "0.02",
+            "chance": "0.02",
+            "index": 0,
+            "tokenId": "62903714724690516738587012836929534332209077110568493705856103964494981910682"
+          },
+          {
+            "name": "COL",
+            "price": "0.98",
+            "chance": "0.98",
+            "index": 1,
+            "tokenId": "97869944786700064498979628704304811146028698809748853896202099409874544076597"
+          }
+        ]
+      },
+      {
+        "marketId": 6074453,
+        "externalId": "615722",
+        "title": "Ghana (-3.5)",
+        "question": "Spread: Ghana (-3.5)",
+        "description": "In the upcoming FIFA World Cup game, scheduled for July 3 at 9:30 PM ET:\n\nThis market will resolve to \"Ghana\" if Ghana win the game by 4 or more goals.\n\nOtherwise, this market will resolve to \"Colombia\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x73753a9e847cba469fde37c500d703266143fbfc456767a4ff6732c5b5ee4069",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782975133080_kazpn78r9xvt8h6u8djpvgkqci97ngjx_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782975133080_kazpn78r9xvt8h6u8djpvgkqci97ngjx_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782975133080_kazpn78r9xvt8h6u8djpvgkqci97ngjx_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782975133080_kazpn78r9xvt8h6u8djpvgkqci97ngjx_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "0",
+        "liquidity": "1330.81",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "GHA",
+            "price": "0.02",
+            "chance": "0.02",
+            "index": 0,
+            "tokenId": "65433515940017128481416671393068548708261327277600009361209636678797575304463"
+          },
+          {
+            "name": "COL",
+            "price": "0.98",
+            "chance": "0.98",
+            "index": 1,
+            "tokenId": "61601850023615706967908019376039694827577605455149740912540120848246743137688"
+          }
+        ]
+      },
+      {
+        "marketId": 6074466,
+        "externalId": "615735",
+        "title": "O/U 7.5",
+        "question": "Colombia vs. Ghana: O/U 7.5",
+        "description": "In the upcoming FIFA World Cup game between Colombia and Ghana, scheduled for July 3 at 9:30 PM ET:\n\nThis market will resolve to \"Over\" if Colombia and Ghana combine to score 8 or more goals in this game.\n\nIf the combined total is less than 8, this market will resolve to \"Under\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nIf the game is started but not completed, this market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x0d34da74256622ed2195e3c68ccf215eca94ca1dee2e68e3fa492cfc8d1586bf",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782975134446_3qpeplul42jxv0drdd5pqakxf0hp49yj_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782975134446_3qpeplul42jxv0drdd5pqakxf0hp49yj_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782975134446_3qpeplul42jxv0drdd5pqakxf0hp49yj_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782975134446_3qpeplul42jxv0drdd5pqakxf0hp49yj_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "0",
+        "liquidity": "1507.38",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Over",
+            "price": "0.02",
+            "chance": "0.02",
+            "index": 0,
+            "tokenId": "69280129264446816455877210448504637700241491057028831106519454698210201060679"
+          },
+          {
+            "name": "Under",
+            "price": "0.98",
+            "chance": "0.98",
+            "index": 1,
+            "tokenId": "73240201018827809694100465002975786600872229905229039690246013775225195531710"
+          }
+        ]
+      },
+      {
+        "marketId": 6074456,
+        "externalId": "615725",
+        "title": "Colombia (-5.5)",
+        "question": "Spread: Colombia (-5.5)",
+        "description": "In the upcoming FIFA World Cup game, scheduled for July 3 at 9:30 PM ET:\n\nThis market will resolve to \"Colombia\" if Colombia win the game by 6 or more goals.\n\nOtherwise, this market will resolve to \"Ghana\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x5e2125724d8fa148f782269251cc3e967b8a9b2bae8bb3b548b4b630fc1ee12f",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782975133380_2s0cldc586j63v2hgrvja13zqcnr4sgc_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782975133380_2s0cldc586j63v2hgrvja13zqcnr4sgc_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782975133380_2s0cldc586j63v2hgrvja13zqcnr4sgc_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782975133380_2s0cldc586j63v2hgrvja13zqcnr4sgc_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "0",
+        "liquidity": "6836.3",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "COL",
+            "price": "0.02",
+            "chance": "0.015",
+            "index": 0,
+            "tokenId": "110506949742117490084271082456486708004214113519232780615732618752506471550605"
+          },
+          {
+            "name": "GHA",
+            "price": "0.98",
+            "chance": "0.985",
+            "index": 1,
+            "tokenId": "29373752871266880672916768131251230688527045657715486583270064299521080580902"
+          }
+        ]
+      },
+      {
+        "marketId": 6074464,
+        "externalId": "615733",
+        "title": "O/U 6.5",
+        "question": "Colombia vs. Ghana: O/U 6.5",
+        "description": "In the upcoming FIFA World Cup game between Colombia and Ghana, scheduled for July 3 at 9:30 PM ET:\n\nThis market will resolve to \"Over\" if Colombia and Ghana combine to score 7 or more goals in this game.\n\nIf the combined total is less than 7, this market will resolve to \"Under\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nIf the game is started but not completed, this market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xcb5ea86bbc5c08c781c8f33282e08991081040359a040cb1ea26b81dbc8e9147",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782975134238_90bku15skb8k4q5ff65hwsa4ntnpaakb_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782975134238_90bku15skb8k4q5ff65hwsa4ntnpaakb_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782975134238_90bku15skb8k4q5ff65hwsa4ntnpaakb_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782975134238_90bku15skb8k4q5ff65hwsa4ntnpaakb_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "0",
+        "liquidity": "13272.56",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Over",
+            "price": "0.02",
+            "chance": "0.015",
+            "index": 0,
+            "tokenId": "63849702555460172686462084097207476750723773171995603201841847049061573455998"
+          },
+          {
+            "name": "Under",
+            "price": "0.98",
+            "chance": "0.985",
+            "index": 1,
+            "tokenId": "7023898557142473672009478226655772139997364524896711181837507044430963915826"
+          }
+        ]
+      },
+      {
+        "marketId": 6074455,
+        "externalId": "615724",
+        "title": "Ghana (-4.5)",
+        "question": "Spread: Ghana (-4.5)",
+        "description": "In the upcoming FIFA World Cup game, scheduled for July 3 at 9:30 PM ET:\n\nThis market will resolve to \"Ghana\" if Ghana win the game by 5 or more goals.\n\nOtherwise, this market will resolve to \"Colombia\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xf78581682528a847bd75819e562877efa58fcfcee2fc39f6e74f7702ea4d0072",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782975133284_6madehl2uo9o6yo7e3ogo4fpb7phk900_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782975133284_6madehl2uo9o6yo7e3ogo4fpb7phk900_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782975133284_6madehl2uo9o6yo7e3ogo4fpb7phk900_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782975133284_6madehl2uo9o6yo7e3ogo4fpb7phk900_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "0",
+        "liquidity": "1280.57",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "GHA",
+            "price": "0.01",
+            "chance": "0.01",
+            "index": 0,
+            "tokenId": "87858468444930001805084529925524256536502095235157942107805119342151771839943"
+          },
+          {
+            "name": "COL",
+            "price": "0.99",
+            "chance": "0.99",
+            "index": 1,
+            "tokenId": "27970150275455307972198632768019611750623203966429624282837656735029181488634"
+          }
+        ]
+      },
+      {
+        "marketId": 6074465,
+        "externalId": "615734",
+        "title": "O/U 8.5",
+        "question": "Colombia vs. Ghana: O/U 8.5",
+        "description": "In the upcoming FIFA World Cup game between Colombia and Ghana, scheduled for July 3 at 9:30 PM ET:\n\nThis market will resolve to \"Over\" if Colombia and Ghana combine to score 9 or more goals in this game.\n\nIf the combined total is less than 9, this market will resolve to \"Under\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nIf the game is started but not completed, this market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xf99cc0beada779df661ae1d4de081aca7d33114e8742825c6eea90e8d861ade7",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782975134340_k01t0gy79948it7m2tom3lgfd7f1z69v_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782975134340_k01t0gy79948it7m2tom3lgfd7f1z69v_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782975134340_k01t0gy79948it7m2tom3lgfd7f1z69v_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782975134340_k01t0gy79948it7m2tom3lgfd7f1z69v_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "1203.22",
+        "liquidity": "1520.19",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Over",
+            "price": "0.01",
+            "chance": "0.01",
+            "index": 0,
+            "tokenId": "57448614376606580957754061888742624203317582834756395871931952103651780552911"
+          },
+          {
+            "name": "Under",
+            "price": "0.99",
+            "chance": "0.99",
+            "index": 1,
+            "tokenId": "15035582336507813253195155867815777337996221843360515746433816836368758654128"
+          }
+        ]
+      }
+    ],
+    "tradeVolume": "75513.81",
+    "liquidity": "9384552",
+    "publishedAt": 1782644867922,
+    "startDate": 1783128600000,
+    "endDate": 1783139400000,
+    "status": "REGISTERED"
+  },
+  {
+    "marketTopicId": 4237860,
+    "vendor": "PREDICT_FUN",
+    "chainId": "56",
+    "slug": "fifwc-col-gha-2026-07-03-halftime-result",
+    "title": "Colombia vs. Ghana - Halftime Result",
+    "question": "Colombia leading at halftime?",
+    "imageUrl": "https://static.predict.fun/fifwc",
+    "thumbnailPaths": [
+      {
+        "size": "800x800",
+        "path": "file-center/web3-prediction/S3/topic/1782975168369_4sx9neh34ilq63jqeewaratoo3kwfcam_NEF_q80_800x800"
+      },
+      {
+        "size": "400x400",
+        "path": "file-center/web3-prediction/S3/topic/1782975168369_4sx9neh34ilq63jqeewaratoo3kwfcam_NEF_q80_400x400"
+      },
+      {
+        "size": "96x96",
+        "path": "file-center/web3-prediction/S3/topic/1782975168369_4sx9neh34ilq63jqeewaratoo3kwfcam_NEF_q80_96x96"
+      },
+      {
+        "size": "64x64",
+        "path": "file-center/web3-prediction/S3/topic/1782975168369_4sx9neh34ilq63jqeewaratoo3kwfcam_NEF_q80_64x64"
+      }
+    ],
+    "topicType": "GROUPED",
+    "variantData": {
+      "type": "SPORTS_FIFA_WORLD_CUP"
+    },
+    "participantCount": 189,
+    "collateral": "USDT",
+    "feeRateBps": 200,
+    "slippageBps": 1000,
+    "isYieldBearing": true,
+    "exchangeContractAddress": "0x8A289d458f5a134bA40015085A8F50Ffb681B41d",
+    "markets": [
+      {
+        "marketId": 6072702,
+        "externalId": "615369",
+        "title": "COL",
+        "question": "Colombia leading at halftime?",
+        "description": "In the upcoming game, scheduled for July 3, 2026 If Colombia wins within the first 45 minutes of regular play plus stoppage time, this market will resolve to \"Yes\". Otherwise, this market will resolve to \"No\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve \"No\". This market refers only to the outcome within the first 45 minutes of regular play plus stoppage time.The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 24 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xc414011ceac6cd60e45bf2ec6df56f862d7a854f556d19566b0ca6f329ccca42",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782975164277_nf8hihj9uxys95wfpu0iyy73ufpku57u_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782975164277_nf8hihj9uxys95wfpu0iyy73ufpku57u_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782975164277_nf8hihj9uxys95wfpu0iyy73ufpku57u_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782975164277_nf8hihj9uxys95wfpu0iyy73ufpku57u_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "3532.1",
+        "liquidity": "569029.14",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.5",
+            "chance": "0.495",
+            "index": 0,
+            "tokenId": "98125516288130517707772371029966557344637796126748629229694593782124633980617"
+          },
+          {
+            "name": "No",
+            "price": "0.5",
+            "chance": "0.505",
+            "index": 1,
+            "tokenId": "27082865463242695140294891971715615315303065482474654140242074852747658920529"
+          }
+        ]
+      },
+      {
+        "marketId": 6072703,
+        "externalId": "615370",
+        "title": "Draw",
+        "question": "Colombia vs. Ghana: Draw at halftime?",
+        "description": "In the upcoming game, scheduled for July 3, 2026 If the game ends in a draw within the first 45 minutes of regular play plus stoppage time, this market will resolve to \"Yes\". Otherwise, this market will resolve to \"No\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve to \"Yes\". This market refers only to the outcome within the first 45 minutes of regular play plus stoppage time.The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 24 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x2b49fb41550657e6baf4bf31dbe74e9531665fbe216186a121b4c0c18906f48a",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782975164385_z7xrzu5r35xl58z4uiius0wl79axd86o_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782975164385_z7xrzu5r35xl58z4uiius0wl79axd86o_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782975164385_z7xrzu5r35xl58z4uiius0wl79axd86o_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782975164385_z7xrzu5r35xl58z4uiius0wl79axd86o_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "2134.64",
+        "liquidity": "834312.97",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.42",
+            "chance": "0.415",
+            "index": 0,
+            "tokenId": "72695326733971451245928015430608021366717832836163764298603835547162555651404"
+          },
+          {
+            "name": "No",
+            "price": "0.58",
+            "chance": "0.585",
+            "index": 1,
+            "tokenId": "45183000895548236027601593741371144550855295843404422219883491946619345487769"
+          }
+        ]
+      },
+      {
+        "marketId": 6072704,
+        "externalId": "615371",
+        "title": "GHA",
+        "question": "Ghana leading at halftime?",
+        "description": "In the upcoming game, scheduled for July 3, 2026 If Ghana wins within the first 45 minutes of regular play plus stoppage time, this market will resolve to \"Yes\". Otherwise, this market will resolve to \"No\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve \"No\". This market refers only to the outcome within the first 45 minutes of regular play plus stoppage time.The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 24 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x6b5711461622428688a523aa15589677e1c16e384d255fd15ea45db136affd8f",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782975164486_xrh73wi2o6pwqffh5kjackye9rbg73up_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782975164486_xrh73wi2o6pwqffh5kjackye9rbg73up_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782975164486_xrh73wi2o6pwqffh5kjackye9rbg73up_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782975164486_xrh73wi2o6pwqffh5kjackye9rbg73up_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "583.9",
+        "liquidity": "558981.2",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.11",
+            "chance": "0.105",
+            "index": 0,
+            "tokenId": "13585663308764192564259932602958576859729878710630599384460662432601752943767"
+          },
+          {
+            "name": "No",
+            "price": "0.89",
+            "chance": "0.895",
+            "index": 1,
+            "tokenId": "85189360398071299216898720637945162289517680982134235301237874104690507249929"
+          }
+        ]
+      }
+    ],
+    "tradeVolume": "6250.65",
+    "liquidity": "1959044.28",
+    "publishedAt": 1782642760257,
+    "startDate": 1783128600000,
+    "endDate": 1783139400000,
+    "status": "REGISTERED"
+  },
+  {
+    "marketTopicId": 4366040,
+    "vendor": "PREDICT_FUN",
+    "chainId": "56",
+    "slug": "fifwc-col-gha-2026-07-03-player-props",
+    "title": "Colombia vs Ghana - Player Props",
+    "question": "Luis Diaz: 1+ goals",
+    "imageUrl": "https://static.predict.fun/fifwc",
+    "thumbnailPaths": [
+      {
+        "size": "800x800",
+        "path": "file-center/web3-prediction/S3/topic/1783021293055_a3vmavdj0zahfwlt4nicl69ucskfwg7o_NEF_q80_800x800"
+      },
+      {
+        "size": "400x400",
+        "path": "file-center/web3-prediction/S3/topic/1783021293055_a3vmavdj0zahfwlt4nicl69ucskfwg7o_NEF_q80_400x400"
+      },
+      {
+        "size": "96x96",
+        "path": "file-center/web3-prediction/S3/topic/1783021293055_a3vmavdj0zahfwlt4nicl69ucskfwg7o_NEF_q80_96x96"
+      },
+      {
+        "size": "64x64",
+        "path": "file-center/web3-prediction/S3/topic/1783021293055_a3vmavdj0zahfwlt4nicl69ucskfwg7o_NEF_q80_64x64"
+      }
+    ],
+    "topicType": "GROUPED",
+    "variantData": {
+      "type": "SPORTS_FIFA_WORLD_CUP"
+    },
+    "participantCount": 140,
+    "collateral": "USDT",
+    "feeRateBps": 200,
+    "slippageBps": 1000,
+    "isYieldBearing": false,
+    "exchangeContractAddress": "0x365fb81bd4A24D6303cd2F19c349dE6894D8d58A",
+    "markets": [
+      {
+        "marketId": 6370452,
+        "externalId": "658481",
+        "title": "Luis Diaz Total Goals",
+        "question": "Luis Diaz: 1+ goals",
+        "description": "In the upcoming FIFA World Cup game between Colombia and Ghana, scheduled for July 3 at 9:30 PM ET: This market will resolve to \"Yes\" if Luis Diaz records 1+ goals in the official box score within the first 90 minutes of regular play plus stoppage time. Otherwise, this market will resolve to \"No\". Own goals do not count. If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve \"50-50\". If the player is listed as inactive or otherwise does not play, the market will resolve \"No\". The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 24 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x069e36382be521a66ad1b6eba6a77bcb19e6a0c26d8653f5c7e50b7e5192b82e",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1783022448267_gu3rac04pb214ktsnaf76mvo5u3h7ifp_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1783022448267_gu3rac04pb214ktsnaf76mvo5u3h7ifp_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1783022448267_gu3rac04pb214ktsnaf76mvo5u3h7ifp_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1783022448267_gu3rac04pb214ktsnaf76mvo5u3h7ifp_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "1752.26",
+        "liquidity": "12242.28",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Over 0.5",
+            "price": "0.36",
+            "chance": "0.34",
+            "index": 0,
+            "tokenId": "113416264475896258104822269386402368184567140514755123624337926024815324979280"
+          },
+          {
+            "name": "Under 0.5",
+            "price": "0.64",
+            "chance": "0.66",
+            "index": 1,
+            "tokenId": "110010321964964675654713319686128432538826477499795782990619214574991863696785"
+          }
+        ]
+      },
+      {
+        "marketId": 6370453,
+        "externalId": "658482",
+        "title": "Jordan Ayew Total Goals",
+        "question": "Jordan Ayew: 1+ goals",
+        "description": "In the upcoming FIFA World Cup game between Colombia and Ghana, scheduled for July 3 at 9:30 PM ET: This market will resolve to \"Yes\" if Jordan Ayew records 1+ goals in the official box score within the first 90 minutes of regular play plus stoppage time. Otherwise, this market will resolve to \"No\". Own goals do not count. If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve \"50-50\". If the player is listed as inactive or otherwise does not play, the market will resolve \"No\". The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 24 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x74490348b8768e57396a0a7634aaffac37aac608f21b4187e9fbadd1f743b501",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1783022448269_vhs6x7mv54i0cwac52kj9qqmkfrpuc13_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1783022448269_vhs6x7mv54i0cwac52kj9qqmkfrpuc13_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1783022448269_vhs6x7mv54i0cwac52kj9qqmkfrpuc13_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1783022448269_vhs6x7mv54i0cwac52kj9qqmkfrpuc13_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "1806.57",
+        "liquidity": "5897.05",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Over 0.5",
+            "price": "0.1",
+            "chance": "0.09",
+            "index": 0,
+            "tokenId": "98629915634518339715361068809646426326214524639818164452886565997964846351619"
+          },
+          {
+            "name": "Under 0.5",
+            "price": "0.9",
+            "chance": "0.91",
+            "index": 1,
+            "tokenId": "63632943086444569400587493008777467391033228935959355649655609412377422937697"
+          }
+        ]
+      }
+    ],
+    "tradeVolume": "3558.84",
+    "liquidity": "19865.66",
+    "publishedAt": 1783021222197,
+    "startDate": 1783128600000,
+    "endDate": 1783135800000,
+    "status": "REGISTERED"
+  },
+  {
+    "marketTopicId": 4366036,
+    "vendor": "PREDICT_FUN",
+    "chainId": "56",
+    "slug": "fifwc-col-gha-2026-07-03-total-corners",
+    "title": "Colombia vs. Ghana - Total Corners",
+    "question": "Colombia vs. Ghana: O/U 8.5 Total Corners",
+    "imageUrl": "https://static.predict.fun/fifwc",
+    "thumbnailPaths": [
+      {
+        "size": "800x800",
+        "path": "file-center/web3-prediction/S3/topic/1783021158554_aga5t7mhzxltjxho8suzaj339b5aub6k_NEF_q80_800x800"
+      },
+      {
+        "size": "400x400",
+        "path": "file-center/web3-prediction/S3/topic/1783021158554_aga5t7mhzxltjxho8suzaj339b5aub6k_NEF_q80_400x400"
+      },
+      {
+        "size": "96x96",
+        "path": "file-center/web3-prediction/S3/topic/1783021158554_aga5t7mhzxltjxho8suzaj339b5aub6k_NEF_q80_96x96"
+      },
+      {
+        "size": "64x64",
+        "path": "file-center/web3-prediction/S3/topic/1783021158554_aga5t7mhzxltjxho8suzaj339b5aub6k_NEF_q80_64x64"
+      }
+    ],
+    "topicType": "GROUPED",
+    "variantData": {
+      "type": "SPORTS_FIFA_WORLD_CUP"
+    },
+    "participantCount": 155,
+    "collateral": "USDT",
+    "feeRateBps": 200,
+    "slippageBps": 1000,
+    "isYieldBearing": false,
+    "exchangeContractAddress": "0x365fb81bd4A24D6303cd2F19c349dE6894D8d58A",
+    "markets": [
+      {
+        "marketId": 6370448,
+        "externalId": "644011",
+        "title": "Total Corners: O/U 8.5",
+        "question": "Colombia vs. Ghana: O/U 8.5 Total Corners",
+        "description": "In the upcoming FIFA World Cup game between Colombia and Ghana, scheduled for July 3 at 9:30 PM ET: This market will resolve to \"Over\" if there are 9 or more total corners taken in this game (combining corners for both teams). If the total number of corners is fewer than 9, this market will resolve to \"Under\". Markets on number of corners refers to number of corners taken and not corners awarded. If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50. This market refers only to corners taken within the first 90 minutes of regular play plus stoppage time. Corners awarded but not taken will not count. Corners awarded during extra time or penalty shootouts do not count. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 24 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xe98f0d3b67de6029e16f4f2e93e6ccbf81888ba92c8122f4f2545054cb8e16a9",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1783021158571_korss4tl2e5682xk0t1463b4yxvzoo6y_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1783021158571_korss4tl2e5682xk0t1463b4yxvzoo6y_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1783021158571_korss4tl2e5682xk0t1463b4yxvzoo6y_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1783021158571_korss4tl2e5682xk0t1463b4yxvzoo6y_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "3190.73",
+        "liquidity": "519122.85",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Over 8.5",
+            "price": "0.53",
+            "chance": "0.525",
+            "index": 0,
+            "tokenId": "76957805402485489724330059912479815303254427713585320258962357609847132638917"
+          },
+          {
+            "name": "Under 8.5",
+            "price": "0.47",
+            "chance": "0.475",
+            "index": 1,
+            "tokenId": "68287435703471710070347112473247218454274177220898540643378575704443317481991"
+          }
+        ]
+      }
+    ],
+    "tradeVolume": "3190.73",
+    "liquidity": "519122.85",
+    "publishedAt": 1783021158179,
+    "startDate": 1783128600000,
+    "endDate": 1783135800000,
+    "status": "REGISTERED"
+  },
+  {
+    "marketTopicId": 4237877,
+    "vendor": "PREDICT_FUN",
+    "chainId": "56",
+    "slug": "fifwc-col-gha-2026-07-03-first-to-score",
+    "title": "Colombia vs. Ghana - First Team to Score",
+    "question": "Colombia to score first vs. Ghana?",
+    "imageUrl": "https://static.predict.fun/fifwc",
+    "thumbnailPaths": [
+      {
+        "size": "800x800",
+        "path": "file-center/web3-prediction/S3/topic/1782975151252_2meb6xrrt9f47ffywd28gma6o36yydsn_NEF_q80_800x800"
+      },
+      {
+        "size": "400x400",
+        "path": "file-center/web3-prediction/S3/topic/1782975151252_2meb6xrrt9f47ffywd28gma6o36yydsn_NEF_q80_400x400"
+      },
+      {
+        "size": "96x96",
+        "path": "file-center/web3-prediction/S3/topic/1782975151252_2meb6xrrt9f47ffywd28gma6o36yydsn_NEF_q80_96x96"
+      },
+      {
+        "size": "64x64",
+        "path": "file-center/web3-prediction/S3/topic/1782975151252_2meb6xrrt9f47ffywd28gma6o36yydsn_NEF_q80_64x64"
+      }
+    ],
+    "topicType": "GROUPED",
+    "variantData": {
+      "type": "SPORTS_FIFA_WORLD_CUP"
+    },
+    "participantCount": 137,
+    "collateral": "USDT",
+    "feeRateBps": 200,
+    "slippageBps": 1000,
+    "isYieldBearing": true,
+    "exchangeContractAddress": "0x8A289d458f5a134bA40015085A8F50Ffb681B41d",
+    "markets": [
+      {
+        "marketId": 6072819,
+        "externalId": "615516",
+        "title": "COL",
+        "question": "Colombia to score first vs. Ghana?",
+        "description": "In the upcoming match between Colombia and Ghana, scheduled for July 3, 2026 at 9:30 PM ET: This market will resolve to \"Colombia\" if Colombia are the first to score within the first 90 minutes of regular play plus stoppage time. This market will resolve to \"Ghana\" if Ghana are the first to score within the first 90 minutes of regular play plus stoppage time. If neither team scores within the first 90 minutes of regular play plus stoppage time, this market will resolve \"Neither\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve to \"Neither\". This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time. Extra time and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xdf01d2707616ccf6804ef6931a0a5aa71beb1430dcb3d1a493aa5f3d23d2e0fd",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782975147173_ir31e6vlz3rwz8iit7u7dtmzp8qgfqzb_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782975147173_ir31e6vlz3rwz8iit7u7dtmzp8qgfqzb_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782975147173_ir31e6vlz3rwz8iit7u7dtmzp8qgfqzb_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782975147173_ir31e6vlz3rwz8iit7u7dtmzp8qgfqzb_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "1674.25",
+        "liquidity": "1497692.85",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.71",
+            "chance": "0.705",
+            "index": 0,
+            "tokenId": "113272388016787053462006712155547139592358018086073308787497736535886936996744"
+          },
+          {
+            "name": "No",
+            "price": "0.29",
+            "chance": "0.295",
+            "index": 1,
+            "tokenId": "25891229695754043369317364676691289415256500415959178885440439801273813075686"
+          }
+        ]
+      },
+      {
+        "marketId": 6072820,
+        "externalId": "615517",
+        "title": "GHA",
+        "question": "Ghana to score first vs. Colombia?",
+        "description": "In the upcoming match between Colombia and Ghana, scheduled for July 3, 2026 at 9:30 PM ET: This market will resolve to \"Colombia\" if Colombia are the first to score within the first 90 minutes of regular play plus stoppage time. This market will resolve to \"Ghana\" if Ghana are the first to score within the first 90 minutes of regular play plus stoppage time. If neither team scores within the first 90 minutes of regular play plus stoppage time, this market will resolve \"Neither\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve to \"Neither\". This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time. Extra time and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x7c81200fee9e114b1c538cb1788fb12fc12b495f05326cc7e75e631129799d75",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782975147279_s9j006oagyegq09fstj5wduufyaozsxi_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782975147279_s9j006oagyegq09fstj5wduufyaozsxi_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782975147279_s9j006oagyegq09fstj5wduufyaozsxi_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782975147279_s9j006oagyegq09fstj5wduufyaozsxi_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "769.45",
+        "liquidity": "560024.99",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.22",
+            "chance": "0.215",
+            "index": 0,
+            "tokenId": "12076826543216362322906882139302288582717350710064481575195227504147677573399"
+          },
+          {
+            "name": "No",
+            "price": "0.78",
+            "chance": "0.785",
+            "index": 1,
+            "tokenId": "64460212857615276013908856720184736709569208780404237698976312617390472486919"
+          }
+        ]
+      },
+      {
+        "marketId": 6072821,
+        "externalId": "615518",
+        "title": "Neither",
+        "question": "Colombia vs. Ghana: Neither team to score first?",
+        "description": "In the upcoming match between Colombia and Ghana, scheduled for July 3, 2026 at 9:30 PM ET: This market will resolve to \"Colombia\" if Colombia are the first to score within the first 90 minutes of regular play plus stoppage time. This market will resolve to \"Ghana\" if Ghana are the first to score within the first 90 minutes of regular play plus stoppage time. If neither team scores within the first 90 minutes of regular play plus stoppage time, this market will resolve \"Neither\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve to \"Neither\". This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time. Extra time and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xd9822f9de52256f3215e7e428357a80bca99bfcbab298bef3a142acec06d2485",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782975147382_nxvkqfp2fpgjn9d39hflbt837kqzmgci_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782975147382_nxvkqfp2fpgjn9d39hflbt837kqzmgci_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782975147382_nxvkqfp2fpgjn9d39hflbt837kqzmgci_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782975147382_nxvkqfp2fpgjn9d39hflbt837kqzmgci_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "280.4",
+        "liquidity": "500205.94",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.1",
+            "chance": "0.095",
+            "index": 0,
+            "tokenId": "104801345121855235642293687762012200902627460104858191945254917853481802054193"
+          },
+          {
+            "name": "No",
+            "price": "0.9",
+            "chance": "0.905",
+            "index": 1,
+            "tokenId": "73038334723201866770138888498729665150839393818533438304206684155552817575996"
+          }
+        ]
+      }
+    ],
+    "tradeVolume": "2724.12",
+    "liquidity": "2572139.96",
+    "publishedAt": 1782643284817,
+    "startDate": 1783128600000,
+    "endDate": 1783135800000,
+    "status": "REGISTERED"
+  }
+]

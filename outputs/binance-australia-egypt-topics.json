@@ -1,0 +1,2667 @@
+[
+  {
+    "marketTopicId": 4234524,
+    "vendor": "PREDICT_FUN",
+    "chainId": "56",
+    "slug": "fifwc-aus-egy-2026-07-03-exact-score",
+    "title": "Australia vs. Egypt - Exact Score",
+    "question": "Exact Score: Australia 0 - 0 Egypt?",
+    "imageUrl": "https://static.predict.fun/fifwc",
+    "thumbnailPaths": [
+      {
+        "size": "800x800",
+        "path": "file-center/web3-prediction/S3/topic/1782975309142_ze3r98f6w88tvxrmnunbs11rc7t5gc71_NEF_q80_800x800"
+      },
+      {
+        "size": "400x400",
+        "path": "file-center/web3-prediction/S3/topic/1782975309142_ze3r98f6w88tvxrmnunbs11rc7t5gc71_NEF_q80_400x400"
+      },
+      {
+        "size": "96x96",
+        "path": "file-center/web3-prediction/S3/topic/1782975309142_ze3r98f6w88tvxrmnunbs11rc7t5gc71_NEF_q80_96x96"
+      },
+      {
+        "size": "64x64",
+        "path": "file-center/web3-prediction/S3/topic/1782975309142_ze3r98f6w88tvxrmnunbs11rc7t5gc71_NEF_q80_64x64"
+      }
+    ],
+    "topicType": "GROUPED",
+    "variantData": {
+      "type": "SPORTS_FIFA_WORLD_CUP"
+    },
+    "participantCount": 863,
+    "collateral": "USDT",
+    "feeRateBps": 200,
+    "slippageBps": 1000,
+    "isYieldBearing": true,
+    "exchangeContractAddress": "0x8A289d458f5a134bA40015085A8F50Ffb681B41d",
+    "markets": [
+      {
+        "marketId": 6036816,
+        "externalId": "607196",
+        "title": "AUS 1 - 1 EGY",
+        "question": "Exact Score: Australia 1 - 1 Egypt?",
+        "description": "In the upcoming FIFA World Cup game between Australia and Egypt, scheduled for July 3, 2026 at 2:00 PM ET: This market will resolve based on the final score of the Australia vs. Egypt match originally scheduled for July 3, 2026 at 2:00 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x35e64e8d7170a6bb969520c590a22e999ae6b26baabe8c697b067e1882c18635",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782975297791_zi57730initq0bdf8n94xtztt77mcjrq_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782975297791_zi57730initq0bdf8n94xtztt77mcjrq_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782975297791_zi57730initq0bdf8n94xtztt77mcjrq_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782975297791_zi57730initq0bdf8n94xtztt77mcjrq_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "28172.49",
+        "liquidity": "481713.13",
+        "decimalPrecision": 3,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.154",
+            "chance": "0.153",
+            "index": 0,
+            "tokenId": "60431502023299352713429375826764385947471977072970787991173191400207795964256"
+          },
+          {
+            "name": "No",
+            "price": "0.846",
+            "chance": "0.847",
+            "index": 1,
+            "tokenId": "72764761653053765066435462933708436301085646163209601478191014308113677959259"
+          }
+        ]
+      },
+      {
+        "marketId": 6036811,
+        "externalId": "607193",
+        "title": "AUS 0 - 1 EGY",
+        "question": "Exact Score: Australia 0 - 1 Egypt?",
+        "description": "In the upcoming FIFA World Cup game between Australia and Egypt, scheduled for July 3, 2026 at 2:00 PM ET: This market will resolve based on the final score of the Australia vs. Egypt match originally scheduled for July 3, 2026 at 2:00 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x632e331fed1bc123999de9686be9a6b20fb4cf6641703f3c76e0ec2930e7463a",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782975297478_1ll6nccgsp3n5r20l5ilrbrnhfjdxyfa_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782975297478_1ll6nccgsp3n5r20l5ilrbrnhfjdxyfa_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782975297478_1ll6nccgsp3n5r20l5ilrbrnhfjdxyfa_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782975297478_1ll6nccgsp3n5r20l5ilrbrnhfjdxyfa_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "12796.19",
+        "liquidity": "448781.72",
+        "decimalPrecision": 3,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.15",
+            "chance": "0.1495",
+            "index": 0,
+            "tokenId": "19212857500799253625384971876351172521605463697299249534591286004971100772733"
+          },
+          {
+            "name": "No",
+            "price": "0.85",
+            "chance": "0.8505",
+            "index": 1,
+            "tokenId": "91241930282331165829711636607699911426084221002552067879463169630233016707238"
+          }
+        ]
+      },
+      {
+        "marketId": 6036810,
+        "externalId": "607192",
+        "title": "AUS 0 - 0 EGY",
+        "question": "Exact Score: Australia 0 - 0 Egypt?",
+        "description": "In the upcoming FIFA World Cup game between Australia and Egypt, scheduled for July 3, 2026 at 2:00 PM ET: This market will resolve based on the final score of the Australia vs. Egypt match originally scheduled for July 3, 2026 at 2:00 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x5cf61c953e17a0306c6b537954a81236b45c217b35f638673483619bc7be9416",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782975297377_kzincs2tk9xdierujgxipsdb1ghsv9rj_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782975297377_kzincs2tk9xdierujgxipsdb1ghsv9rj_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782975297377_kzincs2tk9xdierujgxipsdb1ghsv9rj_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782975297377_kzincs2tk9xdierujgxipsdb1ghsv9rj_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "4114.5",
+        "liquidity": "162334.69",
+        "decimalPrecision": 3,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.131",
+            "chance": "0.1305",
+            "index": 0,
+            "tokenId": "83213266905134969850099846611569116279272278086481838873074940587124010690570"
+          },
+          {
+            "name": "No",
+            "price": "0.869",
+            "chance": "0.8695",
+            "index": 1,
+            "tokenId": "21098176519705417580917685878346141536590250816935373530027976424455797241425"
+          }
+        ]
+      },
+      {
+        "marketId": 6036814,
+        "externalId": "607194",
+        "title": "AUS 1 - 0 EGY",
+        "question": "Exact Score: Australia 1 - 0 Egypt?",
+        "description": "In the upcoming FIFA World Cup game between Australia and Egypt, scheduled for July 3, 2026 at 2:00 PM ET: This market will resolve based on the final score of the Australia vs. Egypt match originally scheduled for July 3, 2026 at 2:00 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xb31d5acf5d3514e18f8abbc2358db6cd8e6fc87deca97658f0d392670c599d2a",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782975297586_0q73n25v8tcnc5gmbmq3y95520ieykhi_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782975297586_0q73n25v8tcnc5gmbmq3y95520ieykhi_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782975297586_0q73n25v8tcnc5gmbmq3y95520ieykhi_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782975297586_0q73n25v8tcnc5gmbmq3y95520ieykhi_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "5339.86",
+        "liquidity": "87248.62",
+        "decimalPrecision": 3,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.108",
+            "chance": "0.1075",
+            "index": 0,
+            "tokenId": "98248305231820829448309700046180563555447537712676556043805552327923917248673"
+          },
+          {
+            "name": "No",
+            "price": "0.892",
+            "chance": "0.8925",
+            "index": 1,
+            "tokenId": "93997311237932323949956809223173223564634983663464816538677077961383706479772"
+          }
+        ]
+      },
+      {
+        "marketId": 6036818,
+        "externalId": "607199",
+        "title": "AUS 1 - 2 EGY",
+        "question": "Exact Score: Australia 1 - 2 Egypt?",
+        "description": "In the upcoming FIFA World Cup game between Australia and Egypt, scheduled for July 3, 2026 at 2:00 PM ET: This market will resolve based on the final score of the Australia vs. Egypt match originally scheduled for July 3, 2026 at 2:00 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xcabee72f99d277e3de869e29bfadb9637835759f504c908133064943b5cb92b0",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782975298115_t79n16ndgb8l0vz012l09f9wgbsucpq3_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782975298115_t79n16ndgb8l0vz012l09f9wgbsucpq3_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782975298115_t79n16ndgb8l0vz012l09f9wgbsucpq3_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782975298115_t79n16ndgb8l0vz012l09f9wgbsucpq3_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "31127.14",
+        "liquidity": "536336.42",
+        "decimalPrecision": 3,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.089",
+            "chance": "0.0885",
+            "index": 0,
+            "tokenId": "43436078261863802685814921885177549834863110486883437267428901786060542812075"
+          },
+          {
+            "name": "No",
+            "price": "0.911",
+            "chance": "0.9115",
+            "index": 1,
+            "tokenId": "100189756589756869762656106471887824401385694599837787116944546388263994130170"
+          }
+        ]
+      },
+      {
+        "marketId": 6036815,
+        "externalId": "607195",
+        "title": "AUS 0 - 2 EGY",
+        "question": "Exact Score: Australia 0 - 2 Egypt?",
+        "description": "In the upcoming FIFA World Cup game between Australia and Egypt, scheduled for July 3, 2026 at 2:00 PM ET: This market will resolve based on the final score of the Australia vs. Egypt match originally scheduled for July 3, 2026 at 2:00 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x5869df7a7f666cfccee6d211735a6f3be1b8d6f2ad14f3f7cb21abcf681a4a92",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782975297684_p34od9uhuu09pcvbatkt27117lmuvj41_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782975297684_p34od9uhuu09pcvbatkt27117lmuvj41_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782975297684_p34od9uhuu09pcvbatkt27117lmuvj41_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782975297684_p34od9uhuu09pcvbatkt27117lmuvj41_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "23716.65",
+        "liquidity": "426706.55",
+        "decimalPrecision": 3,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.085",
+            "chance": "0.0845",
+            "index": 0,
+            "tokenId": "41030806531327750229555481682287794059566346162636888066831981749493534077961"
+          },
+          {
+            "name": "No",
+            "price": "0.915",
+            "chance": "0.9155",
+            "index": 1,
+            "tokenId": "29509303305432209406554858803691703420191284874274828375280401575773267460078"
+          }
+        ]
+      },
+      {
+        "marketId": 6036820,
+        "externalId": "607200",
+        "title": "AUS 2 - 1 EGY",
+        "question": "Exact Score: Australia 2 - 1 Egypt?",
+        "description": "In the upcoming FIFA World Cup game between Australia and Egypt, scheduled for July 3, 2026 at 2:00 PM ET: This market will resolve based on the final score of the Australia vs. Egypt match originally scheduled for July 3, 2026 at 2:00 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xcdd2dc828cc3c1e9a4b4d9b572614cf15b93f9c8212534442b7d8e017f9aa4be",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782975298219_qklz8sz0ib35xoizhdevtld53jv01jdz_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782975298219_qklz8sz0ib35xoizhdevtld53jv01jdz_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782975298219_qklz8sz0ib35xoizhdevtld53jv01jdz_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782975298219_qklz8sz0ib35xoizhdevtld53jv01jdz_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "18847.44",
+        "liquidity": "590068.23",
+        "decimalPrecision": 3,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.063",
+            "chance": "0.0625",
+            "index": 0,
+            "tokenId": "110864127933251102171646095130624935802418865551795486610932036210324805070492"
+          },
+          {
+            "name": "No",
+            "price": "0.937",
+            "chance": "0.9375",
+            "index": 1,
+            "tokenId": "102583232341249898152571964007028546351678696716652620382134651205733925163124"
+          }
+        ]
+      },
+      {
+        "marketId": 6036817,
+        "externalId": "607197",
+        "title": "AUS 2 - 0 EGY",
+        "question": "Exact Score: Australia 2 - 0 Egypt?",
+        "description": "In the upcoming FIFA World Cup game between Australia and Egypt, scheduled for July 3, 2026 at 2:00 PM ET: This market will resolve based on the final score of the Australia vs. Egypt match originally scheduled for July 3, 2026 at 2:00 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xb9240d1c1a7514b7b0b20aa71825035a212c68d055e5fbff6cd082b56c088298",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782975297898_nqjvr4djki2q2etn1q54zune66i52exj_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782975297898_nqjvr4djki2q2etn1q54zune66i52exj_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782975297898_nqjvr4djki2q2etn1q54zune66i52exj_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782975297898_nqjvr4djki2q2etn1q54zune66i52exj_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "16419.42",
+        "liquidity": "585651.37",
+        "decimalPrecision": 3,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.046",
+            "chance": "0.0455",
+            "index": 0,
+            "tokenId": "54384515400146206705743646828251456589487104312958786411387470539645153374814"
+          },
+          {
+            "name": "No",
+            "price": "0.954",
+            "chance": "0.9545",
+            "index": 1,
+            "tokenId": "9557723252728714236558430131704401044746560660215860623724978237046468515261"
+          }
+        ]
+      },
+      {
+        "marketId": 6036822,
+        "externalId": "607203",
+        "title": "AUS 2 - 2 EGY",
+        "question": "Exact Score: Australia 2 - 2 Egypt?",
+        "description": "In the upcoming FIFA World Cup game between Australia and Egypt, scheduled for July 3, 2026 at 2:00 PM ET: This market will resolve based on the final score of the Australia vs. Egypt match originally scheduled for July 3, 2026 at 2:00 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x04715a0dca3d0a0ff225ac04b1c9e52fe9c4d1ef92c6ae16ffd28fe795cc6a21",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782975298540_rsofwvvaqoodwdzib8wiypm7cpabhxrg_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782975298540_rsofwvvaqoodwdzib8wiypm7cpabhxrg_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782975298540_rsofwvvaqoodwdzib8wiypm7cpabhxrg_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782975298540_rsofwvvaqoodwdzib8wiypm7cpabhxrg_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "18670.46",
+        "liquidity": "583869.81",
+        "decimalPrecision": 3,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.043",
+            "chance": "0.0425",
+            "index": 0,
+            "tokenId": "11933939147433978521230778823036614520676337652580501370871967652721126146696"
+          },
+          {
+            "name": "No",
+            "price": "0.957",
+            "chance": "0.9575",
+            "index": 1,
+            "tokenId": "49416048836308429431607144739380121209077826401082797799750089198346337076008"
+          }
+        ]
+      },
+      {
+        "marketId": 6036819,
+        "externalId": "607202",
+        "title": "AUS 1 - 3 EGY",
+        "question": "Exact Score: Australia 1 - 3 Egypt?",
+        "description": "In the upcoming FIFA World Cup game between Australia and Egypt, scheduled for July 3, 2026 at 2:00 PM ET: This market will resolve based on the final score of the Australia vs. Egypt match originally scheduled for July 3, 2026 at 2:00 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xec06fa97c217b52effbbe887b0ded950c66b3a6e4df6ec07183be53c8c2f03be",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782975298436_qzytlax2nu02ax5j1ze44f8y7gmatnyl_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782975298436_qzytlax2nu02ax5j1ze44f8y7gmatnyl_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782975298436_qzytlax2nu02ax5j1ze44f8y7gmatnyl_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782975298436_qzytlax2nu02ax5j1ze44f8y7gmatnyl_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "18363.14",
+        "liquidity": "585050.46",
+        "decimalPrecision": 3,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.039",
+            "chance": "0.0385",
+            "index": 0,
+            "tokenId": "104451866961272147387762130336777791803159534660453511151667468717991410955267"
+          },
+          {
+            "name": "No",
+            "price": "0.961",
+            "chance": "0.9615",
+            "index": 1,
+            "tokenId": "105277065660892775773923394905301650608415978834066136903376067630020630824623"
+          }
+        ]
+      },
+      {
+        "marketId": 6036826,
+        "externalId": "607208",
+        "title": "Any Other Score",
+        "question": "Exact Score: Any Other Score?",
+        "description": "In the upcoming FIFA World Cup game between Australia and Egypt, scheduled for July 3, 2026 at 2:00 PM ET: This market will resolve based on the final score of the Australia vs. Egypt match originally scheduled for July 3, 2026 at 2:00 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xe51cea3daebc72696828b1a8518b47ecfecc50e1c45cd53b91440ed4dcf0fb5b",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782975299055_fa19s9btof26iwrk2hpw78o9fmy4d42t_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782975299055_fa19s9btof26iwrk2hpw78o9fmy4d42t_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782975299055_fa19s9btof26iwrk2hpw78o9fmy4d42t_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782975299055_fa19s9btof26iwrk2hpw78o9fmy4d42t_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "5981.32",
+        "liquidity": "357118.07",
+        "decimalPrecision": 3,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.032",
+            "chance": "0.0315",
+            "index": 0,
+            "tokenId": "30052615886983957989147563893218729503419230404402072565756421776851406326936"
+          },
+          {
+            "name": "No",
+            "price": "0.968",
+            "chance": "0.9685",
+            "index": 1,
+            "tokenId": "41155219121096308953941477709307348687615715527304436001151664798916521642229"
+          }
+        ]
+      },
+      {
+        "marketId": 6036825,
+        "externalId": "607198",
+        "title": "AUS 0 - 3 EGY",
+        "question": "Exact Score: Australia 0 - 3 Egypt?",
+        "description": "In the upcoming FIFA World Cup game between Australia and Egypt, scheduled for July 3, 2026 at 2:00 PM ET: This market will resolve based on the final score of the Australia vs. Egypt match originally scheduled for July 3, 2026 at 2:00 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x18c350ce02429ea199dd86562aa18bc1d25788b724453987a2b74df9f614657f",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782975298006_mqt8f4987zy4artdzsz389rlebmhdktk_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782975298006_mqt8f4987zy4artdzsz389rlebmhdktk_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782975298006_mqt8f4987zy4artdzsz389rlebmhdktk_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782975298006_mqt8f4987zy4artdzsz389rlebmhdktk_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "12915.29",
+        "liquidity": "131206.43",
+        "decimalPrecision": 3,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.027",
+            "chance": "0.0265",
+            "index": 0,
+            "tokenId": "56578023295539243871747494793430869478882359187830287220518619828831304841210"
+          },
+          {
+            "name": "No",
+            "price": "0.973",
+            "chance": "0.9735",
+            "index": 1,
+            "tokenId": "93341716614509894562918792704412381306249697102288392266562908229589511693435"
+          }
+        ]
+      },
+      {
+        "marketId": 6036824,
+        "externalId": "607205",
+        "title": "AUS 2 - 3 EGY",
+        "question": "Exact Score: Australia 2 - 3 Egypt?",
+        "description": "In the upcoming FIFA World Cup game between Australia and Egypt, scheduled for July 3, 2026 at 2:00 PM ET: This market will resolve based on the final score of the Australia vs. Egypt match originally scheduled for July 3, 2026 at 2:00 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xb9136d05425d6fa1bfaa7d21c8f7ba562c6ed61b3b553d34bc5a64fbcd0de3e6",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782975298743_kthms8jrtc7amijstw3986h8278mlpa5_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782975298743_kthms8jrtc7amijstw3986h8278mlpa5_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782975298743_kthms8jrtc7amijstw3986h8278mlpa5_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782975298743_kthms8jrtc7amijstw3986h8278mlpa5_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "20005.71",
+        "liquidity": "665409.53",
+        "decimalPrecision": 3,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.02",
+            "chance": "0.0195",
+            "index": 0,
+            "tokenId": "98833559448217023025925640009700571641145070849766759207170386502222261190262"
+          },
+          {
+            "name": "No",
+            "price": "0.98",
+            "chance": "0.9805",
+            "index": 1,
+            "tokenId": "76501847610565836904285897680581240639496604533256054062027345280929696845239"
+          }
+        ]
+      },
+      {
+        "marketId": 6036813,
+        "externalId": "607206",
+        "title": "AUS 3 - 2 EGY",
+        "question": "Exact Score: Australia 3 - 2 Egypt?",
+        "description": "In the upcoming FIFA World Cup game between Australia and Egypt, scheduled for July 3, 2026 at 2:00 PM ET: This market will resolve based on the final score of the Australia vs. Egypt match originally scheduled for July 3, 2026 at 2:00 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x7092ab97f423650f4aa399700bab2705a1f869e93e70d3f1ff4af04d95f3bdbe",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782975298843_bdlg85q4bmq8m4nmebt1oqj41880a3ar_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782975298843_bdlg85q4bmq8m4nmebt1oqj41880a3ar_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782975298843_bdlg85q4bmq8m4nmebt1oqj41880a3ar_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782975298843_bdlg85q4bmq8m4nmebt1oqj41880a3ar_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "16014.51",
+        "liquidity": "587966.09",
+        "decimalPrecision": 3,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.016",
+            "chance": "0.0155",
+            "index": 0,
+            "tokenId": "15928265146769045400237821642437506549281074223686406283801331291335937260837"
+          },
+          {
+            "name": "No",
+            "price": "0.984",
+            "chance": "0.9845",
+            "index": 1,
+            "tokenId": "75389559651178522471805390796419595780962268379163849320829418286253441891419"
+          }
+        ]
+      },
+      {
+        "marketId": 6036823,
+        "externalId": "607204",
+        "title": "AUS 3 - 1 EGY",
+        "question": "Exact Score: Australia 3 - 1 Egypt?",
+        "description": "In the upcoming FIFA World Cup game between Australia and Egypt, scheduled for July 3, 2026 at 2:00 PM ET: This market will resolve based on the final score of the Australia vs. Egypt match originally scheduled for July 3, 2026 at 2:00 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xaf4338fb27af0140b4f10a5585d968b8f1a277395d6cfce99d776ad27e5df19b",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782975298645_rf69570vdj65i86gmq2ts7995p9fru1j_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782975298645_rf69570vdj65i86gmq2ts7995p9fru1j_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782975298645_rf69570vdj65i86gmq2ts7995p9fru1j_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782975298645_rf69570vdj65i86gmq2ts7995p9fru1j_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "4833.86",
+        "liquidity": "667376.37",
+        "decimalPrecision": 3,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.015",
+            "chance": "0.0135",
+            "index": 0,
+            "tokenId": "15922457740826957300805388924115035737360231730414800535479325215211671474172"
+          },
+          {
+            "name": "No",
+            "price": "0.985",
+            "chance": "0.9865",
+            "index": 1,
+            "tokenId": "4884361923560489232921866523811973968890957807092054609391245003865231354460"
+          }
+        ]
+      },
+      {
+        "marketId": 6036821,
+        "externalId": "607201",
+        "title": "AUS 3 - 0 EGY",
+        "question": "Exact Score: Australia 3 - 0 Egypt?",
+        "description": "In the upcoming FIFA World Cup game between Australia and Egypt, scheduled for July 3, 2026 at 2:00 PM ET: This market will resolve based on the final score of the Australia vs. Egypt match originally scheduled for July 3, 2026 at 2:00 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x6b82ce287693e6fe5bc5df8c89709a5a36b271cb0639b193c01e8da4e695c926",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782975298320_dcdr4wbcessrdpqid58o41hv4chpbvqv_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782975298320_dcdr4wbcessrdpqid58o41hv4chpbvqv_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782975298320_dcdr4wbcessrdpqid58o41hv4chpbvqv_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782975298320_dcdr4wbcessrdpqid58o41hv4chpbvqv_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "3438.5",
+        "liquidity": "594910.08",
+        "decimalPrecision": 3,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.011",
+            "chance": "0.0105",
+            "index": 0,
+            "tokenId": "35802607737373331594438256052625776807302425161213007750412928889557257633641"
+          },
+          {
+            "name": "No",
+            "price": "0.989",
+            "chance": "0.9895",
+            "index": 1,
+            "tokenId": "112294786447082790261850009645057303573174150686191577186496531911879080355523"
+          }
+        ]
+      },
+      {
+        "marketId": 6036812,
+        "externalId": "607207",
+        "title": "AUS 3 - 3 EGY",
+        "question": "Exact Score: Australia 3 - 3 Egypt?",
+        "description": "In the upcoming FIFA World Cup game between Australia and Egypt, scheduled for July 3, 2026 at 2:00 PM ET: This market will resolve based on the final score of the Australia vs. Egypt match originally scheduled for July 3, 2026 at 2:00 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x2dbf69a7038caf8e44c8b843a78bfc9183389d51d871e52f3830f0641ed6d8c3",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782975298950_446n4lk6bheg490k1m74l0v30oek0ms1_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782975298950_446n4lk6bheg490k1m74l0v30oek0ms1_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782975298950_446n4lk6bheg490k1m74l0v30oek0ms1_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782975298950_446n4lk6bheg490k1m74l0v30oek0ms1_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "28458.76",
+        "liquidity": "587758.64",
+        "decimalPrecision": 3,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.013",
+            "chance": "0.0085",
+            "index": 0,
+            "tokenId": "66598612791166716550088038191125709174764346171449014147755361517038873867978"
+          },
+          {
+            "name": "No",
+            "price": "0.987",
+            "chance": "0.9915",
+            "index": 1,
+            "tokenId": "100046990784801818366025150642303169020458147394572852355534530455784783227098"
+          }
+        ]
+      }
+    ],
+    "tradeVolume": "269534.6",
+    "liquidity": "8291616.6",
+    "publishedAt": 1782556322945,
+    "startDate": 1783101600000,
+    "endDate": 1783112400000,
+    "status": "REGISTERED"
+  },
+  {
+    "marketTopicId": 4366003,
+    "vendor": "PREDICT_FUN",
+    "chainId": "56",
+    "slug": "fifwc-aus-egy-2026-07-03-total-corners",
+    "title": "Australia vs. Egypt - Total Corners",
+    "question": "Australia vs. Egypt: O/U 8.5 Total Corners",
+    "imageUrl": "https://static.predict.fun/fifwc",
+    "thumbnailPaths": [
+      {
+        "size": "800x800",
+        "path": "file-center/web3-prediction/S3/topic/1783019246186_q4m7kgfkflms2ndgb9tdin032sjudzqd_NEF_q80_800x800"
+      },
+      {
+        "size": "400x400",
+        "path": "file-center/web3-prediction/S3/topic/1783019246186_q4m7kgfkflms2ndgb9tdin032sjudzqd_NEF_q80_400x400"
+      },
+      {
+        "size": "96x96",
+        "path": "file-center/web3-prediction/S3/topic/1783019246186_q4m7kgfkflms2ndgb9tdin032sjudzqd_NEF_q80_96x96"
+      },
+      {
+        "size": "64x64",
+        "path": "file-center/web3-prediction/S3/topic/1783019246186_q4m7kgfkflms2ndgb9tdin032sjudzqd_NEF_q80_64x64"
+      }
+    ],
+    "topicType": "GROUPED",
+    "variantData": {
+      "type": "SPORTS_FIFA_WORLD_CUP"
+    },
+    "participantCount": 268,
+    "collateral": "USDT",
+    "feeRateBps": 200,
+    "slippageBps": 1000,
+    "isYieldBearing": false,
+    "exchangeContractAddress": "0x365fb81bd4A24D6303cd2F19c349dE6894D8d58A",
+    "markets": [
+      {
+        "marketId": 6370389,
+        "externalId": "637319",
+        "title": "Total Corners: O/U 8.5",
+        "question": "Australia vs. Egypt: O/U 8.5 Total Corners",
+        "description": "In the upcoming FIFA World Cup game between Australia and Egypt, scheduled for July 3 at 2:00 PM ET: This market will resolve to \"Over\" if there are 9 or more total corners taken in this game (combining corners for both teams). If the total number of corners is fewer than 9, this market will resolve to \"Under\". Markets on number of corners refers to number of corners taken and not corners awarded. If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50. This market refers only to corners taken within the first 90 minutes of regular play plus stoppage time. Corners awarded but not taken will not count. Corners awarded during extra time or penalty shootouts do not count. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 24 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x308f66fa5b038996c87531ce78f25f7e167b27072cf03dad402bfbf8f0e5191b",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1783019246208_38n1u7byv4h7z4t6sf0di96geglya615_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1783019246208_38n1u7byv4h7z4t6sf0di96geglya615_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1783019246208_38n1u7byv4h7z4t6sf0di96geglya615_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1783019246208_38n1u7byv4h7z4t6sf0di96geglya615_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "14182.07",
+        "liquidity": "430661.48",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Over 8.5",
+            "price": "0.5",
+            "chance": "0.495",
+            "index": 0,
+            "tokenId": "36542853757831256618460307707815173294631335838956865003039530004759481635883"
+          },
+          {
+            "name": "Under 8.5",
+            "price": "0.5",
+            "chance": "0.505",
+            "index": 1,
+            "tokenId": "89421364186254268471497318830062730749691905311452637212699539637011778811932"
+          }
+        ]
+      }
+    ],
+    "tradeVolume": "14182.08",
+    "liquidity": "430661.48",
+    "publishedAt": 1783019243975,
+    "startDate": 1783101600000,
+    "endDate": 1783108800000,
+    "status": "REGISTERED"
+  },
+  {
+    "marketTopicId": 4234660,
+    "vendor": "PREDICT_FUN",
+    "chainId": "56",
+    "slug": "fifwc-aus-egy-2026-07-03-more-markets",
+    "title": "Australia vs. Egypt - More Markets",
+    "question": "Spread: Australia (-1.5)",
+    "imageUrl": "https://static.predict.fun/fifwc",
+    "thumbnailPaths": [
+      {
+        "size": "800x800",
+        "path": "file-center/web3-prediction/S3/topic/1782975295474_nd0ld5mcuoiubqjj36wvl5rwxyghori6_NEF_q80_800x800"
+      },
+      {
+        "size": "400x400",
+        "path": "file-center/web3-prediction/S3/topic/1782975295474_nd0ld5mcuoiubqjj36wvl5rwxyghori6_NEF_q80_400x400"
+      },
+      {
+        "size": "96x96",
+        "path": "file-center/web3-prediction/S3/topic/1782975295474_nd0ld5mcuoiubqjj36wvl5rwxyghori6_NEF_q80_96x96"
+      },
+      {
+        "size": "64x64",
+        "path": "file-center/web3-prediction/S3/topic/1782975295474_nd0ld5mcuoiubqjj36wvl5rwxyghori6_NEF_q80_64x64"
+      }
+    ],
+    "topicType": "GROUPED",
+    "variantData": {
+      "type": "SPORTS_FIFA_WORLD_CUP"
+    },
+    "participantCount": 997,
+    "collateral": "USDT",
+    "feeRateBps": 200,
+    "slippageBps": 1000,
+    "isYieldBearing": true,
+    "exchangeContractAddress": "0x8A289d458f5a134bA40015085A8F50Ffb681B41d",
+    "markets": [
+      {
+        "marketId": 6038343,
+        "externalId": "607314",
+        "title": "O/U 0.5",
+        "question": "Australia vs. Egypt: O/U 0.5",
+        "description": "In the upcoming FIFA World Cup game between Australia and Egypt, scheduled for July 3 at 2:00 PM ET:\n\nThis market will resolve to \"Over\" if Australia and Egypt combine to score 1 or more goals in this game.\n\nIf the combined total is less than 1, this market will resolve to \"Under\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nIf the game is started but not completed, this market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xa20184d163b768c6bd9b5780d5358be0f1aa1b44d2b0840e877bfb7e2444cb7c",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782975286728_w89yhefzdbbi081ioa86e8i3ns6k3cn2_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782975286728_w89yhefzdbbi081ioa86e8i3ns6k3cn2_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782975286728_w89yhefzdbbi081ioa86e8i3ns6k3cn2_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782975286728_w89yhefzdbbi081ioa86e8i3ns6k3cn2_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "6532.44",
+        "liquidity": "1926382.36",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Over",
+            "price": "0.87",
+            "chance": "0.865",
+            "index": 0,
+            "tokenId": "104659549285585238845680840469572940718801073844808511438328008214510688936832"
+          },
+          {
+            "name": "Under",
+            "price": "0.13",
+            "chance": "0.135",
+            "index": 1,
+            "tokenId": "11287692648872047699461766423826133921806563829956243363472903986614662210215"
+          }
+        ]
+      },
+      {
+        "marketId": 6038344,
+        "externalId": "607315",
+        "title": "O/U 1.5",
+        "question": "Australia vs. Egypt: O/U 1.5",
+        "description": "In the upcoming FIFA World Cup game between Australia and Egypt, scheduled for July 3 at 2:00 PM ET:\n\nThis market will resolve to \"Over\" if Australia and Egypt combine to score 2 or more goals in this game.\n\nIf the combined total is less than 2, this market will resolve to \"Under\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nIf the game is started but not completed, this market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x6ba825f88a1b5585d937d6ed756aabf49c769d1a4c65d56ef4da9828c1c1b580",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782975286835_z208agc7ad35mbyvpt0jkdceuvopmakp_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782975286835_z208agc7ad35mbyvpt0jkdceuvopmakp_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782975286835_z208agc7ad35mbyvpt0jkdceuvopmakp_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782975286835_z208agc7ad35mbyvpt0jkdceuvopmakp_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "30471.04",
+        "liquidity": "878920.79",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Over",
+            "price": "0.63",
+            "chance": "0.625",
+            "index": 0,
+            "tokenId": "91417303917741151514219836454589769294755020005297849918617788831918636871624"
+          },
+          {
+            "name": "Under",
+            "price": "0.37",
+            "chance": "0.375",
+            "index": 1,
+            "tokenId": "61861286119604576173097552164248528957574460674986261010901253911153891722566"
+          }
+        ]
+      },
+      {
+        "marketId": 6038352,
+        "externalId": "607323",
+        "title": "Both Teams to Score",
+        "question": "Australia vs. Egypt: Both Teams to Score",
+        "description": "In the upcoming FIFA World Cup game between Australia and Egypt, scheduled for July 3 at 2:00 PM ET:\n\nThis market will resolve to \"Yes\" if both Australia and Egypt each score at least one goal during the game.\n\nThis market will resolve to \"No\" if either team fails to score (i.e., if one or both teams finish with zero goals).\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nIf the game is started but not completed, this market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xcc52e144eae2f2a206b5320d4f3b16dad0a5cceda94d6be776f8b064c0d9bee2",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782975287678_unb4nlmybxzbht3lkf35gtb1ptf2zp0k_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782975287678_unb4nlmybxzbht3lkf35gtb1ptf2zp0k_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782975287678_unb4nlmybxzbht3lkf35gtb1ptf2zp0k_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782975287678_unb4nlmybxzbht3lkf35gtb1ptf2zp0k_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "19514.88",
+        "liquidity": "903623.54",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.45",
+            "chance": "0.445",
+            "index": 0,
+            "tokenId": "30847007919797528371892066720700157701147919105581993241646497741267645181063"
+          },
+          {
+            "name": "No",
+            "price": "0.55",
+            "chance": "0.555",
+            "index": 1,
+            "tokenId": "8023161671909145461463998091552641880650552009843238248856452469892262975829"
+          }
+        ]
+      },
+      {
+        "marketId": 6108617,
+        "externalId": "622006",
+        "title": "Team to Advance",
+        "question": "Australia vs. Egypt: Team to Advance",
+        "description": "In the upcoming FIFA World Cup game between Australia and Egypt, scheduled for July 3 at 2:00 PM ET: This market will resolve to \"Australia\" if Australia is the team that officially advances from this match to the next round of the FIFA World Cup, or is crowned winner of the competition if this match is the final. This market will resolve to \"Egypt\" if Egypt is the team that officially advances from this match to the next round of the FIFA World Cup, or is crowned winner of the competition if this match is the final. This includes advancement after regulation, extra time, a penalty shoot-out, or an official ruling by the competition organizer such as forfeit, abandonment, or disqualification. If the game is postponed, this market will remain open until the game has been completed or a team is officially declared to advance. If the game is canceled entirely and no team advances from this match, this market will resolve 50-50. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 24 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xc30be59ef39e5d14eeaf7797e045f0627c4db8a3b2b35f9a497093177c4c4ac7",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782975287778_7ej83tgnllkydaw682ydjehphnq5kukw_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782975287778_7ej83tgnllkydaw682ydjehphnq5kukw_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782975287778_7ej83tgnllkydaw682ydjehphnq5kukw_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782975287778_7ej83tgnllkydaw682ydjehphnq5kukw_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "35852.42",
+        "liquidity": "611622.23",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "AUS",
+            "price": "0.42",
+            "chance": "0.415",
+            "index": 0,
+            "tokenId": "88794969323866599826852616306452153780955851819971735117987576113640983842697"
+          },
+          {
+            "name": "EGY",
+            "price": "0.58",
+            "chance": "0.585",
+            "index": 1,
+            "tokenId": "55014899943963311062653825479576592251049900585930891464684192917143713531470"
+          }
+        ]
+      },
+      {
+        "marketId": 6038345,
+        "externalId": "607316",
+        "title": "O/U 2.5",
+        "question": "Australia vs. Egypt: O/U 2.5",
+        "description": "In the upcoming FIFA World Cup game between Australia and Egypt, scheduled for July 3 at 2:00 PM ET:\n\nThis market will resolve to \"Over\" if Australia and Egypt combine to score 3 or more goals in this game.\n\nIf the combined total is less than 3, this market will resolve to \"Under\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nIf the game is started but not completed, this market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xd8e657829fd3487219b71bf4f8d33d10d6ec88fd8afb1782b3074a4a7febac23",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782975286947_6qm7e3u55owinznh8qtw1292ysuys96y_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782975286947_6qm7e3u55owinznh8qtw1292ysuys96y_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782975286947_6qm7e3u55owinznh8qtw1292ysuys96y_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782975286947_6qm7e3u55owinznh8qtw1292ysuys96y_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "11299.34",
+        "liquidity": "516653.46",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Over",
+            "price": "0.34",
+            "chance": "0.335",
+            "index": 0,
+            "tokenId": "16690276096533540063391612273848340639128410404805866695611820804164321009823"
+          },
+          {
+            "name": "Under",
+            "price": "0.66",
+            "chance": "0.665",
+            "index": 1,
+            "tokenId": "78361893863558063826412226827337690934729996142321415998835398311115876380682"
+          }
+        ]
+      },
+      {
+        "marketId": 6038334,
+        "externalId": "607305",
+        "title": "Egypt (-1.5)",
+        "question": "Spread: Egypt (-1.5)",
+        "description": "In the upcoming FIFA World Cup game, scheduled for July 3 at 2:00 PM ET:\n\nThis market will resolve to \"Egypt\" if Egypt win the game by 2 or more goals.\n\nOtherwise, this market will resolve to \"Australia\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xb90fc2e5d6aa6a863ce8dfa79050c4040cce8e34182c369efa7b18a55afab8f4",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782975285724_do1yewchge5xbt7rsdlrkiwrom7r8p8r_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782975285724_do1yewchge5xbt7rsdlrkiwrom7r8p8r_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782975285724_do1yewchge5xbt7rsdlrkiwrom7r8p8r_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782975285724_do1yewchge5xbt7rsdlrkiwrom7r8p8r_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "9820.09",
+        "liquidity": "297415.2",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "EGY",
+            "price": "0.17",
+            "chance": "0.165",
+            "index": 0,
+            "tokenId": "6888180713097662554196164559725928860787584571409118887364584823625407572723"
+          },
+          {
+            "name": "AUS",
+            "price": "0.83",
+            "chance": "0.835",
+            "index": 1,
+            "tokenId": "93677574334785667223158521157313925033725114470778462653353179875778730375113"
+          }
+        ]
+      },
+      {
+        "marketId": 6038346,
+        "externalId": "607317",
+        "title": "O/U 3.5",
+        "question": "Australia vs. Egypt: O/U 3.5",
+        "description": "In the upcoming FIFA World Cup game between Australia and Egypt, scheduled for July 3 at 2:00 PM ET:\n\nThis market will resolve to \"Over\" if Australia and Egypt combine to score 4 or more goals in this game.\n\nIf the combined total is less than 4, this market will resolve to \"Under\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nIf the game is started but not completed, this market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x6d4d681f2c5dd88dfe5194dc0268353565999cfa210a7f61c09694571b4835a7",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782975287049_n782ye4du6fnzvj4zmixv7dd7gw97yws_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782975287049_n782ye4du6fnzvj4zmixv7dd7gw97yws_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782975287049_n782ye4du6fnzvj4zmixv7dd7gw97yws_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782975287049_n782ye4du6fnzvj4zmixv7dd7gw97yws_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "4674.19",
+        "liquidity": "284982.81",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Over",
+            "price": "0.16",
+            "chance": "0.155",
+            "index": 0,
+            "tokenId": "21595837296279845094561963271539009495612968099098715718617708887157106754859"
+          },
+          {
+            "name": "Under",
+            "price": "0.84",
+            "chance": "0.845",
+            "index": 1,
+            "tokenId": "107442935292064999283573039017284264656711076531673774589017106497676035373786"
+          }
+        ]
+      },
+      {
+        "marketId": 6038333,
+        "externalId": "607304",
+        "title": "Australia (-1.5)",
+        "question": "Spread: Australia (-1.5)",
+        "description": "In the upcoming FIFA World Cup game, scheduled for July 3 at 2:00 PM ET:\n\nThis market will resolve to \"Australia\" if Australia win the game by 2 or more goals.\n\nOtherwise, this market will resolve to \"Egypt\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x06a9f8fc46de538b89fb4d19f774e7b9b1a87fa623742cb3a61b722707bbf374",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782975285626_f0q4t9t325k9apxvwt87zphki6qr34v9_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782975285626_f0q4t9t325k9apxvwt87zphki6qr34v9_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782975285626_f0q4t9t325k9apxvwt87zphki6qr34v9_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782975285626_f0q4t9t325k9apxvwt87zphki6qr34v9_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "496.35",
+        "liquidity": "194039",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "AUS",
+            "price": "0.09",
+            "chance": "0.085",
+            "index": 0,
+            "tokenId": "6273760921746065992950128892361337210394151479709370700718052501364853692548"
+          },
+          {
+            "name": "EGY",
+            "price": "0.91",
+            "chance": "0.915",
+            "index": 1,
+            "tokenId": "69858199054978652184090099118561269191277982385612045615532862095678102957920"
+          }
+        ]
+      },
+      {
+        "marketId": 6038347,
+        "externalId": "607318",
+        "title": "O/U 4.5",
+        "question": "Australia vs. Egypt: O/U 4.5",
+        "description": "In the upcoming FIFA World Cup game between Australia and Egypt, scheduled for July 3 at 2:00 PM ET:\n\nThis market will resolve to \"Over\" if Australia and Egypt combine to score 5 or more goals in this game.\n\nIf the combined total is less than 5, this market will resolve to \"Under\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nIf the game is started but not completed, this market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xbede2fa1df496361d6b6b7da2a200e0345c156c8b198e89374412bc004c1a5c1",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782975287155_0nv0pi6sj40q2s7ar2ojqhvwmasns3xp_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782975287155_0nv0pi6sj40q2s7ar2ojqhvwmasns3xp_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782975287155_0nv0pi6sj40q2s7ar2ojqhvwmasns3xp_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782975287155_0nv0pi6sj40q2s7ar2ojqhvwmasns3xp_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "4375.43",
+        "liquidity": "200722.94",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Over",
+            "price": "0.06",
+            "chance": "0.055",
+            "index": 0,
+            "tokenId": "97251185323371022290912138058195195591041509747589194688773727115510237256392"
+          },
+          {
+            "name": "Under",
+            "price": "0.94",
+            "chance": "0.945",
+            "index": 1,
+            "tokenId": "103509453736982495155116448712585575677923070436667002982235064506205513416180"
+          }
+        ]
+      },
+      {
+        "marketId": 6038336,
+        "externalId": "607307",
+        "title": "Egypt (-2.5)",
+        "question": "Spread: Egypt (-2.5)",
+        "description": "In the upcoming FIFA World Cup game, scheduled for July 3 at 2:00 PM ET:\n\nThis market will resolve to \"Egypt\" if Egypt win the game by 3 or more goals.\n\nOtherwise, this market will resolve to \"Australia\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x6c99f4d66259f59ebe9ea49089d5d333a072d081a1e67e311d9a415ace5eab82",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782975285918_8awnxgnj12r0bm0zvo7dmuah32vttaeh_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782975285918_8awnxgnj12r0bm0zvo7dmuah32vttaeh_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782975285918_8awnxgnj12r0bm0zvo7dmuah32vttaeh_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782975285918_8awnxgnj12r0bm0zvo7dmuah32vttaeh_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "0",
+        "liquidity": "157771.92",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "EGY",
+            "price": "0.05",
+            "chance": "0.045",
+            "index": 0,
+            "tokenId": "693930976304858711069107729782316509065306173815457094404800637034814243295"
+          },
+          {
+            "name": "AUS",
+            "price": "0.95",
+            "chance": "0.955",
+            "index": 1,
+            "tokenId": "54139843124507498988773226786297886367528243554977589661398243041300092299194"
+          }
+        ]
+      },
+      {
+        "marketId": 6038335,
+        "externalId": "607306",
+        "title": "Australia (-2.5)",
+        "question": "Spread: Australia (-2.5)",
+        "description": "In the upcoming FIFA World Cup game, scheduled for July 3 at 2:00 PM ET:\n\nThis market will resolve to \"Australia\" if Australia win the game by 3 or more goals.\n\nOtherwise, this market will resolve to \"Egypt\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x2758bc521f5c7dad3b197d0311f3bae0f080b28c31f25e8d81cd8a547571d044",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782975285820_7n0pg7cxb3zq6nb1079q0mnr8vv7dwed_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782975285820_7n0pg7cxb3zq6nb1079q0mnr8vv7dwed_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782975285820_7n0pg7cxb3zq6nb1079q0mnr8vv7dwed_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782975285820_7n0pg7cxb3zq6nb1079q0mnr8vv7dwed_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "566.06",
+        "liquidity": "201572.82",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "AUS",
+            "price": "0.03",
+            "chance": "0.025",
+            "index": 0,
+            "tokenId": "27498493057159584124904683685544914661541771111576025231424370205128546761395"
+          },
+          {
+            "name": "EGY",
+            "price": "0.97",
+            "chance": "0.975",
+            "index": 1,
+            "tokenId": "93348870225751789543463468853035468105004348961421350736000846398384065804932"
+          }
+        ]
+      },
+      {
+        "marketId": 6038348,
+        "externalId": "607319",
+        "title": "O/U 5.5",
+        "question": "Australia vs. Egypt: O/U 5.5",
+        "description": "In the upcoming FIFA World Cup game between Australia and Egypt, scheduled for July 3 at 2:00 PM ET:\n\nThis market will resolve to \"Over\" if Australia and Egypt combine to score 6 or more goals in this game.\n\nIf the combined total is less than 6, this market will resolve to \"Under\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nIf the game is started but not completed, this market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xdc1b068f8d042430ee9bacea65ab9631ed20125e99dd29a6567b41d0e36e84a3",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782975287258_gi5bwfd4c1xfagev6lv5xqqwfdjw4ch3_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782975287258_gi5bwfd4c1xfagev6lv5xqqwfdjw4ch3_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782975287258_gi5bwfd4c1xfagev6lv5xqqwfdjw4ch3_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782975287258_gi5bwfd4c1xfagev6lv5xqqwfdjw4ch3_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "1256.05",
+        "liquidity": "204244.78",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Over",
+            "price": "0.03",
+            "chance": "0.025",
+            "index": 0,
+            "tokenId": "5284775662972902139724772168043337803283980685828267529672090732220284242161"
+          },
+          {
+            "name": "Under",
+            "price": "0.97",
+            "chance": "0.975",
+            "index": 1,
+            "tokenId": "12925317485166583296534475460585164869849651936712642162304505704137470185120"
+          }
+        ]
+      },
+      {
+        "marketId": 6038340,
+        "externalId": "607311",
+        "title": "Egypt (-4.5)",
+        "question": "Spread: Egypt (-4.5)",
+        "description": "In the upcoming FIFA World Cup game, scheduled for July 3 at 2:00 PM ET:\n\nThis market will resolve to \"Egypt\" if Egypt win the game by 5 or more goals.\n\nOtherwise, this market will resolve to \"Australia\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x1650f264108f4ab3d01f366ce76e4b8ee485860c6dcb081ac17f675d09785362",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782975286398_35l7pagbvpfufzl5bzoc4ar0b4kbxpss_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782975286398_35l7pagbvpfufzl5bzoc4ar0b4kbxpss_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782975286398_35l7pagbvpfufzl5bzoc4ar0b4kbxpss_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782975286398_35l7pagbvpfufzl5bzoc4ar0b4kbxpss_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "1502",
+        "liquidity": "5344.99",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "EGY",
+            "price": "0.02",
+            "chance": "0.02",
+            "index": 0,
+            "tokenId": "78839289593892384488904649672406959286283507140582244295883106455449523841278"
+          },
+          {
+            "name": "AUS",
+            "price": "0.98",
+            "chance": "0.98",
+            "index": 1,
+            "tokenId": "90643236581489141524613512119081148951082956106044930827322784212365964979150"
+          }
+        ]
+      },
+      {
+        "marketId": 6038338,
+        "externalId": "607309",
+        "title": "Egypt (-3.5)",
+        "question": "Spread: Egypt (-3.5)",
+        "description": "In the upcoming FIFA World Cup game, scheduled for July 3 at 2:00 PM ET:\n\nThis market will resolve to \"Egypt\" if Egypt win the game by 4 or more goals.\n\nOtherwise, this market will resolve to \"Australia\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xd3cc6bc177b717a3200d93dc7c1a5d0a7733a192efbe618ea5f5ca2dbeabd0ae",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782975286160_y59ez2elhb2yiad7pgjtvlb1w3o6m9tx_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782975286160_y59ez2elhb2yiad7pgjtvlb1w3o6m9tx_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782975286160_y59ez2elhb2yiad7pgjtvlb1w3o6m9tx_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782975286160_y59ez2elhb2yiad7pgjtvlb1w3o6m9tx_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "0",
+        "liquidity": "15619.99",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "EGY",
+            "price": "0.02",
+            "chance": "0.015",
+            "index": 0,
+            "tokenId": "53779971869173055193846455517011271915874653926728370742311508263949310377221"
+          },
+          {
+            "name": "AUS",
+            "price": "0.98",
+            "chance": "0.985",
+            "index": 1,
+            "tokenId": "2472782469695293431658364842520813172516671684745050647917803974683583966761"
+          }
+        ]
+      },
+      {
+        "marketId": 6038349,
+        "externalId": "607320",
+        "title": "O/U 6.5",
+        "question": "Australia vs. Egypt: O/U 6.5",
+        "description": "In the upcoming FIFA World Cup game between Australia and Egypt, scheduled for July 3 at 2:00 PM ET:\n\nThis market will resolve to \"Over\" if Australia and Egypt combine to score 7 or more goals in this game.\n\nIf the combined total is less than 7, this market will resolve to \"Under\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nIf the game is started but not completed, this market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x3500d5f7cf8b843122a1d2e50de0260260484cc631f8d26abe767107d2c62b8c",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782975287360_zi4raqol6x5df2hapnfa5irchefmnvkw_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782975287360_zi4raqol6x5df2hapnfa5irchefmnvkw_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782975287360_zi4raqol6x5df2hapnfa5irchefmnvkw_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782975287360_zi4raqol6x5df2hapnfa5irchefmnvkw_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "1668.99",
+        "liquidity": "4546.42",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Over",
+            "price": "0.02",
+            "chance": "0.015",
+            "index": 0,
+            "tokenId": "94185327219428129284735176823540978160391472265895884737902667560227743686115"
+          },
+          {
+            "name": "Under",
+            "price": "0.98",
+            "chance": "0.985",
+            "index": 1,
+            "tokenId": "75218112194490202331666416418004469867474364495454354614937771994708005234179"
+          }
+        ]
+      },
+      {
+        "marketId": 6038337,
+        "externalId": "607308",
+        "title": "Australia (-3.5)",
+        "question": "Spread: Australia (-3.5)",
+        "description": "In the upcoming FIFA World Cup game, scheduled for July 3 at 2:00 PM ET:\n\nThis market will resolve to \"Australia\" if Australia win the game by 4 or more goals.\n\nOtherwise, this market will resolve to \"Egypt\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x9226ca98eb297b6848384aad12424e1c9446616d4782b3817cb2eda75a44c501",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782975286016_0w9xe4by213w91xatqz1g6vmg83zgvxl_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782975286016_0w9xe4by213w91xatqz1g6vmg83zgvxl_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782975286016_0w9xe4by213w91xatqz1g6vmg83zgvxl_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782975286016_0w9xe4by213w91xatqz1g6vmg83zgvxl_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "2385",
+        "liquidity": "5158.88",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "AUS",
+            "price": "0.01",
+            "chance": "0.01",
+            "index": 0,
+            "tokenId": "48842058902391105689723690401013201242094649839349804750353000832542998344889"
+          },
+          {
+            "name": "EGY",
+            "price": "0.99",
+            "chance": "0.99",
+            "index": 1,
+            "tokenId": "15270181900981959153486537700024786368814407367127756805919425784230743967843"
+          }
+        ]
+      },
+      {
+        "marketId": 6038339,
+        "externalId": "607310",
+        "title": "Australia (-4.5)",
+        "question": "Spread: Australia (-4.5)",
+        "description": "In the upcoming FIFA World Cup game, scheduled for July 3 at 2:00 PM ET:\n\nThis market will resolve to \"Australia\" if Australia win the game by 5 or more goals.\n\nOtherwise, this market will resolve to \"Egypt\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xe64041a4305922a309bcc7825e61a611298413747d3cb0fa48ffd72f34439a9f",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782975286281_03rmrzzn4l15wo2fuimt5l6ayj9z6kpr_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782975286281_03rmrzzn4l15wo2fuimt5l6ayj9z6kpr_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782975286281_03rmrzzn4l15wo2fuimt5l6ayj9z6kpr_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782975286281_03rmrzzn4l15wo2fuimt5l6ayj9z6kpr_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "1688.24",
+        "liquidity": "10113.52",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "AUS",
+            "price": "0.01",
+            "chance": "0.01",
+            "index": 0,
+            "tokenId": "97103152613558376644661741216179694385539793232478760707683940666175425678782"
+          },
+          {
+            "name": "EGY",
+            "price": "0.99",
+            "chance": "0.99",
+            "index": 1,
+            "tokenId": "92399271546007060598709704291382565076383333388385468771331117440217346971885"
+          }
+        ]
+      },
+      {
+        "marketId": 6038341,
+        "externalId": "607312",
+        "title": "Australia (-5.5)",
+        "question": "Spread: Australia (-5.5)",
+        "description": "In the upcoming FIFA World Cup game, scheduled for July 3 at 2:00 PM ET:\n\nThis market will resolve to \"Australia\" if Australia win the game by 6 or more goals.\n\nOtherwise, this market will resolve to \"Egypt\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x4d028b05f85ad02f181851106b36ecd9bf4b3159e397e6a290644f51926e5411",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782975286502_p8pw88jx0fwd61cx8t4m8u99h0zxqvm9_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782975286502_p8pw88jx0fwd61cx8t4m8u99h0zxqvm9_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782975286502_p8pw88jx0fwd61cx8t4m8u99h0zxqvm9_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782975286502_p8pw88jx0fwd61cx8t4m8u99h0zxqvm9_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "0",
+        "liquidity": "2428.6",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "AUS",
+            "price": "0.01",
+            "chance": "0.01",
+            "index": 0,
+            "tokenId": "32784125447950014736082805019610643806576737819665485382403930617112277691950"
+          },
+          {
+            "name": "EGY",
+            "price": "0.99",
+            "chance": "0.99",
+            "index": 1,
+            "tokenId": "86938352244387458057842683512793021172425888497697644004135470789441582676462"
+          }
+        ]
+      },
+      {
+        "marketId": 6038342,
+        "externalId": "607313",
+        "title": "Egypt (-5.5)",
+        "question": "Spread: Egypt (-5.5)",
+        "description": "In the upcoming FIFA World Cup game, scheduled for July 3 at 2:00 PM ET:\n\nThis market will resolve to \"Egypt\" if Egypt win the game by 6 or more goals.\n\nOtherwise, this market will resolve to \"Australia\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x95c969565d07312a3fb81995895412a3b8fdfa36b02106a85cd0e46e07d7c826",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782975286621_c67uhyq5u29dzstq000mm19xfluwm05k_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782975286621_c67uhyq5u29dzstq000mm19xfluwm05k_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782975286621_c67uhyq5u29dzstq000mm19xfluwm05k_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782975286621_c67uhyq5u29dzstq000mm19xfluwm05k_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "367.07",
+        "liquidity": "4547.44",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "EGY",
+            "price": "0.01",
+            "chance": "0.01",
+            "index": 0,
+            "tokenId": "84943430984998472875322422064167883161425505940438330676498312769107961743047"
+          },
+          {
+            "name": "AUS",
+            "price": "0.99",
+            "chance": "0.99",
+            "index": 1,
+            "tokenId": "26869857033534312157202484336307836497840285373686844623844080946769077507595"
+          }
+        ]
+      },
+      {
+        "marketId": 6038350,
+        "externalId": "607321",
+        "title": "O/U 7.5",
+        "question": "Australia vs. Egypt: O/U 7.5",
+        "description": "In the upcoming FIFA World Cup game between Australia and Egypt, scheduled for July 3 at 2:00 PM ET:\n\nThis market will resolve to \"Over\" if Australia and Egypt combine to score 8 or more goals in this game.\n\nIf the combined total is less than 8, this market will resolve to \"Under\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nIf the game is started but not completed, this market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xf6feef705530a99bb3454c7584f9a927c0a58d1cc4efcfca71b84ee9fb3bf0b5",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782975287468_dya0ivkdcdklhko88avdofx7wpx77dx8_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782975287468_dya0ivkdcdklhko88avdofx7wpx77dx8_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782975287468_dya0ivkdcdklhko88avdofx7wpx77dx8_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782975287468_dya0ivkdcdklhko88avdofx7wpx77dx8_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "370.31",
+        "liquidity": "2782.95",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Over",
+            "price": "0.01",
+            "chance": "0.01",
+            "index": 0,
+            "tokenId": "114999434868267997774922503113387364501514759236361042986984672504465902532534"
+          },
+          {
+            "name": "Under",
+            "price": "0.99",
+            "chance": "0.99",
+            "index": 1,
+            "tokenId": "97343835201483044885306290914203626583663830409566952140891071819009529835479"
+          }
+        ]
+      },
+      {
+        "marketId": 6038351,
+        "externalId": "607322",
+        "title": "O/U 8.5",
+        "question": "Australia vs. Egypt: O/U 8.5",
+        "description": "In the upcoming FIFA World Cup game between Australia and Egypt, scheduled for July 3 at 2:00 PM ET:\n\nThis market will resolve to \"Over\" if Australia and Egypt combine to score 9 or more goals in this game.\n\nIf the combined total is less than 9, this market will resolve to \"Under\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nIf the game is started but not completed, this market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x008f93be563d7ba1dcfd9efc4ec1dbfe51be14372b6870041012e5e6b57a5c16",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782975287572_d5i7phs4jovxouc0l4aewlekrvekpkcm_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782975287572_d5i7phs4jovxouc0l4aewlekrvekpkcm_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782975287572_d5i7phs4jovxouc0l4aewlekrvekpkcm_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782975287572_d5i7phs4jovxouc0l4aewlekrvekpkcm_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "0",
+        "liquidity": "2709.44",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Over",
+            "price": "0.01",
+            "chance": "0.01",
+            "index": 0,
+            "tokenId": "73361206763101079927658533623760162382825279347735778394488872853934164630322"
+          },
+          {
+            "name": "Under",
+            "price": "0.99",
+            "chance": "0.99",
+            "index": 1,
+            "tokenId": "47868008148830417533830175799289980264888443444564513701958042638973931518689"
+          }
+        ]
+      }
+    ],
+    "tradeVolume": "132882.48",
+    "liquidity": "6502276.42",
+    "publishedAt": 1782558408350,
+    "startDate": 1783101600000,
+    "endDate": 1783108800000,
+    "status": "REGISTERED"
+  },
+  {
+    "marketTopicId": 4234505,
+    "vendor": "PREDICT_FUN",
+    "chainId": "56",
+    "slug": "fifwc-aus-egy-2026-07-03",
+    "title": "Australia vs. Egypt",
+    "question": "Will Australia win on 2026-07-03?",
+    "imageUrl": "https://static.predict.fun/fifwc",
+    "thumbnailPaths": [
+      {
+        "size": "800x800",
+        "path": "file-center/web3-prediction/S3/topic/1782975310400_d4lilninn8cunb0rxounxat7r421sq84_NEF_q80_800x800"
+      },
+      {
+        "size": "400x400",
+        "path": "file-center/web3-prediction/S3/topic/1782975310400_d4lilninn8cunb0rxounxat7r421sq84_NEF_q80_400x400"
+      },
+      {
+        "size": "96x96",
+        "path": "file-center/web3-prediction/S3/topic/1782975310400_d4lilninn8cunb0rxounxat7r421sq84_NEF_q80_96x96"
+      },
+      {
+        "size": "64x64",
+        "path": "file-center/web3-prediction/S3/topic/1782975310400_d4lilninn8cunb0rxounxat7r421sq84_NEF_q80_64x64"
+      }
+    ],
+    "topicType": "GROUPED",
+    "variantData": {
+      "type": "SPORTS_FIFA_WORLD_CUP"
+    },
+    "participantCount": 2460,
+    "collateral": "USDT",
+    "feeRateBps": 200,
+    "slippageBps": 1000,
+    "isYieldBearing": true,
+    "exchangeContractAddress": "0x8A289d458f5a134bA40015085A8F50Ffb681B41d",
+    "markets": [
+      {
+        "marketId": 6036751,
+        "externalId": "607126",
+        "title": "EGY",
+        "question": "Will Egypt win on 2026-07-03?",
+        "description": "In the upcoming game, scheduled for July 3, 2026\nIf Egypt wins, this market will resolve to \"Yes\".\nOtherwise, this market will resolve to \"No\".\nIf the game is postponed, this market will remain open until the game has been completed.\nIf the game is canceled entirely, with no make-up game, this market will resolve \"No\".\nThis market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x6146033740d663797ad2d85fbb6140742faa6ab6133f2c342683318d4a7b8483",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782975305815_7vj8ce45egivt8zskcq9dv4guvr16t7b_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782975305815_7vj8ce45egivt8zskcq9dv4guvr16t7b_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782975305815_7vj8ce45egivt8zskcq9dv4guvr16t7b_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782975305815_7vj8ce45egivt8zskcq9dv4guvr16t7b_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "56752.26",
+        "liquidity": "803526.65",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.41",
+            "chance": "0.405",
+            "index": 0,
+            "tokenId": "43049253700173255790556118644164797909651333755597493581243463101687707679912"
+          },
+          {
+            "name": "No",
+            "price": "0.59",
+            "chance": "0.595",
+            "index": 1,
+            "tokenId": "64935338200789503227083028152620134753449136856459234625066971274831643359847"
+          }
+        ]
+      },
+      {
+        "marketId": 6036750,
+        "externalId": "607125",
+        "title": "Draw",
+        "question": "Will Australia vs. Egypt end in a draw?",
+        "description": "In the upcoming game, scheduled for July 3, 2026\nIf the game ends in a draw, this market will resolve to \"Yes\".\nOtherwise, this market will resolve to \"No\".\nIf the game is postponed, this market will remain open until the game has been completed.\nIf the game is canceled entirely, with no make-up game, this market will resolve to \"Yes\".\nThis market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x3feabb1ad04221ff006e87450b57adcb742c49f02a1012fc5337e3b05d6a9a2e",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782975305260_xalcagj9gpbw7fg0cfi5z5h0iss4eah7_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782975305260_xalcagj9gpbw7fg0cfi5z5h0iss4eah7_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782975305260_xalcagj9gpbw7fg0cfi5z5h0iss4eah7_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782975305260_xalcagj9gpbw7fg0cfi5z5h0iss4eah7_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "12519.36",
+        "liquidity": "727209.02",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.34",
+            "chance": "0.335",
+            "index": 0,
+            "tokenId": "66296404867453252112976303395244750344928734986375936787354350634729280245811"
+          },
+          {
+            "name": "No",
+            "price": "0.66",
+            "chance": "0.665",
+            "index": 1,
+            "tokenId": "71812895794967004997993016674531968854036090493282609247464018066534365065109"
+          }
+        ]
+      },
+      {
+        "marketId": 6036749,
+        "externalId": "607124",
+        "title": "AUS",
+        "question": "Will Australia win on 2026-07-03?",
+        "description": "In the upcoming game, scheduled for July 3, 2026\nIf Australia wins, this market will resolve to \"Yes\".\nOtherwise, this market will resolve to \"No\".\nIf the game is postponed, this market will remain open until the game has been completed.\nIf the game is canceled entirely, with no make-up game, this market will resolve \"No\".\nThis market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xc6012eaee2623b46e2db4089d03fabfaba5763af28af2ebfa2d98e68794a49e1",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782975305157_ro51embuxj1brwjq2iq280bvy8kvvkzh_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782975305157_ro51embuxj1brwjq2iq280bvy8kvvkzh_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782975305157_ro51embuxj1brwjq2iq280bvy8kvvkzh_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782975305157_ro51embuxj1brwjq2iq280bvy8kvvkzh_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "21162.28",
+        "liquidity": "600420.42",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.27",
+            "chance": "0.265",
+            "index": 0,
+            "tokenId": "69251159781706442369931866549700972230606452395909745998703791743067947611880"
+          },
+          {
+            "name": "No",
+            "price": "0.73",
+            "chance": "0.735",
+            "index": 1,
+            "tokenId": "71196365532800246677977485824684184806148467141167065687838310798082667345343"
+          }
+        ]
+      }
+    ],
+    "tradeVolume": "90590.79",
+    "liquidity": "2127884.66",
+    "publishedAt": 1782555638297,
+    "startDate": 1783101600000,
+    "endDate": 1783108800000,
+    "status": "REGISTERED"
+  },
+  {
+    "marketTopicId": 4234511,
+    "vendor": "PREDICT_FUN",
+    "chainId": "56",
+    "slug": "fifwc-aus-egy-2026-07-03-halftime-result",
+    "title": "Australia vs. Egypt - Halftime Result",
+    "question": "Australia leading at halftime?",
+    "imageUrl": "https://static.predict.fun/fifwc",
+    "thumbnailPaths": [
+      {
+        "size": "800x800",
+        "path": "file-center/web3-prediction/S3/topic/1782975310502_sedvgzjmcqjmtcypcr39txhk68xwfp6q_NEF_q80_800x800"
+      },
+      {
+        "size": "400x400",
+        "path": "file-center/web3-prediction/S3/topic/1782975310502_sedvgzjmcqjmtcypcr39txhk68xwfp6q_NEF_q80_400x400"
+      },
+      {
+        "size": "96x96",
+        "path": "file-center/web3-prediction/S3/topic/1782975310502_sedvgzjmcqjmtcypcr39txhk68xwfp6q_NEF_q80_96x96"
+      },
+      {
+        "size": "64x64",
+        "path": "file-center/web3-prediction/S3/topic/1782975310502_sedvgzjmcqjmtcypcr39txhk68xwfp6q_NEF_q80_64x64"
+      }
+    ],
+    "topicType": "GROUPED",
+    "variantData": {
+      "type": "SPORTS_FIFA_WORLD_CUP"
+    },
+    "participantCount": 279,
+    "collateral": "USDT",
+    "feeRateBps": 200,
+    "slippageBps": 1000,
+    "isYieldBearing": true,
+    "exchangeContractAddress": "0x8A289d458f5a134bA40015085A8F50Ffb681B41d",
+    "markets": [
+      {
+        "marketId": 6036768,
+        "externalId": "607122",
+        "title": "Draw",
+        "question": "Australia vs. Egypt: Draw at halftime?",
+        "description": "In the upcoming game, scheduled for July 3, 2026 If the game ends in a draw within the first 45 minutes of regular play plus stoppage time, this market will resolve to \"Yes\". Otherwise, this market will resolve to \"No\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve to \"Yes\". This market refers only to the outcome within the first 45 minutes of regular play plus stoppage time.The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 24 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x4d28fb3729ba2b9ca6acccab0a9a1a02c730e9447ec854e503fe02e3d2e762bf",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782975306013_r19w45ha59tgn93h1ju2i6q81dxlqia9_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782975306013_r19w45ha59tgn93h1ju2i6q81dxlqia9_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782975306013_r19w45ha59tgn93h1ju2i6q81dxlqia9_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782975306013_r19w45ha59tgn93h1ju2i6q81dxlqia9_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "3844.82",
+        "liquidity": "874149.37",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.51",
+            "chance": "0.505",
+            "index": 0,
+            "tokenId": "81265964779546262496216891791823043890989973730969208204778183798530812024248"
+          },
+          {
+            "name": "No",
+            "price": "0.49",
+            "chance": "0.495",
+            "index": 1,
+            "tokenId": "976796826909013909506645752868810878829620266821151821016383684403690852107"
+          }
+        ]
+      },
+      {
+        "marketId": 6036769,
+        "externalId": "607123",
+        "title": "EGY",
+        "question": "Egypt leading at halftime?",
+        "description": "In the upcoming game, scheduled for July 3, 2026 If Egypt wins within the first 45 minutes of regular play plus stoppage time, this market will resolve to \"Yes\". Otherwise, this market will resolve to \"No\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve \"No\". This market refers only to the outcome within the first 45 minutes of regular play plus stoppage time.The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 24 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x41963ed0af349427463643782b7ea2df3e1432fd1d3b1f2ada9e36c21674bc20",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782975306115_vz4tvvcimhnpgygt3013dhcvvspc3qfu_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782975306115_vz4tvvcimhnpgygt3013dhcvvspc3qfu_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782975306115_vz4tvvcimhnpgygt3013dhcvvspc3qfu_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782975306115_vz4tvvcimhnpgygt3013dhcvvspc3qfu_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "4577.89",
+        "liquidity": "704808.03",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.3",
+            "chance": "0.295",
+            "index": 0,
+            "tokenId": "72907468551804588600771205380253246969525329749776141933430340340107370568783"
+          },
+          {
+            "name": "No",
+            "price": "0.7",
+            "chance": "0.705",
+            "index": 1,
+            "tokenId": "47903777091330454393607800175279759398442355429443437003892107442441052520062"
+          }
+        ]
+      },
+      {
+        "marketId": 6036767,
+        "externalId": "607121",
+        "title": "AUS",
+        "question": "Australia leading at halftime?",
+        "description": "In the upcoming game, scheduled for July 3, 2026 If Australia wins within the first 45 minutes of regular play plus stoppage time, this market will resolve to \"Yes\". Otherwise, this market will resolve to \"No\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve \"No\". This market refers only to the outcome within the first 45 minutes of regular play plus stoppage time.The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 24 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x854c7d35ad137af4089f29b5bddeb163233f46a7561249a35604d88763956aab",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782975305915_ahcixbf3p383gowjsiusu1y82yqgwfg5_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782975305915_ahcixbf3p383gowjsiusu1y82yqgwfg5_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782975305915_ahcixbf3p383gowjsiusu1y82yqgwfg5_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782975305915_ahcixbf3p383gowjsiusu1y82yqgwfg5_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "1135.69",
+        "liquidity": "159776.06",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.22",
+            "chance": "0.215",
+            "index": 0,
+            "tokenId": "32677242479796441827557122095970551618199842998332553026809011986321267015539"
+          },
+          {
+            "name": "No",
+            "price": "0.78",
+            "chance": "0.785",
+            "index": 1,
+            "tokenId": "35761963694521999504652243002052555915911530398808433848528918838533327502717"
+          }
+        ]
+      }
+    ],
+    "tradeVolume": "9532.51",
+    "liquidity": "1641275.51",
+    "publishedAt": 1782555638297,
+    "startDate": 1783101600000,
+    "endDate": 1783112400000,
+    "status": "REGISTERED"
+  },
+  {
+    "marketTopicId": 4366026,
+    "vendor": "PREDICT_FUN",
+    "chainId": "56",
+    "slug": "fifwc-aus-egy-2026-07-03-player-props",
+    "title": "Australia vs. Egypt - Player Props",
+    "question": "Mohamed Salah: 1+ goals",
+    "imageUrl": "https://static.predict.fun/fifwc",
+    "thumbnailPaths": [
+      {
+        "size": "800x800",
+        "path": "file-center/web3-prediction/S3/topic/1783020441594_285d9gurvv56lwx807vbij8ilvl7tauj_NEF_q80_800x800"
+      },
+      {
+        "size": "400x400",
+        "path": "file-center/web3-prediction/S3/topic/1783020441594_285d9gurvv56lwx807vbij8ilvl7tauj_NEF_q80_400x400"
+      },
+      {
+        "size": "96x96",
+        "path": "file-center/web3-prediction/S3/topic/1783020441594_285d9gurvv56lwx807vbij8ilvl7tauj_NEF_q80_96x96"
+      },
+      {
+        "size": "64x64",
+        "path": "file-center/web3-prediction/S3/topic/1783020441594_285d9gurvv56lwx807vbij8ilvl7tauj_NEF_q80_64x64"
+      }
+    ],
+    "topicType": "GROUPED",
+    "variantData": {
+      "type": "SPORTS_FIFA_WORLD_CUP"
+    },
+    "participantCount": 235,
+    "collateral": "USDT",
+    "feeRateBps": 200,
+    "slippageBps": 1000,
+    "isYieldBearing": false,
+    "exchangeContractAddress": "0x365fb81bd4A24D6303cd2F19c349dE6894D8d58A",
+    "markets": [
+      {
+        "marketId": 6370430,
+        "externalId": "658184",
+        "title": "Omar Marmoush Total Goals",
+        "question": "Omar Marmoush: 1+ goals",
+        "description": "In the upcoming FIFA World Cup game between Australia and Egypt, scheduled for July 3 at 2:00 PM ET: This market will resolve to \"Yes\" if Omar Marmoush records 1+ goals in the official box score within the first 90 minutes of regular play plus stoppage time. Otherwise, this market will resolve to \"No\". Own goals do not count. If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve \"50-50\". If the player is listed as inactive or otherwise does not play, the market will resolve \"No\". The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 24 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xfb7924e8de83998f16667d0f62e597adcb5905cba18f5fab1ba8771bc0abbe7f",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1783021505078_jm1g4fw0l3lhkgn5mki557e9g0xegg6i_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1783021505078_jm1g4fw0l3lhkgn5mki557e9g0xegg6i_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1783021505078_jm1g4fw0l3lhkgn5mki557e9g0xegg6i_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1783021505078_jm1g4fw0l3lhkgn5mki557e9g0xegg6i_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "5308.54",
+        "liquidity": "9353.82",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Over 0.5",
+            "price": "0.29",
+            "chance": "0.285",
+            "index": 0,
+            "tokenId": "824840247966848872620157810123559546629115159234737362234086543232163761065"
+          },
+          {
+            "name": "Under 0.5",
+            "price": "0.71",
+            "chance": "0.715",
+            "index": 1,
+            "tokenId": "91025395184015264789762957781466018117974636748055853441184151046639466836192"
+          }
+        ]
+      },
+      {
+        "marketId": 6370429,
+        "externalId": "658183",
+        "title": "Mohamed Salah Total Goals",
+        "question": "Mohamed Salah: 1+ goals",
+        "description": "In the upcoming FIFA World Cup game between Australia and Egypt, scheduled for July 3 at 2:00 PM ET: This market will resolve to \"Yes\" if Mohamed Salah records 1+ goals in the official box score within the first 90 minutes of regular play plus stoppage time. Otherwise, this market will resolve to \"No\". Own goals do not count. If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve \"50-50\". If the player is listed as inactive or otherwise does not play, the market will resolve \"No\". The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 24 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x4e85894d4a872b73b97222eaadfe7129c319357ac055f2ac54ad3d6d60df22ea",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1783021504944_kgure0cugm5ubacesta977gyxm9tnnrt_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1783021504944_kgure0cugm5ubacesta977gyxm9tnnrt_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1783021504944_kgure0cugm5ubacesta977gyxm9tnnrt_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1783021504944_kgure0cugm5ubacesta977gyxm9tnnrt_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "3588.06",
+        "liquidity": "11968.77",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Over 0.5",
+            "price": "0.28",
+            "chance": "0.275",
+            "index": 0,
+            "tokenId": "106379133649103841725444381374667652604585296335054950401796942443828546503725"
+          },
+          {
+            "name": "Under 0.5",
+            "price": "0.72",
+            "chance": "0.725",
+            "index": 1,
+            "tokenId": "31804637570168173493666081946576235286793402515912533840398054593266123155062"
+          }
+        ]
+      }
+    ],
+    "tradeVolume": "8938.92",
+    "liquidity": "21425.59",
+    "publishedAt": 1783020440723,
+    "startDate": 1783101600000,
+    "endDate": 1783108800000,
+    "status": "REGISTERED"
+  },
+  {
+    "marketTopicId": 4234510,
+    "vendor": "PREDICT_FUN",
+    "chainId": "56",
+    "slug": "fifwc-aus-egy-2026-07-03-first-to-score",
+    "title": "Australia vs. Egypt - First Team to Score",
+    "question": "Australia to score first vs. Egypt?",
+    "imageUrl": "https://static.predict.fun/fifwc",
+    "thumbnailPaths": [
+      {
+        "size": "800x800",
+        "path": "file-center/web3-prediction/S3/topic/1782975317978_citf6r7b7azotpheo0xqf75yle818k51_NEF_q80_800x800"
+      },
+      {
+        "size": "400x400",
+        "path": "file-center/web3-prediction/S3/topic/1782975317978_citf6r7b7azotpheo0xqf75yle818k51_NEF_q80_400x400"
+      },
+      {
+        "size": "96x96",
+        "path": "file-center/web3-prediction/S3/topic/1782975317978_citf6r7b7azotpheo0xqf75yle818k51_NEF_q80_96x96"
+      },
+      {
+        "size": "64x64",
+        "path": "file-center/web3-prediction/S3/topic/1782975317978_citf6r7b7azotpheo0xqf75yle818k51_NEF_q80_64x64"
+      }
+    ],
+    "topicType": "GROUPED",
+    "variantData": {
+      "type": "SPORTS_FIFA_WORLD_CUP"
+    },
+    "participantCount": 169,
+    "collateral": "USDT",
+    "feeRateBps": 200,
+    "slippageBps": 1000,
+    "isYieldBearing": true,
+    "exchangeContractAddress": "0x8A289d458f5a134bA40015085A8F50Ffb681B41d",
+    "markets": [
+      {
+        "marketId": 6036765,
+        "externalId": "607060",
+        "title": "EGY",
+        "question": "Egypt to score first vs. Australia?",
+        "description": "In the upcoming match between Australia and Egypt, scheduled for July 3, 2026 at 2:00 PM ET: This market will resolve to \"Australia\" if Australia are the first to score within the first 90 minutes of regular play plus stoppage time. This market will resolve to \"Egypt\" if Egypt are the first to score within the first 90 minutes of regular play plus stoppage time. If neither team scores within the first 90 minutes of regular play plus stoppage time, this market will resolve \"Neither\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve to \"Neither\". This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time. Extra time and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xca9138b13dd89d3fb3c71db371cecd692d556a4538ab8648abe539d8804dc31d",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782975313439_bpu26eroyoctd4cic18841m46f5luq01_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782975313439_bpu26eroyoctd4cic18841m46f5luq01_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782975313439_bpu26eroyoctd4cic18841m46f5luq01_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782975313439_bpu26eroyoctd4cic18841m46f5luq01_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "915.68",
+        "liquidity": "852091.5",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.51",
+            "chance": "0.505",
+            "index": 0,
+            "tokenId": "20259364470646270681597484567684023263487259550899713625842531349393607829892"
+          },
+          {
+            "name": "No",
+            "price": "0.49",
+            "chance": "0.495",
+            "index": 1,
+            "tokenId": "20528960557622911889435096093530580519494587440420573618177731569103913615101"
+          }
+        ]
+      },
+      {
+        "marketId": 6036764,
+        "externalId": "607059",
+        "title": "AUS",
+        "question": "Australia to score first vs. Egypt?",
+        "description": "In the upcoming match between Australia and Egypt, scheduled for July 3, 2026 at 2:00 PM ET: This market will resolve to \"Australia\" if Australia are the first to score within the first 90 minutes of regular play plus stoppage time. This market will resolve to \"Egypt\" if Egypt are the first to score within the first 90 minutes of regular play plus stoppage time. If neither team scores within the first 90 minutes of regular play plus stoppage time, this market will resolve \"Neither\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve to \"Neither\". This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time. Extra time and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x1203b30671f71bd1ee0f7064e09f7fdcc0c6ee50577157ea30db8d234586ac99",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782975313337_2toeme7qzmkj755p61mau8bx7dksjr4y_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782975313337_2toeme7qzmkj755p61mau8bx7dksjr4y_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782975313337_2toeme7qzmkj755p61mau8bx7dksjr4y_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782975313337_2toeme7qzmkj755p61mau8bx7dksjr4y_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "650.29",
+        "liquidity": "681247.98",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.38",
+            "chance": "0.375",
+            "index": 0,
+            "tokenId": "82396008673246346498260503916162862503933120838347315523361309110440942826514"
+          },
+          {
+            "name": "No",
+            "price": "0.62",
+            "chance": "0.625",
+            "index": 1,
+            "tokenId": "68136451368890841986091058804904963179917607501367388120695572657184611409962"
+          }
+        ]
+      },
+      {
+        "marketId": 6036766,
+        "externalId": "607061",
+        "title": "Neither",
+        "question": "Australia vs. Egypt: Neither team to score first?",
+        "description": "In the upcoming match between Australia and Egypt, scheduled for July 3, 2026 at 2:00 PM ET: This market will resolve to \"Australia\" if Australia are the first to score within the first 90 minutes of regular play plus stoppage time. This market will resolve to \"Egypt\" if Egypt are the first to score within the first 90 minutes of regular play plus stoppage time. If neither team scores within the first 90 minutes of regular play plus stoppage time, this market will resolve \"Neither\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve to \"Neither\". This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time. Extra time and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xe1b60fb561c7ba08981cefd8435de9fe24759056d4e4678b01302be73586eb75",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782975313539_18itjcfbczr256qh49a494w62so6p6pj_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782975313539_18itjcfbczr256qh49a494w62so6p6pj_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782975313539_18itjcfbczr256qh49a494w62so6p6pj_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782975313539_18itjcfbczr256qh49a494w62so6p6pj_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "218.58",
+        "liquidity": "576471.75",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.14",
+            "chance": "0.135",
+            "index": 0,
+            "tokenId": "93901516321247303744861752326796921105075641441099813002038680328490465279527"
+          },
+          {
+            "name": "No",
+            "price": "0.86",
+            "chance": "0.865",
+            "index": 1,
+            "tokenId": "82440218937440886740769129304183187753070178476554045637047621157937515324510"
+          }
+        ]
+      }
+    ],
+    "tradeVolume": "1784.57",
+    "liquidity": "2110633.33",
+    "publishedAt": 1782555638297,
+    "startDate": 1783101600000,
+    "endDate": 1783108800000,
+    "status": "REGISTERED"
+  }
+]

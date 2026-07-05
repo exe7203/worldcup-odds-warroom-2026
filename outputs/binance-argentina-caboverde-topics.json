@@ -1,0 +1,2667 @@
+[
+  {
+    "marketTopicId": 4234513,
+    "vendor": "PREDICT_FUN",
+    "chainId": "56",
+    "slug": "fifwc-arg-cvi-2026-07-03-exact-score",
+    "title": "Argentina vs. Cabo Verde - Exact Score",
+    "question": "Exact Score: Argentina 0 - 0 Cabo Verde?",
+    "imageUrl": "https://static.predict.fun/fifwc",
+    "thumbnailPaths": [
+      {
+        "size": "800x800",
+        "path": "file-center/web3-prediction/S3/topic/1782975317772_gwwboywt755pgi60vwsj28v5y1zgg2yh_NEF_q80_800x800"
+      },
+      {
+        "size": "400x400",
+        "path": "file-center/web3-prediction/S3/topic/1782975317772_gwwboywt755pgi60vwsj28v5y1zgg2yh_NEF_q80_400x400"
+      },
+      {
+        "size": "96x96",
+        "path": "file-center/web3-prediction/S3/topic/1782975317772_gwwboywt755pgi60vwsj28v5y1zgg2yh_NEF_q80_96x96"
+      },
+      {
+        "size": "64x64",
+        "path": "file-center/web3-prediction/S3/topic/1782975317772_gwwboywt755pgi60vwsj28v5y1zgg2yh_NEF_q80_64x64"
+      }
+    ],
+    "topicType": "GROUPED",
+    "variantData": {
+      "type": "SPORTS_FIFA_WORLD_CUP"
+    },
+    "participantCount": 1406,
+    "collateral": "USDT",
+    "feeRateBps": 200,
+    "slippageBps": 1000,
+    "isYieldBearing": true,
+    "exchangeContractAddress": "0x8A289d458f5a134bA40015085A8F50Ffb681B41d",
+    "markets": [
+      {
+        "marketId": 6036789,
+        "externalId": "607081",
+        "title": "Any Other Score",
+        "question": "Exact Score: Any Other Score?",
+        "description": "In the upcoming FIFA World Cup game between Argentina and Cabo Verde, scheduled for July 3, 2026 at 6:00 PM ET: This market will resolve based on the final score of the Argentina vs. Cabo Verde match originally scheduled for July 3, 2026 at 6:00 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x80adff224bc6d622357d2da5ad9a3b48eee8aac35a490eecebe82fea4f25a045",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782975312929_i56kkvpzz3ftv1c679r24hrnnjfger1w_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782975312929_i56kkvpzz3ftv1c679r24hrnnjfger1w_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782975312929_i56kkvpzz3ftv1c679r24hrnnjfger1w_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782975312929_i56kkvpzz3ftv1c679r24hrnnjfger1w_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "21916.51",
+        "liquidity": "207567.05",
+        "decimalPrecision": 3,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.252",
+            "chance": "0.2515",
+            "index": 0,
+            "tokenId": "13134129072018747459357400431396157338808869366880537970637253220182839810037"
+          },
+          {
+            "name": "No",
+            "price": "0.748",
+            "chance": "0.7485",
+            "index": 1,
+            "tokenId": "56123362337772796377080529270048062716499960165104771781811641578650074798133"
+          }
+        ]
+      },
+      {
+        "marketId": 6036778,
+        "externalId": "607070",
+        "title": "ARG 2 - 0 CVI",
+        "question": "Exact Score: Argentina 2 - 0 Cabo Verde?",
+        "description": "In the upcoming FIFA World Cup game between Argentina and Cabo Verde, scheduled for July 3, 2026 at 6:00 PM ET: This market will resolve based on the final score of the Argentina vs. Cabo Verde match originally scheduled for July 3, 2026 at 6:00 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xf1762858e4667da5ef0926e4f86173b506923023714f1f3e58b25a223ff0dcbf",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782975311801_21a3uryyjld5sj5rrqpmbwxj4m8mwlf2_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782975311801_21a3uryyjld5sj5rrqpmbwxj4m8mwlf2_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782975311801_21a3uryyjld5sj5rrqpmbwxj4m8mwlf2_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782975311801_21a3uryyjld5sj5rrqpmbwxj4m8mwlf2_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "63372.02",
+        "liquidity": "561528.09",
+        "decimalPrecision": 3,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.188",
+            "chance": "0.187",
+            "index": 0,
+            "tokenId": "40349641028914873895622020890176539897450186238260514680382935035620237116430"
+          },
+          {
+            "name": "No",
+            "price": "0.812",
+            "chance": "0.813",
+            "index": 1,
+            "tokenId": "87583864077490391020796427352589948145105455892444923811405679181060329680540"
+          }
+        ]
+      },
+      {
+        "marketId": 6036782,
+        "externalId": "607074",
+        "title": "ARG 3 - 0 CVI",
+        "question": "Exact Score: Argentina 3 - 0 Cabo Verde?",
+        "description": "In the upcoming FIFA World Cup game between Argentina and Cabo Verde, scheduled for July 3, 2026 at 6:00 PM ET: This market will resolve based on the final score of the Argentina vs. Cabo Verde match originally scheduled for July 3, 2026 at 6:00 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x7c3652c903d3b002c634e6a66a4649d313e55286e74bf5c394b83bc7ce1aa19d",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782975312209_cjczxz4nrrrz1qxfp8d6dkz6yx3wwp77_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782975312209_cjczxz4nrrrz1qxfp8d6dkz6yx3wwp77_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782975312209_cjczxz4nrrrz1qxfp8d6dkz6yx3wwp77_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782975312209_cjczxz4nrrrz1qxfp8d6dkz6yx3wwp77_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "71172.53",
+        "liquidity": "263228.99",
+        "decimalPrecision": 3,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.166",
+            "chance": "0.1655",
+            "index": 0,
+            "tokenId": "108227512647357361524882450556198524428002677335983538182071949958962923295671"
+          },
+          {
+            "name": "No",
+            "price": "0.834",
+            "chance": "0.8345",
+            "index": 1,
+            "tokenId": "97762573842133078501586463773278258154700498653392660191814675760015369067413"
+          }
+        ]
+      },
+      {
+        "marketId": 6036775,
+        "externalId": "607067",
+        "title": "ARG 1 - 0 CVI",
+        "question": "Exact Score: Argentina 1 - 0 Cabo Verde?",
+        "description": "In the upcoming FIFA World Cup game between Argentina and Cabo Verde, scheduled for July 3, 2026 at 6:00 PM ET: This market will resolve based on the final score of the Argentina vs. Cabo Verde match originally scheduled for July 3, 2026 at 6:00 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x843dc3ecbfce27d16e8194b3366b073ee9012e1a5b706e32fd5f39c63b1a5d6b",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782975311485_r35gs9f8owgvjsv8blz7zk5z1k6ufuq8_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782975311485_r35gs9f8owgvjsv8blz7zk5z1k6ufuq8_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782975311485_r35gs9f8owgvjsv8blz7zk5z1k6ufuq8_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782975311485_r35gs9f8owgvjsv8blz7zk5z1k6ufuq8_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "9903.64",
+        "liquidity": "203135",
+        "decimalPrecision": 3,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.116",
+            "chance": "0.1155",
+            "index": 0,
+            "tokenId": "92909087053075047958909641328637690921333248340792227443325715891732650770562"
+          },
+          {
+            "name": "No",
+            "price": "0.884",
+            "chance": "0.8845",
+            "index": 1,
+            "tokenId": "3682251953649941646996506922082883348455165250021314037898165121981392061445"
+          }
+        ]
+      },
+      {
+        "marketId": 6036781,
+        "externalId": "607073",
+        "title": "ARG 2 - 1 CVI",
+        "question": "Exact Score: Argentina 2 - 1 Cabo Verde?",
+        "description": "In the upcoming FIFA World Cup game between Argentina and Cabo Verde, scheduled for July 3, 2026 at 6:00 PM ET: This market will resolve based on the final score of the Argentina vs. Cabo Verde match originally scheduled for July 3, 2026 at 6:00 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x6241b99f7481db0f4ccd87cb193d272c293d15b969e2b8ce343873086f400ddb",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782975312112_qeu23ojsi4vannh8jcq5kcsj0095bj0d_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782975312112_qeu23ojsi4vannh8jcq5kcsj0095bj0d_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782975312112_qeu23ojsi4vannh8jcq5kcsj0095bj0d_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782975312112_qeu23ojsi4vannh8jcq5kcsj0095bj0d_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "16749.81",
+        "liquidity": "69441.5",
+        "decimalPrecision": 3,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.076",
+            "chance": "0.0755",
+            "index": 0,
+            "tokenId": "83681378238496231347500728177299765173180351195334649552760705530011891116761"
+          },
+          {
+            "name": "No",
+            "price": "0.924",
+            "chance": "0.9245",
+            "index": 1,
+            "tokenId": "88776365519031541517028929712659788013113265922053701456184059412350088973800"
+          }
+        ]
+      },
+      {
+        "marketId": 6036785,
+        "externalId": "607077",
+        "title": "ARG 3 - 1 CVI",
+        "question": "Exact Score: Argentina 3 - 1 Cabo Verde?",
+        "description": "In the upcoming FIFA World Cup game between Argentina and Cabo Verde, scheduled for July 3, 2026 at 6:00 PM ET: This market will resolve based on the final score of the Argentina vs. Cabo Verde match originally scheduled for July 3, 2026 at 6:00 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x394cf6bb0b0d6f8621ca8ec325a8c997e6b108206b8934d10120bb9671ed7855",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782975312532_n5tk78s0qh2wgxo73lnfcy7xi7i7ir79_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782975312532_n5tk78s0qh2wgxo73lnfcy7xi7i7ir79_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782975312532_n5tk78s0qh2wgxo73lnfcy7xi7i7ir79_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782975312532_n5tk78s0qh2wgxo73lnfcy7xi7i7ir79_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "34642.26",
+        "liquidity": "124899.9",
+        "decimalPrecision": 3,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.072",
+            "chance": "0.0715",
+            "index": 0,
+            "tokenId": "13517750537767293927008508439094658885887647612230080801451143822283664373091"
+          },
+          {
+            "name": "No",
+            "price": "0.928",
+            "chance": "0.9285",
+            "index": 1,
+            "tokenId": "30247603143148918282010232865718621570322234965222234671788896686387965909359"
+          }
+        ]
+      },
+      {
+        "marketId": 6036777,
+        "externalId": "607069",
+        "title": "ARG 1 - 1 CVI",
+        "question": "Exact Score: Argentina 1 - 1 Cabo Verde?",
+        "description": "In the upcoming FIFA World Cup game between Argentina and Cabo Verde, scheduled for July 3, 2026 at 6:00 PM ET: This market will resolve based on the final score of the Argentina vs. Cabo Verde match originally scheduled for July 3, 2026 at 6:00 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x54a09d3df143d8a46e7cf20bf55282daa73af710f2bbacf2ba1886224501f04c",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782975311699_p52kxs5pbjtrhm1mkv7r8p866oqr9xls_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782975311699_p52kxs5pbjtrhm1mkv7r8p866oqr9xls_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782975311699_p52kxs5pbjtrhm1mkv7r8p866oqr9xls_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782975311699_p52kxs5pbjtrhm1mkv7r8p866oqr9xls_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "15064.94",
+        "liquidity": "236238",
+        "decimalPrecision": 3,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.049",
+            "chance": "0.0485",
+            "index": 0,
+            "tokenId": "62816147346013916189714721856556670433732501932478118386546357535590475558156"
+          },
+          {
+            "name": "No",
+            "price": "0.951",
+            "chance": "0.9515",
+            "index": 1,
+            "tokenId": "85938358526655788270026169931735079168131943692719444347998317524278653410995"
+          }
+        ]
+      },
+      {
+        "marketId": 6036773,
+        "externalId": "607065",
+        "title": "ARG 0 - 0 CVI",
+        "question": "Exact Score: Argentina 0 - 0 Cabo Verde?",
+        "description": "In the upcoming FIFA World Cup game between Argentina and Cabo Verde, scheduled for July 3, 2026 at 6:00 PM ET: This market will resolve based on the final score of the Argentina vs. Cabo Verde match originally scheduled for July 3, 2026 at 6:00 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x8d20ed1fa53e976f14622b2ee9cb7b66eb457617f8c55c30e7e4bc7dc3b54824",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782975311272_3qi4mqiglice7usxezmieyl8xb2nlzfh_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782975311272_3qi4mqiglice7usxezmieyl8xb2nlzfh_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782975311272_3qi4mqiglice7usxezmieyl8xb2nlzfh_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782975311272_3qi4mqiglice7usxezmieyl8xb2nlzfh_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "42962.56",
+        "liquidity": "132995.04",
+        "decimalPrecision": 3,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.046",
+            "chance": "0.045",
+            "index": 0,
+            "tokenId": "88702824746183051972841088641315491308542288754474660259757492352740186647895"
+          },
+          {
+            "name": "No",
+            "price": "0.954",
+            "chance": "0.955",
+            "index": 1,
+            "tokenId": "107424030333437756051850738842063415228865252041854869334349684080961504850675"
+          }
+        ]
+      },
+      {
+        "marketId": 6036774,
+        "externalId": "607066",
+        "title": "ARG 0 - 1 CVI",
+        "question": "Exact Score: Argentina 0 - 1 Cabo Verde?",
+        "description": "In the upcoming FIFA World Cup game between Argentina and Cabo Verde, scheduled for July 3, 2026 at 6:00 PM ET: This market will resolve based on the final score of the Argentina vs. Cabo Verde match originally scheduled for July 3, 2026 at 6:00 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x1cc72dddd4579d64dcf9ddfac0e515dc43e59e4801d0405346e9abae09285055",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782975311377_7ill596cczfx5yzzi8nukda6oklouy37_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782975311377_7ill596cczfx5yzzi8nukda6oklouy37_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782975311377_7ill596cczfx5yzzi8nukda6oklouy37_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782975311377_7ill596cczfx5yzzi8nukda6oklouy37_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "21347.21",
+        "liquidity": "325278.17",
+        "decimalPrecision": 3,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.019",
+            "chance": "0.0185",
+            "index": 0,
+            "tokenId": "28602380276572831698651137365737912584318219301888874444375310859234505637691"
+          },
+          {
+            "name": "No",
+            "price": "0.981",
+            "chance": "0.9815",
+            "index": 1,
+            "tokenId": "13674887305302896510045178522432449468665238300655811816648176420484016193282"
+          }
+        ]
+      },
+      {
+        "marketId": 6036787,
+        "externalId": "607079",
+        "title": "ARG 3 - 2 CVI",
+        "question": "Exact Score: Argentina 3 - 2 Cabo Verde?",
+        "description": "In the upcoming FIFA World Cup game between Argentina and Cabo Verde, scheduled for July 3, 2026 at 6:00 PM ET: This market will resolve based on the final score of the Argentina vs. Cabo Verde match originally scheduled for July 3, 2026 at 6:00 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xaafebb84bf601f5b68a39dc143dcc1085a3145b7a7e97235f3128f95127ff54c",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782975312731_apqqt943lxi8830emelh3x25u4cmb9fp_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782975312731_apqqt943lxi8830emelh3x25u4cmb9fp_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782975312731_apqqt943lxi8830emelh3x25u4cmb9fp_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782975312731_apqqt943lxi8830emelh3x25u4cmb9fp_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "5634.95",
+        "liquidity": "583316.1",
+        "decimalPrecision": 3,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.015",
+            "chance": "0.0145",
+            "index": 0,
+            "tokenId": "25130997504194017234858407735163062549351316092969535105531263675273575953113"
+          },
+          {
+            "name": "No",
+            "price": "0.985",
+            "chance": "0.9855",
+            "index": 1,
+            "tokenId": "87602397539980823215141432295699496092310777438950626262626270012143562278163"
+          }
+        ]
+      },
+      {
+        "marketId": 6036784,
+        "externalId": "607076",
+        "title": "ARG 2 - 2 CVI",
+        "question": "Exact Score: Argentina 2 - 2 Cabo Verde?",
+        "description": "In the upcoming FIFA World Cup game between Argentina and Cabo Verde, scheduled for July 3, 2026 at 6:00 PM ET: This market will resolve based on the final score of the Argentina vs. Cabo Verde match originally scheduled for July 3, 2026 at 6:00 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xe94284fb8f31f890aefba28b4ad3df931cbf4a7d570cbd3a7f882b883f91dd9f",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782975312420_lkje30k4gzu452zkqloo82l7cabob80k_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782975312420_lkje30k4gzu452zkqloo82l7cabob80k_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782975312420_lkje30k4gzu452zkqloo82l7cabob80k_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782975312420_lkje30k4gzu452zkqloo82l7cabob80k_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "18367.92",
+        "liquidity": "652839.1",
+        "decimalPrecision": 3,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.014",
+            "chance": "0.0135",
+            "index": 0,
+            "tokenId": "25942551818348417368291701627402100123277714438750688399941030405233284928396"
+          },
+          {
+            "name": "No",
+            "price": "0.986",
+            "chance": "0.9865",
+            "index": 1,
+            "tokenId": "33953559701499803983517002540658908392291639452780864823486609619415304690308"
+          }
+        ]
+      },
+      {
+        "marketId": 6036780,
+        "externalId": "607072",
+        "title": "ARG 1 - 2 CVI",
+        "question": "Exact Score: Argentina 1 - 2 Cabo Verde?",
+        "description": "In the upcoming FIFA World Cup game between Argentina and Cabo Verde, scheduled for July 3, 2026 at 6:00 PM ET: This market will resolve based on the final score of the Argentina vs. Cabo Verde match originally scheduled for July 3, 2026 at 6:00 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x7d897c6ffb0de3184192f1167334e55ce10175b2db327ad45375712daeb60244",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782975312004_8ak80bhgddrz8vqbmgml3yeabjbkg90h_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782975312004_8ak80bhgddrz8vqbmgml3yeabjbkg90h_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782975312004_8ak80bhgddrz8vqbmgml3yeabjbkg90h_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782975312004_8ak80bhgddrz8vqbmgml3yeabjbkg90h_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "28306.42",
+        "liquidity": "647898.37",
+        "decimalPrecision": 3,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.013",
+            "chance": "0.0125",
+            "index": 0,
+            "tokenId": "107538626930128868921573346647861540121733616314705762364160959241276090532393"
+          },
+          {
+            "name": "No",
+            "price": "0.987",
+            "chance": "0.9875",
+            "index": 1,
+            "tokenId": "62156966370270530945576509978506574945885514770940633831091625494940332697826"
+          }
+        ]
+      },
+      {
+        "marketId": 6036776,
+        "externalId": "607068",
+        "title": "ARG 0 - 2 CVI",
+        "question": "Exact Score: Argentina 0 - 2 Cabo Verde?",
+        "description": "In the upcoming FIFA World Cup game between Argentina and Cabo Verde, scheduled for July 3, 2026 at 6:00 PM ET: This market will resolve based on the final score of the Argentina vs. Cabo Verde match originally scheduled for July 3, 2026 at 6:00 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x009522d8caa9cc0fe2e609e4b4fb0a9760e1ddf8846c85d9cc8146484f55dd58",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782975311592_i8vszi07di90s6sydm53f057t9n26616_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782975311592_i8vszi07di90s6sydm53f057t9n26616_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782975311592_i8vszi07di90s6sydm53f057t9n26616_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782975311592_i8vszi07di90s6sydm53f057t9n26616_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "10037.11",
+        "liquidity": "552942.51",
+        "decimalPrecision": 3,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.005",
+            "chance": "0.0045",
+            "index": 0,
+            "tokenId": "102704228628647357902962861219287262404124600771989141055336351286102095547984"
+          },
+          {
+            "name": "No",
+            "price": "0.995",
+            "chance": "0.9955",
+            "index": 1,
+            "tokenId": "92896431234049930285798102103251533482684905198702291205588869030481617722747"
+          }
+        ]
+      },
+      {
+        "marketId": 6036783,
+        "externalId": "607075",
+        "title": "ARG 1 - 3 CVI",
+        "question": "Exact Score: Argentina 1 - 3 Cabo Verde?",
+        "description": "In the upcoming FIFA World Cup game between Argentina and Cabo Verde, scheduled for July 3, 2026 at 6:00 PM ET: This market will resolve based on the final score of the Argentina vs. Cabo Verde match originally scheduled for July 3, 2026 at 6:00 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x36e2e536e844c82b6fd466ef4f1b324d3b9df65d098a5f0e0b09683fb7edaa05",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782975312311_pifgsfzc7ycq32uk3zw2c8if3rkw4jwf_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782975312311_pifgsfzc7ycq32uk3zw2c8if3rkw4jwf_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782975312311_pifgsfzc7ycq32uk3zw2c8if3rkw4jwf_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782975312311_pifgsfzc7ycq32uk3zw2c8if3rkw4jwf_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "4021.13",
+        "liquidity": "100200.27",
+        "decimalPrecision": 3,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.004",
+            "chance": "0.0035",
+            "index": 0,
+            "tokenId": "75403896870205324925228911148090592641127111339423492678992314289114567684802"
+          },
+          {
+            "name": "No",
+            "price": "0.996",
+            "chance": "0.9965",
+            "index": 1,
+            "tokenId": "30330560184782011627200358441919626529960742212971465215003742102735547719092"
+          }
+        ]
+      },
+      {
+        "marketId": 6036786,
+        "externalId": "607078",
+        "title": "ARG 2 - 3 CVI",
+        "question": "Exact Score: Argentina 2 - 3 Cabo Verde?",
+        "description": "In the upcoming FIFA World Cup game between Argentina and Cabo Verde, scheduled for July 3, 2026 at 6:00 PM ET: This market will resolve based on the final score of the Argentina vs. Cabo Verde match originally scheduled for July 3, 2026 at 6:00 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xd86a7c4ec8f00afd1f73fb2febebbc47c5a6a2e19b8b73e4d3150de6263ad9b3",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782975312634_9cuj57xlnx4sl4whqixqqd5hfx2ph99m_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782975312634_9cuj57xlnx4sl4whqixqqd5hfx2ph99m_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782975312634_9cuj57xlnx4sl4whqixqqd5hfx2ph99m_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782975312634_9cuj57xlnx4sl4whqixqqd5hfx2ph99m_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "3010.93",
+        "liquidity": "98842.47",
+        "decimalPrecision": 3,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.003",
+            "chance": "0.0025",
+            "index": 0,
+            "tokenId": "746802756755450685094833240321233618969493161838349950343196284375526283063"
+          },
+          {
+            "name": "No",
+            "price": "0.997",
+            "chance": "0.9975",
+            "index": 1,
+            "tokenId": "99696091440111140624492182323690412656537336627856742137071258152782353288468"
+          }
+        ]
+      },
+      {
+        "marketId": 6036788,
+        "externalId": "607080",
+        "title": "ARG 3 - 3 CVI",
+        "question": "Exact Score: Argentina 3 - 3 Cabo Verde?",
+        "description": "In the upcoming FIFA World Cup game between Argentina and Cabo Verde, scheduled for July 3, 2026 at 6:00 PM ET: This market will resolve based on the final score of the Argentina vs. Cabo Verde match originally scheduled for July 3, 2026 at 6:00 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xd56126cf9319e07247bb503544c58365f1c0f186a1920d9f6e09226ae35a8b5f",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782975312833_p8fddx49ako8idr5885jwulsxcn3bgdu_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782975312833_p8fddx49ako8idr5885jwulsxcn3bgdu_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782975312833_p8fddx49ako8idr5885jwulsxcn3bgdu_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782975312833_p8fddx49ako8idr5885jwulsxcn3bgdu_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "5651.3",
+        "liquidity": "109583.73",
+        "decimalPrecision": 3,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.003",
+            "chance": "0.0025",
+            "index": 0,
+            "tokenId": "8130495660537055817500706514299993211903794472397606851876592889729778766447"
+          },
+          {
+            "name": "No",
+            "price": "0.997",
+            "chance": "0.9975",
+            "index": 1,
+            "tokenId": "50729058732928436575788908873834240635478043956708132793056889765679401839801"
+          }
+        ]
+      },
+      {
+        "marketId": 6036779,
+        "externalId": "607071",
+        "title": "ARG 0 - 3 CVI",
+        "question": "Exact Score: Argentina 0 - 3 Cabo Verde?",
+        "description": "In the upcoming FIFA World Cup game between Argentina and Cabo Verde, scheduled for July 3, 2026 at 6:00 PM ET: This market will resolve based on the final score of the Argentina vs. Cabo Verde match originally scheduled for July 3, 2026 at 6:00 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xf2fef92569ac6e76808d70aae8880a99c3a625c0ccfb206e93ed10d880e15a00",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782975311900_ohz5sck3ibqyzu27ulwr3g40r7htxfjn_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782975311900_ohz5sck3ibqyzu27ulwr3g40r7htxfjn_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782975311900_ohz5sck3ibqyzu27ulwr3g40r7htxfjn_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782975311900_ohz5sck3ibqyzu27ulwr3g40r7htxfjn_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "3873.4",
+        "liquidity": "3420.63",
+        "decimalPrecision": 3,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.001",
+            "chance": "0.001",
+            "index": 0,
+            "tokenId": "22710618896925811111478112159279134800760802648519327960512511690916680936079"
+          },
+          {
+            "name": "No",
+            "price": "0.999",
+            "chance": "0.999",
+            "index": 1,
+            "tokenId": "77331207941680205009667045685488788343902909746095561938399933003091436858811"
+          }
+        ]
+      }
+    ],
+    "tradeVolume": "375444.73",
+    "liquidity": "4840872.12",
+    "publishedAt": 1782555638297,
+    "startDate": 1783116000000,
+    "endDate": 1783126800000,
+    "status": "REGISTERED"
+  },
+  {
+    "marketTopicId": 4366007,
+    "vendor": "PREDICT_FUN",
+    "chainId": "56",
+    "slug": "fifwc-arg-cvi-2026-07-03-total-corners",
+    "title": "Argentina vs. Cabo Verde - Total Corners",
+    "question": "Argentina vs. Cabo Verde: O/U 9.5 Total Corners",
+    "imageUrl": "https://static.predict.fun/fifwc",
+    "thumbnailPaths": [
+      {
+        "size": "800x800",
+        "path": "file-center/web3-prediction/S3/topic/1783019318523_ae2qle154mj1rpfxn8u76i1dnpzs6iz9_NEF_q80_800x800"
+      },
+      {
+        "size": "400x400",
+        "path": "file-center/web3-prediction/S3/topic/1783019318523_ae2qle154mj1rpfxn8u76i1dnpzs6iz9_NEF_q80_400x400"
+      },
+      {
+        "size": "96x96",
+        "path": "file-center/web3-prediction/S3/topic/1783019318523_ae2qle154mj1rpfxn8u76i1dnpzs6iz9_NEF_q80_96x96"
+      },
+      {
+        "size": "64x64",
+        "path": "file-center/web3-prediction/S3/topic/1783019318523_ae2qle154mj1rpfxn8u76i1dnpzs6iz9_NEF_q80_64x64"
+      }
+    ],
+    "topicType": "GROUPED",
+    "variantData": {
+      "type": "SPORTS_FIFA_WORLD_CUP"
+    },
+    "participantCount": 330,
+    "collateral": "USDT",
+    "feeRateBps": 200,
+    "slippageBps": 1000,
+    "isYieldBearing": false,
+    "exchangeContractAddress": "0x365fb81bd4A24D6303cd2F19c349dE6894D8d58A",
+    "markets": [
+      {
+        "marketId": 6370393,
+        "externalId": "643987",
+        "title": "Total Corners: O/U 9.5",
+        "question": "Argentina vs. Cabo Verde: O/U 9.5 Total Corners",
+        "description": "In the upcoming FIFA World Cup game between Argentina and Cabo Verde, scheduled for July 3 at 6:00 PM ET: This market will resolve to \"Over\" if there are 10 or more total corners taken in this game (combining corners for both teams). If the total number of corners is fewer than 10, this market will resolve to \"Under\". Markets on number of corners refers to number of corners taken and not corners awarded. If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50. This market refers only to corners taken within the first 90 minutes of regular play plus stoppage time. Corners awarded but not taken will not count. Corners awarded during extra time or penalty shootouts do not count. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 24 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x0f2da699181020f7da69e580fdba8517eed54678c4133d0c1431313d63ddfeb4",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1783019318513_te4qau2pa0v4ad87fh15qjl22v1mrpzl_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1783019318513_te4qau2pa0v4ad87fh15qjl22v1mrpzl_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1783019318513_te4qau2pa0v4ad87fh15qjl22v1mrpzl_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1783019318513_te4qau2pa0v4ad87fh15qjl22v1mrpzl_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "7885.45",
+        "liquidity": "250646.15",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Over 9.5",
+            "price": "0.43",
+            "chance": "0.425",
+            "index": 0,
+            "tokenId": "48592787671112991803571362570032532349353609458682277770495436485072646473771"
+          },
+          {
+            "name": "Under 9.5",
+            "price": "0.57",
+            "chance": "0.575",
+            "index": 1,
+            "tokenId": "106817198916207293491573656903236802653894875535469175844157005777012548244042"
+          }
+        ]
+      }
+    ],
+    "tradeVolume": "7885.46",
+    "liquidity": "250815.28",
+    "publishedAt": 1783019317878,
+    "startDate": 1783116000000,
+    "endDate": 1783123200000,
+    "status": "REGISTERED"
+  },
+  {
+    "marketTopicId": 4234517,
+    "vendor": "PREDICT_FUN",
+    "chainId": "56",
+    "slug": "fifwc-arg-cvi-2026-07-03",
+    "title": "Argentina vs. Cabo Verde",
+    "question": "Will Argentina win on 2026-07-03?",
+    "imageUrl": "https://static.predict.fun/fifwc",
+    "thumbnailPaths": [
+      {
+        "size": "800x800",
+        "path": "file-center/web3-prediction/S3/topic/1782975309673_u9sk4bhsy2o2f0u2ohbn3c2r8ulkb9ts_NEF_q80_800x800"
+      },
+      {
+        "size": "400x400",
+        "path": "file-center/web3-prediction/S3/topic/1782975309673_u9sk4bhsy2o2f0u2ohbn3c2r8ulkb9ts_NEF_q80_400x400"
+      },
+      {
+        "size": "96x96",
+        "path": "file-center/web3-prediction/S3/topic/1782975309673_u9sk4bhsy2o2f0u2ohbn3c2r8ulkb9ts_NEF_q80_96x96"
+      },
+      {
+        "size": "64x64",
+        "path": "file-center/web3-prediction/S3/topic/1782975309673_u9sk4bhsy2o2f0u2ohbn3c2r8ulkb9ts_NEF_q80_64x64"
+      }
+    ],
+    "topicType": "GROUPED",
+    "variantData": {
+      "type": "SPORTS_FIFA_WORLD_CUP"
+    },
+    "participantCount": 6295,
+    "collateral": "USDT",
+    "feeRateBps": 200,
+    "slippageBps": 1000,
+    "isYieldBearing": true,
+    "exchangeContractAddress": "0x8A289d458f5a134bA40015085A8F50Ffb681B41d",
+    "markets": [
+      {
+        "marketId": 6036799,
+        "externalId": "607178",
+        "title": "ARG",
+        "question": "Will Argentina win on 2026-07-03?",
+        "description": "In the upcoming game, scheduled for July 3, 2026\nIf Argentina wins, this market will resolve to \"Yes\".\nOtherwise, this market will resolve to \"No\".\nIf the game is postponed, this market will remain open until the game has been completed.\nIf the game is canceled entirely, with no make-up game, this market will resolve \"No\".\nThis market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x8ce074c2af64876e01a0473387108a960017f539a51176a41b6abf92e10ad85e",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782975300246_uxbsbrya74i0gp77aauaf9fe53xjcww0_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782975300246_uxbsbrya74i0gp77aauaf9fe53xjcww0_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782975300246_uxbsbrya74i0gp77aauaf9fe53xjcww0_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782975300246_uxbsbrya74i0gp77aauaf9fe53xjcww0_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "310640.51",
+        "liquidity": "5462107.29",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.86",
+            "chance": "0.855",
+            "index": 0,
+            "tokenId": "74979628444960183417984787199453951274189242885193593286156764876148516079992"
+          },
+          {
+            "name": "No",
+            "price": "0.14",
+            "chance": "0.145",
+            "index": 1,
+            "tokenId": "3957393442443881624981021555077966635240772350029242731239383128957738630381"
+          }
+        ]
+      },
+      {
+        "marketId": 6036800,
+        "externalId": "607179",
+        "title": "Draw",
+        "question": "Will Argentina vs. Cabo Verde end in a draw?",
+        "description": "In the upcoming game, scheduled for July 3, 2026\nIf the game ends in a draw, this market will resolve to \"Yes\".\nOtherwise, this market will resolve to \"No\".\nIf the game is postponed, this market will remain open until the game has been completed.\nIf the game is canceled entirely, with no make-up game, this market will resolve to \"Yes\".\nThis market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xecb6eaa34b1b82624c13a48b63c8c6e89a820390442a9d8dfa5fe8483a5df9f1",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782975300345_i7bwe9xjcdam2nvtvxa1n81zr0h4i0l1_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782975300345_i7bwe9xjcdam2nvtvxa1n81zr0h4i0l1_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782975300345_i7bwe9xjcdam2nvtvxa1n81zr0h4i0l1_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782975300345_i7bwe9xjcdam2nvtvxa1n81zr0h4i0l1_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "45273.05",
+        "liquidity": "883215.3",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.11",
+            "chance": "0.105",
+            "index": 0,
+            "tokenId": "39819111592755969017321262633485287985647588784019960926413452739114620401030"
+          },
+          {
+            "name": "No",
+            "price": "0.89",
+            "chance": "0.895",
+            "index": 1,
+            "tokenId": "25744882981199277290585872604822181150353794029835163342160476460225696550896"
+          }
+        ]
+      },
+      {
+        "marketId": 6036801,
+        "externalId": "607180",
+        "title": "CVI",
+        "question": "Will Cabo Verde win on 2026-07-03?",
+        "description": "In the upcoming game, scheduled for July 3, 2026\nIf Cabo Verde wins, this market will resolve to \"Yes\".\nOtherwise, this market will resolve to \"No\".\nIf the game is postponed, this market will remain open until the game has been completed.\nIf the game is canceled entirely, with no make-up game, this market will resolve \"No\".\nThis market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x97f61c23611dad0d22645249451e6c19aa2345b7d08671500e0fa1eaa17bfaf7",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782975300898_jltnahte2o3yzispcd0xplviozee5zl5_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782975300898_jltnahte2o3yzispcd0xplviozee5zl5_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782975300898_jltnahte2o3yzispcd0xplviozee5zl5_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782975300898_jltnahte2o3yzispcd0xplviozee5zl5_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "70231.3",
+        "liquidity": "96924.53",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.05",
+            "chance": "0.045",
+            "index": 0,
+            "tokenId": "96076052389619038939457302230270700546002423498588957272006305915703124036157"
+          },
+          {
+            "name": "No",
+            "price": "0.95",
+            "chance": "0.955",
+            "index": 1,
+            "tokenId": "114110443238779713862946430225017502567236885385503116393362269354838137639091"
+          }
+        ]
+      }
+    ],
+    "tradeVolume": "427333.09",
+    "liquidity": "6860133.36",
+    "publishedAt": 1782555680226,
+    "startDate": 1783116000000,
+    "endDate": 1783123200000,
+    "status": "REGISTERED"
+  },
+  {
+    "marketTopicId": 4234661,
+    "vendor": "PREDICT_FUN",
+    "chainId": "56",
+    "slug": "fifwc-arg-cvi-2026-07-03-more-markets",
+    "title": "Argentina vs. Cabo Verde - More Markets",
+    "question": "Spread: Argentina (-1.5)",
+    "imageUrl": "https://static.predict.fun/fifwc",
+    "thumbnailPaths": [
+      {
+        "size": "800x800",
+        "path": "file-center/web3-prediction/S3/topic/1782975295268_tddcpiiad4opgql0phhu4wg8vv9qoo3q_NEF_q80_800x800"
+      },
+      {
+        "size": "400x400",
+        "path": "file-center/web3-prediction/S3/topic/1782975295268_tddcpiiad4opgql0phhu4wg8vv9qoo3q_NEF_q80_400x400"
+      },
+      {
+        "size": "96x96",
+        "path": "file-center/web3-prediction/S3/topic/1782975295268_tddcpiiad4opgql0phhu4wg8vv9qoo3q_NEF_q80_96x96"
+      },
+      {
+        "size": "64x64",
+        "path": "file-center/web3-prediction/S3/topic/1782975295268_tddcpiiad4opgql0phhu4wg8vv9qoo3q_NEF_q80_64x64"
+      }
+    ],
+    "topicType": "GROUPED",
+    "variantData": {
+      "type": "SPORTS_FIFA_WORLD_CUP"
+    },
+    "participantCount": 1538,
+    "collateral": "USDT",
+    "feeRateBps": 200,
+    "slippageBps": 1000,
+    "isYieldBearing": true,
+    "exchangeContractAddress": "0x8A289d458f5a134bA40015085A8F50Ffb681B41d",
+    "markets": [
+      {
+        "marketId": 6038363,
+        "externalId": "607356",
+        "title": "O/U 0.5",
+        "question": "Argentina vs. Cabo Verde: O/U 0.5",
+        "description": "In the upcoming FIFA World Cup game between Argentina and Cabo Verde, scheduled for July 3 at 6:00 PM ET:\n\nThis market will resolve to \"Over\" if Argentina and Cabo Verde combine to score 1 or more goals in this game.\n\nIf the combined total is less than 1, this market will resolve to \"Under\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nIf the game is started but not completed, this market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x3b8a5c67abff8d2ba84ee23ddf8c4197d5532e38d4f11ac5f0656e1d273b27c2",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782975282415_xpvge1jz2gl5mv37ifc8at0830z886wv_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782975282415_xpvge1jz2gl5mv37ifc8at0830z886wv_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782975282415_xpvge1jz2gl5mv37ifc8at0830z886wv_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782975282415_xpvge1jz2gl5mv37ifc8at0830z886wv_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "850.96",
+        "liquidity": "1771113.05",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Over",
+            "price": "0.96",
+            "chance": "0.955",
+            "index": 0,
+            "tokenId": "56065144176625853169262186670025730776364403659388274260936951041057635000145"
+          },
+          {
+            "name": "Under",
+            "price": "0.04",
+            "chance": "0.045",
+            "index": 1,
+            "tokenId": "16740091113409700306638953948727266290940869222423707343936125568231939002969"
+          }
+        ]
+      },
+      {
+        "marketId": 6108627,
+        "externalId": "622019",
+        "title": "Team to Advance",
+        "question": "Argentina vs. Cabo Verde: Team to Advance",
+        "description": "In the upcoming FIFA World Cup game between Argentina and Cabo Verde, scheduled for July 3 at 6:00 PM ET: This market will resolve to \"Argentina\" if Argentina is the team that officially advances from this match to the next round of the FIFA World Cup, or is crowned winner of the competition if this match is the final. This market will resolve to \"Cabo Verde\" if Cabo Verde is the team that officially advances from this match to the next round of the FIFA World Cup, or is crowned winner of the competition if this match is the final. This includes advancement after regulation, extra time, a penalty shoot-out, or an official ruling by the competition organizer such as forfeit, abandonment, or disqualification. If the game is postponed, this market will remain open until the game has been completed or a team is officially declared to advance. If the game is canceled entirely and no team advances from this match, this market will resolve 50-50. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 24 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x03c660bb55bad0dc8481fd1f2d1644f90687c056e2b9cd3a42226d3807b33c5f",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782975283406_qwqx2smw8jprq5bu2mrw7f37laniheea_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782975283406_qwqx2smw8jprq5bu2mrw7f37laniheea_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782975283406_qwqx2smw8jprq5bu2mrw7f37laniheea_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782975283406_qwqx2smw8jprq5bu2mrw7f37laniheea_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "165492.7",
+        "liquidity": "7779825.74",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "ARG",
+            "price": "0.94",
+            "chance": "0.935",
+            "index": 0,
+            "tokenId": "31785182469579864070342154371758865317935837599394836688718862527112608752924"
+          },
+          {
+            "name": "CVI",
+            "price": "0.06",
+            "chance": "0.065",
+            "index": 1,
+            "tokenId": "113736932052026534893319267320899214538802965928875873717408711973974065234040"
+          }
+        ]
+      },
+      {
+        "marketId": 6038364,
+        "externalId": "607357",
+        "title": "O/U 1.5",
+        "question": "Argentina vs. Cabo Verde: O/U 1.5",
+        "description": "In the upcoming FIFA World Cup game between Argentina and Cabo Verde, scheduled for July 3 at 6:00 PM ET:\n\nThis market will resolve to \"Over\" if Argentina and Cabo Verde combine to score 2 or more goals in this game.\n\nIf the combined total is less than 2, this market will resolve to \"Under\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nIf the game is started but not completed, this market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x4a0ea43f1997af80d3936bcd24fb81217d9208d475ca130a1062d8b5fa8b70ef",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782975282510_oq7k27vtkwqasbig7h23vk3orbtqkyl2_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782975282510_oq7k27vtkwqasbig7h23vk3orbtqkyl2_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782975282510_oq7k27vtkwqasbig7h23vk3orbtqkyl2_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782975282510_oq7k27vtkwqasbig7h23vk3orbtqkyl2_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "17644.12",
+        "liquidity": "1517367.31",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Over",
+            "price": "0.83",
+            "chance": "0.825",
+            "index": 0,
+            "tokenId": "88686600801252613090505293810337626080880938916683953486072908925806754616866"
+          },
+          {
+            "name": "Under",
+            "price": "0.17",
+            "chance": "0.175",
+            "index": 1,
+            "tokenId": "45145626032399490097648527529307643740026111235086000327951831146941894526301"
+          }
+        ]
+      },
+      {
+        "marketId": 6038353,
+        "externalId": "607346",
+        "title": "Argentina (-1.5)",
+        "question": "Spread: Argentina (-1.5)",
+        "description": "In the upcoming FIFA World Cup game, scheduled for July 3 at 6:00 PM ET:\n\nThis market will resolve to \"Argentina\" if Argentina win the game by 2 or more goals.\n\nOtherwise, this market will resolve to \"Cabo Verde\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x57323dffba980227957e231ba5f6f34d95511068dc9b4f71b50c11be8b87d8f4",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782975281457_xhw9cmyinjhk4z4rucks9yvadtoltplf_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782975281457_xhw9cmyinjhk4z4rucks9yvadtoltplf_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782975281457_xhw9cmyinjhk4z4rucks9yvadtoltplf_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782975281457_xhw9cmyinjhk4z4rucks9yvadtoltplf_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "29797.59",
+        "liquidity": "1074832.66",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "ARG",
+            "price": "0.67",
+            "chance": "0.665",
+            "index": 0,
+            "tokenId": "115468440207097781167735159979097319762499351871457284153802973923729918390850"
+          },
+          {
+            "name": "CVI",
+            "price": "0.33",
+            "chance": "0.335",
+            "index": 1,
+            "tokenId": "73029555526520511529678831041134809313322774624089891881844623962852403144493"
+          }
+        ]
+      },
+      {
+        "marketId": 6038365,
+        "externalId": "607358",
+        "title": "O/U 2.5",
+        "question": "Argentina vs. Cabo Verde: O/U 2.5",
+        "description": "In the upcoming FIFA World Cup game between Argentina and Cabo Verde, scheduled for July 3 at 6:00 PM ET:\n\nThis market will resolve to \"Over\" if Argentina and Cabo Verde combine to score 3 or more goals in this game.\n\nIf the combined total is less than 3, this market will resolve to \"Under\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nIf the game is started but not completed, this market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x9cc0246ea0408bfc2aa3d58b8a766c31d451dd44f8025bd20362962fe17d592b",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782975282645_8hood5vc23e4392iu8hkvmhmabm665t2_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782975282645_8hood5vc23e4392iu8hkvmhmabm665t2_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782975282645_8hood5vc23e4392iu8hkvmhmabm665t2_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782975282645_8hood5vc23e4392iu8hkvmhmabm665t2_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "38592.34",
+        "liquidity": "1027676.49",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Over",
+            "price": "0.62",
+            "chance": "0.615",
+            "index": 0,
+            "tokenId": "101889323716305785062604926580643405552328583349466684634661067280651097439185"
+          },
+          {
+            "name": "Under",
+            "price": "0.38",
+            "chance": "0.385",
+            "index": 1,
+            "tokenId": "115727449749122924610246897725657975886444750638578806311456967957627384519564"
+          }
+        ]
+      },
+      {
+        "marketId": 6038355,
+        "externalId": "607348",
+        "title": "Argentina (-2.5)",
+        "question": "Spread: Argentina (-2.5)",
+        "description": "In the upcoming FIFA World Cup game, scheduled for July 3 at 6:00 PM ET:\n\nThis market will resolve to \"Argentina\" if Argentina win the game by 3 or more goals.\n\nOtherwise, this market will resolve to \"Cabo Verde\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xc99e57aa43935f7a5ad14e714325b371a0465cde4960a1fbc6fce65cd464d8d5",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782975281654_8v58a2zus6r1jbhrgcmml6fwllfehkje_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782975281654_8v58a2zus6r1jbhrgcmml6fwllfehkje_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782975281654_8v58a2zus6r1jbhrgcmml6fwllfehkje_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782975281654_8v58a2zus6r1jbhrgcmml6fwllfehkje_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "12089.13",
+        "liquidity": "717944.04",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "ARG",
+            "price": "0.42",
+            "chance": "0.415",
+            "index": 0,
+            "tokenId": "68803919673119889408132145205606250239750923733004937800659713462919330593994"
+          },
+          {
+            "name": "CVI",
+            "price": "0.58",
+            "chance": "0.585",
+            "index": 1,
+            "tokenId": "85856017800982814268712272065797755429976749206135727969871873302252594219883"
+          }
+        ]
+      },
+      {
+        "marketId": 6038366,
+        "externalId": "607359",
+        "title": "O/U 3.5",
+        "question": "Argentina vs. Cabo Verde: O/U 3.5",
+        "description": "In the upcoming FIFA World Cup game between Argentina and Cabo Verde, scheduled for July 3 at 6:00 PM ET:\n\nThis market will resolve to \"Over\" if Argentina and Cabo Verde combine to score 4 or more goals in this game.\n\nIf the combined total is less than 4, this market will resolve to \"Under\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nIf the game is started but not completed, this market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xb2e0c9dd844e4e644c372d7512f37c4c2d5ade5bdaa2bc538cc4f64c309e44f6",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782975282738_045qbqxqfin1ao4wew716rtrn7icdivt_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782975282738_045qbqxqfin1ao4wew716rtrn7icdivt_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782975282738_045qbqxqfin1ao4wew716rtrn7icdivt_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782975282738_045qbqxqfin1ao4wew716rtrn7icdivt_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "4807.78",
+        "liquidity": "497046.52",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Over",
+            "price": "0.37",
+            "chance": "0.365",
+            "index": 0,
+            "tokenId": "14096073716754525898279317567922912554926151394400536764483272927801809860280"
+          },
+          {
+            "name": "Under",
+            "price": "0.63",
+            "chance": "0.635",
+            "index": 1,
+            "tokenId": "66671204303427752001816934393794984186857912513980465612149772878643685584972"
+          }
+        ]
+      },
+      {
+        "marketId": 6038372,
+        "externalId": "607365",
+        "title": "Both Teams to Score",
+        "question": "Argentina vs. Cabo Verde: Both Teams to Score",
+        "description": "In the upcoming FIFA World Cup game between Argentina and Cabo Verde, scheduled for July 3 at 6:00 PM ET:\n\nThis market will resolve to \"Yes\" if both Argentina and Cabo Verde each score at least one goal during the game.\n\nThis market will resolve to \"No\" if either team fails to score (i.e., if one or both teams finish with zero goals).\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nIf the game is started but not completed, this market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xf20d2ae97b7c76e47e6fa884162bcdeab2fb19df0cbbef5b0010e1dde975c64b",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782975283312_6px5pftrz6ye613sdu6jvqwfc7262t3k_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782975283312_6px5pftrz6ye613sdu6jvqwfc7262t3k_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782975283312_6px5pftrz6ye613sdu6jvqwfc7262t3k_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782975283312_6px5pftrz6ye613sdu6jvqwfc7262t3k_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "34530.72",
+        "liquidity": "470188.28",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.32",
+            "chance": "0.315",
+            "index": 0,
+            "tokenId": "30971495863181427546289331145679332967658828839714750748719594897937468931012"
+          },
+          {
+            "name": "No",
+            "price": "0.68",
+            "chance": "0.685",
+            "index": 1,
+            "tokenId": "20851472375213882954418533519040745200903355820294353685679291286340117280157"
+          }
+        ]
+      },
+      {
+        "marketId": 6038357,
+        "externalId": "607350",
+        "title": "Argentina (-3.5)",
+        "question": "Spread: Argentina (-3.5)",
+        "description": "In the upcoming FIFA World Cup game, scheduled for July 3 at 6:00 PM ET:\n\nThis market will resolve to \"Argentina\" if Argentina win the game by 4 or more goals.\n\nOtherwise, this market will resolve to \"Cabo Verde\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xf9263927fe88392107abfa3340ed7b069bdc6ce4866f17bc12e3fa7218523374",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782975281844_8wcrrq45bs2s5jfrst7ornv1n3sh1r31_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782975281844_8wcrrq45bs2s5jfrst7ornv1n3sh1r31_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782975281844_8wcrrq45bs2s5jfrst7ornv1n3sh1r31_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782975281844_8wcrrq45bs2s5jfrst7ornv1n3sh1r31_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "2419.55",
+        "liquidity": "343024.39",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "ARG",
+            "price": "0.21",
+            "chance": "0.205",
+            "index": 0,
+            "tokenId": "100565513763523612901095812728792707296662729608135259479352945318435911024618"
+          },
+          {
+            "name": "CVI",
+            "price": "0.79",
+            "chance": "0.795",
+            "index": 1,
+            "tokenId": "49639251004364179211074527065473049452356180590185101344053304982305672460093"
+          }
+        ]
+      },
+      {
+        "marketId": 6038367,
+        "externalId": "607360",
+        "title": "O/U 4.5",
+        "question": "Argentina vs. Cabo Verde: O/U 4.5",
+        "description": "In the upcoming FIFA World Cup game between Argentina and Cabo Verde, scheduled for July 3 at 6:00 PM ET:\n\nThis market will resolve to \"Over\" if Argentina and Cabo Verde combine to score 5 or more goals in this game.\n\nIf the combined total is less than 5, this market will resolve to \"Under\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nIf the game is started but not completed, this market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x994436d80267c11697b040fad5def7d1ab7e9d5a93869e7e343574b0bcf7934d",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782975282830_yd5jes56v5f3xi5mydacktk6dj0kapbd_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782975282830_yd5jes56v5f3xi5mydacktk6dj0kapbd_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782975282830_yd5jes56v5f3xi5mydacktk6dj0kapbd_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782975282830_yd5jes56v5f3xi5mydacktk6dj0kapbd_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "6914.56",
+        "liquidity": "266976.44",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Over",
+            "price": "0.2",
+            "chance": "0.195",
+            "index": 0,
+            "tokenId": "83594489620370771685952379869168636675050221577814376344523643040120447317394"
+          },
+          {
+            "name": "Under",
+            "price": "0.8",
+            "chance": "0.805",
+            "index": 1,
+            "tokenId": "11121394646007484972422208830506594724145574861474558139255208768869920210527"
+          }
+        ]
+      },
+      {
+        "marketId": 6038359,
+        "externalId": "607352",
+        "title": "Argentina (-4.5)",
+        "question": "Spread: Argentina (-4.5)",
+        "description": "In the upcoming FIFA World Cup game, scheduled for July 3 at 6:00 PM ET:\n\nThis market will resolve to \"Argentina\" if Argentina win the game by 5 or more goals.\n\nOtherwise, this market will resolve to \"Cabo Verde\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x8d40be5ea723202d4c02f993b8615bcfe4037831edf0ed89e271b91010aa65b5",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782975282033_y5iah4w1puanriscl0dvxsx2451svbpf_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782975282033_y5iah4w1puanriscl0dvxsx2451svbpf_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782975282033_y5iah4w1puanriscl0dvxsx2451svbpf_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782975282033_y5iah4w1puanriscl0dvxsx2451svbpf_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "77.77",
+        "liquidity": "158371.84",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "ARG",
+            "price": "0.09",
+            "chance": "0.085",
+            "index": 0,
+            "tokenId": "7870841892369015638756305720614527412961545164308899962729898439467067496581"
+          },
+          {
+            "name": "CVI",
+            "price": "0.91",
+            "chance": "0.915",
+            "index": 1,
+            "tokenId": "103866803533757244983558543375568400577595962860069083925495943094008777118938"
+          }
+        ]
+      },
+      {
+        "marketId": 6038368,
+        "externalId": "607361",
+        "title": "O/U 5.5",
+        "question": "Argentina vs. Cabo Verde: O/U 5.5",
+        "description": "In the upcoming FIFA World Cup game between Argentina and Cabo Verde, scheduled for July 3 at 6:00 PM ET:\n\nThis market will resolve to \"Over\" if Argentina and Cabo Verde combine to score 6 or more goals in this game.\n\nIf the combined total is less than 6, this market will resolve to \"Under\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nIf the game is started but not completed, this market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x420084db166cf232d6e5bd0300fe6b5fbefa15e754a5b2a291b57e5a205392d0",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782975282924_q8i6c7tfiub8f2ptmzfjaftptcvziy3f_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782975282924_q8i6c7tfiub8f2ptmzfjaftptcvziy3f_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782975282924_q8i6c7tfiub8f2ptmzfjaftptcvziy3f_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782975282924_q8i6c7tfiub8f2ptmzfjaftptcvziy3f_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "89.83",
+        "liquidity": "128298.82",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Over",
+            "price": "0.09",
+            "chance": "0.085",
+            "index": 0,
+            "tokenId": "35659732853463842639179062142559434119695115796042466834199635618846287336601"
+          },
+          {
+            "name": "Under",
+            "price": "0.91",
+            "chance": "0.915",
+            "index": 1,
+            "tokenId": "16342053373882827569302911435002523686997055365601086529944001923243867939615"
+          }
+        ]
+      },
+      {
+        "marketId": 6038369,
+        "externalId": "607362",
+        "title": "O/U 6.5",
+        "question": "Argentina vs. Cabo Verde: O/U 6.5",
+        "description": "In the upcoming FIFA World Cup game between Argentina and Cabo Verde, scheduled for July 3 at 6:00 PM ET:\n\nThis market will resolve to \"Over\" if Argentina and Cabo Verde combine to score 7 or more goals in this game.\n\nIf the combined total is less than 7, this market will resolve to \"Under\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nIf the game is started but not completed, this market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xb555e3bf8238c8a5cfbc3494395aceec1f516af207fffe017391afb1185b5bd5",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782975283021_vka3wjrxdyefoibgwoebor18blrj856y_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782975283021_vka3wjrxdyefoibgwoebor18blrj856y_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782975283021_vka3wjrxdyefoibgwoebor18blrj856y_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782975283021_vka3wjrxdyefoibgwoebor18blrj856y_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "544",
+        "liquidity": "225430.32",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Over",
+            "price": "0.04",
+            "chance": "0.035",
+            "index": 0,
+            "tokenId": "100379314790130294825451885417746249903011304547076394392183943790554197728319"
+          },
+          {
+            "name": "Under",
+            "price": "0.96",
+            "chance": "0.965",
+            "index": 1,
+            "tokenId": "91772609954675539480577569359590773870021786805366363872971103902761808968188"
+          }
+        ]
+      },
+      {
+        "marketId": 6038361,
+        "externalId": "607354",
+        "title": "Argentina (-5.5)",
+        "question": "Spread: Argentina (-5.5)",
+        "description": "In the upcoming FIFA World Cup game, scheduled for July 3 at 6:00 PM ET:\n\nThis market will resolve to \"Argentina\" if Argentina win the game by 6 or more goals.\n\nOtherwise, this market will resolve to \"Cabo Verde\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xd44db9554d938ea2be795d15cef090201803fcf465cc5fb6870dc12f0aade63a",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782975282220_pz0f2b4gz3wjv0a9o7t6zd5qw7mgfgyk_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782975282220_pz0f2b4gz3wjv0a9o7t6zd5qw7mgfgyk_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782975282220_pz0f2b4gz3wjv0a9o7t6zd5qw7mgfgyk_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782975282220_pz0f2b4gz3wjv0a9o7t6zd5qw7mgfgyk_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "100",
+        "liquidity": "216807.05",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "ARG",
+            "price": "0.03",
+            "chance": "0.025",
+            "index": 0,
+            "tokenId": "73089200547612309327346033046776607159266512123940700797840063131004065279372"
+          },
+          {
+            "name": "CVI",
+            "price": "0.97",
+            "chance": "0.975",
+            "index": 1,
+            "tokenId": "24440231177507384477602895147120845199512098753935249286035727250145979912412"
+          }
+        ]
+      },
+      {
+        "marketId": 6038370,
+        "externalId": "607363",
+        "title": "O/U 7.5",
+        "question": "Argentina vs. Cabo Verde: O/U 7.5",
+        "description": "In the upcoming FIFA World Cup game between Argentina and Cabo Verde, scheduled for July 3 at 6:00 PM ET:\n\nThis market will resolve to \"Over\" if Argentina and Cabo Verde combine to score 8 or more goals in this game.\n\nIf the combined total is less than 8, this market will resolve to \"Under\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nIf the game is started but not completed, this market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x011951bfca6abeee0d4c9875d4d07f1a548365deb090189e2e71e3011de5b45b",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782975283115_nqspcq1jodx8bgu4bjlspirid2s94ueq_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782975283115_nqspcq1jodx8bgu4bjlspirid2s94ueq_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782975283115_nqspcq1jodx8bgu4bjlspirid2s94ueq_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782975283115_nqspcq1jodx8bgu4bjlspirid2s94ueq_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "2204.85",
+        "liquidity": "13665.76",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Over",
+            "price": "0.02",
+            "chance": "0.015",
+            "index": 0,
+            "tokenId": "33896990537262714397198856994018900852753797135685860707186507550420448954728"
+          },
+          {
+            "name": "Under",
+            "price": "0.98",
+            "chance": "0.985",
+            "index": 1,
+            "tokenId": "47686685297883946867852289476007290386887840175569163865604206202506621683701"
+          }
+        ]
+      },
+      {
+        "marketId": 6038354,
+        "externalId": "607347",
+        "title": "Cabo Verde (-1.5)",
+        "question": "Spread: Cabo Verde (-1.5)",
+        "description": "In the upcoming FIFA World Cup game, scheduled for July 3 at 6:00 PM ET:\n\nThis market will resolve to \"Cabo Verde\" if Cabo Verde win the game by 2 or more goals.\n\nOtherwise, this market will resolve to \"Argentina\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x01b9af13e0c1b892e96c3225517bcc0f9ec35dae34ffad1256d29ab0f2724b5f",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782975281558_ika0zmk7eo7kxf7f6owg4om3mfgrqt6t_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782975281558_ika0zmk7eo7kxf7f6owg4om3mfgrqt6t_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782975281558_ika0zmk7eo7kxf7f6owg4om3mfgrqt6t_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782975281558_ika0zmk7eo7kxf7f6owg4om3mfgrqt6t_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "4",
+        "liquidity": "1740.38",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "CVI",
+            "price": "0.01",
+            "chance": "0.01",
+            "index": 0,
+            "tokenId": "17271614313660485252265908073606546528466662660127157363533801605552388865427"
+          },
+          {
+            "name": "ARG",
+            "price": "0.99",
+            "chance": "0.99",
+            "index": 1,
+            "tokenId": "25647216710700140921264307950356171651135543141182371366559877344827422826040"
+          }
+        ]
+      },
+      {
+        "marketId": 6038356,
+        "externalId": "607349",
+        "title": "Cabo Verde (-2.5)",
+        "question": "Spread: Cabo Verde (-2.5)",
+        "description": "In the upcoming FIFA World Cup game, scheduled for July 3 at 6:00 PM ET:\n\nThis market will resolve to \"Cabo Verde\" if Cabo Verde win the game by 3 or more goals.\n\nOtherwise, this market will resolve to \"Argentina\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xac0fe1abf3f151075d6ccf750fb06d5759c53b00f75d75897ff3ca0badd31e09",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782975281746_pg8k3pvk22f40kveq0vad1wg2gbpfqrf_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782975281746_pg8k3pvk22f40kveq0vad1wg2gbpfqrf_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782975281746_pg8k3pvk22f40kveq0vad1wg2gbpfqrf_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782975281746_pg8k3pvk22f40kveq0vad1wg2gbpfqrf_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "63.51",
+        "liquidity": "1608.65",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "CVI",
+            "price": "0.01",
+            "chance": "0.01",
+            "index": 0,
+            "tokenId": "33708393513810904965333854621060482057987607231219904655433677606614625690482"
+          },
+          {
+            "name": "ARG",
+            "price": "0.99",
+            "chance": "0.99",
+            "index": 1,
+            "tokenId": "3635369751424982385111662441287833372885967858021779078918443728705473447887"
+          }
+        ]
+      },
+      {
+        "marketId": 6038358,
+        "externalId": "607351",
+        "title": "Cabo Verde (-3.5)",
+        "question": "Spread: Cabo Verde (-3.5)",
+        "description": "In the upcoming FIFA World Cup game, scheduled for July 3 at 6:00 PM ET:\n\nThis market will resolve to \"Cabo Verde\" if Cabo Verde win the game by 4 or more goals.\n\nOtherwise, this market will resolve to \"Argentina\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x0c3f7ac12f04098c4d77a9172c878013220173bb37ab2c1eba89cff77890d602",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782975281940_tq0md48ltn76iz2red467uj53vgp3mm2_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782975281940_tq0md48ltn76iz2red467uj53vgp3mm2_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782975281940_tq0md48ltn76iz2red467uj53vgp3mm2_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782975281940_tq0md48ltn76iz2red467uj53vgp3mm2_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "0",
+        "liquidity": "1130.87",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "CVI",
+            "price": "0.01",
+            "chance": "0.01",
+            "index": 0,
+            "tokenId": "26564970578267369391738725304953380489706009591139858723648395572637659359571"
+          },
+          {
+            "name": "ARG",
+            "price": "0.99",
+            "chance": "0.99",
+            "index": 1,
+            "tokenId": "16227927961771694990676097157632250838354623249001431885290506260688980425726"
+          }
+        ]
+      },
+      {
+        "marketId": 6038360,
+        "externalId": "607353",
+        "title": "Cabo Verde (-4.5)",
+        "question": "Spread: Cabo Verde (-4.5)",
+        "description": "In the upcoming FIFA World Cup game, scheduled for July 3 at 6:00 PM ET:\n\nThis market will resolve to \"Cabo Verde\" if Cabo Verde win the game by 5 or more goals.\n\nOtherwise, this market will resolve to \"Argentina\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xbd460c7e59cac79e81273dbbe717d4f87911abaffd9c9da9d780855abad91ab7",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782975282129_ixcgja9fpfix58ds58dvtl86kdo741cr_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782975282129_ixcgja9fpfix58ds58dvtl86kdo741cr_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782975282129_ixcgja9fpfix58ds58dvtl86kdo741cr_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782975282129_ixcgja9fpfix58ds58dvtl86kdo741cr_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "0",
+        "liquidity": "1127.87",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "CVI",
+            "price": "0.01",
+            "chance": "0.01",
+            "index": 0,
+            "tokenId": "29553517506553485304724621812603406502295208577118017531135211281590577490576"
+          },
+          {
+            "name": "ARG",
+            "price": "0.99",
+            "chance": "0.99",
+            "index": 1,
+            "tokenId": "88194492280107553176595547777919427876199228228992414601016401680629983713232"
+          }
+        ]
+      },
+      {
+        "marketId": 6038362,
+        "externalId": "607355",
+        "title": "Cabo Verde (-5.5)",
+        "question": "Spread: Cabo Verde (-5.5)",
+        "description": "In the upcoming FIFA World Cup game, scheduled for July 3 at 6:00 PM ET:\n\nThis market will resolve to \"Cabo Verde\" if Cabo Verde win the game by 6 or more goals.\n\nOtherwise, this market will resolve to \"Argentina\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x132cd7564ba44249a0de04384b70b0b3581d5fac1f952fc6e9b0154780feb0e6",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782975282316_2oia264bbk22v5x7in6fae1exh9iu8ga_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782975282316_2oia264bbk22v5x7in6fae1exh9iu8ga_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782975282316_2oia264bbk22v5x7in6fae1exh9iu8ga_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782975282316_2oia264bbk22v5x7in6fae1exh9iu8ga_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "0",
+        "liquidity": "1126.87",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "CVI",
+            "price": "0.01",
+            "chance": "0.01",
+            "index": 0,
+            "tokenId": "14962598892734709428089432027365639792505161719342866741584796307801676804967"
+          },
+          {
+            "name": "ARG",
+            "price": "0.99",
+            "chance": "0.99",
+            "index": 1,
+            "tokenId": "86733495624192637424324657386325868667892150415534024853696840540844476672765"
+          }
+        ]
+      },
+      {
+        "marketId": 6038371,
+        "externalId": "607364",
+        "title": "O/U 8.5",
+        "question": "Argentina vs. Cabo Verde: O/U 8.5",
+        "description": "In the upcoming FIFA World Cup game between Argentina and Cabo Verde, scheduled for July 3 at 6:00 PM ET:\n\nThis market will resolve to \"Over\" if Argentina and Cabo Verde combine to score 9 or more goals in this game.\n\nIf the combined total is less than 9, this market will resolve to \"Under\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nIf the game is started but not completed, this market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xed864ad7e4274d366938b59fa213024dfb3a597c807c5e0469fd7641c2e855d4",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782975283214_4syid3qiia63mifl35lb260w3h8yhw51_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782975283214_4syid3qiia63mifl35lb260w3h8yhw51_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782975283214_4syid3qiia63mifl35lb260w3h8yhw51_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782975283214_4syid3qiia63mifl35lb260w3h8yhw51_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "2",
+        "liquidity": "3501.91",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Over",
+            "price": "0.01",
+            "chance": "0.01",
+            "index": 0,
+            "tokenId": "4909003462660029579904939679178811592385036915992310721584175407913293527240"
+          },
+          {
+            "name": "Under",
+            "price": "0.99",
+            "chance": "0.99",
+            "index": 1,
+            "tokenId": "78376925569172971291852884612347779979542757789318379800211623676811623103167"
+          }
+        ]
+      }
+    ],
+    "tradeVolume": "316225.48",
+    "liquidity": "16091048.27",
+    "publishedAt": 1782558408350,
+    "startDate": 1783116000000,
+    "endDate": 1783123200000,
+    "status": "REGISTERED"
+  },
+  {
+    "marketTopicId": 4234514,
+    "vendor": "PREDICT_FUN",
+    "chainId": "56",
+    "slug": "fifwc-arg-cvi-2026-07-03-halftime-result",
+    "title": "Argentina vs. Cabo Verde - Halftime Result",
+    "question": "Argentina leading at halftime?",
+    "imageUrl": "https://static.predict.fun/fifwc",
+    "thumbnailPaths": [
+      {
+        "size": "800x800",
+        "path": "file-center/web3-prediction/S3/topic/1782975310081_2y6vpjcumluzxk2y3dfxsoyb1nhaflxf_NEF_q80_800x800"
+      },
+      {
+        "size": "400x400",
+        "path": "file-center/web3-prediction/S3/topic/1782975310081_2y6vpjcumluzxk2y3dfxsoyb1nhaflxf_NEF_q80_400x400"
+      },
+      {
+        "size": "96x96",
+        "path": "file-center/web3-prediction/S3/topic/1782975310081_2y6vpjcumluzxk2y3dfxsoyb1nhaflxf_NEF_q80_96x96"
+      },
+      {
+        "size": "64x64",
+        "path": "file-center/web3-prediction/S3/topic/1782975310081_2y6vpjcumluzxk2y3dfxsoyb1nhaflxf_NEF_q80_64x64"
+      }
+    ],
+    "topicType": "GROUPED",
+    "variantData": {
+      "type": "SPORTS_FIFA_WORLD_CUP"
+    },
+    "participantCount": 454,
+    "collateral": "USDT",
+    "feeRateBps": 200,
+    "slippageBps": 1000,
+    "isYieldBearing": true,
+    "exchangeContractAddress": "0x8A289d458f5a134bA40015085A8F50Ffb681B41d",
+    "markets": [
+      {
+        "marketId": 6036790,
+        "externalId": "607153",
+        "title": "ARG",
+        "question": "Argentina leading at halftime?",
+        "description": "In the upcoming game, scheduled for July 3, 2026 If Argentina wins within the first 45 minutes of regular play plus stoppage time, this market will resolve to \"Yes\". Otherwise, this market will resolve to \"No\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve \"No\". This market refers only to the outcome within the first 45 minutes of regular play plus stoppage time.The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 24 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x200cb4e1b0b80b005784894b694b597e95b95388e83695279b9ed78a34abfc82",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782975301943_vywjgu0ww2zbc9t6dqso945xk0w2cw01_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782975301943_vywjgu0ww2zbc9t6dqso945xk0w2cw01_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782975301943_vywjgu0ww2zbc9t6dqso945xk0w2cw01_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782975301943_vywjgu0ww2zbc9t6dqso945xk0w2cw01_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "23520.54",
+        "liquidity": "871949.36",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.68",
+            "chance": "0.675",
+            "index": 0,
+            "tokenId": "18951163718759592179249040855870901638122351150256028441236032085532461403118"
+          },
+          {
+            "name": "No",
+            "price": "0.32",
+            "chance": "0.325",
+            "index": 1,
+            "tokenId": "46797161301117315910227887052258100207066089407115390715270509793976378184511"
+          }
+        ]
+      },
+      {
+        "marketId": 6036791,
+        "externalId": "607154",
+        "title": "Draw",
+        "question": "Argentina vs. Cabo Verde: Draw at halftime?",
+        "description": "In the upcoming game, scheduled for July 3, 2026 If the game ends in a draw within the first 45 minutes of regular play plus stoppage time, this market will resolve to \"Yes\". Otherwise, this market will resolve to \"No\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve to \"Yes\". This market refers only to the outcome within the first 45 minutes of regular play plus stoppage time.The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 24 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x3dd98c076b67f4dee12e34cf641e30640bf6855e2b3b649e7f9c9c547145fb8a",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782975302048_n1kzchpc1xra83ep54lv4mwyvw3gx8bf_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782975302048_n1kzchpc1xra83ep54lv4mwyvw3gx8bf_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782975302048_n1kzchpc1xra83ep54lv4mwyvw3gx8bf_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782975302048_n1kzchpc1xra83ep54lv4mwyvw3gx8bf_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "5124.81",
+        "liquidity": "402170.58",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.29",
+            "chance": "0.285",
+            "index": 0,
+            "tokenId": "118806376579347666835968717931458460512444457411626968722152125912068228113"
+          },
+          {
+            "name": "No",
+            "price": "0.71",
+            "chance": "0.715",
+            "index": 1,
+            "tokenId": "64601126734803350259369937150480144678286520996490420289758593480643409452178"
+          }
+        ]
+      },
+      {
+        "marketId": 6036792,
+        "externalId": "607155",
+        "title": "CVI",
+        "question": "Cabo Verde leading at halftime?",
+        "description": "In the upcoming game, scheduled for July 3, 2026 If Cabo Verde wins within the first 45 minutes of regular play plus stoppage time, this market will resolve to \"Yes\". Otherwise, this market will resolve to \"No\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve \"No\". This market refers only to the outcome within the first 45 minutes of regular play plus stoppage time.The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 24 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x2caacc458f60ff4ab52664c775259793f4506c85253884163035f87bd9a03244",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782975302158_t8m7pjdlo6qdjz7f6b3zpsitzz0uv5eq_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782975302158_t8m7pjdlo6qdjz7f6b3zpsitzz0uv5eq_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782975302158_t8m7pjdlo6qdjz7f6b3zpsitzz0uv5eq_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782975302158_t8m7pjdlo6qdjz7f6b3zpsitzz0uv5eq_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "3358.24",
+        "liquidity": "97798.57",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.06",
+            "chance": "0.055",
+            "index": 0,
+            "tokenId": "23776746082646944610588868002634688282832450609395478982133792493462792545647"
+          },
+          {
+            "name": "No",
+            "price": "0.94",
+            "chance": "0.945",
+            "index": 1,
+            "tokenId": "55431562663713140150538057265683105621941173073409341550911302968896894621820"
+          }
+        ]
+      }
+    ],
+    "tradeVolume": "31983.41",
+    "liquidity": "1359075.65",
+    "publishedAt": 1782555638297,
+    "startDate": 1783116000000,
+    "endDate": 1783126800000,
+    "status": "REGISTERED"
+  },
+  {
+    "marketTopicId": 4366033,
+    "vendor": "PREDICT_FUN",
+    "chainId": "56",
+    "slug": "fifwc-arg-cvi-2026-07-03-player-props",
+    "title": "Argentina vs Cabo Verde - Player Props",
+    "question": "Lionel Messi: 1+ goals",
+    "imageUrl": "https://static.predict.fun/fifwc",
+    "thumbnailPaths": [
+      {
+        "size": "800x800",
+        "path": "file-center/web3-prediction/S3/topic/1783020914158_y3ztwu5is0ldau77pi3c10nwrm8b347e_NEF_q80_800x800"
+      },
+      {
+        "size": "400x400",
+        "path": "file-center/web3-prediction/S3/topic/1783020914158_y3ztwu5is0ldau77pi3c10nwrm8b347e_NEF_q80_400x400"
+      },
+      {
+        "size": "96x96",
+        "path": "file-center/web3-prediction/S3/topic/1783020914158_y3ztwu5is0ldau77pi3c10nwrm8b347e_NEF_q80_96x96"
+      },
+      {
+        "size": "64x64",
+        "path": "file-center/web3-prediction/S3/topic/1783020914158_y3ztwu5is0ldau77pi3c10nwrm8b347e_NEF_q80_64x64"
+      }
+    ],
+    "topicType": "GROUPED",
+    "variantData": {
+      "type": "SPORTS_FIFA_WORLD_CUP"
+    },
+    "participantCount": 322,
+    "collateral": "USDT",
+    "feeRateBps": 200,
+    "slippageBps": 1000,
+    "isYieldBearing": false,
+    "exchangeContractAddress": "0x365fb81bd4A24D6303cd2F19c349dE6894D8d58A",
+    "markets": [
+      {
+        "marketId": 6370443,
+        "externalId": "658429",
+        "title": "Lionel Messi Total Goals",
+        "question": "Lionel Messi: 1+ goals",
+        "description": "In the upcoming FIFA World Cup game between Argentina and Cabo Verde, scheduled for July 3 at 6:00 PM ET: This market will resolve to \"Yes\" if Lionel Messi records 1+ goals in the official box score within the first 90 minutes of regular play plus stoppage time. Otherwise, this market will resolve to \"No\". Own goals do not count. If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve \"50-50\". If the player is listed as inactive or otherwise does not play, the market will resolve \"No\". The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 24 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xd304fbb4cf285558bbb85a662a1b7d857977c30021f0c45aedcb385802da1944",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1783020884563_x78sj5hp2q6ihtesl898pa5l484sy4kt_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1783020884563_x78sj5hp2q6ihtesl898pa5l484sy4kt_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1783020884563_x78sj5hp2q6ihtesl898pa5l484sy4kt_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1783020884563_x78sj5hp2q6ihtesl898pa5l484sy4kt_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "6914.27",
+        "liquidity": "28982.8",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Over 0.5",
+            "price": "0.74",
+            "chance": "0.73",
+            "index": 0,
+            "tokenId": "37150371298431378470850490230678618011875229007406691461721092092158188724068"
+          },
+          {
+            "name": "Under 0.5",
+            "price": "0.26",
+            "chance": "0.27",
+            "index": 1,
+            "tokenId": "98264667803671540057661511245029336027988620136531829918628781979463761723991"
+          }
+        ]
+      },
+      {
+        "marketId": 6370444,
+        "externalId": "658430",
+        "title": "Lautaro Martinez Total Goals",
+        "question": "Lautaro Martinez: 1+ goals",
+        "description": "In the upcoming FIFA World Cup game between Argentina and Cabo Verde, scheduled for July 3 at 6:00 PM ET: This market will resolve to \"Yes\" if Lautaro Martinez records 1+ goals in the official box score within the first 90 minutes of regular play plus stoppage time. Otherwise, this market will resolve to \"No\". Own goals do not count. If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve \"50-50\". If the player is listed as inactive or otherwise does not play, the market will resolve \"No\". The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 24 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x60a2e959e898522c39aa326c21175d326290a30a89e592bb4de56defd89da434",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1783020884576_9hwms7665tri5x0az56pk1xlucy58oh2_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1783020884576_9hwms7665tri5x0az56pk1xlucy58oh2_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1783020884576_9hwms7665tri5x0az56pk1xlucy58oh2_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1783020884576_9hwms7665tri5x0az56pk1xlucy58oh2_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "3459.27",
+        "liquidity": "16974.63",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Over 0.5",
+            "price": "0.55",
+            "chance": "0.545",
+            "index": 0,
+            "tokenId": "110215407051931383795120358756635208378565711370936013621339605125777630702449"
+          },
+          {
+            "name": "Under 0.5",
+            "price": "0.45",
+            "chance": "0.455",
+            "index": 1,
+            "tokenId": "53568447290023885612796800137915488613210992301538562378343847737533048875418"
+          }
+        ]
+      }
+    ],
+    "tradeVolume": "10373.55",
+    "liquidity": "45957.42",
+    "publishedAt": 1783020882711,
+    "startDate": 1783116000000,
+    "endDate": 1783123200000,
+    "status": "REGISTERED"
+  },
+  {
+    "marketTopicId": 4234523,
+    "vendor": "PREDICT_FUN",
+    "chainId": "56",
+    "slug": "fifwc-arg-cvi-2026-07-03-first-to-score",
+    "title": "Argentina vs. Cabo Verde - First Team to Score",
+    "question": "Argentina to score first vs. Cabo Verde?",
+    "imageUrl": "https://static.predict.fun/fifwc",
+    "thumbnailPaths": [
+      {
+        "size": "800x800",
+        "path": "file-center/web3-prediction/S3/topic/1782975309244_ejqgdog9psc70d2pxx82s9tsdzncabsw_NEF_q80_800x800"
+      },
+      {
+        "size": "400x400",
+        "path": "file-center/web3-prediction/S3/topic/1782975309244_ejqgdog9psc70d2pxx82s9tsdzncabsw_NEF_q80_400x400"
+      },
+      {
+        "size": "96x96",
+        "path": "file-center/web3-prediction/S3/topic/1782975309244_ejqgdog9psc70d2pxx82s9tsdzncabsw_NEF_q80_96x96"
+      },
+      {
+        "size": "64x64",
+        "path": "file-center/web3-prediction/S3/topic/1782975309244_ejqgdog9psc70d2pxx82s9tsdzncabsw_NEF_q80_64x64"
+      }
+    ],
+    "topicType": "GROUPED",
+    "variantData": {
+      "type": "SPORTS_FIFA_WORLD_CUP"
+    },
+    "participantCount": 617,
+    "collateral": "USDT",
+    "feeRateBps": 200,
+    "slippageBps": 1000,
+    "isYieldBearing": true,
+    "exchangeContractAddress": "0x8A289d458f5a134bA40015085A8F50Ffb681B41d",
+    "markets": [
+      {
+        "marketId": 6036807,
+        "externalId": "607189",
+        "title": "ARG",
+        "question": "Argentina to score first vs. Cabo Verde?",
+        "description": "In the upcoming match between Argentina and Cabo Verde, scheduled for July 3, 2026 at 6:00 PM ET: This market will resolve to \"Argentina\" if Argentina are the first to score within the first 90 minutes of regular play plus stoppage time. This market will resolve to \"Cabo Verde\" if Cabo Verde are the first to score within the first 90 minutes of regular play plus stoppage time. If neither team scores within the first 90 minutes of regular play plus stoppage time, this market will resolve \"Neither\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve to \"Neither\". This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time. Extra time and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x66706700de465e1cbb4a375bdf655d16d8f6284057d266a42f1cbf1cad585822",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782975299161_i17x2451m7yc7y8arjf3a2q6lkj1ww9h_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782975299161_i17x2451m7yc7y8arjf3a2q6lkj1ww9h_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782975299161_i17x2451m7yc7y8arjf3a2q6lkj1ww9h_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782975299161_i17x2451m7yc7y8arjf3a2q6lkj1ww9h_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "4496.61",
+        "liquidity": "3150304.93",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.85",
+            "chance": "0.845",
+            "index": 0,
+            "tokenId": "35428211766485018509103968214327269513888948445205786997720636900845185284295"
+          },
+          {
+            "name": "No",
+            "price": "0.15",
+            "chance": "0.155",
+            "index": 1,
+            "tokenId": "41429766458272721026417425955107773765487407540323926152127312708167008247056"
+          }
+        ]
+      },
+      {
+        "marketId": 6036808,
+        "externalId": "607190",
+        "title": "CVI",
+        "question": "Cabo Verde to score first vs. Argentina?",
+        "description": "In the upcoming match between Argentina and Cabo Verde, scheduled for July 3, 2026 at 6:00 PM ET: This market will resolve to \"Argentina\" if Argentina are the first to score within the first 90 minutes of regular play plus stoppage time. This market will resolve to \"Cabo Verde\" if Cabo Verde are the first to score within the first 90 minutes of regular play plus stoppage time. If neither team scores within the first 90 minutes of regular play plus stoppage time, this market will resolve \"Neither\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve to \"Neither\". This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time. Extra time and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xa00a5cae979789767c8dfac26f2ac8f903bd5827d796ae0b42561429601fa7fe",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782975299268_08py5e5glg2lg8ie3p031owth4b5tym3_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782975299268_08py5e5glg2lg8ie3p031owth4b5tym3_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782975299268_08py5e5glg2lg8ie3p031owth4b5tym3_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782975299268_08py5e5glg2lg8ie3p031owth4b5tym3_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "1445.31",
+        "liquidity": "174111.02",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.12",
+            "chance": "0.115",
+            "index": 0,
+            "tokenId": "68871908851027904658477982546859063343645654751357704509042042240444011807541"
+          },
+          {
+            "name": "No",
+            "price": "0.88",
+            "chance": "0.885",
+            "index": 1,
+            "tokenId": "38641409560514602585859817489579869137952445405888285140788454231605610373020"
+          }
+        ]
+      },
+      {
+        "marketId": 6036809,
+        "externalId": "607191",
+        "title": "Neither",
+        "question": "Argentina vs. Cabo Verde: Neither team to score first?",
+        "description": "In the upcoming match between Argentina and Cabo Verde, scheduled for July 3, 2026 at 6:00 PM ET: This market will resolve to \"Argentina\" if Argentina are the first to score within the first 90 minutes of regular play plus stoppage time. This market will resolve to \"Cabo Verde\" if Cabo Verde are the first to score within the first 90 minutes of regular play plus stoppage time. If neither team scores within the first 90 minutes of regular play plus stoppage time, this market will resolve \"Neither\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve to \"Neither\". This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time. Extra time and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x5c9c599962dce4c426c6912ed806fbd9b7a9f26dd0da04c817574ce1a4249b86",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782975299368_f110j0mu7fnxb6e6m621ol08vu23ggit_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782975299368_f110j0mu7fnxb6e6m621ol08vu23ggit_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782975299368_f110j0mu7fnxb6e6m621ol08vu23ggit_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782975299368_f110j0mu7fnxb6e6m621ol08vu23ggit_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "559.52",
+        "liquidity": "428231.21",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.05",
+            "chance": "0.045",
+            "index": 0,
+            "tokenId": "89890623843072585580581412053221462531664332077474853289429021278650442729418"
+          },
+          {
+            "name": "No",
+            "price": "0.95",
+            "chance": "0.955",
+            "index": 1,
+            "tokenId": "79448444775221667714881378459288996825735234419920228155883740343323968213424"
+          }
+        ]
+      }
+    ],
+    "tradeVolume": "6501.45",
+    "liquidity": "3754640.87",
+    "publishedAt": 1782556261267,
+    "startDate": 1783116000000,
+    "endDate": 1783123200000,
+    "status": "REGISTERED"
+  }
+]
