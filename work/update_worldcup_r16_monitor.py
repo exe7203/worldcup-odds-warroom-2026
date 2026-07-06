@@ -1,5 +1,7 @@
 import argparse
 import json
+import sys
+import time
 import urllib.request
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
@@ -133,10 +135,19 @@ def save_state(state):
     STATE_PATH.write_text(json.dumps(state, ensure_ascii=False, indent=2), encoding="utf-8")
 
 
-def fetch_json(url):
+def fetch_json(url, retries=2, timeout=25):
     req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
-    with urllib.request.urlopen(req, timeout=25) as response:
-        return json.loads(response.read().decode("utf-8"))
+    last_error = None
+    for attempt in range(retries + 1):
+        try:
+            with urllib.request.urlopen(req, timeout=timeout) as response:
+                return json.loads(response.read().decode("utf-8"))
+        except Exception as exc:
+            last_error = exc
+            if attempt >= retries:
+                break
+            time.sleep(1.5 * (attempt + 1))
+    raise last_error
 
 
 TAIWAN_TEAM_ALIASES = {
@@ -261,7 +272,11 @@ def load_espn_events(dates):
     events = {}
     for date in sorted(set(dates)):
         url = f"https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/scoreboard?dates={date}"
-        data = fetch_json(url)
+        try:
+            data = fetch_json(url, retries=3, timeout=20)
+        except Exception as exc:  # ESPN occasionally drops live scoreboard requests.
+            print(f"WARNING: ESPN scoreboard update failed for {date}: {exc}", file=sys.stderr)
+            continue
         for event in data.get("events", []):
             events[event.get("id")] = event
     return events
