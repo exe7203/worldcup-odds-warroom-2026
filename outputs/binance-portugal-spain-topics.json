@@ -29,7 +29,7 @@
     "variantData": {
       "type": "SPORTS_FIFA_WORLD_CUP"
     },
-    "participantCount": 131,
+    "participantCount": 419,
     "collateral": "USDT",
     "feeRateBps": 200,
     "slippageBps": 1000,
@@ -63,70 +63,23 @@
             "path": "file-center/web3-prediction/S3/market/1783074000230_7903ulxzorhooomo79zsf147lhcqevjo_NEF_q80_64x64"
           }
         ],
-        "tradeVolume": "1001.24",
-        "liquidity": "370687.74",
+        "tradeVolume": "6257.15",
+        "liquidity": "74302.69",
         "decimalPrecision": 3,
         "outcomes": [
           {
             "name": "Yes",
-            "price": "0.13",
-            "chance": "0.1295",
+            "price": "0.134",
+            "chance": "0.1335",
             "index": 0,
             "tokenId": "76530824242388996974595692387357660238508900315467420624767237457857673384895"
           },
           {
             "name": "No",
-            "price": "0.87",
-            "chance": "0.8705",
+            "price": "0.866",
+            "chance": "0.8665",
             "index": 1,
             "tokenId": "46083349348085094434543668676421605153518093839211846841604683170463050853746"
-          }
-        ]
-      },
-      {
-        "marketId": 6390765,
-        "externalId": "667410",
-        "title": "PRT 0 - 1 ESP",
-        "question": "Exact Score: Portugal 0 - 1 Spain?",
-        "description": "In the upcoming FIFA World Cup game between Portugal and Spain, scheduled for July 6, 2026 at 3:00 PM ET: This market will resolve based on the final score of the Portugal vs. Spain match originally scheduled for July 6, 2026 at 3:00 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
-        "conditionId": "0x1c04dadeda97b93d98dec985426895d30853285eee719dedc3d985367df061aa",
-        "status": "REGISTERED",
-        "tradingStatus": "OPEN",
-        "thumbnailPaths": [
-          {
-            "size": "800x800",
-            "path": "file-center/web3-prediction/S3/market/1783074000220_lgpmrciawu6c9utdp4kfle6sf0emras5_NEF_q80_800x800"
-          },
-          {
-            "size": "400x400",
-            "path": "file-center/web3-prediction/S3/market/1783074000220_lgpmrciawu6c9utdp4kfle6sf0emras5_NEF_q80_400x400"
-          },
-          {
-            "size": "96x96",
-            "path": "file-center/web3-prediction/S3/market/1783074000220_lgpmrciawu6c9utdp4kfle6sf0emras5_NEF_q80_96x96"
-          },
-          {
-            "size": "64x64",
-            "path": "file-center/web3-prediction/S3/market/1783074000220_lgpmrciawu6c9utdp4kfle6sf0emras5_NEF_q80_64x64"
-          }
-        ],
-        "tradeVolume": "1548.62",
-        "liquidity": "367892.79",
-        "decimalPrecision": 3,
-        "outcomes": [
-          {
-            "name": "Yes",
-            "price": "0.112",
-            "chance": "0.1115",
-            "index": 0,
-            "tokenId": "103931195490439417517935121040835637545149235835952503825794296836761939433539"
-          },
-          {
-            "name": "No",
-            "price": "0.888",
-            "chance": "0.8885",
-            "index": 1,
-            "tokenId": "70628470166044809969639420441475062420226770874431653563185158223383141577174"
           }
         ]
       },
@@ -157,70 +110,70 @@
             "path": "file-center/web3-prediction/S3/market/1783074000215_bsi5d7pn14xm5kn7iedymqgtxo64akc4_NEF_q80_64x64"
           }
         ],
-        "tradeVolume": "1846.85",
-        "liquidity": "368631.65",
+        "tradeVolume": "7875.71",
+        "liquidity": "68258.09",
         "decimalPrecision": 3,
         "outcomes": [
           {
             "name": "Yes",
-            "price": "0.11",
-            "chance": "0.106",
+            "price": "0.112",
+            "chance": "0.1115",
             "index": 0,
             "tokenId": "82200990198610885958062082892144478409622033423115573692722353057040619242581"
           },
           {
             "name": "No",
-            "price": "0.89",
-            "chance": "0.894",
+            "price": "0.888",
+            "chance": "0.8885",
             "index": 1,
             "tokenId": "26317932462383424546180181872175435476796073206157487596618808264134882508261"
           }
         ]
       },
       {
-        "marketId": 6390780,
-        "externalId": "667425",
-        "title": "Any Other Score",
-        "question": "Exact Score: Any Other Score?",
+        "marketId": 6390765,
+        "externalId": "667410",
+        "title": "PRT 0 - 1 ESP",
+        "question": "Exact Score: Portugal 0 - 1 Spain?",
         "description": "In the upcoming FIFA World Cup game between Portugal and Spain, scheduled for July 6, 2026 at 3:00 PM ET: This market will resolve based on the final score of the Portugal vs. Spain match originally scheduled for July 6, 2026 at 3:00 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
-        "conditionId": "0xf67bb4918a78e331d7a5de9d91d60c6b40637217572d64b40537533395241ff6",
+        "conditionId": "0x1c04dadeda97b93d98dec985426895d30853285eee719dedc3d985367df061aa",
         "status": "REGISTERED",
         "tradingStatus": "OPEN",
         "thumbnailPaths": [
           {
             "size": "800x800",
-            "path": "file-center/web3-prediction/S3/market/1783074000215_tovumvz51df0yuvc31a3p2bbeu9qqsy1_NEF_q80_800x800"
+            "path": "file-center/web3-prediction/S3/market/1783074000220_lgpmrciawu6c9utdp4kfle6sf0emras5_NEF_q80_800x800"
           },
           {
             "size": "400x400",
-            "path": "file-center/web3-prediction/S3/market/1783074000215_tovumvz51df0yuvc31a3p2bbeu9qqsy1_NEF_q80_400x400"
+            "path": "file-center/web3-prediction/S3/market/1783074000220_lgpmrciawu6c9utdp4kfle6sf0emras5_NEF_q80_400x400"
           },
           {
             "size": "96x96",
-            "path": "file-center/web3-prediction/S3/market/1783074000215_tovumvz51df0yuvc31a3p2bbeu9qqsy1_NEF_q80_96x96"
+            "path": "file-center/web3-prediction/S3/market/1783074000220_lgpmrciawu6c9utdp4kfle6sf0emras5_NEF_q80_96x96"
           },
           {
             "size": "64x64",
-            "path": "file-center/web3-prediction/S3/market/1783074000215_tovumvz51df0yuvc31a3p2bbeu9qqsy1_NEF_q80_64x64"
+            "path": "file-center/web3-prediction/S3/market/1783074000220_lgpmrciawu6c9utdp4kfle6sf0emras5_NEF_q80_64x64"
           }
         ],
-        "tradeVolume": "0",
-        "liquidity": "6545.12",
+        "tradeVolume": "2961.56",
+        "liquidity": "64227.06",
         "decimalPrecision": 3,
         "outcomes": [
           {
             "name": "Yes",
-            "price": "0.109",
-            "chance": "0.1",
+            "price": "0.101",
+            "chance": "0.1005",
             "index": 0,
-            "tokenId": "41775428899287379508011908903858124236883364909307423116983630722792451700807"
+            "tokenId": "103931195490439417517935121040835637545149235835952503825794296836761939433539"
           },
           {
             "name": "No",
-            "price": "0.891",
-            "chance": "0.9",
+            "price": "0.899",
+            "chance": "0.8995",
             "index": 1,
-            "tokenId": "13231999220032245280392709805359304291679991295892475636513251740307520453440"
+            "tokenId": "70628470166044809969639420441475062420226770874431653563185158223383141577174"
           }
         ]
       },
@@ -251,23 +204,70 @@
             "path": "file-center/web3-prediction/S3/market/1783074000231_qzeyqyvpn1wgqge3ximtap2kfwlwmjm8_NEF_q80_64x64"
           }
         ],
-        "tradeVolume": "246.74",
-        "liquidity": "362833.41",
+        "tradeVolume": "1609.72",
+        "liquidity": "58799.83",
         "decimalPrecision": 3,
         "outcomes": [
           {
             "name": "Yes",
-            "price": "0.089",
-            "chance": "0.085",
+            "price": "0.09",
+            "chance": "0.0895",
             "index": 0,
             "tokenId": "96773158679907873181709805271469773851536450888217913554282440723263983010652"
           },
           {
             "name": "No",
-            "price": "0.911",
-            "chance": "0.915",
+            "price": "0.91",
+            "chance": "0.9105",
             "index": 1,
             "tokenId": "97433277873927279912470182254505905395441243963100133313213864711273074417266"
+          }
+        ]
+      },
+      {
+        "marketId": 6390780,
+        "externalId": "667425",
+        "title": "Any Other Score",
+        "question": "Exact Score: Any Other Score?",
+        "description": "In the upcoming FIFA World Cup game between Portugal and Spain, scheduled for July 6, 2026 at 3:00 PM ET: This market will resolve based on the final score of the Portugal vs. Spain match originally scheduled for July 6, 2026 at 3:00 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xf67bb4918a78e331d7a5de9d91d60c6b40637217572d64b40537533395241ff6",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1783074000215_tovumvz51df0yuvc31a3p2bbeu9qqsy1_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1783074000215_tovumvz51df0yuvc31a3p2bbeu9qqsy1_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1783074000215_tovumvz51df0yuvc31a3p2bbeu9qqsy1_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1783074000215_tovumvz51df0yuvc31a3p2bbeu9qqsy1_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "768.74",
+        "liquidity": "30748.23",
+        "decimalPrecision": 3,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.087",
+            "chance": "0.0845",
+            "index": 0,
+            "tokenId": "41775428899287379508011908903858124236883364909307423116983630722792451700807"
+          },
+          {
+            "name": "No",
+            "price": "0.913",
+            "chance": "0.9155",
+            "index": 1,
+            "tokenId": "13231999220032245280392709805359304291679991295892475636513251740307520453440"
           }
         ]
       },
@@ -298,70 +298,23 @@
             "path": "file-center/web3-prediction/S3/market/1783074000222_ok8vli6zrutf3ml728oliyoy95ul7mv5_NEF_q80_64x64"
           }
         ],
-        "tradeVolume": "1930.21",
-        "liquidity": "361652.31",
+        "tradeVolume": "3754.51",
+        "liquidity": "44568.22",
         "decimalPrecision": 3,
         "outcomes": [
           {
             "name": "Yes",
-            "price": "0.072",
-            "chance": "0.0715",
+            "price": "0.071",
+            "chance": "0.0705",
             "index": 0,
             "tokenId": "98958836044384692780247036816260592291325248181828262446797432103962921936053"
           },
           {
             "name": "No",
-            "price": "0.928",
-            "chance": "0.9285",
+            "price": "0.929",
+            "chance": "0.9295",
             "index": 1,
             "tokenId": "73385223454075989508984614615852365715261816613300745423905695711119675938274"
-          }
-        ]
-      },
-      {
-        "marketId": 6390772,
-        "externalId": "667417",
-        "title": "PRT 2 - 1 ESP",
-        "question": "Exact Score: Portugal 2 - 1 Spain?",
-        "description": "In the upcoming FIFA World Cup game between Portugal and Spain, scheduled for July 6, 2026 at 3:00 PM ET: This market will resolve based on the final score of the Portugal vs. Spain match originally scheduled for July 6, 2026 at 3:00 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
-        "conditionId": "0xca20d4d3bade73675eb1a5be494f062ae04f763143b97a6f5d7a1e5200f2af8e",
-        "status": "REGISTERED",
-        "tradingStatus": "OPEN",
-        "thumbnailPaths": [
-          {
-            "size": "800x800",
-            "path": "file-center/web3-prediction/S3/market/1783074000231_sanqn287krd1qooo8kakw0qq56jsl9a5_NEF_q80_800x800"
-          },
-          {
-            "size": "400x400",
-            "path": "file-center/web3-prediction/S3/market/1783074000231_sanqn287krd1qooo8kakw0qq56jsl9a5_NEF_q80_400x400"
-          },
-          {
-            "size": "96x96",
-            "path": "file-center/web3-prediction/S3/market/1783074000231_sanqn287krd1qooo8kakw0qq56jsl9a5_NEF_q80_96x96"
-          },
-          {
-            "size": "64x64",
-            "path": "file-center/web3-prediction/S3/market/1783074000231_sanqn287krd1qooo8kakw0qq56jsl9a5_NEF_q80_64x64"
-          }
-        ],
-        "tradeVolume": "3234",
-        "liquidity": "352680.59",
-        "decimalPrecision": 3,
-        "outcomes": [
-          {
-            "name": "Yes",
-            "price": "0.08",
-            "chance": "0.07",
-            "index": 0,
-            "tokenId": "33979779820422019622907337095384097346691672775205112931175526334594659452268"
-          },
-          {
-            "name": "No",
-            "price": "0.92",
-            "chance": "0.93",
-            "index": 1,
-            "tokenId": "7844365668636910422893507790239984517233371527852605323359039345506452360923"
           }
         ]
       },
@@ -392,70 +345,70 @@
             "path": "file-center/web3-prediction/S3/market/1783074002589_fyo6yt81zvs3yd0vv0wwyv2kffawniz4_NEF_q80_64x64"
           }
         ],
-        "tradeVolume": "1858.39",
-        "liquidity": "361492.48",
+        "tradeVolume": "1378.5",
+        "liquidity": "52215.31",
         "decimalPrecision": 3,
         "outcomes": [
           {
             "name": "Yes",
             "price": "0.069",
-            "chance": "0.0655",
+            "chance": "0.0685",
             "index": 0,
             "tokenId": "54412655284694212131468362293810505713302203547231449234864005408319222156028"
           },
           {
             "name": "No",
             "price": "0.931",
-            "chance": "0.9345",
+            "chance": "0.9315",
             "index": 1,
             "tokenId": "3590576665240325105478615064092451863676184025100486296696598864023987963451"
           }
         ]
       },
       {
-        "marketId": 6390764,
-        "externalId": "667409",
-        "title": "PRT 0 - 0 ESP",
-        "question": "Exact Score: Portugal 0 - 0 Spain?",
+        "marketId": 6390772,
+        "externalId": "667417",
+        "title": "PRT 2 - 1 ESP",
+        "question": "Exact Score: Portugal 2 - 1 Spain?",
         "description": "In the upcoming FIFA World Cup game between Portugal and Spain, scheduled for July 6, 2026 at 3:00 PM ET: This market will resolve based on the final score of the Portugal vs. Spain match originally scheduled for July 6, 2026 at 3:00 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
-        "conditionId": "0x5a6dc61354e773dfd8003aa5fd4b70809fa2f8a1e7fc76ff8b51da3388e3b85d",
+        "conditionId": "0xca20d4d3bade73675eb1a5be494f062ae04f763143b97a6f5d7a1e5200f2af8e",
         "status": "REGISTERED",
         "tradingStatus": "OPEN",
         "thumbnailPaths": [
           {
             "size": "800x800",
-            "path": "file-center/web3-prediction/S3/market/1783074000251_nge3adty5reukf6gep071o123it3u76o_NEF_q80_800x800"
+            "path": "file-center/web3-prediction/S3/market/1783074000231_sanqn287krd1qooo8kakw0qq56jsl9a5_NEF_q80_800x800"
           },
           {
             "size": "400x400",
-            "path": "file-center/web3-prediction/S3/market/1783074000251_nge3adty5reukf6gep071o123it3u76o_NEF_q80_400x400"
+            "path": "file-center/web3-prediction/S3/market/1783074000231_sanqn287krd1qooo8kakw0qq56jsl9a5_NEF_q80_400x400"
           },
           {
             "size": "96x96",
-            "path": "file-center/web3-prediction/S3/market/1783074000251_nge3adty5reukf6gep071o123it3u76o_NEF_q80_96x96"
+            "path": "file-center/web3-prediction/S3/market/1783074000231_sanqn287krd1qooo8kakw0qq56jsl9a5_NEF_q80_96x96"
           },
           {
             "size": "64x64",
-            "path": "file-center/web3-prediction/S3/market/1783074000251_nge3adty5reukf6gep071o123it3u76o_NEF_q80_64x64"
+            "path": "file-center/web3-prediction/S3/market/1783074000231_sanqn287krd1qooo8kakw0qq56jsl9a5_NEF_q80_64x64"
           }
         ],
-        "tradeVolume": "103.89",
-        "liquidity": "361054.01",
+        "tradeVolume": "5432.17",
+        "liquidity": "55083.43",
         "decimalPrecision": 3,
         "outcomes": [
           {
             "name": "Yes",
             "price": "0.069",
-            "chance": "0.065",
+            "chance": "0.068",
             "index": 0,
-            "tokenId": "26323669035425047583107778494498547903886544671105940400672461991864759706314"
+            "tokenId": "33979779820422019622907337095384097346691672775205112931175526334594659452268"
           },
           {
             "name": "No",
             "price": "0.931",
-            "chance": "0.935",
+            "chance": "0.932",
             "index": 1,
-            "tokenId": "17515169504577426076638533503341630439925027338933105466597544020469457031491"
+            "tokenId": "7844365668636910422893507790239984517233371527852605323359039345506452360923"
           }
         ]
       },
@@ -486,23 +439,70 @@
             "path": "file-center/web3-prediction/S3/market/1783074000227_j0ek5iaaqrgwmssjl19s8ax6ksey0cth_NEF_q80_64x64"
           }
         ],
-        "tradeVolume": "1273.44",
-        "liquidity": "360083.72",
+        "tradeVolume": "2310.01",
+        "liquidity": "35806.43",
         "decimalPrecision": 3,
         "outcomes": [
           {
             "name": "Yes",
-            "price": "0.059",
-            "chance": "0.055",
+            "price": "0.063",
+            "chance": "0.0625",
             "index": 0,
             "tokenId": "35502160617943202457912825973066918835658961699339986320746662899093306055145"
           },
           {
             "name": "No",
-            "price": "0.941",
-            "chance": "0.945",
+            "price": "0.937",
+            "chance": "0.9375",
             "index": 1,
             "tokenId": "51598656889420632304663444690094568582791156362665709814781072242417370727969"
+          }
+        ]
+      },
+      {
+        "marketId": 6390764,
+        "externalId": "667409",
+        "title": "PRT 0 - 0 ESP",
+        "question": "Exact Score: Portugal 0 - 0 Spain?",
+        "description": "In the upcoming FIFA World Cup game between Portugal and Spain, scheduled for July 6, 2026 at 3:00 PM ET: This market will resolve based on the final score of the Portugal vs. Spain match originally scheduled for July 6, 2026 at 3:00 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x5a6dc61354e773dfd8003aa5fd4b70809fa2f8a1e7fc76ff8b51da3388e3b85d",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1783074000251_nge3adty5reukf6gep071o123it3u76o_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1783074000251_nge3adty5reukf6gep071o123it3u76o_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1783074000251_nge3adty5reukf6gep071o123it3u76o_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1783074000251_nge3adty5reukf6gep071o123it3u76o_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "1352.72",
+        "liquidity": "45188.05",
+        "decimalPrecision": 3,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.058",
+            "chance": "0.0575",
+            "index": 0,
+            "tokenId": "26323669035425047583107778494498547903886544671105940400672461991864759706314"
+          },
+          {
+            "name": "No",
+            "price": "0.942",
+            "chance": "0.9425",
+            "index": 1,
+            "tokenId": "17515169504577426076638533503341630439925027338933105466597544020469457031491"
           }
         ]
       },
@@ -533,70 +533,23 @@
             "path": "file-center/web3-prediction/S3/market/1783074000241_xove5swqf29czz3ql2ofki62djh6rx7q_NEF_q80_64x64"
           }
         ],
-        "tradeVolume": "703.26",
-        "liquidity": "350225.22",
+        "tradeVolume": "753.77",
+        "liquidity": "37464.8",
         "decimalPrecision": 3,
         "outcomes": [
           {
             "name": "Yes",
-            "price": "0.049",
-            "chance": "0.046",
+            "price": "0.045",
+            "chance": "0.044",
             "index": 0,
             "tokenId": "49812620640185740929891704617247885163308458202585645065317505600102337661141"
           },
           {
             "name": "No",
-            "price": "0.951",
-            "chance": "0.954",
+            "price": "0.955",
+            "chance": "0.956",
             "index": 1,
             "tokenId": "43362333186009962880013029361303145674015648922982308483976045938450931668541"
-          }
-        ]
-      },
-      {
-        "marketId": 6390769,
-        "externalId": "667414",
-        "title": "PRT 2 - 0 ESP",
-        "question": "Exact Score: Portugal 2 - 0 Spain?",
-        "description": "In the upcoming FIFA World Cup game between Portugal and Spain, scheduled for July 6, 2026 at 3:00 PM ET: This market will resolve based on the final score of the Portugal vs. Spain match originally scheduled for July 6, 2026 at 3:00 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
-        "conditionId": "0x63dc2488e039f05223e816579536068d081934f308dff6eec24713801882450e",
-        "status": "REGISTERED",
-        "tradingStatus": "OPEN",
-        "thumbnailPaths": [
-          {
-            "size": "800x800",
-            "path": "file-center/web3-prediction/S3/market/1783074002596_nknndi9fv6k52akxm27p3h3a818wcqnp_NEF_q80_800x800"
-          },
-          {
-            "size": "400x400",
-            "path": "file-center/web3-prediction/S3/market/1783074002596_nknndi9fv6k52akxm27p3h3a818wcqnp_NEF_q80_400x400"
-          },
-          {
-            "size": "96x96",
-            "path": "file-center/web3-prediction/S3/market/1783074002596_nknndi9fv6k52akxm27p3h3a818wcqnp_NEF_q80_96x96"
-          },
-          {
-            "size": "64x64",
-            "path": "file-center/web3-prediction/S3/market/1783074002596_nknndi9fv6k52akxm27p3h3a818wcqnp_NEF_q80_64x64"
-          }
-        ],
-        "tradeVolume": "23.25",
-        "liquidity": "346663.06",
-        "decimalPrecision": 3,
-        "outcomes": [
-          {
-            "name": "Yes",
-            "price": "0.036",
-            "chance": "0.034",
-            "index": 0,
-            "tokenId": "65502467283600982517072203446246223943011356475656637180691292126563603720619"
-          },
-          {
-            "name": "No",
-            "price": "0.964",
-            "chance": "0.966",
-            "index": 1,
-            "tokenId": "91557119038980794237340150142245080539812882467907287377264127543345696408395"
           }
         ]
       },
@@ -627,70 +580,70 @@
             "path": "file-center/web3-prediction/S3/market/1783074000231_enu1lqq8lt44f9i01u391qu1vui7sbix_NEF_q80_64x64"
           }
         ],
-        "tradeVolume": "2999.84",
-        "liquidity": "452543.97",
+        "tradeVolume": "1627.11",
+        "liquidity": "253634.71",
         "decimalPrecision": 3,
         "outcomes": [
           {
             "name": "Yes",
-            "price": "0.032",
-            "chance": "0.0315",
+            "price": "0.034",
+            "chance": "0.0335",
             "index": 0,
             "tokenId": "82869192801683291815170610419705010399926070185372313061325529703762516739559"
           },
           {
             "name": "No",
-            "price": "0.968",
-            "chance": "0.9685",
+            "price": "0.966",
+            "chance": "0.9665",
             "index": 1,
             "tokenId": "114579550167454754588236657065390944754654425738743735944703973921638240848139"
           }
         ]
       },
       {
-        "marketId": 6390778,
-        "externalId": "667423",
-        "title": "PRT 3 - 2 ESP",
-        "question": "Exact Score: Portugal 3 - 2 Spain?",
+        "marketId": 6390769,
+        "externalId": "667414",
+        "title": "PRT 2 - 0 ESP",
+        "question": "Exact Score: Portugal 2 - 0 Spain?",
         "description": "In the upcoming FIFA World Cup game between Portugal and Spain, scheduled for July 6, 2026 at 3:00 PM ET: This market will resolve based on the final score of the Portugal vs. Spain match originally scheduled for July 6, 2026 at 3:00 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
-        "conditionId": "0xa81f0486441d70461945cff6e656e9f9bd83cce481343e73b6840ee3275e4b15",
+        "conditionId": "0x63dc2488e039f05223e816579536068d081934f308dff6eec24713801882450e",
         "status": "REGISTERED",
         "tradingStatus": "OPEN",
         "thumbnailPaths": [
           {
             "size": "800x800",
-            "path": "file-center/web3-prediction/S3/market/1783074000235_vkli2mt9b4opta8dsy4fpb6xzwyqsdqa_NEF_q80_800x800"
+            "path": "file-center/web3-prediction/S3/market/1783074002596_nknndi9fv6k52akxm27p3h3a818wcqnp_NEF_q80_800x800"
           },
           {
             "size": "400x400",
-            "path": "file-center/web3-prediction/S3/market/1783074000235_vkli2mt9b4opta8dsy4fpb6xzwyqsdqa_NEF_q80_400x400"
+            "path": "file-center/web3-prediction/S3/market/1783074002596_nknndi9fv6k52akxm27p3h3a818wcqnp_NEF_q80_400x400"
           },
           {
             "size": "96x96",
-            "path": "file-center/web3-prediction/S3/market/1783074000235_vkli2mt9b4opta8dsy4fpb6xzwyqsdqa_NEF_q80_96x96"
+            "path": "file-center/web3-prediction/S3/market/1783074002596_nknndi9fv6k52akxm27p3h3a818wcqnp_NEF_q80_96x96"
           },
           {
             "size": "64x64",
-            "path": "file-center/web3-prediction/S3/market/1783074000235_vkli2mt9b4opta8dsy4fpb6xzwyqsdqa_NEF_q80_64x64"
+            "path": "file-center/web3-prediction/S3/market/1783074002596_nknndi9fv6k52akxm27p3h3a818wcqnp_NEF_q80_64x64"
           }
         ],
-        "tradeVolume": "2856.72",
-        "liquidity": "102202.47",
+        "tradeVolume": "711.95",
+        "liquidity": "136733.72",
         "decimalPrecision": 3,
         "outcomes": [
           {
             "name": "Yes",
-            "price": "0.022",
-            "chance": "0.021",
+            "price": "0.033",
+            "chance": "0.0325",
             "index": 0,
-            "tokenId": "59036552897189384356606953657274335841808362778587746302879582211800792418846"
+            "tokenId": "65502467283600982517072203446246223943011356475656637180691292126563603720619"
           },
           {
             "name": "No",
-            "price": "0.978",
-            "chance": "0.979",
+            "price": "0.967",
+            "chance": "0.9675",
             "index": 1,
-            "tokenId": "94715795545644054003982782461793079013305739326784460530480154572723459819651"
+            "tokenId": "91557119038980794237340150142245080539812882467907287377264127543345696408395"
           }
         ]
       },
@@ -721,23 +674,70 @@
             "path": "file-center/web3-prediction/S3/market/1783074000234_vfx4wsbg9nvs5tlyzz27gge64953h7w8_NEF_q80_64x64"
           }
         ],
-        "tradeVolume": "37.03",
-        "liquidity": "445791.21",
+        "tradeVolume": "2144.2",
+        "liquidity": "128440",
         "decimalPrecision": 3,
         "outcomes": [
           {
             "name": "Yes",
-            "price": "0.021",
-            "chance": "0.0195",
+            "price": "0.024",
+            "chance": "0.0235",
             "index": 0,
             "tokenId": "106238788369491731262450641466022427269868211369163290819390344154039974830061"
           },
           {
             "name": "No",
-            "price": "0.979",
-            "chance": "0.9805",
+            "price": "0.976",
+            "chance": "0.9765",
             "index": 1,
             "tokenId": "10658863829156342923638157552827424372037856113719173137217999993483250876501"
+          }
+        ]
+      },
+      {
+        "marketId": 6390778,
+        "externalId": "667423",
+        "title": "PRT 3 - 2 ESP",
+        "question": "Exact Score: Portugal 3 - 2 Spain?",
+        "description": "In the upcoming FIFA World Cup game between Portugal and Spain, scheduled for July 6, 2026 at 3:00 PM ET: This market will resolve based on the final score of the Portugal vs. Spain match originally scheduled for July 6, 2026 at 3:00 PM ET, considering only the result at the end of 90 minutes of regulation plus stoppage time; extra time and penalty shoot-outs are excluded. If the actual score is not one of the explicitly listed outcomes, the market resolves to \"Any Other Score.\" If the match is postponed, the market will remain open until it is completed; if it is canceled with no make-up game, the market resolves to \"0-0.\" The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0xa81f0486441d70461945cff6e656e9f9bd83cce481343e73b6840ee3275e4b15",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1783074000235_vkli2mt9b4opta8dsy4fpb6xzwyqsdqa_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1783074000235_vkli2mt9b4opta8dsy4fpb6xzwyqsdqa_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1783074000235_vkli2mt9b4opta8dsy4fpb6xzwyqsdqa_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1783074000235_vkli2mt9b4opta8dsy4fpb6xzwyqsdqa_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "2915.56",
+        "liquidity": "119901.89",
+        "decimalPrecision": 3,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.023",
+            "chance": "0.0225",
+            "index": 0,
+            "tokenId": "59036552897189384356606953657274335841808362778587746302879582211800792418846"
+          },
+          {
+            "name": "No",
+            "price": "0.977",
+            "chance": "0.9775",
+            "index": 1,
+            "tokenId": "94715795545644054003982782461793079013305739326784460530480154572723459819651"
           }
         ]
       },
@@ -768,8 +768,8 @@
             "path": "file-center/web3-prediction/S3/market/1783074000231_38vzfji1lonjq5957oc86d7awh66klwi_NEF_q80_64x64"
           }
         ],
-        "tradeVolume": "783.12",
-        "liquidity": "448861.4",
+        "tradeVolume": "8388.93",
+        "liquidity": "224362.91",
         "decimalPrecision": 3,
         "outcomes": [
           {
@@ -815,29 +815,29 @@
             "path": "file-center/web3-prediction/S3/market/1783074000234_m1ss39kno8apqd4hs33lzxw8p1elwoec_NEF_q80_64x64"
           }
         ],
-        "tradeVolume": "0",
-        "liquidity": "105887.94",
+        "tradeVolume": "1440.84",
+        "liquidity": "227111.3",
         "decimalPrecision": 3,
         "outcomes": [
           {
             "name": "Yes",
-            "price": "0.018",
-            "chance": "0.01",
+            "price": "0.013",
+            "chance": "0.0125",
             "index": 0,
             "tokenId": "75457443954865286552754461841589582858371038630186441637908523420998922131752"
           },
           {
             "name": "No",
-            "price": "0.982",
-            "chance": "0.99",
+            "price": "0.987",
+            "chance": "0.9875",
             "index": 1,
             "tokenId": "51405491373396306110049304437502918558986206635061110060284270739159408828413"
           }
         ]
       }
     ],
-    "tradeVolume": "20446.68",
-    "liquidity": "5525608.69",
+    "tradeVolume": "51683.26",
+    "liquidity": "1659103.14",
     "publishedAt": 1783073998495,
     "startDate": 1783364400000,
     "endDate": 1783375200000,
@@ -873,7 +873,7 @@
     "variantData": {
       "type": "SPORTS_FIFA_WORLD_CUP"
     },
-    "participantCount": 752,
+    "participantCount": 1986,
     "collateral": "USDT",
     "feeRateBps": 200,
     "slippageBps": 1000,
@@ -907,21 +907,21 @@
             "path": "file-center/web3-prediction/S3/market/1783074038415_4s6d32305un7htrgl3s89q77yb60yinp_NEF_q80_64x64"
           }
         ],
-        "tradeVolume": "33874.15",
-        "liquidity": "1197209.87",
+        "tradeVolume": "23620.83",
+        "liquidity": "588236.1",
         "decimalPrecision": 2,
         "outcomes": [
           {
             "name": "Yes",
-            "price": "0.52",
-            "chance": "0.515",
+            "price": "0.51",
+            "chance": "0.505",
             "index": 0,
             "tokenId": "63847229842260457209656386086577968944450815015460042604533704670708014522090"
           },
           {
             "name": "No",
-            "price": "0.48",
-            "chance": "0.485",
+            "price": "0.49",
+            "chance": "0.495",
             "index": 1,
             "tokenId": "83700380730650170224256548639520362967431734780039369532117128449195353502496"
           }
@@ -954,8 +954,8 @@
             "path": "file-center/web3-prediction/S3/market/1783074041577_xuo2o3ccilaj8tcd6j2wzfc4rxg1wf8z_NEF_q80_64x64"
           }
         ],
-        "tradeVolume": "3916.74",
-        "liquidity": "435989.84",
+        "tradeVolume": "5516.08",
+        "liquidity": "394731.23",
         "decimalPrecision": 2,
         "outcomes": [
           {
@@ -1001,29 +1001,29 @@
             "path": "file-center/web3-prediction/S3/market/1783074040525_r621s5gjztv0zs3hx01d6i4zaux23kou_NEF_q80_64x64"
           }
         ],
-        "tradeVolume": "15573.48",
-        "liquidity": "740140.44",
+        "tradeVolume": "35202.74",
+        "liquidity": "349780.2",
         "decimalPrecision": 2,
         "outcomes": [
           {
             "name": "Yes",
-            "price": "0.24",
-            "chance": "0.235",
+            "price": "0.25",
+            "chance": "0.24",
             "index": 0,
             "tokenId": "78664158519303054608277959223414133267705161042831619786867066659228695184097"
           },
           {
             "name": "No",
-            "price": "0.76",
-            "chance": "0.765",
+            "price": "0.75",
+            "chance": "0.76",
             "index": 1,
             "tokenId": "103778963277811550281590753646146290794411325394089289991017436108511204049854"
           }
         ]
       }
     ],
-    "tradeVolume": "53364.39",
-    "liquidity": "2376793.31",
+    "tradeVolume": "64339.66",
+    "liquidity": "1332750.51",
     "publishedAt": 1783074037281,
     "startDate": 1783364400000,
     "endDate": 1783375200000,
@@ -1056,7 +1056,7 @@
       }
     ],
     "topicType": "GROUPED",
-    "participantCount": 23904,
+    "participantCount": 24701,
     "collateral": "USDT",
     "feeRateBps": 200,
     "slippageBps": 1000,
@@ -1090,21 +1090,21 @@
             "path": "file-center/web3-prediction/S3/market/1782993491408_9cdtlt2c1wy7lkm3ztrsmhjpg0cj8p7v_NEF_q80_64x64"
           }
         ],
-        "tradeVolume": "84747.94",
-        "liquidity": "126487.82",
+        "tradeVolume": "104285.72",
+        "liquidity": "130562.06",
         "decimalPrecision": 3,
         "outcomes": [
           {
             "name": "Yes",
-            "price": "0.374",
-            "chance": "0.3695",
+            "price": "0.343",
+            "chance": "0.3425",
             "index": 0,
             "tokenId": "11621845668006982156792973677528519027851471304051881275580047136739099779222"
           },
           {
             "name": "No",
-            "price": "0.626",
-            "chance": "0.6305",
+            "price": "0.657",
+            "chance": "0.6575",
             "index": 1,
             "tokenId": "3966655138549040920470743284767853888507303539107013148524715622480116619984"
           }
@@ -1137,21 +1137,21 @@
             "path": "file-center/web3-prediction/S3/market/1782993491974_3ra8p0r6fz41zqnrtjvq55jkux8ing38_NEF_q80_64x64"
           }
         ],
-        "tradeVolume": "206150.92",
-        "liquidity": "417043.72",
+        "tradeVolume": "54353.38",
+        "liquidity": "61528.89",
         "decimalPrecision": 3,
         "outcomes": [
           {
             "name": "Yes",
-            "price": "0.171",
-            "chance": "0.1695",
+            "price": "0.19",
+            "chance": "0.189",
             "index": 0,
             "tokenId": "49092778498646236483055050101348104815068751405718843785434772395334789010383"
           },
           {
             "name": "No",
-            "price": "0.829",
-            "chance": "0.8305",
+            "price": "0.81",
+            "chance": "0.811",
             "index": 1,
             "tokenId": "33447960347716573178961691596779017484456973052473170343500068352534005269801"
           }
@@ -1184,8 +1184,8 @@
             "path": "file-center/web3-prediction/S3/market/1782993491291_zu05lynbcfhcf71r8bxyzsml5a0hwrv8_NEF_q80_64x64"
           }
         ],
-        "tradeVolume": "36928.58",
-        "liquidity": "387981.95",
+        "tradeVolume": "45322.51",
+        "liquidity": "49831.7",
         "decimalPrecision": 3,
         "outcomes": [
           {
@@ -1231,70 +1231,23 @@
             "path": "file-center/web3-prediction/S3/market/1782993491866_dayu9nt0yc0nof4a89nf5afmmlk53s6z_NEF_q80_64x64"
           }
         ],
-        "tradeVolume": "28268.14",
-        "liquidity": "27523.98",
+        "tradeVolume": "36445.82",
+        "liquidity": "36859.9",
         "decimalPrecision": 3,
         "outcomes": [
           {
             "name": "Yes",
-            "price": "0.072",
-            "chance": "0.0715",
+            "price": "0.085",
+            "chance": "0.0845",
             "index": 0,
             "tokenId": "83715267764119922304078675221540874523652939153265079575103804470963561808219"
           },
           {
             "name": "No",
-            "price": "0.928",
-            "chance": "0.9285",
+            "price": "0.915",
+            "chance": "0.9155",
             "index": 1,
             "tokenId": "85759733317343532085747625436388285194214485170683532174741605354385134093910"
-          }
-        ]
-      },
-      {
-        "marketId": 2980,
-        "externalId": "1522",
-        "title": "Brazil",
-        "question": "Will Brazil win the 2026 FIFA World Cup?",
-        "description": "This market will resolve according to the national team that wins the 2026 FIFA World Cup.\n\nIf at any point it becomes impossible for this team to win the FIFA World Cup based on the rules of FIFA (e.g., they are eliminated in the knockout stage), this market will resolve immediately to “No”.\n\nIf the 2026 FIFA World Cup is permanently canceled or has not been completed by October 13, 2026, 11:59 PM this market will resolve to “Other”.\n\nThe primary resolution source will be official information from FIFA, however, a consensus of credible reporting may also be used.",
-        "conditionId": "0x7dd2b4f3506d3261edd4eaa68b2e92714b79ed1e1300c60a5476981fcce4f8ae",
-        "status": "REGISTERED",
-        "tradingStatus": "OPEN",
-        "thumbnailPaths": [
-          {
-            "size": "800x800",
-            "path": "file-center/web3-prediction/S3/market/1782993492530_bz0en0n4xmvhwsddigakz7dmjx6mwdlq_NEF_q80_800x800"
-          },
-          {
-            "size": "400x400",
-            "path": "file-center/web3-prediction/S3/market/1782993492530_bz0en0n4xmvhwsddigakz7dmjx6mwdlq_NEF_q80_400x400"
-          },
-          {
-            "size": "96x96",
-            "path": "file-center/web3-prediction/S3/market/1782993492530_bz0en0n4xmvhwsddigakz7dmjx6mwdlq_NEF_q80_96x96"
-          },
-          {
-            "size": "64x64",
-            "path": "file-center/web3-prediction/S3/market/1782993492530_bz0en0n4xmvhwsddigakz7dmjx6mwdlq_NEF_q80_64x64"
-          }
-        ],
-        "tradeVolume": "50895.38",
-        "liquidity": "382961.27",
-        "decimalPrecision": 3,
-        "outcomes": [
-          {
-            "name": "Yes",
-            "price": "0.065",
-            "chance": "0.0645",
-            "index": 0,
-            "tokenId": "103901232782328850172981508376474932625593082126426693069995236838535382135405"
-          },
-          {
-            "name": "No",
-            "price": "0.935",
-            "chance": "0.9355",
-            "index": 1,
-            "tokenId": "48748107342938041090409198886474643838750012321851525450012419277512119518858"
           }
         ]
       },
@@ -1325,23 +1278,70 @@
             "path": "file-center/web3-prediction/S3/market/1782993493213_92l28v93j0wztxmank3uazvtp4j2xcxp_NEF_q80_64x64"
           }
         ],
-        "tradeVolume": "42108.63",
-        "liquidity": "410183.49",
+        "tradeVolume": "105304.03",
+        "liquidity": "72906.08",
         "decimalPrecision": 3,
         "outcomes": [
           {
             "name": "Yes",
-            "price": "0.062",
-            "chance": "0.061",
+            "price": "0.059",
+            "chance": "0.0585",
             "index": 0,
             "tokenId": "110142398519420503456862862704343921543682621299110401169056399977161008372565"
           },
           {
             "name": "No",
-            "price": "0.938",
-            "chance": "0.939",
+            "price": "0.941",
+            "chance": "0.9415",
             "index": 1,
             "tokenId": "63873620914408091824817168038200684648440989716869532905043738839253670636838"
+          }
+        ]
+      },
+      {
+        "marketId": 2984,
+        "externalId": "1526",
+        "title": "Norway",
+        "question": "Will Norway win the 2026 FIFA World Cup?",
+        "description": "This market will resolve according to the national team that wins the 2026 FIFA World Cup.\n\nIf at any point it becomes impossible for this team to win the FIFA World Cup based on the rules of FIFA (e.g., they are eliminated in the knockout stage), this market will resolve immediately to “No”.\n\nIf the 2026 FIFA World Cup is permanently canceled or has not been completed by October 13, 2026, 11:59 PM this market will resolve to “Other”.\n\nThe primary resolution source will be official information from FIFA, however, a consensus of credible reporting may also be used.",
+        "conditionId": "0x73ec36b36577ee44c990a8bc4dd84cb31a626cebfa8ce45b553179de410851f9",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782993494696_t9s1ixp1hv5t9bsitbb8u6n2anaryb1m_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782993494696_t9s1ixp1hv5t9bsitbb8u6n2anaryb1m_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782993494696_t9s1ixp1hv5t9bsitbb8u6n2anaryb1m_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782993494696_t9s1ixp1hv5t9bsitbb8u6n2anaryb1m_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "241834.84",
+        "liquidity": "27523.89",
+        "decimalPrecision": 3,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.055",
+            "chance": "0.0545",
+            "index": 0,
+            "tokenId": "6616839324913044231666561807018368212909101277262238499594502199316219158523"
+          },
+          {
+            "name": "No",
+            "price": "0.945",
+            "chance": "0.9455",
+            "index": 1,
+            "tokenId": "95822013092621964476220023979506202178823271483838344186655675489057087453349"
           }
         ]
       },
@@ -1372,21 +1372,21 @@
             "path": "file-center/web3-prediction/S3/market/1782993499397_c7tnlegarsi1kiun5myzs361bx2i1ltd_NEF_q80_64x64"
           }
         ],
-        "tradeVolume": "7021.66",
-        "liquidity": "360244.63",
+        "tradeVolume": "27354.57",
+        "liquidity": "17319.66",
         "decimalPrecision": 3,
         "outcomes": [
           {
             "name": "Yes",
-            "price": "0.032",
-            "chance": "0.031",
+            "price": "0.042",
+            "chance": "0.041",
             "index": 0,
             "tokenId": "31977961110682900438126764820200228955723781945451297691544111414066392836318"
           },
           {
             "name": "No",
-            "price": "0.968",
-            "chance": "0.969",
+            "price": "0.958",
+            "chance": "0.959",
             "index": 1,
             "tokenId": "59470093800565658713192665557742737875647097253054194269647396477733644346821"
           }
@@ -1419,70 +1419,23 @@
             "path": "file-center/web3-prediction/S3/market/1782993497250_434wbpocm3ej18hbam7hcf97i2fqfgj7_NEF_q80_64x64"
           }
         ],
-        "tradeVolume": "68189.04",
-        "liquidity": "364803.05",
+        "tradeVolume": "3840.84",
+        "liquidity": "25212.36",
         "decimalPrecision": 3,
         "outcomes": [
           {
             "name": "Yes",
-            "price": "0.031",
-            "chance": "0.0305",
+            "price": "0.036",
+            "chance": "0.0355",
             "index": 0,
             "tokenId": "95339189767232621979899035789546736207899594156063888178551675901773788037099"
           },
           {
             "name": "No",
-            "price": "0.969",
-            "chance": "0.9695",
+            "price": "0.964",
+            "chance": "0.9645",
             "index": 1,
             "tokenId": "40518170543458298058300922882134413928570876487201785226472106255621328900019"
-          }
-        ]
-      },
-      {
-        "marketId": 2988,
-        "externalId": "1530",
-        "title": "Morocco",
-        "question": "Will Morocco win the 2026 FIFA World Cup?",
-        "description": "This market will resolve according to the national team that wins the 2026 FIFA World Cup.\n\nIf at any point it becomes impossible for this team to win the FIFA World Cup based on the rules of FIFA (e.g., they are eliminated in the knockout stage), this market will resolve immediately to “No”.\n\nIf the 2026 FIFA World Cup is permanently canceled or has not been completed by October 13, 2026, 11:59 PM this market will resolve to “Other”.\n\nThe primary resolution source will be official information from FIFA, however, a consensus of credible reporting may also be used.",
-        "conditionId": "0xbd414c3236c179fa5585b5b1462da619a0fba4056a50ae8042ba427500d9ce6e",
-        "status": "REGISTERED",
-        "tradingStatus": "OPEN",
-        "thumbnailPaths": [
-          {
-            "size": "800x800",
-            "path": "file-center/web3-prediction/S3/market/1782993496780_0sziglij7l7oo6d37w1jcjy948mxcksm_NEF_q80_800x800"
-          },
-          {
-            "size": "400x400",
-            "path": "file-center/web3-prediction/S3/market/1782993496780_0sziglij7l7oo6d37w1jcjy948mxcksm_NEF_q80_400x400"
-          },
-          {
-            "size": "96x96",
-            "path": "file-center/web3-prediction/S3/market/1782993496780_0sziglij7l7oo6d37w1jcjy948mxcksm_NEF_q80_96x96"
-          },
-          {
-            "size": "64x64",
-            "path": "file-center/web3-prediction/S3/market/1782993496780_0sziglij7l7oo6d37w1jcjy948mxcksm_NEF_q80_64x64"
-          }
-        ],
-        "tradeVolume": "37291.21",
-        "liquidity": "14761.26",
-        "decimalPrecision": 3,
-        "outcomes": [
-          {
-            "name": "Yes",
-            "price": "0.029",
-            "chance": "0.0285",
-            "index": 0,
-            "tokenId": "17699667763870589990992885279001145990867702750649337019550873299386675389601"
-          },
-          {
-            "name": "No",
-            "price": "0.971",
-            "chance": "0.9715",
-            "index": 1,
-            "tokenId": "72249301312838195054287979366889809785833167995879889999603355497740651490275"
           }
         ]
       },
@@ -1513,70 +1466,70 @@
             "path": "file-center/web3-prediction/S3/market/1782993496201_bc6zz6ajk9sbey1ulw6yb8nq0u07z1r9_NEF_q80_64x64"
           }
         ],
-        "tradeVolume": "1292.92",
-        "liquidity": "358432.12",
+        "tradeVolume": "14719.31",
+        "liquidity": "28713.22",
         "decimalPrecision": 3,
         "outcomes": [
           {
             "name": "Yes",
-            "price": "0.027",
-            "chance": "0.026",
+            "price": "0.028",
+            "chance": "0.0275",
             "index": 0,
             "tokenId": "63856961676670089597308388218497705675066098431272310902882314237704238100564"
           },
           {
             "name": "No",
-            "price": "0.973",
-            "chance": "0.974",
+            "price": "0.972",
+            "chance": "0.9725",
             "index": 1,
             "tokenId": "95775525171064506397411873775198250842737646305942080309768769147564798941046"
           }
         ]
       },
       {
-        "marketId": 2984,
-        "externalId": "1526",
-        "title": "Norway",
-        "question": "Will Norway win the 2026 FIFA World Cup?",
+        "marketId": 2988,
+        "externalId": "1530",
+        "title": "Morocco",
+        "question": "Will Morocco win the 2026 FIFA World Cup?",
         "description": "This market will resolve according to the national team that wins the 2026 FIFA World Cup.\n\nIf at any point it becomes impossible for this team to win the FIFA World Cup based on the rules of FIFA (e.g., they are eliminated in the knockout stage), this market will resolve immediately to “No”.\n\nIf the 2026 FIFA World Cup is permanently canceled or has not been completed by October 13, 2026, 11:59 PM this market will resolve to “Other”.\n\nThe primary resolution source will be official information from FIFA, however, a consensus of credible reporting may also be used.",
-        "conditionId": "0x73ec36b36577ee44c990a8bc4dd84cb31a626cebfa8ce45b553179de410851f9",
+        "conditionId": "0xbd414c3236c179fa5585b5b1462da619a0fba4056a50ae8042ba427500d9ce6e",
         "status": "REGISTERED",
         "tradingStatus": "OPEN",
         "thumbnailPaths": [
           {
             "size": "800x800",
-            "path": "file-center/web3-prediction/S3/market/1782993494696_t9s1ixp1hv5t9bsitbb8u6n2anaryb1m_NEF_q80_800x800"
+            "path": "file-center/web3-prediction/S3/market/1782993496780_0sziglij7l7oo6d37w1jcjy948mxcksm_NEF_q80_800x800"
           },
           {
             "size": "400x400",
-            "path": "file-center/web3-prediction/S3/market/1782993494696_t9s1ixp1hv5t9bsitbb8u6n2anaryb1m_NEF_q80_400x400"
+            "path": "file-center/web3-prediction/S3/market/1782993496780_0sziglij7l7oo6d37w1jcjy948mxcksm_NEF_q80_400x400"
           },
           {
             "size": "96x96",
-            "path": "file-center/web3-prediction/S3/market/1782993494696_t9s1ixp1hv5t9bsitbb8u6n2anaryb1m_NEF_q80_96x96"
+            "path": "file-center/web3-prediction/S3/market/1782993496780_0sziglij7l7oo6d37w1jcjy948mxcksm_NEF_q80_96x96"
           },
           {
             "size": "64x64",
-            "path": "file-center/web3-prediction/S3/market/1782993494696_t9s1ixp1hv5t9bsitbb8u6n2anaryb1m_NEF_q80_64x64"
+            "path": "file-center/web3-prediction/S3/market/1782993496780_0sziglij7l7oo6d37w1jcjy948mxcksm_NEF_q80_64x64"
           }
         ],
-        "tradeVolume": "48968.61",
-        "liquidity": "15023.12",
+        "tradeVolume": "53183.68",
+        "liquidity": "32790.16",
         "decimalPrecision": 3,
         "outcomes": [
           {
             "name": "Yes",
-            "price": "0.019",
-            "chance": "0.0185",
+            "price": "0.027",
+            "chance": "0.0265",
             "index": 0,
-            "tokenId": "6616839324913044231666561807018368212909101277262238499594502199316219158523"
+            "tokenId": "17699667763870589990992885279001145990867702750649337019550873299386675389601"
           },
           {
             "name": "No",
-            "price": "0.981",
-            "chance": "0.9815",
+            "price": "0.973",
+            "chance": "0.9735",
             "index": 1,
-            "tokenId": "95822013092621964476220023979506202178823271483838344186655675489057087453349"
+            "tokenId": "72249301312838195054287979366889809785833167995879889999603355497740651490275"
           }
         ]
       },
@@ -1607,21 +1560,21 @@
             "path": "file-center/web3-prediction/S3/market/1782993495635_sv38rncjvuovyzlmt0z4x5s3td2h5s6t_NEF_q80_64x64"
           }
         ],
-        "tradeVolume": "48751.98",
-        "liquidity": "366166.98",
+        "tradeVolume": "80342.6",
+        "liquidity": "26737.79",
         "decimalPrecision": 3,
         "outcomes": [
           {
             "name": "Yes",
-            "price": "0.012",
-            "chance": "0.0115",
+            "price": "0.011",
+            "chance": "0.0105",
             "index": 0,
             "tokenId": "21808188434154981111364433028427990955948831667619569192992500667769531501984"
           },
           {
             "name": "No",
-            "price": "0.988",
-            "chance": "0.9885",
+            "price": "0.989",
+            "chance": "0.9895",
             "index": 1,
             "tokenId": "49979868062939795776363603298831056168456423387583162678027203690924163825115"
           }
@@ -1654,70 +1607,23 @@
             "path": "file-center/web3-prediction/S3/market/1782993499865_jyqo3l03w5oshxmn43jmifv2ndyy7krk_NEF_q80_64x64"
           }
         ],
-        "tradeVolume": "19834.46",
-        "liquidity": "359920.21",
+        "tradeVolume": "65212.83",
+        "liquidity": "29412.12",
         "decimalPrecision": 3,
         "outcomes": [
           {
             "name": "Yes",
             "price": "0.009",
-            "chance": "0.0085",
+            "chance": "0.008",
             "index": 0,
             "tokenId": "60108801332671489499141311882659818139785131538509876627637112201794919940798"
           },
           {
             "name": "No",
             "price": "0.991",
-            "chance": "0.9915",
+            "chance": "0.992",
             "index": 1,
             "tokenId": "55708522737326769295842721530212165527605689297741069538583095177742305589659"
-          }
-        ]
-      },
-      {
-        "marketId": 3001,
-        "externalId": "1543",
-        "title": "Paraguay",
-        "question": "Will Paraguay win the 2026 FIFA World Cup?",
-        "description": "This market will resolve according to the national team that wins the 2026 FIFA World Cup.\n\nIf at any point it becomes impossible for this team to win the FIFA World Cup based on the rules of FIFA (e.g., they are eliminated in the knockout stage), this market will resolve immediately to “No”.\n\nIf the 2026 FIFA World Cup is permanently canceled or has not been completed by October 13, 2026, 11:59 PM this market will resolve to “Other”.\n\nThe primary resolution source will be official information from FIFA, however, a consensus of credible reporting may also be used.",
-        "conditionId": "0x28bb4bbc733fce08238cbab26c1b23fc086f0254b33de815221a6c48f95dee87",
-        "status": "REGISTERED",
-        "tradingStatus": "OPEN",
-        "thumbnailPaths": [
-          {
-            "size": "800x800",
-            "path": "file-center/web3-prediction/S3/market/1782993503784_zlyrs4tck4cauivivzmpaemxo1fixorp_NEF_q80_800x800"
-          },
-          {
-            "size": "400x400",
-            "path": "file-center/web3-prediction/S3/market/1782993503784_zlyrs4tck4cauivivzmpaemxo1fixorp_NEF_q80_400x400"
-          },
-          {
-            "size": "96x96",
-            "path": "file-center/web3-prediction/S3/market/1782993503784_zlyrs4tck4cauivivzmpaemxo1fixorp_NEF_q80_96x96"
-          },
-          {
-            "size": "64x64",
-            "path": "file-center/web3-prediction/S3/market/1782993503784_zlyrs4tck4cauivivzmpaemxo1fixorp_NEF_q80_64x64"
-          }
-        ],
-        "tradeVolume": "498011",
-        "liquidity": "22212.78",
-        "decimalPrecision": 3,
-        "outcomes": [
-          {
-            "name": "Yes",
-            "price": "0.003",
-            "chance": "0.0025",
-            "index": 0,
-            "tokenId": "15813587879013132969458860529257266595673544015963461889206995353979768608763"
-          },
-          {
-            "name": "No",
-            "price": "0.997",
-            "chance": "0.9975",
-            "index": 1,
-            "tokenId": "103236374923677344985510892419815708787025501702779071100498345111585056530778"
           }
         ]
       },
@@ -1748,8 +1654,8 @@
             "path": "file-center/web3-prediction/S3/market/1782993504785_wt16t9cnf7kljl9bgjmt88cpeke79y3r_NEF_q80_64x64"
           }
         ],
-        "tradeVolume": "155487.61",
-        "liquidity": "24135.11",
+        "tradeVolume": "556816.65",
+        "liquidity": "36368.71",
         "decimalPrecision": 3,
         "outcomes": [
           {
@@ -1814,53 +1720,6 @@
             "index": 1,
             "tokenId": "16346461373465443162525157408318291307123258254916649486783266384434085454083",
             "winner": true
-          }
-        ]
-      },
-      {
-        "marketId": 2998,
-        "externalId": "1540",
-        "title": "Canada",
-        "question": "Will Canada win the 2026 FIFA World Cup?",
-        "description": "This market will resolve according to the national team that wins the 2026 FIFA World Cup.\n\nIf at any point it becomes impossible for this team to win the FIFA World Cup based on the rules of FIFA (e.g., they are eliminated in the knockout stage), this market will resolve immediately to “No”.\n\nIf the 2026 FIFA World Cup is permanently canceled or has not been completed by October 13, 2026, 11:59 PM this market will resolve to “Other”.\n\nThe primary resolution source will be official information from FIFA, however, a consensus of credible reporting may also be used.",
-        "conditionId": "0x9b3aa0db228f4f006883eee2cd57fa4dd6864267cfe094da93d392c45e283b88",
-        "status": "REGISTERED",
-        "tradingStatus": "OPEN",
-        "thumbnailPaths": [
-          {
-            "size": "800x800",
-            "path": "file-center/web3-prediction/S3/market/1782993502126_o62exin2823ej0pqxolv7hss3s249gum_NEF_q80_800x800"
-          },
-          {
-            "size": "400x400",
-            "path": "file-center/web3-prediction/S3/market/1782993502126_o62exin2823ej0pqxolv7hss3s249gum_NEF_q80_400x400"
-          },
-          {
-            "size": "96x96",
-            "path": "file-center/web3-prediction/S3/market/1782993502126_o62exin2823ej0pqxolv7hss3s249gum_NEF_q80_96x96"
-          },
-          {
-            "size": "64x64",
-            "path": "file-center/web3-prediction/S3/market/1782993502126_o62exin2823ej0pqxolv7hss3s249gum_NEF_q80_64x64"
-          }
-        ],
-        "tradeVolume": "967582.01",
-        "liquidity": "13328.72",
-        "decimalPrecision": 3,
-        "outcomes": [
-          {
-            "name": "Yes",
-            "price": "0.002",
-            "chance": "0.0015",
-            "index": 0,
-            "tokenId": "6162969215138223709583756906973829628255876192323003147523656655919096636706"
-          },
-          {
-            "name": "No",
-            "price": "0.998",
-            "chance": "0.9985",
-            "index": 1,
-            "tokenId": "32518875930365456771139133698953383742387116149476225436545366974381623419476"
           }
         ]
       },
@@ -2008,6 +1867,53 @@
             "index": 1,
             "tokenId": "66446293751843711468042592076849484220736821242764083573507355100363056818635",
             "winner": true
+          }
+        ]
+      },
+      {
+        "marketId": 2980,
+        "externalId": "1522",
+        "title": "Brazil",
+        "question": "Will Brazil win the 2026 FIFA World Cup?",
+        "description": "This market will resolve according to the national team that wins the 2026 FIFA World Cup.\n\nIf at any point it becomes impossible for this team to win the FIFA World Cup based on the rules of FIFA (e.g., they are eliminated in the knockout stage), this market will resolve immediately to “No”.\n\nIf the 2026 FIFA World Cup is permanently canceled or has not been completed by October 13, 2026, 11:59 PM this market will resolve to “Other”.\n\nThe primary resolution source will be official information from FIFA, however, a consensus of credible reporting may also be used.",
+        "conditionId": "0x7dd2b4f3506d3261edd4eaa68b2e92714b79ed1e1300c60a5476981fcce4f8ae",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782993492530_bz0en0n4xmvhwsddigakz7dmjx6mwdlq_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782993492530_bz0en0n4xmvhwsddigakz7dmjx6mwdlq_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782993492530_bz0en0n4xmvhwsddigakz7dmjx6mwdlq_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782993492530_bz0en0n4xmvhwsddigakz7dmjx6mwdlq_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "193924.17",
+        "liquidity": "14946.79",
+        "decimalPrecision": 3,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0.001",
+            "chance": "0.001",
+            "index": 0,
+            "tokenId": "103901232782328850172981508376474932625593082126426693069995236838535382135405"
+          },
+          {
+            "name": "No",
+            "price": "0.999",
+            "chance": "0.999",
+            "index": 1,
+            "tokenId": "48748107342938041090409198886474643838750012321851525450012419277512119518858"
           }
         ]
       },
@@ -2283,8 +2189,8 @@
             "path": "file-center/web3-prediction/S3/market/1782993500565_3dyqre9q5bgsv5aewg154fcd5koqu4by_NEF_q80_64x64"
           }
         ],
-        "tradeVolume": "40",
-        "liquidity": "9689.16",
+        "tradeVolume": "27.5",
+        "liquidity": "14087.93",
         "decimalPrecision": 3,
         "outcomes": [
           {
@@ -2402,6 +2308,55 @@
         ]
       },
       {
+        "marketId": 2998,
+        "externalId": "1540",
+        "title": "Canada",
+        "question": "Will Canada win the 2026 FIFA World Cup?",
+        "description": "This market will resolve according to the national team that wins the 2026 FIFA World Cup.\n\nIf at any point it becomes impossible for this team to win the FIFA World Cup based on the rules of FIFA (e.g., they are eliminated in the knockout stage), this market will resolve immediately to “No”.\n\nIf the 2026 FIFA World Cup is permanently canceled or has not been completed by October 13, 2026, 11:59 PM this market will resolve to “Other”.\n\nThe primary resolution source will be official information from FIFA, however, a consensus of credible reporting may also be used.",
+        "conditionId": "0x9b3aa0db228f4f006883eee2cd57fa4dd6864267cfe094da93d392c45e283b88",
+        "status": "RESOLVED",
+        "tradingStatus": "CLOSED",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782993502126_o62exin2823ej0pqxolv7hss3s249gum_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782993502126_o62exin2823ej0pqxolv7hss3s249gum_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782993502126_o62exin2823ej0pqxolv7hss3s249gum_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782993502126_o62exin2823ej0pqxolv7hss3s249gum_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "208981.29",
+        "liquidity": "12071.21",
+        "decimalPrecision": 3,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0",
+            "chance": "0.001",
+            "index": 0,
+            "tokenId": "6162969215138223709583756906973829628255876192323003147523656655919096636706",
+            "winner": false
+          },
+          {
+            "name": "No",
+            "price": "1",
+            "chance": "0.999",
+            "index": 1,
+            "tokenId": "32518875930365456771139133698953383742387116149476225436545366974381623419476",
+            "winner": true
+          }
+        ]
+      },
+      {
         "marketId": 2999,
         "externalId": "1541",
         "title": "Scotland",
@@ -2495,6 +2450,55 @@
             "chance": "0.999",
             "index": 1,
             "tokenId": "68520727180947224685574549875844124932373016738886237355589550698769649962850",
+            "winner": true
+          }
+        ]
+      },
+      {
+        "marketId": 3001,
+        "externalId": "1543",
+        "title": "Paraguay",
+        "question": "Will Paraguay win the 2026 FIFA World Cup?",
+        "description": "This market will resolve according to the national team that wins the 2026 FIFA World Cup.\n\nIf at any point it becomes impossible for this team to win the FIFA World Cup based on the rules of FIFA (e.g., they are eliminated in the knockout stage), this market will resolve immediately to “No”.\n\nIf the 2026 FIFA World Cup is permanently canceled or has not been completed by October 13, 2026, 11:59 PM this market will resolve to “Other”.\n\nThe primary resolution source will be official information from FIFA, however, a consensus of credible reporting may also be used.",
+        "conditionId": "0x28bb4bbc733fce08238cbab26c1b23fc086f0254b33de815221a6c48f95dee87",
+        "status": "RESOLVED",
+        "tradingStatus": "CLOSED",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1782993503784_zlyrs4tck4cauivivzmpaemxo1fixorp_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1782993503784_zlyrs4tck4cauivivzmpaemxo1fixorp_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1782993503784_zlyrs4tck4cauivivzmpaemxo1fixorp_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1782993503784_zlyrs4tck4cauivivzmpaemxo1fixorp_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "124012.15",
+        "liquidity": "20514.28",
+        "decimalPrecision": 3,
+        "outcomes": [
+          {
+            "name": "Yes",
+            "price": "0",
+            "chance": "0.001",
+            "index": 0,
+            "tokenId": "15813587879013132969458860529257266595673544015963461889206995353979768608763",
+            "winner": false
+          },
+          {
+            "name": "No",
+            "price": "1",
+            "chance": "0.999",
+            "index": 1,
+            "tokenId": "103236374923677344985510892419815708787025501702779071100498345111585056530778",
             "winner": true
           }
         ]
@@ -3114,8 +3118,8 @@
             "path": "file-center/web3-prediction/S3/market/1782993513510_te7r7vo2tg06r32n6giipnw9zwsxvszp_NEF_q80_64x64"
           }
         ],
-        "tradeVolume": "368.56",
-        "liquidity": "9532.65",
+        "tradeVolume": "77.86",
+        "liquidity": "9491.44",
         "decimalPrecision": 3,
         "outcomes": [
           {
@@ -3135,8 +3139,8 @@
         ]
       }
     ],
-    "tradeVolume": "2498891.61",
-    "liquidity": "3651076.5",
+    "tradeVolume": "1583282.59",
+    "liquidity": "600236.06",
     "publishedAt": 1767812527968,
     "startDate": 1784520000000,
     "endDate": 1784591940000,
@@ -3172,7 +3176,7 @@
     "variantData": {
       "type": "SPORTS_FIFA_WORLD_CUP"
     },
-    "participantCount": 117,
+    "participantCount": 688,
     "collateral": "USDT",
     "feeRateBps": 200,
     "slippageBps": 1000,
@@ -3206,21 +3210,21 @@
             "path": "file-center/web3-prediction/S3/market/1783075922836_c6f0tbo6c5nsxs1p9vq4qlhiwuivzzli_NEF_q80_64x64"
           }
         ],
-        "tradeVolume": "21.05",
-        "liquidity": "906454",
+        "tradeVolume": "1048.42",
+        "liquidity": "2347822.65",
         "decimalPrecision": 2,
         "outcomes": [
           {
             "name": "Over",
-            "price": "0.94",
-            "chance": "0.935",
+            "price": "0.95",
+            "chance": "0.945",
             "index": 0,
             "tokenId": "83119507219154056038710294083063155580126801413855826630225058738829586763419"
           },
           {
             "name": "Under",
-            "price": "0.06",
-            "chance": "0.065",
+            "price": "0.05",
+            "chance": "0.055",
             "index": 1,
             "tokenId": "14662752195196779245380736898930706812005772433121622455965865262979455935338"
           }
@@ -3253,21 +3257,21 @@
             "path": "file-center/web3-prediction/S3/market/1783075924361_iaqf40fnjza7sbqbknf3agduezjp2hnn_NEF_q80_64x64"
           }
         ],
-        "tradeVolume": "1.84",
-        "liquidity": "670057.83",
+        "tradeVolume": "62.37",
+        "liquidity": "842545.72",
         "decimalPrecision": 2,
         "outcomes": [
           {
             "name": "Over",
-            "price": "0.78",
-            "chance": "0.77",
+            "price": "0.79",
+            "chance": "0.785",
             "index": 0,
             "tokenId": "77867252721643545214743145037185783135086927905416829222001729380978253238647"
           },
           {
             "name": "Under",
-            "price": "0.22",
-            "chance": "0.23",
+            "price": "0.21",
+            "chance": "0.215",
             "index": 1,
             "tokenId": "67661845990355526862476662927906495906521287154138603808304486116811838276765"
           }
@@ -3300,21 +3304,21 @@
             "path": "file-center/web3-prediction/S3/market/1783075907012_cb5hmpb30fcpdkklf1cjof9oow11fh8q_NEF_q80_64x64"
           }
         ],
-        "tradeVolume": "446.54",
-        "liquidity": "94430.72",
+        "tradeVolume": "3795.15",
+        "liquidity": "633844.48",
         "decimalPrecision": 2,
         "outcomes": [
           {
             "name": "Yes",
-            "price": "0.58",
-            "chance": "0.575",
+            "price": "0.59",
+            "chance": "0.585",
             "index": 0,
             "tokenId": "88977138058356547095698330645472284921913946847796571314941079090003745124894"
           },
           {
             "name": "No",
-            "price": "0.42",
-            "chance": "0.425",
+            "price": "0.41",
+            "chance": "0.415",
             "index": 1,
             "tokenId": "21486787190408636271695641821204495204138098599907768283645568109354555810543"
           }
@@ -3347,21 +3351,21 @@
             "path": "file-center/web3-prediction/S3/market/1783075919156_01376qh26uguimjmr01j22ql2hrdj1de_NEF_q80_64x64"
           }
         ],
-        "tradeVolume": "4462.24",
-        "liquidity": "329758.36",
+        "tradeVolume": "4195",
+        "liquidity": "572644.39",
         "decimalPrecision": 2,
         "outcomes": [
           {
             "name": "Over",
-            "price": "0.53",
-            "chance": "0.525",
+            "price": "0.55",
+            "chance": "0.545",
             "index": 0,
             "tokenId": "56842085432556429961160335767071316269408580346178011748437916872962971714647"
           },
           {
             "name": "Under",
-            "price": "0.47",
-            "chance": "0.475",
+            "price": "0.45",
+            "chance": "0.455",
             "index": 1,
             "tokenId": "100936955990105530770205201197605617291170486323565918070963360721960549236356"
           }
@@ -3394,21 +3398,21 @@
             "path": "file-center/web3-prediction/S3/market/1783075945159_w6hg61jdxz6glejff7keszbga9vu4sew_NEF_q80_64x64"
           }
         ],
-        "tradeVolume": "3964.32",
-        "liquidity": "59226.35",
+        "tradeVolume": "18593.18",
+        "liquidity": "499709.44",
         "decimalPrecision": 2,
         "outcomes": [
           {
             "name": "PRT",
-            "price": "0.35",
-            "chance": "0.345",
+            "price": "0.34",
+            "chance": "0.335",
             "index": 0,
             "tokenId": "29771006945576865627002461254836854339857691411761357729762359540586695982797"
           },
           {
             "name": "ESP",
-            "price": "0.65",
-            "chance": "0.655",
+            "price": "0.66",
+            "chance": "0.665",
             "index": 1,
             "tokenId": "7585486857102695917168106980438275656469031453799159452767458173924182359507"
           }
@@ -3441,21 +3445,21 @@
             "path": "file-center/web3-prediction/S3/market/1783075925547_d3sfastba1qvl89o032ftp7key9flzsr_NEF_q80_64x64"
           }
         ],
-        "tradeVolume": "690.49",
-        "liquidity": "251692.89",
+        "tradeVolume": "417.92",
+        "liquidity": "314387.66",
         "decimalPrecision": 2,
         "outcomes": [
           {
             "name": "Over",
-            "price": "0.31",
-            "chance": "0.305",
+            "price": "0.33",
+            "chance": "0.325",
             "index": 0,
             "tokenId": "32452600443124594398671031112176124003511756208763495104404722078788260063332"
           },
           {
             "name": "Under",
-            "price": "0.69",
-            "chance": "0.695",
+            "price": "0.67",
+            "chance": "0.675",
             "index": 1,
             "tokenId": "73879516561693932108371313859511000767600762213380370202982118698283754684176"
           }
@@ -3488,8 +3492,8 @@
             "path": "file-center/web3-prediction/S3/market/1783075909463_dt2ormu2sfqhkqcmztjo48dsvrq6ynwy_NEF_q80_64x64"
           }
         ],
-        "tradeVolume": "16.9",
-        "liquidity": "245671.5",
+        "tradeVolume": "1252.21",
+        "liquidity": "270188.49",
         "decimalPrecision": 2,
         "outcomes": [
           {
@@ -3535,21 +3539,21 @@
             "path": "file-center/web3-prediction/S3/market/1783075926391_lxdmf4icu51h4tkv1voqaaymn6wbbdni_NEF_q80_64x64"
           }
         ],
-        "tradeVolume": "11.49",
-        "liquidity": "150430.31",
+        "tradeVolume": "191.52",
+        "liquidity": "170370.88",
         "decimalPrecision": 2,
         "outcomes": [
           {
             "name": "Over",
-            "price": "0.15",
-            "chance": "0.145",
+            "price": "0.16",
+            "chance": "0.155",
             "index": 0,
             "tokenId": "49431030158651155375513867471101113704134218729842941875888051816165950419421"
           },
           {
             "name": "Under",
-            "price": "0.85",
-            "chance": "0.855",
+            "price": "0.84",
+            "chance": "0.845",
             "index": 1,
             "tokenId": "66791062601460794049462656555181811243412904821790040443342271494975863819860"
           }
@@ -3582,8 +3586,8 @@
             "path": "file-center/web3-prediction/S3/market/1783075911948_783zkcplu8w1c52w6usez8f3jhdoz9w9_NEF_q80_64x64"
           }
         ],
-        "tradeVolume": "15.55",
-        "liquidity": "114862.37",
+        "tradeVolume": "55.55",
+        "liquidity": "117008.84",
         "decimalPrecision": 2,
         "outcomes": [
           {
@@ -3599,53 +3603,6 @@
             "chance": "0.885",
             "index": 1,
             "tokenId": "43651017005014624985546100569848893905935170929715675567559353362149849633490"
-          }
-        ]
-      },
-      {
-        "marketId": 6390843,
-        "externalId": "667480",
-        "title": "Portugal (-5.5)",
-        "question": "Spread: Portugal (-5.5)",
-        "description": "In the upcoming FIFA World Cup game, scheduled for July 6 at 3:00 PM ET:\n\nThis market will resolve to \"Portugal\" if Portugal win the game by 6 or more goals.\n\nOtherwise, this market will resolve to \"Spain\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
-        "conditionId": "0x50611f5ab8bf9eab0344bde2bdc2ef53d2495eeb6312f9f2f0ec62f3789b9088",
-        "status": "REGISTERED",
-        "tradingStatus": "OPEN",
-        "thumbnailPaths": [
-          {
-            "size": "800x800",
-            "path": "file-center/web3-prediction/S3/market/1783075918190_ae7jc6s4vx6708w5p4avjblw0glexxkl_NEF_q80_800x800"
-          },
-          {
-            "size": "400x400",
-            "path": "file-center/web3-prediction/S3/market/1783075918190_ae7jc6s4vx6708w5p4avjblw0glexxkl_NEF_q80_400x400"
-          },
-          {
-            "size": "96x96",
-            "path": "file-center/web3-prediction/S3/market/1783075918190_ae7jc6s4vx6708w5p4avjblw0glexxkl_NEF_q80_96x96"
-          },
-          {
-            "size": "64x64",
-            "path": "file-center/web3-prediction/S3/market/1783075918190_ae7jc6s4vx6708w5p4avjblw0glexxkl_NEF_q80_64x64"
-          }
-        ],
-        "tradeVolume": "0",
-        "liquidity": "9361",
-        "decimalPrecision": 2,
-        "outcomes": [
-          {
-            "name": "PRT",
-            "price": "0.1",
-            "chance": "0.1",
-            "index": 0,
-            "tokenId": "40892503956193557785225292799333898505946210491658304927316979390623658308822"
-          },
-          {
-            "name": "ESP",
-            "price": "0.9",
-            "chance": "0.9",
-            "index": 1,
-            "tokenId": "26323959639484350701092554825473756627489870765803542024278275750986034782196"
           }
         ]
       },
@@ -3676,8 +3633,8 @@
             "path": "file-center/web3-prediction/S3/market/1783075908353_30iw2qhds048elflp7le7gbvpiqk0k3c_NEF_q80_64x64"
           }
         ],
-        "tradeVolume": "100",
-        "liquidity": "111301.89",
+        "tradeVolume": "50.96",
+        "liquidity": "84725.67",
         "decimalPrecision": 2,
         "outcomes": [
           {
@@ -3723,21 +3680,21 @@
             "path": "file-center/web3-prediction/S3/market/1783075920708_xmawftisaecd1f00et0fdje4cipglkvu_NEF_q80_64x64"
           }
         ],
-        "tradeVolume": "0",
-        "liquidity": "72468.78",
+        "tradeVolume": "4414.79",
+        "liquidity": "78175.74",
         "decimalPrecision": 2,
         "outcomes": [
           {
             "name": "Over",
             "price": "0.07",
-            "chance": "0.06",
+            "chance": "0.065",
             "index": 0,
             "tokenId": "74127754826256312802443774580113258268032322736861782834437542621214400895251"
           },
           {
             "name": "Under",
             "price": "0.93",
-            "chance": "0.94",
+            "chance": "0.935",
             "index": 1,
             "tokenId": "90382793725339089815020455431840460341493208312254661166279007278188578989793"
           }
@@ -3770,8 +3727,8 @@
             "path": "file-center/web3-prediction/S3/market/1783075914629_94f61z8gboymcp8o3jw1n645toefa52h_NEF_q80_64x64"
           }
         ],
-        "tradeVolume": "0",
-        "liquidity": "122275.02",
+        "tradeVolume": "54.63",
+        "liquidity": "150101.79",
         "decimalPrecision": 2,
         "outcomes": [
           {
@@ -3817,8 +3774,8 @@
             "path": "file-center/web3-prediction/S3/market/1783075911030_gtqgi2hdvx2529j3o8c58563w434uzm6_NEF_q80_64x64"
           }
         ],
-        "tradeVolume": "0",
-        "liquidity": "112440.95",
+        "tradeVolume": "33.83",
+        "liquidity": "122952.06",
         "decimalPrecision": 2,
         "outcomes": [
           {
@@ -3834,241 +3791,6 @@
             "chance": "0.975",
             "index": 1,
             "tokenId": "103077056406437704532651561985327805021740493119052823365688884581033287313785"
-          }
-        ]
-      },
-      {
-        "marketId": 6390833,
-        "externalId": "667490",
-        "title": "O/U 8.5",
-        "question": "Portugal vs. Spain: O/U 8.5",
-        "description": "In the upcoming FIFA World Cup game between Portugal and Spain, scheduled for July 6 at 3:00 PM ET:\n\nThis market will resolve to \"Over\" if Portugal and Spain combine to score 9 or more goals in this game.\n\nIf the combined total is less than 9, this market will resolve to \"Under\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nIf the game is started but not completed, this market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
-        "conditionId": "0x41f16cb70cb58ff6349a5673a4d1b4dc020b04e6da24734e01a090af20fe8d6e",
-        "status": "REGISTERED",
-        "tradingStatus": "OPEN",
-        "thumbnailPaths": [
-          {
-            "size": "800x800",
-            "path": "file-center/web3-prediction/S3/market/1783075905998_1miwdhhz1ci1ut1bsvgawrpef8rcne7t_NEF_q80_800x800"
-          },
-          {
-            "size": "400x400",
-            "path": "file-center/web3-prediction/S3/market/1783075905998_1miwdhhz1ci1ut1bsvgawrpef8rcne7t_NEF_q80_400x400"
-          },
-          {
-            "size": "96x96",
-            "path": "file-center/web3-prediction/S3/market/1783075905998_1miwdhhz1ci1ut1bsvgawrpef8rcne7t_NEF_q80_96x96"
-          },
-          {
-            "size": "64x64",
-            "path": "file-center/web3-prediction/S3/market/1783075905998_1miwdhhz1ci1ut1bsvgawrpef8rcne7t_NEF_q80_64x64"
-          }
-        ],
-        "tradeVolume": "0",
-        "liquidity": "1825.19",
-        "decimalPrecision": 2,
-        "outcomes": [
-          {
-            "name": "Over",
-            "price": "0.02",
-            "chance": "0.02",
-            "index": 0,
-            "tokenId": "92442699003715933244252131621463992589896111016168995879225940950362182463034"
-          },
-          {
-            "name": "Under",
-            "price": "0.98",
-            "chance": "0.98",
-            "index": 1,
-            "tokenId": "91748411857634749431944765459466090153823117688071349330489315284627658677847"
-          }
-        ]
-      },
-      {
-        "marketId": 6390839,
-        "externalId": "667476",
-        "title": "Portugal (-3.5)",
-        "question": "Spread: Portugal (-3.5)",
-        "description": "In the upcoming FIFA World Cup game, scheduled for July 6 at 3:00 PM ET:\n\nThis market will resolve to \"Portugal\" if Portugal win the game by 4 or more goals.\n\nOtherwise, this market will resolve to \"Spain\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
-        "conditionId": "0x990f5cbe6a6bd9c04957c771e2adc83886056d79fe919f406f30a5138800048b",
-        "status": "REGISTERED",
-        "tradingStatus": "OPEN",
-        "thumbnailPaths": [
-          {
-            "size": "800x800",
-            "path": "file-center/web3-prediction/S3/market/1783075913085_02ar6cwtfozjvl7zh17cxkvoen96lfj0_NEF_q80_800x800"
-          },
-          {
-            "size": "400x400",
-            "path": "file-center/web3-prediction/S3/market/1783075913085_02ar6cwtfozjvl7zh17cxkvoen96lfj0_NEF_q80_400x400"
-          },
-          {
-            "size": "96x96",
-            "path": "file-center/web3-prediction/S3/market/1783075913085_02ar6cwtfozjvl7zh17cxkvoen96lfj0_NEF_q80_96x96"
-          },
-          {
-            "size": "64x64",
-            "path": "file-center/web3-prediction/S3/market/1783075913085_02ar6cwtfozjvl7zh17cxkvoen96lfj0_NEF_q80_64x64"
-          }
-        ],
-        "tradeVolume": "0",
-        "liquidity": "1755.93",
-        "decimalPrecision": 2,
-        "outcomes": [
-          {
-            "name": "PRT",
-            "price": "0.02",
-            "chance": "0.02",
-            "index": 0,
-            "tokenId": "54276352418542170134289905691194192585598308999224383727499805829740503006920"
-          },
-          {
-            "name": "ESP",
-            "price": "0.98",
-            "chance": "0.98",
-            "index": 1,
-            "tokenId": "104418157625811619143243176520890194208083414342677603765025593049979362059068"
-          }
-        ]
-      },
-      {
-        "marketId": 6390841,
-        "externalId": "667478",
-        "title": "Portugal (-4.5)",
-        "question": "Spread: Portugal (-4.5)",
-        "description": "In the upcoming FIFA World Cup game, scheduled for July 6 at 3:00 PM ET:\n\nThis market will resolve to \"Portugal\" if Portugal win the game by 5 or more goals.\n\nOtherwise, this market will resolve to \"Spain\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
-        "conditionId": "0x38082aee0f60d7ca9fb40ec57f40c31c9979dc7c1b0ae98f3808416ee3215cfb",
-        "status": "REGISTERED",
-        "tradingStatus": "OPEN",
-        "thumbnailPaths": [
-          {
-            "size": "800x800",
-            "path": "file-center/web3-prediction/S3/market/1783075915637_7h991miegl3jvkqvv6ttcwqi9uubucvc_NEF_q80_800x800"
-          },
-          {
-            "size": "400x400",
-            "path": "file-center/web3-prediction/S3/market/1783075915637_7h991miegl3jvkqvv6ttcwqi9uubucvc_NEF_q80_400x400"
-          },
-          {
-            "size": "96x96",
-            "path": "file-center/web3-prediction/S3/market/1783075915637_7h991miegl3jvkqvv6ttcwqi9uubucvc_NEF_q80_96x96"
-          },
-          {
-            "size": "64x64",
-            "path": "file-center/web3-prediction/S3/market/1783075915637_7h991miegl3jvkqvv6ttcwqi9uubucvc_NEF_q80_64x64"
-          }
-        ],
-        "tradeVolume": "0",
-        "liquidity": "3.4",
-        "decimalPrecision": 2,
-        "outcomes": [
-          {
-            "name": "PRT",
-            "price": "0.02",
-            "chance": "0.02",
-            "index": 0,
-            "tokenId": "99107917832472241091140879472803733461906168682634504443436830029047618132478"
-          },
-          {
-            "name": "ESP",
-            "price": "0.98",
-            "chance": "0.98",
-            "index": 1,
-            "tokenId": "38200087603185010941882729128223710961414881172314075513398449587132586917027"
-          }
-        ]
-      },
-      {
-        "marketId": 6390842,
-        "externalId": "667479",
-        "title": "Spain (-4.5)",
-        "question": "Spread: Spain (-4.5)",
-        "description": "In the upcoming FIFA World Cup game, scheduled for July 6 at 3:00 PM ET:\n\nThis market will resolve to \"Spain\" if Spain win the game by 5 or more goals.\n\nOtherwise, this market will resolve to \"Portugal\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
-        "conditionId": "0x186e2c0593311e3cec76fcf6511a12618720f1cf8c0e7260db93ff098b3e51a7",
-        "status": "REGISTERED",
-        "tradingStatus": "OPEN",
-        "thumbnailPaths": [
-          {
-            "size": "800x800",
-            "path": "file-center/web3-prediction/S3/market/1783075916601_9pgm1mrlbe5prvcaoztv230zas5ohaw8_NEF_q80_800x800"
-          },
-          {
-            "size": "400x400",
-            "path": "file-center/web3-prediction/S3/market/1783075916601_9pgm1mrlbe5prvcaoztv230zas5ohaw8_NEF_q80_400x400"
-          },
-          {
-            "size": "96x96",
-            "path": "file-center/web3-prediction/S3/market/1783075916601_9pgm1mrlbe5prvcaoztv230zas5ohaw8_NEF_q80_96x96"
-          },
-          {
-            "size": "64x64",
-            "path": "file-center/web3-prediction/S3/market/1783075916601_9pgm1mrlbe5prvcaoztv230zas5ohaw8_NEF_q80_64x64"
-          }
-        ],
-        "tradeVolume": "0",
-        "liquidity": "294.95",
-        "decimalPrecision": 2,
-        "outcomes": [
-          {
-            "name": "ESP",
-            "price": "0.02",
-            "chance": "0.02",
-            "index": 0,
-            "tokenId": "4919088454515083283695085952328761448701699278573171818028263963382211563611"
-          },
-          {
-            "name": "PRT",
-            "price": "0.98",
-            "chance": "0.98",
-            "index": 1,
-            "tokenId": "100470688150414434698145059141374269734129066332833790314552063794919287176797"
-          }
-        ]
-      },
-      {
-        "marketId": 6390846,
-        "externalId": "667481",
-        "title": "Spain (-5.5)",
-        "question": "Spread: Spain (-5.5)",
-        "description": "In the upcoming FIFA World Cup game, scheduled for July 6 at 3:00 PM ET:\n\nThis market will resolve to \"Spain\" if Spain win the game by 6 or more goals.\n\nOtherwise, this market will resolve to \"Portugal\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
-        "conditionId": "0x6556d40a6db55c9c8488c0214f804f3a04414a9b976abbce21bec188b95fd820",
-        "status": "REGISTERED",
-        "tradingStatus": "OPEN",
-        "thumbnailPaths": [
-          {
-            "size": "800x800",
-            "path": "file-center/web3-prediction/S3/market/1783075921694_9dyxksvg6t9tz4pwebtgd7snazgq91ae_NEF_q80_800x800"
-          },
-          {
-            "size": "400x400",
-            "path": "file-center/web3-prediction/S3/market/1783075921694_9dyxksvg6t9tz4pwebtgd7snazgq91ae_NEF_q80_400x400"
-          },
-          {
-            "size": "96x96",
-            "path": "file-center/web3-prediction/S3/market/1783075921694_9dyxksvg6t9tz4pwebtgd7snazgq91ae_NEF_q80_96x96"
-          },
-          {
-            "size": "64x64",
-            "path": "file-center/web3-prediction/S3/market/1783075921694_9dyxksvg6t9tz4pwebtgd7snazgq91ae_NEF_q80_64x64"
-          }
-        ],
-        "tradeVolume": "0",
-        "liquidity": "37.92",
-        "decimalPrecision": 2,
-        "outcomes": [
-          {
-            "name": "ESP",
-            "price": "0.02",
-            "chance": "0.02",
-            "index": 0,
-            "tokenId": "80847452591325213833564009743130442899603598661945438764835758990567419355348"
-          },
-          {
-            "name": "PRT",
-            "price": "0.98",
-            "chance": "0.98",
-            "index": 1,
-            "tokenId": "11372739497184412206577586431520844226752438241525564086060730817226877069208"
           }
         ]
       },
@@ -4100,22 +3822,69 @@
           }
         ],
         "tradeVolume": "0",
-        "liquidity": "5120.39",
+        "liquidity": "127591.42",
         "decimalPrecision": 2,
         "outcomes": [
           {
             "name": "Over",
             "price": "0.03",
-            "chance": "0.02",
+            "chance": "0.025",
             "index": 0,
             "tokenId": "22877571660408896497169516229509317243173243437883593166896572114098473209872"
           },
           {
             "name": "Under",
             "price": "0.97",
-            "chance": "0.98",
+            "chance": "0.975",
             "index": 1,
             "tokenId": "96686158101103242255070820847734519209015599514737387885301142611586826920088"
+          }
+        ]
+      },
+      {
+        "marketId": 6390841,
+        "externalId": "667478",
+        "title": "Portugal (-4.5)",
+        "question": "Spread: Portugal (-4.5)",
+        "description": "In the upcoming FIFA World Cup game, scheduled for July 6 at 3:00 PM ET:\n\nThis market will resolve to \"Portugal\" if Portugal win the game by 5 or more goals.\n\nOtherwise, this market will resolve to \"Spain\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x38082aee0f60d7ca9fb40ec57f40c31c9979dc7c1b0ae98f3808416ee3215cfb",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1783075915637_7h991miegl3jvkqvv6ttcwqi9uubucvc_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1783075915637_7h991miegl3jvkqvv6ttcwqi9uubucvc_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1783075915637_7h991miegl3jvkqvv6ttcwqi9uubucvc_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1783075915637_7h991miegl3jvkqvv6ttcwqi9uubucvc_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "352.99",
+        "liquidity": "5012.27",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "PRT",
+            "price": "0.02",
+            "chance": "0.02",
+            "index": 0,
+            "tokenId": "99107917832472241091140879472803733461906168682634504443436830029047618132478"
+          },
+          {
+            "name": "ESP",
+            "price": "0.98",
+            "chance": "0.98",
+            "index": 1,
+            "tokenId": "38200087603185010941882729128223710961414881172314075513398449587132586917027"
           }
         ]
       },
@@ -4146,8 +3915,8 @@
             "path": "file-center/web3-prediction/S3/market/1783075905159_0bn4ktamp0zlrf5kn0zn2l5of1y7o6kb_NEF_q80_64x64"
           }
         ],
-        "tradeVolume": "0",
-        "liquidity": "4054.43",
+        "tradeVolume": "1420.92",
+        "liquidity": "13664.4",
         "decimalPrecision": 2,
         "outcomes": [
           {
@@ -4165,11 +3934,338 @@
             "tokenId": "33610636809602521384580879693198972709810932020947504542092701598729180246375"
           }
         ]
+      },
+      {
+        "marketId": 6390839,
+        "externalId": "667476",
+        "title": "Portugal (-3.5)",
+        "question": "Spread: Portugal (-3.5)",
+        "description": "In the upcoming FIFA World Cup game, scheduled for July 6 at 3:00 PM ET:\n\nThis market will resolve to \"Portugal\" if Portugal win the game by 4 or more goals.\n\nOtherwise, this market will resolve to \"Spain\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x990f5cbe6a6bd9c04957c771e2adc83886056d79fe919f406f30a5138800048b",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1783075913085_02ar6cwtfozjvl7zh17cxkvoen96lfj0_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1783075913085_02ar6cwtfozjvl7zh17cxkvoen96lfj0_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1783075913085_02ar6cwtfozjvl7zh17cxkvoen96lfj0_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1783075913085_02ar6cwtfozjvl7zh17cxkvoen96lfj0_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "1958",
+        "liquidity": "6717.72",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "PRT",
+            "price": "0.02",
+            "chance": "0.015",
+            "index": 0,
+            "tokenId": "54276352418542170134289905691194192585598308999224383727499805829740503006920"
+          },
+          {
+            "name": "ESP",
+            "price": "0.98",
+            "chance": "0.985",
+            "index": 1,
+            "tokenId": "104418157625811619143243176520890194208083414342677603765025593049979362059068"
+          }
+        ]
+      },
+      {
+        "marketId": 6390842,
+        "externalId": "667479",
+        "title": "Spain (-4.5)",
+        "question": "Spread: Spain (-4.5)",
+        "description": "In the upcoming FIFA World Cup game, scheduled for July 6 at 3:00 PM ET:\n\nThis market will resolve to \"Spain\" if Spain win the game by 5 or more goals.\n\nOtherwise, this market will resolve to \"Portugal\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x186e2c0593311e3cec76fcf6511a12618720f1cf8c0e7260db93ff098b3e51a7",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1783075916601_9pgm1mrlbe5prvcaoztv230zas5ohaw8_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1783075916601_9pgm1mrlbe5prvcaoztv230zas5ohaw8_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1783075916601_9pgm1mrlbe5prvcaoztv230zas5ohaw8_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1783075916601_9pgm1mrlbe5prvcaoztv230zas5ohaw8_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "0",
+        "liquidity": "9787.07",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "ESP",
+            "price": "0.02",
+            "chance": "0.015",
+            "index": 0,
+            "tokenId": "4919088454515083283695085952328761448701699278573171818028263963382211563611"
+          },
+          {
+            "name": "PRT",
+            "price": "0.98",
+            "chance": "0.985",
+            "index": 1,
+            "tokenId": "100470688150414434698145059141374269734129066332833790314552063794919287176797"
+          }
+        ]
+      },
+      {
+        "marketId": 6390843,
+        "externalId": "667480",
+        "title": "Portugal (-5.5)",
+        "question": "Spread: Portugal (-5.5)",
+        "description": "In the upcoming FIFA World Cup game, scheduled for July 6 at 3:00 PM ET:\n\nThis market will resolve to \"Portugal\" if Portugal win the game by 6 or more goals.\n\nOtherwise, this market will resolve to \"Spain\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x50611f5ab8bf9eab0344bde2bdc2ef53d2495eeb6312f9f2f0ec62f3789b9088",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1783075918190_ae7jc6s4vx6708w5p4avjblw0glexxkl_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1783075918190_ae7jc6s4vx6708w5p4avjblw0glexxkl_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1783075918190_ae7jc6s4vx6708w5p4avjblw0glexxkl_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1783075918190_ae7jc6s4vx6708w5p4avjblw0glexxkl_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "2969.74",
+        "liquidity": "8646.86",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "PRT",
+            "price": "0.02",
+            "chance": "0.015",
+            "index": 0,
+            "tokenId": "40892503956193557785225292799333898505946210491658304927316979390623658308822"
+          },
+          {
+            "name": "ESP",
+            "price": "0.98",
+            "chance": "0.985",
+            "index": 1,
+            "tokenId": "26323959639484350701092554825473756627489870765803542024278275750986034782196"
+          }
+        ]
+      },
+      {
+        "marketId": 6390846,
+        "externalId": "667481",
+        "title": "Spain (-5.5)",
+        "question": "Spread: Spain (-5.5)",
+        "description": "In the upcoming FIFA World Cup game, scheduled for July 6 at 3:00 PM ET:\n\nThis market will resolve to \"Spain\" if Spain win the game by 6 or more goals.\n\nOtherwise, this market will resolve to \"Portugal\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x6556d40a6db55c9c8488c0214f804f3a04414a9b976abbce21bec188b95fd820",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1783075921694_9dyxksvg6t9tz4pwebtgd7snazgq91ae_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1783075921694_9dyxksvg6t9tz4pwebtgd7snazgq91ae_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1783075921694_9dyxksvg6t9tz4pwebtgd7snazgq91ae_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1783075921694_9dyxksvg6t9tz4pwebtgd7snazgq91ae_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "2009.53",
+        "liquidity": "15364.25",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "ESP",
+            "price": "0.02",
+            "chance": "0.015",
+            "index": 0,
+            "tokenId": "80847452591325213833564009743130442899603598661945438764835758990567419355348"
+          },
+          {
+            "name": "PRT",
+            "price": "0.98",
+            "chance": "0.985",
+            "index": 1,
+            "tokenId": "11372739497184412206577586431520844226752438241525564086060730817226877069208"
+          }
+        ]
+      },
+      {
+        "marketId": 6390833,
+        "externalId": "667490",
+        "title": "O/U 8.5",
+        "question": "Portugal vs. Spain: O/U 8.5",
+        "description": "In the upcoming FIFA World Cup game between Portugal and Spain, scheduled for July 6 at 3:00 PM ET:\n\nThis market will resolve to \"Over\" if Portugal and Spain combine to score 9 or more goals in this game.\n\nIf the combined total is less than 9, this market will resolve to \"Under\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nIf the game is started but not completed, this market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x41f16cb70cb58ff6349a5673a4d1b4dc020b04e6da24734e01a090af20fe8d6e",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1783075905998_1miwdhhz1ci1ut1bsvgawrpef8rcne7t_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1783075905998_1miwdhhz1ci1ut1bsvgawrpef8rcne7t_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1783075905998_1miwdhhz1ci1ut1bsvgawrpef8rcne7t_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1783075905998_1miwdhhz1ci1ut1bsvgawrpef8rcne7t_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "200",
+        "liquidity": "3041.27",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Over",
+            "price": "0.01",
+            "chance": "0.01",
+            "index": 0,
+            "tokenId": "92442699003715933244252131621463992589896111016168995879225940950362182463034"
+          },
+          {
+            "name": "Under",
+            "price": "0.99",
+            "chance": "0.99",
+            "index": 1,
+            "tokenId": "91748411857634749431944765459466090153823117688071349330489315284627658677847"
+          }
+        ]
       }
     ],
-    "tradeVolume": "9730.46",
-    "liquidity": "3254889.35",
+    "tradeVolume": "43076.79",
+    "liquidity": "6398763.28",
     "publishedAt": 1783075904593,
+    "startDate": 1783364400000,
+    "endDate": 1783375200000,
+    "status": "REGISTERED"
+  },
+  {
+    "marketTopicId": 4372822,
+    "vendor": "PREDICT_FUN",
+    "chainId": "56",
+    "slug": "fifwc-prt-esp-2026-07-06-total-corners",
+    "title": "Portugal vs. Spain - Total Corners",
+    "question": "Portugal vs. Spain: O/U 8.5 Total Corners",
+    "imageUrl": "https://static.predict.fun/fifwc",
+    "thumbnailPaths": [
+      {
+        "size": "800x800",
+        "path": "file-center/web3-prediction/S3/topic/1783171663419_avna5e9s4auuyq7669ys7cqu6l8ge94u_NEF_q80_800x800"
+      },
+      {
+        "size": "400x400",
+        "path": "file-center/web3-prediction/S3/topic/1783171663419_avna5e9s4auuyq7669ys7cqu6l8ge94u_NEF_q80_400x400"
+      },
+      {
+        "size": "96x96",
+        "path": "file-center/web3-prediction/S3/topic/1783171663419_avna5e9s4auuyq7669ys7cqu6l8ge94u_NEF_q80_96x96"
+      },
+      {
+        "size": "64x64",
+        "path": "file-center/web3-prediction/S3/topic/1783171663419_avna5e9s4auuyq7669ys7cqu6l8ge94u_NEF_q80_64x64"
+      }
+    ],
+    "topicType": "GROUPED",
+    "variantData": {
+      "type": "SPORTS_FIFA_WORLD_CUP"
+    },
+    "participantCount": 139,
+    "collateral": "USDT",
+    "feeRateBps": 200,
+    "slippageBps": 1000,
+    "isYieldBearing": false,
+    "exchangeContractAddress": "0x365fb81bd4A24D6303cd2F19c349dE6894D8d58A",
+    "markets": [
+      {
+        "marketId": 6426414,
+        "externalId": "671466",
+        "title": "Total Corners: O/U 8.5",
+        "question": "Portugal vs. Spain: O/U 8.5 Total Corners",
+        "description": "In the upcoming FIFA World Cup game between Portugal and Spain, scheduled for July 6 at 3:00 PM ET: This market will resolve to \"Over\" if there are 9 or more total corners taken in this game (combining corners for both teams). If the total number of corners is fewer than 9, this market will resolve to \"Under\". Markets on number of corners refers to number of corners taken and not corners awarded. If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50. This market refers only to corners taken within the first 90 minutes of regular play plus stoppage time. Corners awarded but not taken will not count. Corners awarded during extra time or penalty shootouts do not count. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 24 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "conditionId": "0x90e8b440e7422f1323f74479e61150057eb6bd8ab04d00b0effa6bf2466e34f3",
+        "status": "REGISTERED",
+        "tradingStatus": "OPEN",
+        "thumbnailPaths": [
+          {
+            "size": "800x800",
+            "path": "file-center/web3-prediction/S3/market/1783171663397_xkyz4xl0gvtsfok6k1h7zpioc6ed7473_NEF_q80_800x800"
+          },
+          {
+            "size": "400x400",
+            "path": "file-center/web3-prediction/S3/market/1783171663397_xkyz4xl0gvtsfok6k1h7zpioc6ed7473_NEF_q80_400x400"
+          },
+          {
+            "size": "96x96",
+            "path": "file-center/web3-prediction/S3/market/1783171663397_xkyz4xl0gvtsfok6k1h7zpioc6ed7473_NEF_q80_96x96"
+          },
+          {
+            "size": "64x64",
+            "path": "file-center/web3-prediction/S3/market/1783171663397_xkyz4xl0gvtsfok6k1h7zpioc6ed7473_NEF_q80_64x64"
+          }
+        ],
+        "tradeVolume": "4186.8",
+        "liquidity": "210105.99",
+        "decimalPrecision": 2,
+        "outcomes": [
+          {
+            "name": "Over 8.5",
+            "price": "0.59",
+            "chance": "0.585",
+            "index": 0,
+            "tokenId": "81672043722203978907404886840357966534880598265600714344813928290694098786391"
+          },
+          {
+            "name": "Under 8.5",
+            "price": "0.41",
+            "chance": "0.415",
+            "index": 1,
+            "tokenId": "51824909524963617610528697490016159710251957609167404737055711653592045295359"
+          }
+        ]
+      }
+    ],
+    "tradeVolume": "4186.8",
+    "liquidity": "210105.99",
+    "publishedAt": 1783171661024,
     "startDate": 1783364400000,
     "endDate": 1783375200000,
     "status": "REGISTERED"
@@ -4204,7 +4300,7 @@
     "variantData": {
       "type": "SPORTS_FIFA_WORLD_CUP"
     },
-    "participantCount": 29,
+    "participantCount": 141,
     "collateral": "USDT",
     "feeRateBps": 200,
     "slippageBps": 1000,
@@ -4238,21 +4334,21 @@
             "path": "file-center/web3-prediction/S3/market/1783074045227_v8oiwpwkmw7tmwigjizdgq4mre5i3vvh_NEF_q80_64x64"
           }
         ],
-        "tradeVolume": "141.42",
-        "liquidity": "585571.95",
+        "tradeVolume": "1179.41",
+        "liquidity": "354412.5",
         "decimalPrecision": 2,
         "outcomes": [
           {
             "name": "Yes",
             "price": "0.42",
-            "chance": "0.41",
+            "chance": "0.415",
             "index": 0,
             "tokenId": "112484924126772449418294012364839971224866784852145796704002906215464178941073"
           },
           {
             "name": "No",
             "price": "0.58",
-            "chance": "0.59",
+            "chance": "0.585",
             "index": 1,
             "tokenId": "109679131520843119985825398755350338472727863689678537331613810414939659453744"
           }
@@ -4285,8 +4381,8 @@
             "path": "file-center/web3-prediction/S3/market/1783074062924_bp25dicovnlzp11ok7mp3pedfrhxegs6_NEF_q80_64x64"
           }
         ],
-        "tradeVolume": "65",
-        "liquidity": "607834.12",
+        "tradeVolume": "1737.59",
+        "liquidity": "321882.02",
         "decimalPrecision": 2,
         "outcomes": [
           {
@@ -4332,29 +4428,29 @@
             "path": "file-center/web3-prediction/S3/market/1783074042443_w39ctcixosjhbxo1gxt4ct5e6uhmgwev_NEF_q80_64x64"
           }
         ],
-        "tradeVolume": "32.43",
-        "liquidity": "510632.74",
+        "tradeVolume": "286.97",
+        "liquidity": "227342.19",
         "decimalPrecision": 2,
         "outcomes": [
           {
             "name": "Yes",
-            "price": "0.22",
-            "chance": "0.21",
+            "price": "0.21",
+            "chance": "0.205",
             "index": 0,
             "tokenId": "82561124983375543811682762251352200781709331730537922702630107336713865055871"
           },
           {
             "name": "No",
-            "price": "0.78",
-            "chance": "0.79",
+            "price": "0.79",
+            "chance": "0.795",
             "index": 1,
             "tokenId": "93072027547357117031156623364197190861697512883519602205984148102275930094892"
           }
         ]
       }
     ],
-    "tradeVolume": "238.86",
-    "liquidity": "1704038.8",
+    "tradeVolume": "3203.98",
+    "liquidity": "902987.75",
     "publishedAt": 1783074040343,
     "startDate": 1783364400000,
     "endDate": 1783375200000,
@@ -4390,7 +4486,7 @@
     "variantData": {
       "type": "SPORTS_FIFA_WORLD_CUP"
     },
-    "participantCount": 28,
+    "participantCount": 141,
     "collateral": "USDT",
     "feeRateBps": 200,
     "slippageBps": 1000,
@@ -4424,21 +4520,21 @@
             "path": "file-center/web3-prediction/S3/market/1783074043677_ce5rw03jr4meiawjmlzpf66yadnqa8r4_NEF_q80_64x64"
           }
         ],
-        "tradeVolume": "66.39",
-        "liquidity": "738279.04",
+        "tradeVolume": "1257.16",
+        "liquidity": "179574.11",
         "decimalPrecision": 2,
         "outcomes": [
           {
             "name": "Yes",
-            "price": "0.62",
-            "chance": "0.615",
+            "price": "0.6",
+            "chance": "0.595",
             "index": 0,
             "tokenId": "55030423612025043875321811302284604969120479957043503855491461351840311031209"
           },
           {
             "name": "No",
-            "price": "0.38",
-            "chance": "0.385",
+            "price": "0.4",
+            "chance": "0.405",
             "index": 1,
             "tokenId": "85845151966415550088330082189224698739355732180569312677794186217072119370399"
           }
@@ -4471,20 +4567,20 @@
             "path": "file-center/web3-prediction/S3/market/1783074043134_njemnw6j72i2r1l4ypnb3x4k6hchs9wm_NEF_q80_64x64"
           }
         ],
-        "tradeVolume": "13.51",
-        "liquidity": "65310.84",
+        "tradeVolume": "484.82",
+        "liquidity": "112849.62",
         "decimalPrecision": 2,
         "outcomes": [
           {
             "name": "Yes",
-            "price": "0.37",
+            "price": "0.36",
             "chance": "0.355",
             "index": 0,
             "tokenId": "82323780098716038533452160350860242664004469387974409527951604165014982849815"
           },
           {
             "name": "No",
-            "price": "0.63",
+            "price": "0.64",
             "chance": "0.645",
             "index": 1,
             "tokenId": "109852026345519241489026534187023899754264523423362629473187206739500400668283"
@@ -4518,122 +4614,30 @@
             "path": "file-center/web3-prediction/S3/market/1783074040464_8npc1dxwigot15iux0c7az2v2vs7a3bd_NEF_q80_64x64"
           }
         ],
-        "tradeVolume": "40.85",
-        "liquidity": "19751.71",
+        "tradeVolume": "350.15",
+        "liquidity": "57922.25",
         "decimalPrecision": 2,
         "outcomes": [
           {
             "name": "Yes",
-            "price": "0.06",
-            "chance": "0.05",
+            "price": "0.07",
+            "chance": "0.06",
             "index": 0,
             "tokenId": "12819190261592471563952813907550138734264303761785101099512070158306339757514"
           },
           {
             "name": "No",
-            "price": "0.94",
-            "chance": "0.95",
+            "price": "0.93",
+            "chance": "0.94",
             "index": 1,
             "tokenId": "67212100078120576294530140641617109829121597442090535133780181649931984580542"
           }
         ]
       }
     ],
-    "tradeVolume": "120.77",
-    "liquidity": "822707.65",
+    "tradeVolume": "2092.14",
+    "liquidity": "338485.42",
     "publishedAt": 1783074038744,
-    "startDate": 1783364400000,
-    "endDate": 1783375200000,
-    "status": "REGISTERED"
-  },
-  {
-    "marketTopicId": 4372822,
-    "vendor": "PREDICT_FUN",
-    "chainId": "56",
-    "slug": "fifwc-prt-esp-2026-07-06-total-corners",
-    "title": "Portugal vs. Spain - Total Corners",
-    "question": "Portugal vs. Spain: O/U 8.5 Total Corners",
-    "imageUrl": "https://static.predict.fun/fifwc",
-    "thumbnailPaths": [
-      {
-        "size": "800x800",
-        "path": "file-center/web3-prediction/S3/topic/1783171663419_avna5e9s4auuyq7669ys7cqu6l8ge94u_NEF_q80_800x800"
-      },
-      {
-        "size": "400x400",
-        "path": "file-center/web3-prediction/S3/topic/1783171663419_avna5e9s4auuyq7669ys7cqu6l8ge94u_NEF_q80_400x400"
-      },
-      {
-        "size": "96x96",
-        "path": "file-center/web3-prediction/S3/topic/1783171663419_avna5e9s4auuyq7669ys7cqu6l8ge94u_NEF_q80_96x96"
-      },
-      {
-        "size": "64x64",
-        "path": "file-center/web3-prediction/S3/topic/1783171663419_avna5e9s4auuyq7669ys7cqu6l8ge94u_NEF_q80_64x64"
-      }
-    ],
-    "topicType": "FLAT",
-    "variantData": {
-      "type": "SPORTS_FIFA_WORLD_CUP"
-    },
-    "participantCount": 0,
-    "collateral": "USDT",
-    "feeRateBps": 200,
-    "slippageBps": 1000,
-    "isYieldBearing": false,
-    "exchangeContractAddress": "0x8BC070BEdAB741406F4B1Eb65A72bee27894B689",
-    "markets": [
-      {
-        "marketId": 6426414,
-        "externalId": "671466",
-        "title": "Total Corners: O/U 8.5",
-        "question": "Portugal vs. Spain: O/U 8.5 Total Corners",
-        "description": "In the upcoming FIFA World Cup game between Portugal and Spain, scheduled for July 6 at 3:00 PM ET: This market will resolve to \"Over\" if there are 9 or more total corners taken in this game (combining corners for both teams). If the total number of corners is fewer than 9, this market will resolve to \"Under\". Markets on number of corners refers to number of corners taken and not corners awarded. If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50. This market refers only to corners taken within the first 90 minutes of regular play plus stoppage time. Corners awarded but not taken will not count. Corners awarded during extra time or penalty shootouts do not count. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 24 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
-        "conditionId": "0x90e8b440e7422f1323f74479e61150057eb6bd8ab04d00b0effa6bf2466e34f3",
-        "status": "REGISTERED",
-        "tradingStatus": "OPEN",
-        "thumbnailPaths": [
-          {
-            "size": "800x800",
-            "path": "file-center/web3-prediction/S3/market/1783171663397_xkyz4xl0gvtsfok6k1h7zpioc6ed7473_NEF_q80_800x800"
-          },
-          {
-            "size": "400x400",
-            "path": "file-center/web3-prediction/S3/market/1783171663397_xkyz4xl0gvtsfok6k1h7zpioc6ed7473_NEF_q80_400x400"
-          },
-          {
-            "size": "96x96",
-            "path": "file-center/web3-prediction/S3/market/1783171663397_xkyz4xl0gvtsfok6k1h7zpioc6ed7473_NEF_q80_96x96"
-          },
-          {
-            "size": "64x64",
-            "path": "file-center/web3-prediction/S3/market/1783171663397_xkyz4xl0gvtsfok6k1h7zpioc6ed7473_NEF_q80_64x64"
-          }
-        ],
-        "tradeVolume": "0",
-        "liquidity": "15187.98",
-        "decimalPrecision": 2,
-        "outcomes": [
-          {
-            "name": "Over",
-            "price": "0.58",
-            "chance": "0.565",
-            "index": 0,
-            "tokenId": "81672043722203978907404886840357966534880598265600714344813928290694098786391"
-          },
-          {
-            "name": "Under",
-            "price": "0.42",
-            "chance": "0.435",
-            "index": 1,
-            "tokenId": "51824909524963617610528697490016159710251957609167404737055711653592045295359"
-          }
-        ]
-      }
-    ],
-    "tradeVolume": "0",
-    "liquidity": "15187.98",
-    "publishedAt": 1783171661024,
     "startDate": 1783364400000,
     "endDate": 1783375200000,
     "status": "REGISTERED"
