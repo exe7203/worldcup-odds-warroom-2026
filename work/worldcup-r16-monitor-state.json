@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-07-07T04:52:48+08:00",
+  "updatedAt": "2026-07-07T05:15:13+08:00",
   "matches": {
     "can-mar": {
       "title": "加拿大 vs 摩洛哥",
       "kickoff": "2026-07-05T01:00:00+08:00",
-      "lastScoreCheck": "2026-07-07T04:52:48+08:00",
+      "lastScoreCheck": "2026-07-07T05:15:13+08:00",
       "espnStatus": "FT",
       "espnState": "post",
       "completed": true,
@@ -250,7 +250,7 @@
           "red": 0
         }
       },
-      "liveDataUpdatedAt": "2026-07-07T04:52:48+08:00",
+      "liveDataUpdatedAt": "2026-07-07T05:15:13+08:00",
       "taiwanSportsLottery": {
         "source": "Taiwan Sports Lottery",
         "status": "missing",
@@ -267,7 +267,7 @@
     "par-fra": {
       "title": "巴拉圭 vs 法國",
       "kickoff": "2026-07-05T05:00:00+08:00",
-      "lastScoreCheck": "2026-07-07T04:52:48+08:00",
+      "lastScoreCheck": "2026-07-07T05:15:13+08:00",
       "espnStatus": "FT",
       "espnState": "post",
       "completed": true,
@@ -422,7 +422,7 @@
           "red": 0
         }
       },
-      "liveDataUpdatedAt": "2026-07-07T04:52:48+08:00",
+      "liveDataUpdatedAt": "2026-07-07T05:15:13+08:00",
       "taiwanSportsLottery": {
         "source": "Taiwan Sports Lottery",
         "status": "missing",
@@ -439,7 +439,7 @@
     "bra-nor": {
       "title": "巴西 vs 挪威",
       "kickoff": "2026-07-06T04:00:00+08:00",
-      "lastScoreCheck": "2026-07-07T04:52:48+08:00",
+      "lastScoreCheck": "2026-07-07T05:15:13+08:00",
       "espnStatus": "FT",
       "espnState": "post",
       "completed": true,
@@ -594,7 +594,7 @@
           "red": 0
         }
       },
-      "liveDataUpdatedAt": "2026-07-07T04:52:48+08:00",
+      "liveDataUpdatedAt": "2026-07-07T05:15:13+08:00",
       "taiwanSportsLottery": {
         "source": "Taiwan Sports Lottery",
         "status": "ok",
@@ -619,7 +619,7 @@
     "mex-eng": {
       "title": "墨西哥 vs 英格蘭",
       "kickoff": "2026-07-06T08:00:00+08:00",
-      "lastScoreCheck": "2026-07-07T04:52:48+08:00",
+      "lastScoreCheck": "2026-07-07T05:15:13+08:00",
       "espnStatus": "FT",
       "espnState": "post",
       "completed": true,
@@ -878,7 +878,7 @@
           "red": 1
         }
       },
-      "liveDataUpdatedAt": "2026-07-07T04:52:48+08:00",
+      "liveDataUpdatedAt": "2026-07-07T05:15:13+08:00",
       "taiwanSportsLottery": {
         "source": "Taiwan Sports Lottery",
         "status": "error",
@@ -894,20 +894,16 @@
     "por-esp": {
       "title": "葡萄牙 vs 西班牙",
       "kickoff": "2026-07-07T03:00:00+08:00",
-      "lastScoreCheck": "2026-07-07T04:52:48+08:00",
-      "espnStatus": "90'",
-      "espnState": "in",
-      "completed": false,
-      "scoreDisplay": "POR 0 ESP 0",
-      "espnOdds": {
-        "moneyline": "主 +290 / 客 -105 / 和 +255",
-        "spread": "主 +0.5 -120 / 客 -0.5 -105",
-        "total": "大 o2.5 -130 / 小 u2.5 +105"
-      },
-      "status": "live",
+      "lastScoreCheck": "2026-07-07T05:15:13+08:00",
+      "espnStatus": "FT",
+      "espnState": "post",
+      "completed": true,
+      "scoreDisplay": "POR 0 ESP 1",
+      "espnOdds": {},
+      "status": "finished",
       "lastOddsUpdate": "2026-07-06T08:35:18+08:00",
       "lastPrematchOddsUpdate": "2026-07-06T08:35:18+08:00",
-      "clock": "90'",
+      "clock": "",
       "liveEvents": [
         {
           "time": "89'",
@@ -915,6 +911,45 @@
           "type": "黃牌",
           "rawType": "Yellow Card",
           "player": "Bernardo Silva",
+          "scoringPlay": false,
+          "yellowCard": true,
+          "redCard": false,
+          "penaltyKick": false,
+          "ownGoal": false,
+          "shootout": false
+        },
+        {
+          "time": "90'+1'",
+          "team": "ESP",
+          "type": "進球",
+          "rawType": "Goal",
+          "player": "Mikel Merino",
+          "scoringPlay": true,
+          "yellowCard": false,
+          "redCard": false,
+          "penaltyKick": false,
+          "ownGoal": false,
+          "shootout": false
+        },
+        {
+          "time": "90'+4'",
+          "team": "POR",
+          "type": "黃牌",
+          "rawType": "Yellow Card",
+          "player": "Renato Veiga",
+          "scoringPlay": false,
+          "yellowCard": true,
+          "redCard": false,
+          "penaltyKick": false,
+          "ownGoal": false,
+          "shootout": false
+        },
+        {
+          "time": "90'+8'",
+          "team": "ESP",
+          "type": "黃牌",
+          "rawType": "Yellow Card",
+          "player": "Ferran Torres",
           "scoringPlay": false,
           "yellowCard": true,
           "redCard": false,
@@ -933,8 +968,8 @@
             "name": "totalShots",
             "label": "射門",
             "values": {
-              "POR": "8",
-              "ESP": "14"
+              "POR": "10",
+              "ESP": "15"
             }
           },
           {
@@ -942,31 +977,31 @@
             "label": "射正",
             "values": {
               "POR": "2",
-              "ESP": "5"
+              "ESP": "6"
             }
           },
           {
             "name": "possessionPct",
             "label": "控球",
             "values": {
-              "POR": "42.3%",
-              "ESP": "57.5%"
+              "POR": "44.5%",
+              "ESP": "55.5%"
             }
           },
           {
             "name": "foulsCommitted",
             "label": "犯規",
             "values": {
-              "POR": "7",
-              "ESP": "12"
+              "POR": "9",
+              "ESP": "13"
             }
           },
           {
             "name": "yellowCards",
             "label": "黃牌",
             "values": {
-              "POR": "1",
-              "ESP": "0"
+              "POR": "2",
+              "ESP": "1"
             }
           },
           {
@@ -1006,15 +1041,15 @@
       },
       "cardCounts": {
         "POR": {
-          "yellow": 1,
+          "yellow": 2,
           "red": 0
         },
         "ESP": {
-          "yellow": 0,
+          "yellow": 1,
           "red": 0
         }
       },
-      "liveDataUpdatedAt": "2026-07-07T04:52:48+08:00",
+      "liveDataUpdatedAt": "2026-07-07T05:15:13+08:00",
       "taiwanSportsLottery": {
         "source": "Taiwan Sports Lottery",
         "status": "error",
@@ -1022,12 +1057,15 @@
         "dataUrl": "https://blob3rd.sportslottery.com.tw/apidata/Pre/WC-Games.en.json",
         "updatedAt": "2026-07-07T04:52:48+08:00",
         "error": "HTTP Error 403: Forbidden"
-      }
+      },
+      "winner": "ESP",
+      "resultSummary": "完賽 POR 0 ESP 1，勝方/晉級方：ESP。總進球 1，小 2.5、小 3.5，BTTS No。90 分鐘勝負與讓球若涉及延長/PK，仍需以 Binance 結算規則核對。",
+      "finishedAt": "2026-07-07T05:15:13+08:00"
     },
     "usa-bel": {
       "title": "美國 vs 比利時",
       "kickoff": "2026-07-07T08:00:00+08:00",
-      "lastScoreCheck": "2026-07-07T04:52:48+08:00",
+      "lastScoreCheck": "2026-07-07T05:15:13+08:00",
       "espnStatus": "Scheduled",
       "espnState": "pre",
       "completed": false,
@@ -1035,7 +1073,7 @@
       "espnOdds": {
         "moneyline": "主 +155 / 客 +175 / 和 +240",
         "spread": "主 -0.5 +145 / 客 +0.5 -185",
-        "total": "大 o2.5 -155 / 小 u2.5 +125"
+        "total": "大 o2.5 -150 / 小 u2.5 +120"
       },
       "status": "prematch",
       "lastOddsUpdate": "2026-07-06T08:35:18+08:00",
@@ -1060,20 +1098,20 @@
           "red": 0
         }
       },
-      "liveDataUpdatedAt": "2026-07-07T04:52:48+08:00",
+      "liveDataUpdatedAt": "2026-07-07T05:15:13+08:00",
       "taiwanSportsLottery": {
         "source": "Taiwan Sports Lottery",
         "status": "error",
         "url": "https://www.sportslottery.com.tw/sportsbook/world-cup",
         "dataUrl": "https://blob3rd.sportslottery.com.tw/apidata/Pre/WC-Games.en.json",
-        "updatedAt": "2026-07-07T04:52:48+08:00",
+        "updatedAt": "2026-07-07T05:15:14+08:00",
         "error": "HTTP Error 403: Forbidden"
       }
     },
     "arg-egy": {
       "title": "阿根廷 vs 埃及",
       "kickoff": "2026-07-08T00:00:00+08:00",
-      "lastScoreCheck": "2026-07-07T04:52:48+08:00",
+      "lastScoreCheck": "2026-07-07T05:15:13+08:00",
       "espnStatus": "Scheduled",
       "espnState": "pre",
       "completed": false,
@@ -1106,20 +1144,20 @@
           "red": 0
         }
       },
-      "liveDataUpdatedAt": "2026-07-07T04:52:48+08:00",
+      "liveDataUpdatedAt": "2026-07-07T05:15:13+08:00",
       "taiwanSportsLottery": {
         "source": "Taiwan Sports Lottery",
         "status": "error",
         "url": "https://www.sportslottery.com.tw/sportsbook/world-cup",
         "dataUrl": "https://blob3rd.sportslottery.com.tw/apidata/Pre/WC-Games.en.json",
-        "updatedAt": "2026-07-07T04:52:48+08:00",
+        "updatedAt": "2026-07-07T05:15:14+08:00",
         "error": "HTTP Error 403: Forbidden"
       }
     },
     "sui-col": {
       "title": "瑞士 vs 哥倫比亞",
       "kickoff": "2026-07-08T04:00:00+08:00",
-      "lastScoreCheck": "2026-07-07T04:52:48+08:00",
+      "lastScoreCheck": "2026-07-07T05:15:13+08:00",
       "espnStatus": "Scheduled",
       "espnState": "pre",
       "completed": false,
@@ -1152,13 +1190,13 @@
           "red": 0
         }
       },
-      "liveDataUpdatedAt": "2026-07-07T04:52:48+08:00",
+      "liveDataUpdatedAt": "2026-07-07T05:15:13+08:00",
       "taiwanSportsLottery": {
         "source": "Taiwan Sports Lottery",
         "status": "error",
         "url": "https://www.sportslottery.com.tw/sportsbook/world-cup",
         "dataUrl": "https://blob3rd.sportslottery.com.tw/apidata/Pre/WC-Games.en.json",
-        "updatedAt": "2026-07-07T04:52:48+08:00",
+        "updatedAt": "2026-07-07T05:15:14+08:00",
         "error": "HTTP Error 403: Forbidden"
       }
     }
