@@ -496,7 +496,7 @@ def update_from_espn(state):
         event = events.get(match["espn_id"])
         if not event:
             item["lastScoreCheck"] = checked_at
-            item["espnStatus"] = "ESPN 尚未回傳賽事"
+            item["espnFetchError"] = "ESPN scoreboard did not return this event on the latest poll."
             continue
 
         competition = (event.get("competitions") or [{}])[0]
@@ -524,6 +524,7 @@ def update_from_espn(state):
         item["liveStats"] = live_stats
         item["cardCounts"] = card_counts(live_events, order)
         item["liveDataUpdatedAt"] = checked_at
+        item.pop("espnFetchError", None)
 
         if item["completed"]:
             item["status"] = "finished"
