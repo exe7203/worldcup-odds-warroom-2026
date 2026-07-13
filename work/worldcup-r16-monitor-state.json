@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-07-13T14:19:57+08:00",
+  "updatedAt": "2026-07-13T17:54:37+08:00",
   "matches": {
     "can-mar": {
       "title": "加拿大 vs 摩洛哥",
       "kickoff": "2026-07-05T01:00:00+08:00",
-      "lastScoreCheck": "2026-07-13T14:19:57+08:00",
+      "lastScoreCheck": "2026-07-13T17:54:37+08:00",
       "espnStatus": "FT",
       "espnState": "post",
       "completed": true,
@@ -250,7 +250,7 @@
           "red": 0
         }
       },
-      "liveDataUpdatedAt": "2026-07-13T14:19:57+08:00",
+      "liveDataUpdatedAt": "2026-07-13T17:54:37+08:00",
       "taiwanSportsLottery": {
         "source": "Taiwan Sports Lottery",
         "status": "missing",
@@ -267,7 +267,7 @@
     "par-fra": {
       "title": "巴拉圭 vs 法國",
       "kickoff": "2026-07-05T05:00:00+08:00",
-      "lastScoreCheck": "2026-07-13T14:19:57+08:00",
+      "lastScoreCheck": "2026-07-13T17:54:37+08:00",
       "espnStatus": "FT",
       "espnState": "post",
       "completed": true,
@@ -422,7 +422,7 @@
           "red": 0
         }
       },
-      "liveDataUpdatedAt": "2026-07-13T14:19:57+08:00",
+      "liveDataUpdatedAt": "2026-07-13T17:54:37+08:00",
       "taiwanSportsLottery": {
         "source": "Taiwan Sports Lottery",
         "status": "missing",
@@ -439,7 +439,7 @@
     "bra-nor": {
       "title": "巴西 vs 挪威",
       "kickoff": "2026-07-06T04:00:00+08:00",
-      "lastScoreCheck": "2026-07-13T14:19:57+08:00",
+      "lastScoreCheck": "2026-07-13T17:54:37+08:00",
       "espnStatus": "FT",
       "espnState": "post",
       "completed": true,
@@ -594,7 +594,7 @@
           "red": 0
         }
       },
-      "liveDataUpdatedAt": "2026-07-13T14:19:57+08:00",
+      "liveDataUpdatedAt": "2026-07-13T17:54:37+08:00",
       "taiwanSportsLottery": {
         "source": "Taiwan Sports Lottery",
         "status": "ok",
@@ -619,7 +619,7 @@
     "mex-eng": {
       "title": "墨西哥 vs 英格蘭",
       "kickoff": "2026-07-06T08:00:00+08:00",
-      "lastScoreCheck": "2026-07-13T14:19:57+08:00",
+      "lastScoreCheck": "2026-07-13T17:54:37+08:00",
       "espnStatus": "FT",
       "espnState": "post",
       "completed": true,
@@ -878,7 +878,7 @@
           "red": 1
         }
       },
-      "liveDataUpdatedAt": "2026-07-13T14:19:57+08:00",
+      "liveDataUpdatedAt": "2026-07-13T17:54:37+08:00",
       "taiwanSportsLottery": {
         "source": "Taiwan Sports Lottery",
         "status": "error",
@@ -894,7 +894,7 @@
     "por-esp": {
       "title": "葡萄牙 vs 西班牙",
       "kickoff": "2026-07-07T03:00:00+08:00",
-      "lastScoreCheck": "2026-07-13T14:19:57+08:00",
+      "lastScoreCheck": "2026-07-13T17:54:37+08:00",
       "espnStatus": "FT",
       "espnState": "post",
       "completed": true,
@@ -1049,7 +1049,7 @@
           "red": 0
         }
       },
-      "liveDataUpdatedAt": "2026-07-13T14:19:57+08:00",
+      "liveDataUpdatedAt": "2026-07-13T17:54:37+08:00",
       "taiwanSportsLottery": {
         "source": "Taiwan Sports Lottery",
         "status": "error",
@@ -1065,7 +1065,7 @@
     "usa-bel": {
       "title": "美國 vs 比利時",
       "kickoff": "2026-07-07T08:00:00+08:00",
-      "lastScoreCheck": "2026-07-13T14:19:57+08:00",
+      "lastScoreCheck": "2026-07-13T17:54:37+08:00",
       "espnStatus": "FT",
       "espnState": "post",
       "completed": true,
@@ -1259,7 +1259,7 @@
           "red": 0
         }
       },
-      "liveDataUpdatedAt": "2026-07-13T14:19:57+08:00",
+      "liveDataUpdatedAt": "2026-07-13T17:54:37+08:00",
       "taiwanSportsLottery": {
         "source": "Taiwan Sports Lottery",
         "status": "error",
@@ -1275,7 +1275,7 @@
     "arg-egy": {
       "title": "阿根廷 vs 埃及",
       "kickoff": "2026-07-08T00:00:00+08:00",
-      "lastScoreCheck": "2026-07-13T14:19:57+08:00",
+      "lastScoreCheck": "2026-07-13T17:54:37+08:00",
       "espnStatus": "FT",
       "espnState": "post",
       "completed": true,
@@ -1508,7 +1508,7 @@
           "red": 0
         }
       },
-      "liveDataUpdatedAt": "2026-07-13T14:19:57+08:00",
+      "liveDataUpdatedAt": "2026-07-13T17:54:37+08:00",
       "taiwanSportsLottery": {
         "source": "Taiwan Sports Lottery",
         "status": "error",
@@ -1524,7 +1524,7 @@
     "sui-col": {
       "title": "瑞士 vs 哥倫比亞",
       "kickoff": "2026-07-08T04:00:00+08:00",
-      "lastScoreCheck": "2026-07-13T14:19:57+08:00",
+      "lastScoreCheck": "2026-07-13T17:54:37+08:00",
       "espnStatus": "FT-Pens",
       "espnState": "post",
       "completed": true,
@@ -1783,7 +1783,7 @@
           "red": 0
         }
       },
-      "liveDataUpdatedAt": "2026-07-13T14:19:57+08:00",
+      "liveDataUpdatedAt": "2026-07-13T17:54:37+08:00",
       "taiwanSportsLottery": {
         "source": "Taiwan Sports Lottery",
         "status": "error",
